@@ -1,0 +1,12 @@
+{
+  "schema": "complete-expression-index-report/1",
+  "runtimeMotionImports": 0,
+  "added": 44,
+  "merged": 0,
+  "skipped": 0,
+  "conflicting": 0,
+  "pendingReview": 44,
+  "externalRecordings": 8,
+  "indexSHA256": "1eb62f6226dba180568df3c6154e43594e3def9c2b470c035521486317f9f38e",
+  "baselineSHA256": null
+}

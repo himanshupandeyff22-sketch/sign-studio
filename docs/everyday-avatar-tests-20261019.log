@@ -1,0 +1,12 @@
+✔ bundled human model has licensed provenance and a complete articulated rig (2.3922ms)
+✔ research motion requests cancel, report missing assets and retry without poisoned cache (21.539ms)
+✔ research motion transfer accepts the largest pinned recording and bounds declared and streamed bytes (61.418ms)
+✔ queued human playback frames face, both hands and fingertips on desktop/mobile and cleans up (181267.5962ms)
+ℹ tests 4
+ℹ suites 0
+ℹ pass 4
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 181560.0554

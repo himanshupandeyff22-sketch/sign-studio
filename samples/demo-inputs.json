@@ -1,0 +1,160 @@
+{
+  "description": "Synthetic demonstration fixtures, not a training dataset or linguistic approval. Expected motion IDs describe technical routing only.",
+  "cases": [
+    {
+      "id": "request-water",
+      "request": {
+        "language": "en",
+        "vocabularyMode": "research",
+        "researchPreviewConsent": true,
+        "sentenceMode": true,
+        "text": "You want water."
+      },
+      "expected": {
+        "status": "approximate",
+        "motionIds": [
+          "3dlex-you",
+          "3dlex-want",
+          "3dlex-water"
+        ],
+        "completeTranslation": false
+      }
+    },
+    {
+      "id": "polite-request",
+      "request": {
+        "language": "en",
+        "vocabularyMode": "research",
+        "researchPreviewConsent": true,
+        "sentenceMode": true,
+        "text": "Please drink water."
+      },
+      "expected": {
+        "status": "approximate",
+        "motionIds": [
+          "3dlex-please",
+          "3dlex-drink",
+          "3dlex-water"
+        ],
+        "completeTranslation": false
+      }
+    },
+    {
+      "id": "inflection",
+      "request": {
+        "language": "en",
+        "vocabularyMode": "research",
+        "researchPreviewConsent": true,
+        "sentenceMode": true,
+        "text": "Your teacher works today."
+      },
+      "expected": {
+        "status": "approximate",
+        "motionIds": [
+          "3dlex-your",
+          "3dlex-teacher",
+          "3dlex-work",
+          "3dlex-today"
+        ],
+        "completeTranslation": false
+      }
+    },
+    {
+      "id": "wh-question",
+      "request": {
+        "language": "en",
+        "vocabularyMode": "research",
+        "researchPreviewConsent": true,
+        "sentenceMode": true,
+        "text": "Where is school?"
+      },
+      "expected": {
+        "status": "approximate",
+        "motionIds": [
+          "3dlex-where",
+          "3dlex-school"
+        ],
+        "completeTranslation": false
+      }
+    },
+    {
+      "id": "capitalization",
+      "request": {
+        "language": "en",
+        "vocabularyMode": "research",
+        "researchPreviewConsent": true,
+        "sentenceMode": true,
+        "text": "YOU want WATER!"
+      },
+      "expected": {
+        "status": "approximate",
+        "motionIds": [
+          "3dlex-you",
+          "3dlex-want",
+          "3dlex-water"
+        ],
+        "completeTranslation": false
+      }
+    },
+    {
+      "id": "negation-held",
+      "request": {
+        "language": "en",
+        "vocabularyMode": "research",
+        "researchPreviewConsent": true,
+        "sentenceMode": true,
+        "text": "I don't need help."
+      },
+      "expected": {
+        "status": "blocked",
+        "motionIds": [],
+        "completeTranslation": false
+      }
+    },
+    {
+      "id": "missing-essential",
+      "request": {
+        "language": "en",
+        "vocabularyMode": "research",
+        "researchPreviewConsent": true,
+        "sentenceMode": true,
+        "text": "You want qzxunknown."
+      },
+      "expected": {
+        "status": "blocked",
+        "motionIds": [],
+        "completeTranslation": false
+      }
+    },
+    {
+      "id": "polar-question-held",
+      "request": {
+        "language": "en",
+        "vocabularyMode": "research",
+        "researchPreviewConsent": true,
+        "sentenceMode": true,
+        "text": "You want water?"
+      },
+      "expected": {
+        "status": "blocked",
+        "motionIds": [],
+        "completeTranslation": false
+      }
+    },
+    {
+      "id": "validated-default",
+      "request": {
+        "language": "en",
+        "vocabularyMode": "validated",
+        "researchPreviewConsent": false,
+        "sentenceMode": true,
+        "text": "You want water."
+      },
+      "expected": {
+        "status": "blocked",
+        "motionIds": [],
+        "completeTranslation": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "schema": "tested-studio-build/1",
+  "savedAt": "2026-10-19T01:14:44.625522+05:30",
+  "team": "Beyond Words",
+  "avatar": "Aarav",
+  "signLanguage": "ASL",
+  "readyFor": "Local research-motion inspection and existing opt-in demonstration",
+  "linguisticallyValidated": false,
+  "tests": {
+    "previousVocabularySuitePassed": 97,
+    "fullSuiteRerunForSpacing": false,
+    "static": "passed: 64 JS files, 216 UI IDs, 237 unchanged motions",
+    "browser": "desktop 1538/1365, tablet 900, mobile 390; expanded settings, gap, keyboard playback, fullscreen, reset, review link and input tabs checked; no console errors",
+    "bannerCopy": "Static check and desktop/mobile visual inspection passed",
+    "fullSuiteRerunForSave": false
+  },
+  "counts": {
+    "registeredFiles": 237,
+    "onDiskFiles": 237,
+    "uniqueRegisteredFiles": 237,
+    "technicallyPlayable": 237,
+    "aaravCompatible": 237,
+    "candidateConcepts": 297,
+    "uniqueMotionConcepts": 236,
+    "inspectionOnlyAssets": 233,
+    "catalogueEntries": 938,
+    "catalogueNotImported": 701,
+    "textMappedConcepts": 4,
+    "textLinkedPreviews": 4,
+    "completeAvatarSentences": 0,
+    "sourceVideoReferences": 8,
+    "browserCheckedSourceVideos": 1,
+    "localSentenceVideos": 0,
+    "approvedSigns": 0
+  },
+  "checkpoint": "C:\\Users\\himan\\OneDrive\\Desktop\\Sing Lang\\.checkpoints\\saved-sign-studio-20261019-011444",
+  "report": "docs/VOCABULARY_BATCH_20261019.md",
+  "files": [
+    {
+      "path": "web/index.html",
+      "sha256": "6b07494d8d0e4771d7a236bf5aa4b6ce64c2b1fb14a6009b2162adfb4a1e98d7"
+    },
+    {
+      "path": "web/app.js",
+      "sha256": "e739dd2acdce42a09cc74d8661d2165de8f0582df8f9860d3fc6d87bb4949325"
+    },
+    {
+      "path": "web/avatar.js",
+      "sha256": "b561966d45962afb5402c923edd2261af8092c43132a3fa5c95d5dd29ef35fc8"
+    },
+    {
+      "path": "web/asl-loader.js",
+      "sha256": "1d7d405608443719cf2876173837be13a1ac672c9a62a1bdfeb9990e97a7dd71"
+    },
+    {
+      "path": "web/vocabulary.mjs",
+      "sha256": "49bf16833f045c31dd301e38efd3196d55cac05f304179af543a05105d428428"
+    },
+    {
+      "path": "web/library-model.mjs",
+      "sha256": "ccecf71dc4cb7b3ef7a12affbab27d2528e2fb0a05509ea54b46f1283be93133"
+    },
+    {
+      "path": "web/final-studio.css",
+      "sha256": "ee71fee2a469dd92311c92eaac27e46aff01748df7381ea44d5dcae03a017994"
+    },
+    {
+      "path": "web/vocabulary-manifest.json",
+      "sha256": "179d63438568a801523333336faf51393af37b96cefdaa0f8106482a9abc32a5"
+    },
+    {
+      "path": "backend/readiness.mjs",
+      "sha256": "bae9557e5bd17ed12a09aee0dab67239d451e3bdaf217d59956c345bbbecf75f"
+    },
+    {
+      "path": "start-studio.cmd",
+      "sha256": "e6a26e02900d68b9e425ba49a6851742ad53669c779569cdfde74b0340854fa5"
+    },
+    {
+      "path": "docs/STUDIO_ASSET_AUDIT.json",
+      "sha256": "f595c871560ac10d57440caf2803475182acc16bc7947adf2898d04bde9b939b"
+    },
+    {
+      "path": "docs/EVERYDAY_BATCH_EVIDENCE_20261019.json",
+      "sha256": "23833e92934730fc60bcf6d02f701741670ff93dd3772370097caf5e47da3a1b"
+    },
+    {
+      "path": "docs/everyday-tests-20261019.log",
+      "sha256": "ccb72541fd1951173b14d624abd35dcdfd6968ea67081530305b92a91470ddc0"
+    },
+    {
+      "path": "docs/everyday-avatar-tests-20261019.log",
+      "sha256": "9aa490fbc3da91c073eec214f32d21d7ab7af9fc0f454ad77ed7dd9c5f381acd"
+    },
+    {
+      "path": "docs/STUDIO_SPACING_20261019.md",
+      "sha256": "8fa81dd1ec503574f0799a6f52b054e07cf58519e8da8c2f20b7a12cb87720a4"
+    }
+  ],
+  "change": "Coverage below Aarav, independent of composer height; mobile ordering preserved",
+  "previousCheckpoint": "C:\\Users\\himan\\OneDrive\\Desktop\\Sing Lang\\.checkpoints\\tested-studio-spacing-20261019-010159",
+  "checkpointType": "Full project archive with consistent SQLite; installed dependencies and private source cache excluded",
+  "latestChanges": [
+    "Coverage directly below Aarav on desktop; responsive mobile order preserved",
+    "Beyond Words. Connect through ASL. banner and supplied description/prototype notice"
+  ]
+}

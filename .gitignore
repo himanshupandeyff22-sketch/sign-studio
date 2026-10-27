@@ -1,0 +1,20 @@
+node_modules/
+__pycache__/
+.venv/
+data/
+test-output/
+asset-downloads/
+
+# Local secrets and temporary API sessions
+.env
+.env.*
+!.env.example
+cookies.txt
+
+# Local generated exports and checkpoint archives
+checkpoints/
+presentation-final/
+presentation-digital-inclusion/
+*.zip
+*.sqlite*
+.avatar-153-test.log

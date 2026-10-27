@@ -1,0 +1,19 @@
+✔ API supports sessions, preferences, translations, history, export and input protection (805.0119ms)
+✔ API queues 500-word multi-sentence input, persists all text, and permits repeated submissions (487.5606ms)
+✔ API excludes unreviewed motions by default and requires explicit research meanings (251.8409ms)
+✔ an unrecognized session cookie can be replaced and an existing session resumes (226.109ms)
+✔ API restores complete vocabulary coverage and preferences after a backend restart (525.739ms)
+✔ Select all shown preserves queue order, deduplicates and only removes the shown subset (6.6111ms)
+✔ bulk selection is atomic at the existing 100-motion limit (1.355ms)
+✔ sentence options preserve source language, separate media types and retain exact provenance (12.2883ms)
+✔ whole-expression requests never fall back to isolated words in any vocabulary mode (81.414ms)
+✔ five-expression kit reuses canonical concepts and templates without enabling candidates (79.549ms)
+✔ staged candidates have pinned provenance, intact hashes, distinct numeric payloads and matching meanings (23.6197ms)
+ℹ tests 11
+ℹ suites 0
+ℹ pass 11
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 2741.5897

@@ -1,0 +1,376 @@
+{
+  "schema": "asl-import-report/1",
+  "batchId": "everyday-asl-20261019",
+  "before": {
+    "concepts": 297,
+    "aliases": 532,
+    "animations": 237,
+    "reviewedEnabledSigns": 0
+  },
+  "after": {
+    "concepts": 297,
+    "aliases": 532,
+    "animations": 237,
+    "reviewedEnabledSigns": 0
+  },
+  "conceptChanges": {
+    "added": [],
+    "skipped": [
+      "asl.introduce.introducing-person",
+      "asl.my.speaker-possessive",
+      "asl.your.addressee-possessive",
+      "asl.meet.encounter-person",
+      "asl.age.age-concept",
+      "asl.can.ability",
+      "asl.enough.sufficient-quantity",
+      "asl.boss.workplace-supervisor",
+      "asl.counselor.advising-person",
+      "asl.chocolate.cocoa-food",
+      "asl.pepper.pepper-seasoning",
+      "asl.toast.toasted-bread",
+      "asl.first.first-in-order",
+      "asl.next.next-in-sequence",
+      "asl.future.future-time",
+      "asl.here.nearby-location",
+      "asl.office.workplace-room",
+      "asl.room.enclosed-room",
+      "asl.inside.interior-location",
+      "asl.near.near-distance",
+      "asl.far.far-distance",
+      "asl.down.downward-direction",
+      "asl.open.open-object",
+      "asl.give.transfer-to-person",
+      "asl.take.take-object",
+      "asl.use.use-object",
+      "asl.enter.movement-into",
+      "asl.leave.departure",
+      "asl.start.begin-action"
+    ],
+    "conflicting": []
+  },
+  "metadataChanges": {
+    "added": [],
+    "skipped": [],
+    "conflicting": []
+  },
+  "discoveryChanges": {
+    "added": 0,
+    "skipped": 0,
+    "conflicting": []
+  },
+  "counts": {
+    "added": 0,
+    "merged": 0,
+    "skipped": 30,
+    "conflicting": 0,
+    "rejected": 0,
+    "pending-review": 0
+  },
+  "pendingReview": [],
+  "rows": [
+    {
+      "id": "3dlex-introduce",
+      "conceptId": "asl.introduce.introducing-person",
+      "sense": "introducing-person",
+      "sourcePath": "asset-downloads/everyday-batch-20261019/introduce.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "47bb31c13abc5a00504d4d37b6ccdbd10c7f09a74f38a24d39c7338029aead17",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/introduce.glb"
+    },
+    {
+      "id": "3dlex-my",
+      "conceptId": "asl.my.speaker-possessive",
+      "sense": "speaker-possessive",
+      "sourcePath": "asset-downloads/everyday-batch-20261019/my.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "fafcc9733c1c1c8a480cd2f351bb9d229f09002829b7a8e762ea329b2fce881f",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/my.glb"
+    },
+    {
+      "id": "3dlex-your",
+      "conceptId": "asl.your.addressee-possessive",
+      "sense": "addressee-possessive",
+      "sourcePath": "asset-downloads/everyday-batch-20261019/your.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "aa3c0eb97f42bcb3029ad8c96731d822769f201b7335bc8c01aed86d02e47615",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/your.glb"
+    },
+    {
+      "id": "3dlex-meet",
+      "conceptId": "asl.meet.encounter-person",
+      "sense": "encounter-person",
+      "sourcePath": "asset-downloads/everyday-batch-20261019/meet.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "4fd8fcae30856bdece65cc1abe84895acbe81040ef717abbb0ca618c3e977029",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/meet.glb"
+    },
+    {
+      "id": "3dlex-age",
+      "conceptId": "asl.age.age-concept",
+      "sense": "age-concept",
+      "sourcePath": "asset-downloads/everyday-batch-20261019/age.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "c529208b790354596ec3427830b42b870e9ba754acb9a669ff7fca2eec70b144",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/age.glb"
+    },
+    {
+      "id": "3dlex-can",
+      "conceptId": "asl.can.ability",
+      "sense": "ability",
+      "sourcePath": "asset-downloads/everyday-batch-20261019/can.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "ac2279bcfba625475bc0428ae64eaabd8f5505c5db492623aff605d6e5623b3d",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/can.glb"
+    },
+    {
+      "id": "3dlex-enough",
+      "conceptId": "asl.enough.sufficient-quantity",
+      "sense": "sufficient-quantity",
+      "sourcePath": "asset-downloads/everyday-batch-20261019/enough.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "44d76b13bfb73f175cca5f3b5e3f4fdfdb0db58da2b736444a58fb6786ddaa7d",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/enough.glb"
+    },
+    {
+      "id": "3dlex-boss",
+      "conceptId": "asl.boss.workplace-supervisor",
+      "sense": "workplace-supervisor",
+      "sourcePath": "asset-downloads/everyday-batch-20261019/boss.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "e1741c55ddf03473abfab3bbce747b892003af901b1bcd5bd82f89ffb51da804",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/boss.glb"
+    },
+    {
+      "id": "3dlex-counselor",
+      "conceptId": "asl.counselor.advising-person",
+      "sense": "advising-person",
+      "sourcePath": "asset-downloads/everyday-batch-20261019/counselor.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "47ac0d18e1296d695c71df6130a279ba08e30862698af711aad0b2c3ede472fe",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/counselor.glb"
+    },
+    {
+      "id": "3dlex-chocolate",
+      "conceptId": "asl.chocolate.cocoa-food",
+      "sense": "cocoa-food",
+      "sourcePath": "asset-downloads/everyday-batch-20261019/chocolate.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "7d66e298010b717e76e05f3374d8b71898faeb5d3709a6ce2573261ce755267e",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/chocolate.glb"
+    },
+    {
+      "id": "3dlex-pepper",
+      "conceptId": "asl.pepper.pepper-seasoning",
+      "sense": "pepper-seasoning",
+      "sourcePath": "asset-downloads/everyday-batch-20261019/pepper.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "9313453a96336030b9025f3c523f442b0b15f1c3482f8386284587761377c3f5",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/pepper.glb"
+    },
+    {
+      "id": "3dlex-toast",
+      "conceptId": "asl.toast.toasted-bread",
+      "sense": "toasted-bread",
+      "sourcePath": "asset-downloads/everyday-batch-20261019/toast.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "d1908bdd9607056c9e41a3f8f0496d27d9853b75004e77a2b28ee88b89e89b38",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/toast.glb"
+    },
+    {
+      "id": "3dlex-now",
+      "conceptId": "asl.time.now",
+      "sense": "current-time",
+      "sourcePath": "asset-downloads/everyday-batch-20261019/now.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "dce6d578b616702fd189095f41adda535f480f1888fc05b4af364f7784b2f587",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/now.glb"
+    },
+    {
+      "id": "3dlex-first",
+      "conceptId": "asl.first.first-in-order",
+      "sense": "first-in-order",
+      "sourcePath": "asset-downloads/everyday-batch-20261019/first.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "0bed578b63c29cd3f13c739bc79a65cc856de56c04bf4d9508c9757e5fdcc509",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/first.glb"
+    },
+    {
+      "id": "3dlex-next",
+      "conceptId": "asl.next.next-in-sequence",
+      "sense": "next-in-sequence",
+      "sourcePath": "asset-downloads/everyday-batch-20261019/next.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "601476e6e5b6df1484d1b933b1a7f4ed7dc85fe31859354a9bbbbdc4c12a6191",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/next.glb"
+    },
+    {
+      "id": "3dlex-future",
+      "conceptId": "asl.future.future-time",
+      "sense": "future-time",
+      "sourcePath": "asset-downloads/everyday-batch-20261019/future.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "dcf4d26fb3d811f562802bee30f87a33bc3f91b4c780a7968e5ff909a2727d82",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/future.glb"
+    },
+    {
+      "id": "3dlex-here",
+      "conceptId": "asl.here.nearby-location",
+      "sense": "nearby-location",
+      "sourcePath": "asset-downloads/everyday-batch-20261019/here.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "917a748979614f035de48756159f1f67b90e693c9b3cb7ed2ccb8a09a439ea0a",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/here.glb"
+    },
+    {
+      "id": "3dlex-office",
+      "conceptId": "asl.office.workplace-room",
+      "sense": "workplace-room",
+      "sourcePath": "asset-downloads/everyday-batch-20261019/office.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "57b60dfce30a43904c20fd07b34d995fa24efe1e244fdcc8e019c9188a0562fd",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/office.glb"
+    },
+    {
+      "id": "3dlex-room",
+      "conceptId": "asl.room.enclosed-room",
+      "sense": "enclosed-room",
+      "sourcePath": "asset-downloads/everyday-batch-20261019/room.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "29641441e84f2fd591dd1acff34b2f4158573610e61eda56b52ee1e4cd2c7801",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/room.glb"
+    },
+    {
+      "id": "3dlex-inside",
+      "conceptId": "asl.inside.interior-location",
+      "sense": "interior-location",
+      "sourcePath": "asset-downloads/everyday-batch-20261019/inside.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "c09802458bef2cc12d80bd1463601dbe8a917836de2d85cfc1d7761c7a93c959",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/inside.glb"
+    },
+    {
+      "id": "3dlex-near",
+      "conceptId": "asl.near.near-distance",
+      "sense": "near-distance",
+      "sourcePath": "asset-downloads/everyday-batch-20261019/near.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "e615052379394cac4b69cea0e17f8cf483258fd94cde022b3e44142c5fe5f028",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/near.glb"
+    },
+    {
+      "id": "3dlex-far",
+      "conceptId": "asl.far.far-distance",
+      "sense": "far-distance",
+      "sourcePath": "asset-downloads/everyday-batch-20261019/far.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "356e2930e338f0d574ab0df30d202d7b4604cefb559a04defde55befe13379c6",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/far.glb"
+    },
+    {
+      "id": "3dlex-down",
+      "conceptId": "asl.down.downward-direction",
+      "sense": "downward-direction",
+      "sourcePath": "asset-downloads/everyday-batch-20261019/down.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "f2f9cf14f1370df0e982d15465fc681815bd6bd5adc50378cc6b41a927564458",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/down.glb"
+    },
+    {
+      "id": "3dlex-open",
+      "conceptId": "asl.open.open-object",
+      "sense": "open-object",
+      "sourcePath": "asset-downloads/everyday-batch-20261019/open.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "08cef2b4b071c73442b9c2cf4fc8fa52bd080befde750a90a81a67034e9cb434",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/open.glb"
+    },
+    {
+      "id": "3dlex-give",
+      "conceptId": "asl.give.transfer-to-person",
+      "sense": "transfer-to-person",
+      "sourcePath": "asset-downloads/everyday-batch-20261019/give.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "391a667394aac8059f6596e70195cd83c59de9a2b6f9fc701c992932747bd0ef",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/give.glb"
+    },
+    {
+      "id": "3dlex-take",
+      "conceptId": "asl.take.take-object",
+      "sense": "take-object",
+      "sourcePath": "asset-downloads/everyday-batch-20261019/take.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "a9cae60068c0dbd8742a6d27bf0899c0bf1990be5f33137816dcb968a299c65e",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/take.glb"
+    },
+    {
+      "id": "3dlex-use",
+      "conceptId": "asl.use.use-object",
+      "sense": "use-object",
+      "sourcePath": "asset-downloads/everyday-batch-20261019/use.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "c0f6d14a67750b423d77cbd1e9312bea428c08fcb2e57b94904e2448ae88300a",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/use.glb"
+    },
+    {
+      "id": "3dlex-enter",
+      "conceptId": "asl.enter.movement-into",
+      "sense": "movement-into",
+      "sourcePath": "asset-downloads/everyday-batch-20261019/enter.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "3d74c93f2aaf61edba20babb0674e83a7cb22d1642e4520a1f37ae4de433b167",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/enter.glb"
+    },
+    {
+      "id": "3dlex-leave",
+      "conceptId": "asl.leave.departure",
+      "sense": "departure",
+      "sourcePath": "asset-downloads/everyday-batch-20261019/leave.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "2334fca3f7a86e60edbcec04a2678dbd87eaed94b563c0be1954375cd2811da6",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/leave.glb"
+    },
+    {
+      "id": "3dlex-start",
+      "conceptId": "asl.start.begin-action",
+      "sense": "begin-action",
+      "sourcePath": "asset-downloads/everyday-batch-20261019/start.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "31a44674d475a69a1b2f68bf9bb98637352392b9f3b1900d8ecb4b401c6dca6a",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/start.glb"
+    }
+  ],
+  "dryRun": true,
+  "batchSHA256": "3f10dd041e58ecac63477996e1b108d72ffd4814752a8389a6711efa7c65c678",
+  "baselineManifestSHA256": "179d63438568a801523333336faf51393af37b96cefdaa0f8106482a9abc32a5",
+  "planFingerprint": "6f9b42a8dd48f7657e73e57fc48d41445ac8f15866d9601cb00b60f33f50c233"
+}

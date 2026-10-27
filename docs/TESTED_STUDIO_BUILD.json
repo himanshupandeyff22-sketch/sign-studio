@@ -1,0 +1,92 @@
+{
+  "schema": "tested-studio-build/1",
+  "savedAt": "2026-10-20T15:15:55.113106+05:30",
+  "team": "Beyond Words",
+  "avatar": "Aarav",
+  "signLanguage": "ASL",
+  "readyFor": "Local presentation of opt-in, unreviewed ASL motion research previews",
+  "linguisticallyValidated": false,
+  "counts": {
+    "expandedResearchTextConcepts": 725,
+    "expandedResearchTextMotions": 726,
+    "textUnavailableCaptures": 3,
+    "registeredFiles": 729,
+    "onDiskFiles": 729,
+    "uniqueRegisteredFiles": 729,
+    "technicallyPlayable": 729,
+    "aaravCompatible": 729,
+    "candidateConcepts": 789,
+    "uniqueMotionConcepts": 728,
+    "inspectionOnlyAssets": 725,
+    "catalogueEntries": 938,
+    "catalogueNotImported": 209,
+    "textMappedConcepts": 4,
+    "textLinkedPreviews": 4,
+    "completeAvatarSentences": 0,
+    "sourceVideoReferences": 8,
+    "browserCheckedSourceVideos": 1,
+    "localSentenceVideos": 0,
+    "approvedSigns": 0
+  },
+  "tests": {
+    "fullRegressionPassed": 112,
+    "fullRegressionFailedAfterRetry": 0,
+    "initialSandboxSocketFailures": 6,
+    "retryEvidence": "docs/stabilization-network-retry-20261020.log",
+    "countTestsPassed": 3,
+    "static": "71 JavaScript files, 238 UI IDs, 729 motion files passed",
+    "browser": "Exact CSS 1366x768 and 390x844; three demo queues completed; consent gate, pause/resume, replay, stop, speed, seek, repeated inputs, missing-negation gate, two-hand previews, fullscreen/reset, injected 503 retry recovered and completed; no main-page console errors",
+    "unverified": [
+      "physical microphone/camera",
+      "fluent ASL approval",
+      "every frame of all 520 sentence suggestions",
+      "sustained real-device performance"
+    ]
+  },
+  "examples": [
+    "You want water.",
+    "Please drink water.",
+    "Your teacher works today."
+  ],
+  "report": "docs/PRESENTATION_STABILIZATION_20261020.md",
+  "checkpoint": "C:\\Users\\himan\\OneDrive\\Desktop\\Sing Lang\\.checkpoints\\presentation-stable-20261020-tested",
+  "baseFullAssetCheckpoint": "C:\\Users\\himan\\OneDrive\\Desktop\\Sing Lang\\.checkpoints\\tested-continuous-expansion-20261019-134454\\project.zip",
+  "files": [
+    {
+      "path": "web/app.js",
+      "sha256": "9740e1f0071b5d0f88859288a7474723893928085fe5185dbdbe744babd4f9e1"
+    },
+    {
+      "path": "web/avatar.js",
+      "sha256": "6401dad2d48a2631b2a5086a4719da993fcb65b718581bb713036541294bace3"
+    },
+    {
+      "path": "web/index.html",
+      "sha256": "28785a9b7d6a93989e7f5f62bd10ec99828f4cd38ea5f64bc2e073fa6adb434b"
+    },
+    {
+      "path": "web/studio-layout.css",
+      "sha256": "b0d1f16a23face8e3c7ac4ffbd43acfed47d2645596aba599978965eefee5075"
+    },
+    {
+      "path": "backend/readiness.mjs",
+      "sha256": "33be393301f96aece956f22eca01e10915c63d9376bc0d0b1e92e476f8228b77"
+    },
+    {
+      "path": "backend/readiness.test.mjs",
+      "sha256": "c73d551cc499e659a5d8dcc6b65ebebf76fb39eaaa84b4a1e8b93d53fff9db09"
+    },
+    {
+      "path": "web/vocabulary-manifest.json",
+      "sha256": "cef40810277dd3fc728046368646f69905c7ab12dfb6fcea0ec057ae0c0f90c1"
+    },
+    {
+      "path": "docs/STUDIO_ASSET_AUDIT.json",
+      "sha256": "5b136b6eaf2bd4a65f2b22bd464c984e0ddfa8951d68dedd754a3c88f55716db"
+    },
+    {
+      "path": "start-studio.cmd",
+      "sha256": "e6a26e02900d68b9e425ba49a6851742ad53669c779569cdfde74b0340854fa5"
+    }
+  ]
+}

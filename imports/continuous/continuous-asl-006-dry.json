@@ -1,0 +1,407 @@
+{
+  "schema": "asl-import-report/1",
+  "batchId": "continuous-asl-006",
+  "before": {
+    "concepts": 497,
+    "aliases": 732,
+    "animations": 397,
+    "reviewedEnabledSigns": 0
+  },
+  "after": {
+    "concepts": 537,
+    "aliases": 772,
+    "animations": 397,
+    "reviewedEnabledSigns": 0
+  },
+  "conceptChanges": {
+    "added": [
+      "asl.gay.source-gloss-unverified",
+      "asl.generation.source-gloss-unverified",
+      "asl.get.source-gloss-unverified",
+      "asl.ghost.source-gloss-unverified",
+      "asl.gift.source-gloss-unverified",
+      "asl.gloves.source-gloss-unverified",
+      "asl.goal.source-gloss-unverified",
+      "asl.goat.source-gloss-unverified",
+      "asl.gone.source-gloss-unverified",
+      "asl.gossip.source-gloss-unverified",
+      "asl.government.source-gloss-unverified",
+      "asl.grass.source-gloss-unverified",
+      "asl.gray.source-gloss-unverified",
+      "asl.grow.source-gloss-unverified",
+      "asl.hair.source-gloss-unverified",
+      "asl.haircut.source-gloss-unverified",
+      "asl.hanukkah.source-gloss-unverified",
+      "asl.happen.source-gloss-unverified",
+      "asl.hawaii.source-gloss-unverified",
+      "asl.head.source-gloss-unverified",
+      "asl.heaven.source-gloss-unverified",
+      "asl.heavy.source-gloss-unverified",
+      "asl.helicopter.source-gloss-unverified",
+      "asl.helmet.source-gloss-unverified",
+      "asl.hide.source-gloss-unverified",
+      "asl.history.source-gloss-unverified",
+      "asl.hockey.source-gloss-unverified",
+      "asl.honest.source-gloss-unverified",
+      "asl.honor.source-gloss-unverified",
+      "asl.hope.source-gloss-unverified",
+      "asl.hunt.source-gloss-unverified",
+      "asl.hurricane.source-gloss-unverified",
+      "asl.hurry.source-gloss-unverified",
+      "asl.idea.source-gloss-unverified",
+      "asl.impact.source-gloss-unverified",
+      "asl.impossible.source-gloss-unverified",
+      "asl.improve.source-gloss-unverified",
+      "asl.in.source-gloss-unverified",
+      "asl.innocent.source-gloss-unverified",
+      "asl.insurance.source-gloss-unverified"
+    ],
+    "skipped": [],
+    "conflicting": []
+  },
+  "metadataChanges": {
+    "added": [],
+    "skipped": [],
+    "conflicting": []
+  },
+  "discoveryChanges": {
+    "added": 0,
+    "skipped": 0,
+    "conflicting": []
+  },
+  "counts": {
+    "added": 0,
+    "merged": 0,
+    "skipped": 0,
+    "conflicting": 0,
+    "rejected": 40,
+    "pending-review": 0
+  },
+  "pendingReview": [],
+  "rows": [
+    {
+      "id": "3dlex-gay",
+      "conceptId": "asl.gay.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/gay.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-generation",
+      "conceptId": "asl.generation.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/generation.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-get",
+      "conceptId": "asl.get.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/get.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-ghost",
+      "conceptId": "asl.ghost.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/ghost.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-gift",
+      "conceptId": "asl.gift.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/gift.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-gloves",
+      "conceptId": "asl.gloves.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/gloves.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-goal",
+      "conceptId": "asl.goal.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/goal.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-goat",
+      "conceptId": "asl.goat.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/goat.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-gone",
+      "conceptId": "asl.gone.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/gone.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-gossip",
+      "conceptId": "asl.gossip.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/gossip.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-government",
+      "conceptId": "asl.government.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/government.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-grass",
+      "conceptId": "asl.grass.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/grass.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-gray",
+      "conceptId": "asl.gray.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/gray.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-grow",
+      "conceptId": "asl.grow.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/grow.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-hair",
+      "conceptId": "asl.hair.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/hair.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-haircut",
+      "conceptId": "asl.haircut.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/haircut.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-hanukkah",
+      "conceptId": "asl.hanukkah.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/hanukkah.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-happen",
+      "conceptId": "asl.happen.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/happen.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-hawaii",
+      "conceptId": "asl.hawaii.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/hawaii.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-head",
+      "conceptId": "asl.head.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/head.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-heaven",
+      "conceptId": "asl.heaven.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/heaven.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-heavy",
+      "conceptId": "asl.heavy.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/heavy.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-helicopter",
+      "conceptId": "asl.helicopter.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/helicopter.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-helmet",
+      "conceptId": "asl.helmet.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/helmet.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-hide",
+      "conceptId": "asl.hide.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/hide.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-history",
+      "conceptId": "asl.history.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/history.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-hockey",
+      "conceptId": "asl.hockey.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/hockey.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-honest",
+      "conceptId": "asl.honest.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/honest.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-honor",
+      "conceptId": "asl.honor.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/honor.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-hope",
+      "conceptId": "asl.hope.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/hope.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-hunt",
+      "conceptId": "asl.hunt.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/hunt.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-hurricane",
+      "conceptId": "asl.hurricane.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/hurricane.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-hurry",
+      "conceptId": "asl.hurry.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/hurry.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-idea",
+      "conceptId": "asl.idea.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/idea.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-impact",
+      "conceptId": "asl.impact.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/impact.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-impossible",
+      "conceptId": "asl.impossible.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/impossible.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-improve",
+      "conceptId": "asl.improve.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/improve.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-in",
+      "conceptId": "asl.in.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/in.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-innocent",
+      "conceptId": "asl.innocent.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/innocent.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    },
+    {
+      "id": "3dlex-insurance",
+      "conceptId": "asl.insurance.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/insurance.glb",
+      "status": "rejected",
+      "reason": "Same-language meaning reference is missing."
+    }
+  ],
+  "dryRun": true,
+  "batchSHA256": "6785792e541b3d0e9bb1a476425531f3d0f6be89583f62064454b1d5e91df9fc",
+  "baselineManifestSHA256": "b9f80d6db18a295eec275a4a1d6a8755a115a6f43ef2505707426ed070fdc6ed",
+  "planFingerprint": "3a28545a9bdd3ac6f01475686ed5429f9c392364a8737c0f04c4f9ec99c54a74"
+}

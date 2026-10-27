@@ -1,0 +1,33 @@
+✔ API supports sessions, preferences, translations, history, export and input protection (465.8134ms)
+✔ API queues 500-word multi-sentence input, persists all text, and permits repeated submissions (173.7859ms)
+✔ API excludes unreviewed motions by default and requires explicit research meanings (60.2922ms)
+✔ an unrecognized session cookie can be replaced and an existing session resumes (38.7741ms)
+✔ API restores complete vocabulary coverage and preferences after a backend restart (89.6289ms)
+✔ all first-visit research examples resolve to their intended recording and sense (107.2641ms)
+✔ unavailable, wrong-language and inspection-only recordings cannot become guided examples (2.0011ms)
+✔ guided examples cannot erase the meaning choice required for No and Love (4.1093ms)
+✔ microphone, manual speech and signing replace competing media without discarding the queue (2.0089ms)
+✔ media cleanup works during initialization and after a viewer is disposed (0.2209ms)
+✔ word matches never appear as complete translated phrases (12.2208ms)
+✔ inspection-only words, missing vocabulary and negation explain different blockers (1.71ms)
+✔ paragraph diagnostics preserve spans and every segment of a 500-word input (18.6227ms)
+✔ legacy phrase illustrations and camera/manual inspection cannot claim phrase approval (2.5434ms)
+✔ voice ranking prefers available natural English speech and respects other languages (3.0487ms)
+✔ speech chunking and playback preserve every character of at least 500 words (4.4598ms)
+✔ speech selection, pause/resume, stop, mute and repeated playback ignore stale events (0.4158ms)
+✔ late voices load, default-voice fallback, synthesis errors and unsupported browser have useful states (0.4567ms)
+✔ passive microphone cleanup preserves the start prompt, reviewed text and permission guidance (1.5019ms)
+✔ network errors without onend release the microphone and ignore late results after retry (0.9564ms)
+✔ microphone watchdogs recover from a provider that never starts or finishes (0.8128ms)
+✔ preferred microphone uses only an already installed local engine and otherwise falls back (1.2477ms)
+✔ a canceled, failed or stalled local-engine probe cannot start a stale microphone (0.5845ms)
+✔ microphone returns editable interim/final transcripts without truncating or auto-submitting (0.6981ms)
+✔ microphone handles permission denial, cancellation, restart and unsupported input (0.4845ms)
+ℹ tests 25
+ℹ suites 0
+ℹ pass 25
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1020.697

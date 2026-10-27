@@ -1,0 +1,128 @@
+{
+  "schema": "asl-import-report/1",
+  "batchId": "asl-concepts-20261012",
+  "before": {
+    "concepts": 23,
+    "aliases": 55,
+    "animations": 9,
+    "reviewedEnabledSigns": 0
+  },
+  "after": {
+    "concepts": 23,
+    "aliases": 55,
+    "animations": 9,
+    "reviewedEnabledSigns": 0
+  },
+  "counts": {
+    "added": 0,
+    "merged": 0,
+    "skipped": 6,
+    "conflicting": 1,
+    "rejected": 2,
+    "pending-review": 1
+  },
+  "pendingReview": [
+    "help out"
+  ],
+  "rows": [
+    {
+      "id": "3dlex-family",
+      "conceptId": "asl.family.relatives",
+      "sense": "relatives",
+      "sourcePath": "asset-downloads/concept-batch-20261012/family.glb",
+      "status": "skipped",
+      "reason": "Identical registered source/hash; canonical motion preserved.",
+      "sourceSHA256": "55e11404b844e08384d412dc86f8d827f419af520d8a1c14a72bb4f160c42243",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/family.glb"
+    },
+    {
+      "id": "3dlex-water",
+      "conceptId": "asl.water.liquid",
+      "sense": "liquid-water",
+      "sourcePath": "asset-downloads/concept-batch-20261012/water.glb",
+      "status": "skipped",
+      "reason": "Identical registered source/hash; canonical motion preserved.",
+      "sourceSHA256": "787d743048894bd645fdba6a4dc46257e2210c4e7a9a6b624b87e270209c8ad0",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/water.glb"
+    },
+    {
+      "id": "3dlex-remember",
+      "conceptId": "asl.remember.recall",
+      "sense": "recall",
+      "sourcePath": "asset-downloads/concept-batch-20261012/remember.glb",
+      "status": "skipped",
+      "reason": "Identical registered source/hash; canonical motion preserved.",
+      "sourceSHA256": "e526509f07cd22b9f43483ace78ef321c3750d44b23d0f395640f249cad1cc00",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/remember.glb"
+    },
+    {
+      "id": "3dlex-please",
+      "conceptId": "asl.please.courtesy",
+      "sense": "courtesy-request",
+      "sourcePath": "asset-downloads/concept-batch-20261012/please.glb",
+      "status": "skipped",
+      "reason": "Identical registered source/hash; canonical motion preserved.",
+      "sourceSHA256": "a204e8efc07890c0913b25390580f7962a946830872db1f4891d0296bf26acc0",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/please.glb"
+    },
+    {
+      "id": "3dlex-you",
+      "conceptId": "asl.person.second-person",
+      "sense": "addressee",
+      "sourcePath": "asset-downloads/concept-batch-20261012/you.glb",
+      "status": "skipped",
+      "reason": "Identical registered source/hash; canonical motion preserved.",
+      "sourceSHA256": "e6d82a6d051db4c875f9bc03bd9d19d770727f9f3b9771eccc67b2093d04fdfa",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/you.glb"
+    },
+    {
+      "id": "3dlex-friend",
+      "conceptId": "asl.friend.relationship",
+      "sense": "friendship",
+      "sourcePath": "asset-downloads/concept-batch-20261012/friend.glb",
+      "status": "rejected",
+      "reason": "No animation tracks; a static avatar is not a sign.",
+      "sourceSHA256": "73823dd3165d278f72d1d28f2a22a649bc5e20d405c2e1d358f17635ccb415e4",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/friend.glb"
+    },
+    {
+      "id": "3dlex-like",
+      "conceptId": "asl.like.enjoy",
+      "sense": "enjoy",
+      "sourcePath": "asset-downloads/concept-batch-20261012/like.glb",
+      "status": "conflicting",
+      "reason": "Identical payload carries distinct concept labels in this batch; nothing added.",
+      "sourceSHA256": "73823dd3165d278f72d1d28f2a22a649bc5e20d405c2e1d358f17635ccb415e4",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/like.glb"
+    },
+    {
+      "id": "3dlex-me",
+      "conceptId": "asl.person.first-person",
+      "sense": "speaker",
+      "sourcePath": "asset-downloads/concept-batch-20261012/me.glb",
+      "status": "rejected",
+      "reason": "No animation tracks; a static avatar is not a sign.",
+      "sourceSHA256": "ea9d4c6dd70fef93e014bcfb3f9c933fec4cacf03eb90c428c916774c9553724",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/me.glb"
+    },
+    {
+      "id": "3dlex-help",
+      "conceptId": "asl.help.assistance",
+      "sense": "assistance",
+      "sourcePath": "asset-downloads/asl-inspection/help.glb",
+      "status": "skipped",
+      "reason": "Identical registered source/hash; canonical motion preserved.",
+      "sourceSHA256": "61e7bb2177e3f2d3a50d610ce3da5fd68a29cffd4fff2e35fdd2058065ec7d20",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/help.glb"
+    },
+    {
+      "conceptId": "asl.help.assistance",
+      "alias": "help out",
+      "status": "pending-review",
+      "reason": "Alias equivalence lacks an existing identified ASL approval record."
+    }
+  ],
+  "dryRun": true,
+  "batchSHA256": "b12e62a9a5752ccc13cbb73267d1b23a9474cdf8e44f873bac3c79ce594f35f4",
+  "baselineManifestSHA256": "23c5872b4bf76eb6cce2e74484a37886394fd1997d38a33b339d63da010a1234"
+}

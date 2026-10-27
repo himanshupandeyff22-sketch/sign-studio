@@ -1,0 +1,33 @@
+node:internal/modules/run_main:107
+    triggerUncaughtException(
+    ^
+
+[TypeError: fetch failed] {
+  [cause]: AggregateError [EACCES]: 
+      at internalConnectMultiple (node:net:1339:18)
+      at afterConnectMultiple (node:net:1942:7) {
+    code: 'EACCES',
+    [errors]: [
+      Error: connect EACCES 64:ff9b::8150:e640:443
+          at createConnectionError (node:net:1905:14)
+          at afterConnectMultiple (node:net:1935:16) {
+        errno: -4092,
+        code: 'EACCES',
+        syscall: 'connect',
+        address: '64:ff9b::8150:e640',
+        port: 443
+      },
+      Error: connect EACCES 129.80.230.64:443
+          at createConnectionError (node:net:1905:14)
+          at afterConnectMultiple (node:net:1935:16) {
+        errno: -4092,
+        code: 'EACCES',
+        syscall: 'connect',
+        address: '129.80.230.64',
+        port: 443
+      }
+    ]
+  }
+}
+
+Node.js v24.19.0

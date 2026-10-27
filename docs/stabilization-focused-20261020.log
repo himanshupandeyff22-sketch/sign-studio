@@ -1,0 +1,23 @@
+✔ all first-visit research examples resolve to their intended recording and sense (7669.8419ms)
+✔ unavailable, wrong-language and inspection-only recordings cannot become guided examples (59.2908ms)
+✔ guided examples cannot erase the meaning choice required for No and Love (49.2114ms)
+✔ local demo eligibility requires current technical evidence and never grants linguistic approval (7764.4786ms)
+✔ only the browser-observed complete source recording is publicly eligible (46.0919ms)
+✔ expanded ideas have stable unique plans, useful categories, and explicit rejected-candidate accounting (10053.1481ms)
+✔ sentence examples resolve existing real motions without approving grammar or assets (3199.5974ms)
+✔ natural source order, punctuation, capitalization and explicit grammar notes are preserved (8.9406ms)
+✔ missing people, actions, negation and incomplete clauses hold the entire message (36.9915ms)
+✔ question intent is explicit; polar questions cannot turn into statements (23.8868ms)
+✔ narrow contraction/agreement normalization preserves source; tense/plural/ambiguous forms are held (39.1174ms)
+✔ multiword meaning wins over shorter signs and unreviewed synonyms do not bypass review (24.7925ms)
+✔ names/numbers remain explicit, no fingerspelling is invented, ambiguity remains interactive (67.5163ms)
+✔ sentence mode obeys approval/consent gates and rejects invalid modes without changing legacy paths (23.0158ms)
+✔ 500-word planning is repeatable, untruncated and positions remain tied to the original (221.316ms)
+ℹ tests 15
+ℹ suites 0
+ℹ pass 15
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 14090.4588

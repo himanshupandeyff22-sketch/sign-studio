@@ -1,0 +1,18 @@
+✔ Submission sample: request-water (2575.5249ms)
+✔ Submission sample: polite-request (10.1122ms)
+✔ Submission sample: inflection (6.1952ms)
+✔ Submission sample: wh-question (5.0515ms)
+✔ Submission sample: capitalization (5.2348ms)
+✔ Submission sample: negation-held (4.5678ms)
+✔ Submission sample: missing-essential (5.5533ms)
+✔ Submission sample: polar-question-held (2.913ms)
+✔ Submission sample: validated-default (2.7671ms)
+✔ Submission sample: 500-word input preserves all original text and produces 500 eligible clips (32.6386ms)
+ℹ tests 10
+ℹ suites 0
+ℹ pass 10
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 2911.3981

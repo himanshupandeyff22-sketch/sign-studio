@@ -1,0 +1,1100 @@
+{
+  "schema": "sign-studio-source-audit/1",
+  "checkedOn": "2026-10-16",
+  "signedLanguage": "ASL",
+  "scope": "Source and license/reference evidence only. No dataset or reference-page claim establishes fluent-signer approval.",
+  "sourceChecks": [
+    {
+      "name": "osf-asl-node",
+      "url": "https://api.osf.io/v2/nodes/mqzyk/",
+      "status": 200,
+      "finalURL": "https://api.osf.io/v2/nodes/mqzyk/",
+      "sha256": "e2917576c4d16e608d557e4887d9fa959d8c731bab374bb19c0c327fe3f80247",
+      "contentType": "application/vnd.api+json; charset=utf-8",
+      "bytes": 4518
+    },
+    {
+      "name": "osf-license",
+      "url": "https://api.osf.io/v2/licenses/563c1cf88c5e4a3877f9e96a/",
+      "status": 200,
+      "finalURL": "https://api.osf.io/v2/licenses/563c1cf88c5e4a3877f9e96a/",
+      "sha256": "32fb3d7b32be0843803f96424fe7739f69574481211a2d323e16f8da8536c635",
+      "contentType": "application/vnd.api+json; charset=utf-8",
+      "bytes": 13121
+    },
+    {
+      "name": "osf-files",
+      "url": "https://api.osf.io/v2/nodes/mqzyk/files/osfstorage/",
+      "status": 200,
+      "finalURL": "https://api.osf.io/v2/nodes/mqzyk/files/osfstorage/",
+      "sha256": "2da30c33653ad488781592c94254ee61624ea29f82459192249875cebcc91fd0",
+      "contentType": "application/vnd.api+json; charset=utf-8",
+      "bytes": 4394
+    },
+    {
+      "name": "sapa-commit",
+      "url": "https://api.github.com/repos/OlineRanum/SAPA/commits/main",
+      "status": 200,
+      "finalURL": "https://api.github.com/repos/OlineRanum/SAPA/commits/main",
+      "sha256": "a27c96094219aab5ab97e02ebd00412509bbbdaeb97882f9f9467690d2b307b7",
+      "contentType": "application/json; charset=utf-8",
+      "bytes": 2473
+    },
+    {
+      "name": "harshbg-commit",
+      "url": "https://api.github.com/repos/harshbg/Sign-Language-Interpreter-using-Deep-Learning/commits/master",
+      "status": 200,
+      "finalURL": "https://api.github.com/repos/harshbg/Sign-Language-Interpreter-using-Deep-Learning/commits/master",
+      "sha256": "df76582b7fe442abdd39f42f0a5e4f9131599993d054f82de7a7dbde1db9e431",
+      "contentType": "application/json; charset=utf-8",
+      "bytes": 5830
+    },
+    {
+      "name": "evilport-commit",
+      "url": "https://api.github.com/repos/EvilPort2/Sign-Language/commits/master",
+      "status": 200,
+      "finalURL": "https://api.github.com/repos/EvilPort2/Sign-Language/commits/master",
+      "sha256": "6c49afa25b378daa573d626c807a3fb042fbca5dbb73028ee95cf637f49afd89",
+      "contentType": "application/json; charset=utf-8",
+      "bytes": 5733
+    },
+    {
+      "name": "nvidia-commit",
+      "url": "https://api.github.com/repos/NVIDIA/Trustworthy-AI/commits/main",
+      "status": 200,
+      "finalURL": "https://api.github.com/repos/NVIDIA/Trustworthy-AI/commits/main",
+      "sha256": "51339bd43595e3d1fae57ac90d6e77d201f1031cb7be81ada8ee316254103a70",
+      "contentType": "application/json; charset=utf-8",
+      "bytes": 322831
+    },
+    {
+      "name": "nvidia-data-license",
+      "url": "https://raw.githubusercontent.com/NVIDIA/Trustworthy-AI/main/ASL%20Developer%20Community/NVIDIA%20Data%20License%20for%20ASL%20Project.pdf",
+      "status": 200,
+      "finalURL": "https://raw.githubusercontent.com/NVIDIA/Trustworthy-AI/main/ASL%20Developer%20Community/NVIDIA%20Data%20License%20for%20ASL%20Project.pdf",
+      "sha256": "173f7955e1cb04f7da34effaac0d90078633a8759faca001a55faa4c9c2da1f1",
+      "contentType": "application/octet-stream",
+      "bytes": 82040
+    },
+    {
+      "name": "signavatars-commit",
+      "url": "https://api.github.com/repos/ZhengdiYu/SignAvatars/commits/main",
+      "status": 200,
+      "finalURL": "https://api.github.com/repos/ZhengdiYu/SignAvatars/commits/main",
+      "sha256": "a03b29f71ca227a60bc723a002059664c2a2a7ba1de6cf95c29cf762319d72f4",
+      "contentType": "application/json; charset=utf-8",
+      "bytes": 928938
+    },
+    {
+      "name": "sapa-readme",
+      "url": "https://raw.githubusercontent.com/OlineRanum/SAPA/main/README.md",
+      "status": 200,
+      "finalURL": "https://raw.githubusercontent.com/OlineRanum/SAPA/main/README.md",
+      "sha256": "cf48c0113c55f80f9305d33fb641871c601c09d01162d3dda30a61f50a907d6c",
+      "contentType": "text/plain; charset=utf-8",
+      "bytes": 4942
+    }
+  ],
+  "referenceChecks": [
+    {
+      "word": "adult",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/a/adult.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/a/adult.htm",
+      "sha256": "81ce2e7d5c5c10def1a34030d988d68d7606f8e92a4c51427eddde6010bc3655",
+      "title": "\"adult\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "afternoon",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/a/afternoon.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/a/afternoon.htm",
+      "sha256": "8f0cacadf80c2bcd2326d08d5dee988a23bdf1c104fcb65ee158409db5bcf9ea",
+      "title": "\"afternoon\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "angry",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/a/angry.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/a/angry.htm",
+      "sha256": "d2380b8dd860a2bc9961426862acb7bdccbbe374ca54bad2a42170c6c887afe6",
+      "title": "\"angry\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "banana",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/b/banana.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/b/banana.htm",
+      "sha256": "a5a89f46ee0d49afba6217524c14c523784e04ce93e6d5d3b1ad37552a99f668",
+      "title": "\"banana\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "bed",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/b/bed.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/b/bed.htm",
+      "sha256": "f07ed58ea23732c17f9ce8f00eea3a70e253006cb3ef7bc1f614c9f3f353487d",
+      "title": "bed American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "bedroom",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/b/bedroom.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/b/bedroom.htm",
+      "sha256": "3cb288f9c2e66a2bedb04171bd204d6a7fc49db9959dd285cf0b21d815b4d092",
+      "title": "\"bedroom\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "blood",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/b/blood.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/b/blood.htm",
+      "sha256": "f02a4e649a166e98dfffd34423b11fdcbddbf9b1e4451af7a5070ab922e42fb1",
+      "title": "\"blood\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "body",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/b/body.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/b/body.htm",
+      "sha256": "a0d7ac5492c7ccb3d80eb13ca7399c7e8490853e816f764bd6bbf1347a2f446e",
+      "title": "\"body\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "bored",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/b/bored.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/b/bored.htm",
+      "sha256": "835238dde196387100b1c49fd6d82c14c6a15fab8569ec7fc522c40722ba71fb",
+      "title": "\"bored\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "breathe",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/b/breathe.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/b/breathe.htm",
+      "sha256": "c53de7d0143c1d70844c857e5be1fe6b7df1e2e85d4e977a1750ffc3b581d88b",
+      "title": "\"breathe\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "chair",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/c/chair.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/c/chair.htm",
+      "sha256": "79a80e51d8f9700e79b17d91eb21e5626b39bc256a806fa0000a2790a1313300",
+      "title": "\"chair\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "cheese",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/c/cheese.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/c/cheese.htm",
+      "sha256": "372fb453dff53a57850b62c7b64668c53c782dd5ab01df7db1410884eaa56cdf",
+      "title": "\"cheese\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "class",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/c/class.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/c/class.htm",
+      "sha256": "f5919823fdb923ffdbd06c26741a886dff355d066f77b23e82e78d76ed04e9d5",
+      "title": "\"class\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "clean",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/c/clean.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/c/clean.htm",
+      "sha256": "d81e8e5468970e489499a9fe7f302a2ccc6d705cb0fb21aadcab9fea4bb0c263",
+      "title": "\"clean\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "clothes",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/c/clothes.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/c/clothes.htm",
+      "sha256": "fd187aeb91dc4ed22203b3afbce14948e6b41c3a6ae98e7ff24eea52d345be2c",
+      "title": "\"clothes\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "comfortable",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/c/comfortable.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/c/comfortable.htm",
+      "sha256": "f32adcee1bbbe7aad7dde39e936a5485a9e0b234901047b6530e8e5ac98917bb",
+      "title": "ASL comfortable",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "computer",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/c/computer.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/c/computer.htm",
+      "sha256": "fa8580550e7e3cc45ef670eaf38a718184c6ea3ceaf5530ed6c904bb1357c0f2",
+      "title": "\"computer\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "cook",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/c/cook.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/c/cook.htm",
+      "sha256": "c00b5a1b3b45062e5c2ff5723b77ea778ebf53a5d1668c9ec40e7c037ebdc6db",
+      "title": "\"cook\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "cough",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/c/cough.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/c/cough.htm",
+      "sha256": "a3bd8321e7b80678776629999a5e9b571c79feaee31d236c002413a1da7701af",
+      "title": "\"cough\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "cousin",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/c/cousin.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/c/cousin.htm",
+      "sha256": "6c6e2c0975d0248b7e65cb473422ca26185038ca97527b2898031039b88c463c",
+      "title": "cousin",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "cry",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/c/cry.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/c/cry.htm",
+      "sha256": "e2313f9a52e58b6c941556fdd7d154be2f342c96fc795cd7a01086567e837892",
+      "title": "\"cry\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "delicious",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/d/delicious.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/d/delicious.htm",
+      "sha256": "b0f739f80cebfbd7e1bb4f432eaedb1e03539dc39204e8b388bfbfb3dc885eb4",
+      "title": "\"delicious\" ASL American Sign Language",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "different",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/d/different.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/d/different.htm",
+      "sha256": "1bf1b723c76432e4990e05a633ccec08b872534f265b03373960e403f0830e96",
+      "title": "\"different\" ASL American Sign Language",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "dirty",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/d/dirty.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/d/dirty.htm",
+      "sha256": "3175d38653b3eb34bdcd85ebc79a202561c0513c1288f860549ace553b3b9232",
+      "title": "\"dirty\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "door",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/d/door.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/d/door.htm",
+      "sha256": "5bb9a4e2fa5e2290269c8a3794c41ccc6f69e2bf4ba22692c71e159c5865ef89",
+      "title": "\"door\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "early",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/e/early.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/e/early.htm",
+      "sha256": "a3de512747511d8e53fe3bda950e6a3341b6eb61cb919d22a97c143e74e28b1c",
+      "title": "ASL early",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "easy",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/e/easy.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/e/easy.htm",
+      "sha256": "35314fc9707f02744d694829a4ec8a3658b722434e05ea3357900027d6625345",
+      "title": "\"easy\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "egg",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/e/egg.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/e/egg.htm",
+      "sha256": "b910757cba5f6a654b832d47888abdba6bcb2ee91e40860d5f025867ac6419ec",
+      "title": "\"egg\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "example",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/e/example.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/e/example.htm",
+      "sha256": "d09703d09f340b7dd3c06240c69999f9324eed53249749d822de7c0169bb4ffe",
+      "title": "\"example\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "explain",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/e/explain.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/e/explain.htm",
+      "sha256": "a8833f7ea28189c64dce37e1101d4575222daac7b314b06aca2af022b0735d8b",
+      "title": "\"explain\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "friday",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/f/friday.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/f/friday.htm",
+      "sha256": "daef4f6f8d85a13a2f753f34e2d043d19855ae6e24084fb6e6518a8e1db840f9",
+      "title": "\"Friday\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "fruit",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/f/fruit.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/f/fruit.htm",
+      "sha256": "473a649347f12976b845de326065d22db13e80f84d7b90088ebc2fd63f9bdf45",
+      "title": "\"fruit\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "full",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/f/full.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/f/full.htm",
+      "sha256": "8ea55ff15fa4521e6a5968f318af26da1ac965d840b09680be7809f5561fd5b5",
+      "title": "\"full\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "grandfather",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/g/grandfather.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/g/grandfather.htm",
+      "sha256": "4d92004221173b62a6e9d640aa92a7377d513bc19777892f07d6fcca1eb3ec08",
+      "title": "\"grandfather\" ASL American Sign Language",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "grandmother",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/g/grandmother.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/g/grandmother.htm",
+      "sha256": "e41ec97b1ea8f98311c32fc2fec0e7ee07fad4e767fc087433571d00e82c159e",
+      "title": "\"grandmother\" ASL American Sign Language",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "hard",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/h/hard.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/h/hard.htm",
+      "sha256": "0cafdf935a1bcb1f8007467a3c3a628328620474de198af190cf20d6cabb8082",
+      "title": "\"hard\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "headache",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/h/headache.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/h/headache.htm",
+      "sha256": "1fde571c82b9a65085b1400a68547fb8acfb33c7e81ebc5a3b9abf0ceb8804e9",
+      "title": "\"headache\" ASL American Sign Language",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "health",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/h/health.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/h/health.htm",
+      "sha256": "d5c3973af6c45bdcb5e8679dae7e79eb94653c30b512a32deaf892d8ed1961a8",
+      "title": "\"health\" ASL American Sign Language",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "homework",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/h/homework.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/h/homework.htm",
+      "sha256": "3685edbff3e6bc1723118fdb8d6c46f933d183cff1a5f946219e3adf4e7bad0d",
+      "title": "\"homework\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "hour",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/h/hour.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/h/hour.htm",
+      "sha256": "ae33c20238cf728b308ec35d339a972bc91eba50de53f23fcf4e379d56221354",
+      "title": "\"hour\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "husband",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/h/husband.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/h/husband.htm",
+      "sha256": "f73423e0b9b5f264f3fd5a80e9a2b485e4bb61648ff1a7dd1945a44c18fe10d4",
+      "title": "\"husband\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "interpreter",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/i/interpreter.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/i/interpreter.htm",
+      "sha256": "c7f99786c25504fc710ffa0fd331dab8df7a3bbf198476be03cedc97e90e4f4d",
+      "title": "\"interpreter\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "kitchen",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/k/kitchen.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/k/kitchen.htm",
+      "sha256": "cbbe0881c9a2db532debae71c82e55a30b46cbdd58cee1bcb66f102f1472eabd",
+      "title": "\"kitchen\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "late",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/l/late.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/l/late.htm",
+      "sha256": "d98a4c9602d010b8b5fd86866e57fb90e7fa615f595b26760b7497bb9c6a1f2e",
+      "title": "\"late\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "later",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/l/later.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/l/later.htm",
+      "sha256": "e41b2e7df1634281b53e3603881bec41b0d8972fbc49d8730403cab175f7745f",
+      "title": "ASL yyy",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "laugh",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/l/laugh.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/l/laugh.htm",
+      "sha256": "6581ea543c9856f04d42716079b267a2ee9c84898cffd4f69547bcbb965932a4",
+      "title": "\"laugh\" ASL American Sign Language",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "lesson",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/l/lesson.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/l/lesson.htm",
+      "sha256": "49cd440136277a2dc12b218e7e650f4e08f93b6ae9613877616bba8099b013af",
+      "title": "\"lesson\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "library",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/l/library.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/l/library.htm",
+      "sha256": "23f9ab808772b23542305eb4cf772d9271d3eb1cdf1a37a0f8445b1e3a844323",
+      "title": "\"library\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "lonely",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/l/lonely.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/l/lonely.htm",
+      "sha256": "72ce1b203496440ae7a37e47bd364c116adbe6eafcc6d32eff17a55a6b7601b9",
+      "title": "\"lonely\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "mean",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/m/mean.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/m/mean.htm",
+      "sha256": "52f455e43d16d89b7a2b7bdfd9710e85d64ec658b4629e3731d03c989f56d856",
+      "title": "\"mean\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "medicine",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/m/medicine.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/m/medicine.htm",
+      "sha256": "d3edc1bce3df4000738f3cad0fef32584757ad788de68e5bc6c9c785d79b5119",
+      "title": "\"medicine\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "minute",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/m/minute.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/m/minute.htm",
+      "sha256": "65412affe36263b648cf5c993d0ecc7b357d572652d211eddac9c99f1136c16d",
+      "title": "\"minute\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "monday",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/m/monday.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/m/monday.htm",
+      "sha256": "948dd55202e8563bcc3191d7008646abbe9fdaf4a673e39886566d66765ad69d",
+      "title": "\"Monday\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "nephew",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/n/nephew.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/n/nephew.htm",
+      "sha256": "7583abd32535d3f1cc8b00bf4421dfa787addc3d23f03b14b04ad86dd9c986e0",
+      "title": "\"nephew\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "new",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/n/new.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/n/new.htm",
+      "sha256": "000ff993f0ab2a8e69ba5594c136d503f87e099badf4e09089af27514d9b7676",
+      "title": "\"new\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "niece",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/n/niece.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/n/niece.htm",
+      "sha256": "a1ec81f9f437e3a42c39b878aadd882ced776080e28daeb0e32c0c771d942167",
+      "title": "\"niece\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "nurse",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/n/nurse.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/n/nurse.htm",
+      "sha256": "c91f16f6d255ee2baee950dc385a36a51e276e12a83a4b85fd4d122db89295ad",
+      "title": "\"nurse\" ASL American Sign Language",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "old",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/o/old.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/o/old.htm",
+      "sha256": "9d857c428a12326abd2d2980d176edbfe915d36fcdc2d7070e1f0ea7abdf3b65",
+      "title": "\"old\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "orange",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/o/orange.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/o/orange.htm",
+      "sha256": "a3b412bcf27e849f8f4b508baf1345b70df0ce03d3f1e5b5633404cc854592a7",
+      "title": "\"orange\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "paper",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/p/paper.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/p/paper.htm",
+      "sha256": "f112be6dfebdf20041dd7d990806506689f5d1d22cf8a6f5771339be367991a6",
+      "title": "\"paper\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "parents",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/p/parents.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/p/parents.htm",
+      "sha256": "7a81eb62788e40c0430017e8add8ae875aeca76269eef23f556721f4f29e090c",
+      "title": "ASL parents",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "pencil",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/p/pencil.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/p/pencil.htm",
+      "sha256": "22832745081b9e4c2e2c44b13c99b2414c59ade45ce6b365ab134518828bae96",
+      "title": "\"pencil\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "person",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/p/person.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/p/person.htm",
+      "sha256": "6e8d37e83b173536654435b843bd1c9ba1dec64cd2fbcaf53311847a00c4f54a",
+      "title": "\"person\" ASL American Sign Language",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "potato",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/p/potato.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/p/potato.htm",
+      "sha256": "3745c35bb73c9a78ac9d087d9e70a1b0a4525754872e3f66ca4c6be8201b269f",
+      "title": "\"potato\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "practice",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/p/practice.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/p/practice.htm",
+      "sha256": "d0e5365522c64611f31d83b0665b5189aad0f333aedcd50a0eaf3d038440aaed",
+      "title": "\"practice\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "ready",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/r/ready.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/r/ready.htm",
+      "sha256": "dd7b82ea7a1bb98e30caa449405964c901b6fc1ca190fa17d2fb10c98dc63e3d",
+      "title": "\"ready\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "relax",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/r/relax.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/r/relax.htm",
+      "sha256": "830aa634891b42a7c7d3ea6290aef272aa93801ab16002b8ffc2782fa8baae87",
+      "title": "\"relax\" ASL American Sign Language",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "rest",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/r/rest.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/r/rest.htm",
+      "sha256": "5f1dc80decf1c6392b7e2dcfa5bc649c717f831486a4cab15a387b9826aad5eb",
+      "title": "\"rest\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "restaurant",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/r/restaurant.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/r/restaurant.htm",
+      "sha256": "fa834cf581c39fb2012a5202ae7d82cd6846b64533e187c75e683e48fe2bbfb7",
+      "title": "\"restaurant\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "salt",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/s/salt.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/s/salt.htm",
+      "sha256": "b98cd31a0f52daff73758fc38f9f33d062f50c257a717bf2641d66f4c7320ae2",
+      "title": "\"salt\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "same",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/s/same.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/s/same.htm",
+      "sha256": "124453e722023b53c7f7098b5a684052b507301c41992e97e493cce25d115b9e",
+      "title": "\"same\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "sandwich",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/s/sandwich.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/s/sandwich.htm",
+      "sha256": "4a35effe98ea3ab42882f9f9278b7e529a3a1246b0b16c91fc8d8deaba715e93",
+      "title": "\"sandwich\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "saturday",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/s/saturday.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/s/saturday.htm",
+      "sha256": "3a01150f515b23f70989d5c1f5450362726ef383408452a067ccff314ffa0bd4",
+      "title": "\"Saturday\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "scared",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/s/scared.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/s/scared.htm",
+      "sha256": "d7d4db66d96fad1acea6c7e207155287220d0e15728797b0dc167f5b7a300acf",
+      "title": "\"scared\" ASL American Sign Language",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "sentence",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/s/sentence.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/s/sentence.htm",
+      "sha256": "ed996f792b2fb812fe94facab9a910627c862d4d82570ffd46d43ce5834180c0",
+      "title": "ASL sentence",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "shirt",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/s/shirt.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/s/shirt.htm",
+      "sha256": "d61bbd11c007a2a0493d7796ada5b5beaf5ab50dfd782e2c2fe3040c1aab6fac",
+      "title": "\"shirt\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "shoes",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/s/shoes.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/s/shoes.htm",
+      "sha256": "50dce4c9cbfcb9beb615ae6a4a0363567d0e3fc0abd5f0a6c7bd9b550e3057c2",
+      "title": "\"shoes\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "show",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/s/show.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/s/show.htm",
+      "sha256": "76858c850ef98ff582d7c7300ab6e92470b72229dcefa7df32ae6a0372a6e849",
+      "title": "\"show or demonstrate\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "shower",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/s/shower.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/s/shower.htm",
+      "sha256": "08fb2ee7fb6587b3fd1003f8339c14d324153a252d8d24354d33d92be98eff10",
+      "title": "\"shower\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "smile",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/s/smile.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/s/smile.htm",
+      "sha256": "210cbb4f3a5a6cba7a994e09141bfd2a1702fb0f9bbfa8397d099b771aa49e4a",
+      "title": "\"smile\" ASL American Sign Language",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "soap",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/s/soap.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/s/soap.htm",
+      "sha256": "fb91ddbbc670b8e6f7fea4e409774cf557f873d383bbcd86172432cd4dbedbd9",
+      "title": "\"soap\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "soup",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/s/soup.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/s/soup.htm",
+      "sha256": "b514580c1f745ddd939f9c1a313ae806194d5a779bbffb88f64f8286707165c5",
+      "title": "\"soup\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "stress",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/s/stress.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/s/stress.htm",
+      "sha256": "e2cf419f9a9f4f1ae7d3c5e45542e0e2eb658cc273737b280383065841119a6b",
+      "title": "\"stress\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "study",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/s/study.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/s/study.htm",
+      "sha256": "a06fbb740c333669fdd0ce620893af4c455bb14c473425f423d60cc7d81f1a42",
+      "title": "\"study\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "sugar",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/s/sugar.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/s/sugar.htm",
+      "sha256": "b4a4d3730f0d9ec6330db16e0ee797f435fd13cc206032ac0e253ad3f36af279",
+      "title": "\"sugar\" ASL American Sign Language",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "surgery",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/s/surgery.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/s/surgery.htm",
+      "sha256": "04cd822d05d906d24d4670b811f437a58f30a6436f67ed15dd452520368cf602",
+      "title": "\"surgery\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "talk",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/t/talk.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/t/talk.htm",
+      "sha256": "a28e59182c98cdfa6d3a9a6544162bffa66bb1f8c2b4267159f8841159bceeae",
+      "title": "\"talk\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "test",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/t/test.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/t/test.htm",
+      "sha256": "e2aff08cfe64e8017adfd79cd8ad04a361c20d28eb371e422ae4dc84f30628c1",
+      "title": "\"test\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "therapy",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/t/therapy.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/t/therapy.htm",
+      "sha256": "dcbbb25301d33b7f6446f401ca04aee47d38fd3a0f0472aab9dc978266b3c505",
+      "title": "\"therapy\" ASL American Sign Language",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "thursday",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/t/thursday.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/t/thursday.htm",
+      "sha256": "aee04900e620c19c10e336a64467027ed3ac80b49582e5f5bb2dedfcc6d383a2",
+      "title": "\"Thursday\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "tomato",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/t/tomato.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/t/tomato.htm",
+      "sha256": "de4dadd33710708c2568248c167fd12f017d23b72da667bf82aac60a3208cec7",
+      "title": "\"tomato\" ASL American Sign Language",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "translate",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/t/translate.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/t/translate.htm",
+      "sha256": "52e351b8e58067508e622c57d2e3b3281cf63ca0b880ba8a59384493299f3ffd",
+      "title": "\"translate\" ASL American Sign Language",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "uncle",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/u/uncle.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/u/uncle.htm",
+      "sha256": "42eebe4cd0c52390200914f6421837aeeb45d20a621e53cde03d39b29511f8c7",
+      "title": "\"uncle\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "vomit",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/v/vomit.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/v/vomit.htm",
+      "sha256": "4ec7c71c9d4e303e8f90b24cf79b7e32e475d0387c2c187c997a6447bf16d862",
+      "title": "\"vomit\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "wednesday",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/w/wednesday.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/w/wednesday.htm",
+      "sha256": "c2131e11da3cc73562e83b8f24b35256c6db7fa163192333107589f6c454b5b5",
+      "title": "\"Wednesday\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "wife",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/w/wife.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/w/wife.htm",
+      "sha256": "98af78b22a519b557166d5de7c97c96e1a5c19dd7dd73a4701906fa93c13fed0",
+      "title": "\"wife\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "window",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/w/window.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/w/window.htm",
+      "sha256": "c9d5a1a57f1b59ead3fd7219d7e2d19c7ece7525d266b6b239a2983540e0fff2",
+      "title": "ASL window",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "word",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/w/word.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/w/word.htm",
+      "sha256": "456db140bcd9382389e0a55b498277c915efe50a32e3a1dbfda8a0fb5748591e",
+      "title": "\"word\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "worry",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/w/worry.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/w/worry.htm",
+      "sha256": "7e261ed9c1bf25e5e4897c5ae87c3c707433b30cc43d6380536635378e288dcb",
+      "title": "\"worry\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    },
+    {
+      "word": "young",
+      "url": "https://www.lifeprint.com/asl101/pages-signs/y/young.htm",
+      "status": 200,
+      "finalURL": "https://www.lifeprint.com/asl101/pages-signs/y/young.htm",
+      "sha256": "c3df54050dd6ca3fa26b9c19397c46fe10a84154a1a3bc0fdca9806912c07c11",
+      "title": "\"young\" American Sign Language (ASL)",
+      "aslReference": true,
+      "scope": "Reference page existence/title checked only; source/target motion equivalence and exact meaning remain pending human ASL review. No reference image/video imported."
+    }
+  ]
+}

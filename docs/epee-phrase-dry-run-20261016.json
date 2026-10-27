@@ -1,0 +1,49 @@
+{
+  "schema": "phrase-source-audit/1",
+  "source": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+  "revision": "93bc8aa0a6526e86af80db5f59af8d133292c9b5",
+  "license": "CC-BY-NC-SA-4.0",
+  "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "metadataSHA256": "264b7be51c2906291299a5659e91082cd5f60f11b57dc3fef42a7b92dbc76084",
+  "runtimeImports": 0,
+  "humanApproval": false,
+  "rows": [
+    {
+      "templateId": "asl.template.greeting-hello",
+      "conceptId": "asl.greeting.hello",
+      "text": "Hello",
+      "clipId": "clerc_v03_0011",
+      "signLanguage": "ASL",
+      "fps": 30.0,
+      "frames": 137,
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0011.npy",
+      "status": "pending-technical-and-human-review"
+    },
+    {
+      "templateId": "asl.template.express-thanks",
+      "conceptId": "asl.gratitude.thanks",
+      "text": "Thank you",
+      "clipId": "clerc_v03_0009",
+      "signLanguage": "ASL",
+      "fps": 30.0,
+      "frames": 118,
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0009.npy",
+      "status": "pending-technical-and-human-review"
+    },
+    {
+      "templateId": "asl.template.greeting-wellbeing",
+      "conceptId": null,
+      "text": "How are you?",
+      "clipId": "clerc_v03_0027",
+      "signLanguage": "ASL",
+      "fps": 30.0,
+      "frames": 112,
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0027.npy",
+      "status": "pending-technical-and-human-review"
+    }
+  ],
+  "missingExact": [
+    "I need help",
+    "Please repeat"
+  ]
+}

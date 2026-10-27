@@ -1,0 +1,82 @@
+{
+  "report": "imports\\continuous\\continuous-asl-020-dry.json",
+  "dryRun": true,
+  "counts": {
+    "added": 40,
+    "merged": 0,
+    "skipped": 0,
+    "conflicting": 0,
+    "rejected": 0,
+    "pending-review": 0
+  },
+  "conceptChanges": {
+    "added": [],
+    "skipped": [],
+    "conflicting": []
+  },
+  "metadataChanges": {
+    "added": [],
+    "skipped": [],
+    "conflicting": []
+  },
+  "discoveryChanges": {
+    "added": 0,
+    "skipped": 0,
+    "conflicting": []
+  },
+  "pendingReview": [
+    "3dlex-snow",
+    "3dlex-soccer",
+    "3dlex-soft",
+    "3dlex-some",
+    "3dlex-sound",
+    "3dlex-sour",
+    "3dlex-south",
+    "3dlex-spider",
+    "3dlex-spring",
+    "3dlex-square",
+    "3dlex-squirrel",
+    "3dlex-stamp",
+    "3dlex-stare",
+    "3dlex-stay",
+    "3dlex-steal",
+    "3dlex-sting",
+    "3dlex-stir",
+    "3dlex-straight",
+    "3dlex-strange",
+    "3dlex-street",
+    "3dlex-strong",
+    "3dlex-struggle",
+    "3dlex-stubborn",
+    "3dlex-stuck",
+    "3dlex-subtract",
+    "3dlex-sunrise",
+    "3dlex-sure",
+    "3dlex-surprise",
+    "3dlex-suspect",
+    "3dlex-suspend",
+    "3dlex-swallow",
+    "3dlex-sweep",
+    "3dlex-sweet",
+    "3dlex-sweetheart",
+    "3dlex-swing",
+    "3dlex-tan",
+    "3dlex-technology",
+    "3dlex-teeth",
+    "3dlex-tennis",
+    "3dlex-text"
+  ],
+  "before": {
+    "concepts": 789,
+    "aliases": 1024,
+    "animations": 637,
+    "reviewedEnabledSigns": 0
+  },
+  "after": {
+    "concepts": 789,
+    "aliases": 1024,
+    "animations": 677,
+    "reviewedEnabledSigns": 0
+  }
+}
+

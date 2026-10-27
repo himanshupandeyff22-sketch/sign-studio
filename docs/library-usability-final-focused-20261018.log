@@ -1,0 +1,26 @@
+✔ API supports sessions, preferences, translations, history, export and input protection (978.6047ms)
+✔ API queues 500-word multi-sentence input, persists all text, and permits repeated submissions (659.7487ms)
+✔ API excludes unreviewed motions by default and requires explicit research meanings (357.6985ms)
+✔ an unrecognized session cookie can be replaced and an existing session resumes (341.3855ms)
+✔ API restores complete vocabulary coverage and preferences after a backend restart (623.754ms)
+✔ manual inspection supports one legacy ID and an ordered queue without sentence translation (8.7634ms)
+✔ inspection spans, coverage and duration describe selected registered glosses exactly (2.0492ms)
+✔ the complete queue is validated before playback and rejects malformed or unregistered IDs (5.3813ms)
+✔ manual inspection cannot inject assets, approval or mappings or enable translation (43.5939ms)
+✔ saved inspection sequences replay all IDs through the current registry instead of cached paths (11.6192ms)
+✔ Select all shown preserves queue order, deduplicates and only removes the shown subset (3.9173ms)
+✔ bulk selection is atomic at the existing 100-motion limit (0.8891ms)
+✔ sentence options preserve source language, separate media types and retain exact provenance (16.8591ms)
+✔ whole-expression requests never fall back to isolated words in any vocabulary mode (63.0109ms)
+✔ word matches never appear as complete translated phrases (28.4395ms)
+✔ inspection-only words, missing vocabulary and negation explain different blockers (7.0908ms)
+✔ paragraph diagnostics preserve spans and every segment of a 500-word input (37.2164ms)
+✔ legacy phrase illustrations and camera/manual inspection cannot claim phrase approval (5.5019ms)
+ℹ tests 18
+ℹ suites 0
+ℹ pass 18
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 3309.6502

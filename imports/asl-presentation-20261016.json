@@ -1,0 +1,3204 @@
+{
+  "schema": "asl-motion-batch/1",
+  "id": "asl-presentation-20261016",
+  "conceptProposals": [
+    {
+      "id": "asl.nurse.nursing-professional",
+      "signLanguage": "ASL",
+      "sense": "nursing-professional",
+      "label": "Nurse",
+      "definition": "A nursing professional; not the verb breastfeed or a complete request.",
+      "category": "health",
+      "aliases": [
+        "nurse"
+      ],
+      "inflections": [
+        "nurses"
+      ],
+      "exampleContexts": [
+        "I need a nurse."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/n/nurse.htm"
+    },
+    {
+      "id": "asl.medicine.medication",
+      "signLanguage": "ASL",
+      "sense": "medication",
+      "label": "Medicine",
+      "definition": "Medication; not all drugs, treatment, or medical advice.",
+      "category": "health",
+      "aliases": [
+        "medicine"
+      ],
+      "inflections": [
+        "medicines"
+      ],
+      "exampleContexts": [
+        "I take medicine."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/m/medicine.htm"
+    },
+    {
+      "id": "asl.headache.head-pain",
+      "signLanguage": "ASL",
+      "sense": "head-pain",
+      "label": "Headache",
+      "definition": "Pain in the head; exact location and severity require review.",
+      "category": "health",
+      "aliases": [
+        "headache"
+      ],
+      "inflections": [
+        "headaches"
+      ],
+      "exampleContexts": [
+        "I have a headache."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/h/headache.htm"
+    },
+    {
+      "id": "asl.health.wellbeing",
+      "signLanguage": "ASL",
+      "sense": "wellbeing",
+      "label": "Health",
+      "definition": "Physical health or wellbeing; not a diagnosis or promise of care.",
+      "category": "health",
+      "aliases": [
+        "health"
+      ],
+      "inflections": [],
+      "exampleContexts": [
+        "My health is important."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/h/health.htm"
+    },
+    {
+      "id": "asl.blood.body-fluid",
+      "signLanguage": "ASL",
+      "sense": "body-fluid",
+      "label": "Blood",
+      "definition": "Blood as a body fluid; not family ancestry or metaphorical meanings.",
+      "category": "health",
+      "aliases": [
+        "blood"
+      ],
+      "inflections": [],
+      "exampleContexts": [
+        "I see blood."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/b/blood.htm"
+    },
+    {
+      "id": "asl.body.human-body",
+      "signLanguage": "ASL",
+      "sense": "human-body",
+      "label": "Body",
+      "definition": "A human physical body; not an organization or body of text.",
+      "category": "health",
+      "aliases": [
+        "body"
+      ],
+      "inflections": [
+        "bodies"
+      ],
+      "exampleContexts": [
+        "My body is tired."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/b/body.htm"
+    },
+    {
+      "id": "asl.breathe.respiration",
+      "signLanguage": "ASL",
+      "sense": "respiration",
+      "label": "Breathe",
+      "definition": "Breathe or respire; intensity and clinical meanings are not inferred.",
+      "category": "health",
+      "aliases": [
+        "breathe"
+      ],
+      "inflections": [
+        "breathes",
+        "breathed",
+        "breathing"
+      ],
+      "exampleContexts": [
+        "I breathe slowly."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/b/breathe.htm"
+    },
+    {
+      "id": "asl.cough.cough-action",
+      "signLanguage": "ASL",
+      "sense": "cough-action",
+      "label": "Cough",
+      "definition": "Coughing as an action; not a diagnosis.",
+      "category": "health",
+      "aliases": [
+        "cough"
+      ],
+      "inflections": [
+        "coughs",
+        "coughed",
+        "coughing"
+      ],
+      "exampleContexts": [
+        "I cough at night."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/c/cough.htm"
+    },
+    {
+      "id": "asl.therapy.therapeutic-treatment",
+      "signLanguage": "ASL",
+      "sense": "therapeutic-treatment",
+      "label": "Therapy",
+      "definition": "Therapeutic treatment; type and source variant require human review.",
+      "category": "health",
+      "aliases": [
+        "therapy"
+      ],
+      "inflections": [
+        "therapies"
+      ],
+      "exampleContexts": [
+        "I go to therapy."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/t/therapy.htm"
+    },
+    {
+      "id": "asl.surgery.surgical-procedure",
+      "signLanguage": "ASL",
+      "sense": "surgical-procedure",
+      "label": "Surgery",
+      "definition": "A surgical procedure; not an office or a guaranteed operation.",
+      "category": "health",
+      "aliases": [
+        "surgery"
+      ],
+      "inflections": [
+        "surgeries"
+      ],
+      "exampleContexts": [
+        "The surgery is tomorrow."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/s/surgery.htm"
+    },
+    {
+      "id": "asl.vomit.vomiting",
+      "signLanguage": "ASL",
+      "sense": "vomiting",
+      "label": "Vomit",
+      "definition": "Expel stomach contents; nonmanual features need review.",
+      "category": "health",
+      "aliases": [
+        "vomit"
+      ],
+      "inflections": [
+        "vomits",
+        "vomited",
+        "vomiting"
+      ],
+      "exampleContexts": [
+        "I feel like I may vomit."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/v/vomit.htm"
+    },
+    {
+      "id": "asl.rest.rest-action",
+      "signLanguage": "ASL",
+      "sense": "rest-action",
+      "label": "Rest",
+      "definition": "Rest or take a break; not the remainder of a quantity.",
+      "category": "health",
+      "aliases": [
+        "rest"
+      ],
+      "inflections": [
+        "rests",
+        "rested",
+        "resting"
+      ],
+      "exampleContexts": [
+        "I need rest."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/r/rest.htm"
+    },
+    {
+      "id": "asl.clean.free-from-dirt",
+      "signLanguage": "ASL",
+      "sense": "free-from-dirt",
+      "label": "Clean",
+      "definition": "Clean or remove dirt; not an unrelated metaphorical meaning.",
+      "category": "home",
+      "aliases": [
+        "clean"
+      ],
+      "inflections": [
+        "cleans",
+        "cleaned",
+        "cleaning"
+      ],
+      "exampleContexts": [
+        "I clean my room."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/c/clean.htm"
+    },
+    {
+      "id": "asl.dirty.unclean",
+      "signLanguage": "ASL",
+      "sense": "unclean",
+      "label": "Dirty",
+      "definition": "Dirty or unclean; not obscene language or metaphorical behavior.",
+      "category": "home",
+      "aliases": [
+        "dirty"
+      ],
+      "inflections": [],
+      "exampleContexts": [
+        "My shirt is dirty."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/d/dirty.htm"
+    },
+    {
+      "id": "asl.soap.washing-substance",
+      "signLanguage": "ASL",
+      "sense": "washing-substance",
+      "label": "Soap",
+      "definition": "Soap used for washing; not a soap opera.",
+      "category": "home",
+      "aliases": [
+        "soap"
+      ],
+      "inflections": [],
+      "exampleContexts": [
+        "I need soap."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/s/soap.htm"
+    },
+    {
+      "id": "asl.shower.washing-shower",
+      "signLanguage": "ASL",
+      "sense": "washing-shower",
+      "label": "Shower",
+      "definition": "A shower for washing; not rain or a celebration.",
+      "category": "home",
+      "aliases": [
+        "shower"
+      ],
+      "inflections": [
+        "showers"
+      ],
+      "exampleContexts": [
+        "I take a shower."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/s/shower.htm"
+    },
+    {
+      "id": "asl.bed.sleeping-furniture",
+      "signLanguage": "ASL",
+      "sense": "sleeping-furniture",
+      "label": "Bed",
+      "definition": "A bed for sleeping; not a garden bed or river bed.",
+      "category": "home",
+      "aliases": [
+        "bed"
+      ],
+      "inflections": [
+        "beds"
+      ],
+      "exampleContexts": [
+        "I go to bed."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/b/bed.htm"
+    },
+    {
+      "id": "asl.bedroom.sleeping-room",
+      "signLanguage": "ASL",
+      "sense": "sleeping-room",
+      "label": "Bedroom",
+      "definition": "A room used for sleeping; not a reviewed compound assembled from separate clips.",
+      "category": "home",
+      "aliases": [
+        "bedroom"
+      ],
+      "inflections": [
+        "bedrooms"
+      ],
+      "exampleContexts": [
+        "My bedroom is here."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/b/bedroom.htm"
+    },
+    {
+      "id": "asl.kitchen.food-preparation-room",
+      "signLanguage": "ASL",
+      "sense": "food-preparation-room",
+      "label": "Kitchen",
+      "definition": "A room for preparing food.",
+      "category": "home",
+      "aliases": [
+        "kitchen"
+      ],
+      "inflections": [
+        "kitchens"
+      ],
+      "exampleContexts": [
+        "The kitchen is clean."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/k/kitchen.htm"
+    },
+    {
+      "id": "asl.chair.sitting-furniture",
+      "signLanguage": "ASL",
+      "sense": "sitting-furniture",
+      "label": "Chair",
+      "definition": "A chair for sitting; not chairing a committee.",
+      "category": "home",
+      "aliases": [
+        "chair"
+      ],
+      "inflections": [
+        "chairs"
+      ],
+      "exampleContexts": [
+        "I need a chair."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/c/chair.htm"
+    },
+    {
+      "id": "asl.door.door-object",
+      "signLanguage": "ASL",
+      "sense": "door-object",
+      "label": "Door",
+      "definition": "A door opening into a space; not opportunity or a named product.",
+      "category": "home",
+      "aliases": [
+        "door"
+      ],
+      "inflections": [
+        "doors"
+      ],
+      "exampleContexts": [
+        "The door is open."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/d/door.htm"
+    },
+    {
+      "id": "asl.window.building-window",
+      "signLanguage": "ASL",
+      "sense": "building-window",
+      "label": "Window",
+      "definition": "A window in a building; not a software window.",
+      "category": "home",
+      "aliases": [
+        "window"
+      ],
+      "inflections": [
+        "windows"
+      ],
+      "exampleContexts": [
+        "I open the window."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/w/window.htm"
+    },
+    {
+      "id": "asl.clothes.garments",
+      "signLanguage": "ASL",
+      "sense": "garments",
+      "label": "Clothes",
+      "definition": "Clothing or garments; source lexical scope requires review.",
+      "category": "home",
+      "aliases": [
+        "clothes"
+      ],
+      "inflections": [],
+      "exampleContexts": [
+        "I wash my clothes."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/c/clothes.htm"
+    },
+    {
+      "id": "asl.shirt.upper-body-garment",
+      "signLanguage": "ASL",
+      "sense": "upper-body-garment",
+      "label": "Shirt",
+      "definition": "A shirt garment; not all clothes.",
+      "category": "home",
+      "aliases": [
+        "shirt"
+      ],
+      "inflections": [
+        "shirts"
+      ],
+      "exampleContexts": [
+        "My shirt is blue."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/s/shirt.htm"
+    },
+    {
+      "id": "asl.shoes.footwear",
+      "signLanguage": "ASL",
+      "sense": "footwear",
+      "label": "Shoes",
+      "definition": "Shoes or footwear; exact singular/plural realization requires review.",
+      "category": "home",
+      "aliases": [
+        "shoes"
+      ],
+      "inflections": [],
+      "exampleContexts": [
+        "My shoes are here."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/s/shoes.htm"
+    },
+    {
+      "id": "asl.banana.banana-fruit",
+      "signLanguage": "ASL",
+      "sense": "banana-fruit",
+      "label": "Banana",
+      "definition": "A banana fruit.",
+      "category": "food",
+      "aliases": [
+        "banana"
+      ],
+      "inflections": [
+        "bananas"
+      ],
+      "exampleContexts": [
+        "I want a banana."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/b/banana.htm"
+    },
+    {
+      "id": "asl.cheese.cheese-food",
+      "signLanguage": "ASL",
+      "sense": "cheese-food",
+      "label": "Cheese",
+      "definition": "Cheese as food; not a request to smile for a photograph.",
+      "category": "food",
+      "aliases": [
+        "cheese"
+      ],
+      "inflections": [],
+      "exampleContexts": [
+        "I want cheese."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/c/cheese.htm"
+    },
+    {
+      "id": "asl.egg.egg-food",
+      "signLanguage": "ASL",
+      "sense": "egg-food",
+      "label": "Egg",
+      "definition": "An egg as food; not a metaphorical egg.",
+      "category": "food",
+      "aliases": [
+        "egg"
+      ],
+      "inflections": [
+        "eggs"
+      ],
+      "exampleContexts": [
+        "I cook an egg."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/e/egg.htm"
+    },
+    {
+      "id": "asl.fruit.fruit-food",
+      "signLanguage": "ASL",
+      "sense": "fruit-food",
+      "label": "Fruit",
+      "definition": "Fruit as food; not metaphorical results.",
+      "category": "food",
+      "aliases": [
+        "fruit"
+      ],
+      "inflections": [
+        "fruits"
+      ],
+      "exampleContexts": [
+        "I want fruit."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/f/fruit.htm"
+    },
+    {
+      "id": "asl.orange.orange-fruit",
+      "signLanguage": "ASL",
+      "sense": "orange-fruit",
+      "label": "Orange",
+      "definition": "The orange fruit; color and other senses require clarification.",
+      "category": "food",
+      "aliases": [
+        "orange"
+      ],
+      "inflections": [
+        "oranges"
+      ],
+      "exampleContexts": [
+        "I eat an orange."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/o/orange.htm"
+    },
+    {
+      "id": "asl.potato.potato-food",
+      "signLanguage": "ASL",
+      "sense": "potato-food",
+      "label": "Potato",
+      "definition": "A potato as food.",
+      "category": "food",
+      "aliases": [
+        "potato"
+      ],
+      "inflections": [
+        "potatoes"
+      ],
+      "exampleContexts": [
+        "I cook a potato."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/p/potato.htm"
+    },
+    {
+      "id": "asl.tomato.tomato-food",
+      "signLanguage": "ASL",
+      "sense": "tomato-food",
+      "label": "Tomato",
+      "definition": "A tomato as food.",
+      "category": "food",
+      "aliases": [
+        "tomato"
+      ],
+      "inflections": [
+        "tomatoes"
+      ],
+      "exampleContexts": [
+        "I want a tomato."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/t/tomato.htm"
+    },
+    {
+      "id": "asl.soup.soup-food",
+      "signLanguage": "ASL",
+      "sense": "soup-food",
+      "label": "Soup",
+      "definition": "Soup as food; not a generic meal request.",
+      "category": "food",
+      "aliases": [
+        "soup"
+      ],
+      "inflections": [
+        "soups"
+      ],
+      "exampleContexts": [
+        "The soup is hot."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/s/soup.htm"
+    },
+    {
+      "id": "asl.sandwich.sandwich-food",
+      "signLanguage": "ASL",
+      "sense": "sandwich-food",
+      "label": "Sandwich",
+      "definition": "A sandwich as food; not the verb squeeze between objects.",
+      "category": "food",
+      "aliases": [
+        "sandwich"
+      ],
+      "inflections": [
+        "sandwiches"
+      ],
+      "exampleContexts": [
+        "I want a sandwich."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/s/sandwich.htm"
+    },
+    {
+      "id": "asl.salt.salt-food",
+      "signLanguage": "ASL",
+      "sense": "salt-food",
+      "label": "Salt",
+      "definition": "Salt as a food seasoning; not the sea or a chemistry-specific claim.",
+      "category": "food",
+      "aliases": [
+        "salt"
+      ],
+      "inflections": [],
+      "exampleContexts": [
+        "I need salt."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/s/salt.htm"
+    },
+    {
+      "id": "asl.cook.prepare-food",
+      "signLanguage": "ASL",
+      "sense": "prepare-food",
+      "label": "Cook",
+      "definition": "Prepare food by cooking; not a person who is a cook.",
+      "category": "food",
+      "aliases": [
+        "cook"
+      ],
+      "inflections": [
+        "cooks",
+        "cooked",
+        "cooking"
+      ],
+      "exampleContexts": [
+        "I cook soup."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/c/cook.htm"
+    },
+    {
+      "id": "asl.delicious.pleasant-taste",
+      "signLanguage": "ASL",
+      "sense": "pleasant-taste",
+      "label": "Delicious",
+      "definition": "Food tasting pleasant; intensity and facial expression require review.",
+      "category": "food",
+      "aliases": [
+        "delicious"
+      ],
+      "inflections": [],
+      "exampleContexts": [
+        "The soup is delicious."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/d/delicious.htm"
+    },
+    {
+      "id": "asl.full.satiated",
+      "signLanguage": "ASL",
+      "sense": "satiated",
+      "label": "Full",
+      "definition": "Satiated after eating; container capacity and filled spaces remain different senses.",
+      "category": "food",
+      "aliases": [
+        "full"
+      ],
+      "inflections": [],
+      "exampleContexts": [
+        "I am full after lunch."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/f/full.htm"
+    },
+    {
+      "id": "asl.restaurant.eating-establishment",
+      "signLanguage": "ASL",
+      "sense": "eating-establishment",
+      "label": "Restaurant",
+      "definition": "A restaurant; not an automatically translated request for a table.",
+      "category": "food",
+      "aliases": [
+        "restaurant"
+      ],
+      "inflections": [
+        "restaurants"
+      ],
+      "exampleContexts": [
+        "I go to a restaurant."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/r/restaurant.htm"
+    },
+    {
+      "id": "asl.husband.male-spouse",
+      "signLanguage": "ASL",
+      "sense": "male-spouse",
+      "label": "Husband",
+      "definition": "A husband or male spouse; relationship and regional variant require review.",
+      "category": "people",
+      "aliases": [
+        "husband"
+      ],
+      "inflections": [
+        "husbands"
+      ],
+      "exampleContexts": [
+        "My husband is here."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/h/husband.htm"
+    },
+    {
+      "id": "asl.wife.female-spouse",
+      "signLanguage": "ASL",
+      "sense": "female-spouse",
+      "label": "Wife",
+      "definition": "A wife or female spouse; relationship and regional variant require review.",
+      "category": "people",
+      "aliases": [
+        "wife"
+      ],
+      "inflections": [
+        "wives"
+      ],
+      "exampleContexts": [
+        "My wife is here."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/w/wife.htm"
+    },
+    {
+      "id": "asl.uncle.parent-sibling-male",
+      "signLanguage": "ASL",
+      "sense": "parent-sibling-male",
+      "label": "Uncle",
+      "definition": "An uncle as a family relationship; not a personal name.",
+      "category": "people",
+      "aliases": [
+        "uncle"
+      ],
+      "inflections": [
+        "uncles"
+      ],
+      "exampleContexts": [
+        "My uncle is here."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/u/uncle.htm"
+    },
+    {
+      "id": "asl.cousin.cousin-relative",
+      "signLanguage": "ASL",
+      "sense": "cousin-relative",
+      "label": "Cousin",
+      "definition": "A cousin as a family relationship; gendered variants require review.",
+      "category": "people",
+      "aliases": [
+        "cousin"
+      ],
+      "inflections": [
+        "cousins"
+      ],
+      "exampleContexts": [
+        "My cousin is here."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/c/cousin.htm"
+    },
+    {
+      "id": "asl.nephew.nephew-relative",
+      "signLanguage": "ASL",
+      "sense": "nephew-relative",
+      "label": "Nephew",
+      "definition": "A nephew as a family relationship.",
+      "category": "people",
+      "aliases": [
+        "nephew"
+      ],
+      "inflections": [
+        "nephews"
+      ],
+      "exampleContexts": [
+        "My nephew is here."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/n/nephew.htm"
+    },
+    {
+      "id": "asl.niece.niece-relative",
+      "signLanguage": "ASL",
+      "sense": "niece-relative",
+      "label": "Niece",
+      "definition": "A niece as a family relationship.",
+      "category": "people",
+      "aliases": [
+        "niece"
+      ],
+      "inflections": [
+        "nieces"
+      ],
+      "exampleContexts": [
+        "My niece is here."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/n/niece.htm"
+    },
+    {
+      "id": "asl.grandmother.female-grandparent",
+      "signLanguage": "ASL",
+      "sense": "female-grandparent",
+      "label": "Grandmother",
+      "definition": "A grandmother or female grandparent; exact family variant requires review.",
+      "category": "people",
+      "aliases": [
+        "grandmother"
+      ],
+      "inflections": [
+        "grandmothers"
+      ],
+      "exampleContexts": [
+        "My grandmother is here."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/g/grandmother.htm"
+    },
+    {
+      "id": "asl.grandfather.male-grandparent",
+      "signLanguage": "ASL",
+      "sense": "male-grandparent",
+      "label": "Grandfather",
+      "definition": "A grandfather or male grandparent; exact family variant requires review.",
+      "category": "people",
+      "aliases": [
+        "grandfather"
+      ],
+      "inflections": [
+        "grandfathers"
+      ],
+      "exampleContexts": [
+        "My grandfather is here."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/g/grandfather.htm"
+    },
+    {
+      "id": "asl.parents.parent-relatives",
+      "signLanguage": "ASL",
+      "sense": "parent-relatives",
+      "label": "Parents",
+      "definition": "Parents as a family relationship; number and family composition require review.",
+      "category": "people",
+      "aliases": [
+        "parents"
+      ],
+      "inflections": [],
+      "exampleContexts": [
+        "My parents are here."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/p/parents.htm"
+    },
+    {
+      "id": "asl.person.human-person",
+      "signLanguage": "ASL",
+      "sense": "human-person",
+      "label": "Person",
+      "definition": "A human person; not the grammatical person of a verb.",
+      "category": "people",
+      "aliases": [
+        "person"
+      ],
+      "inflections": [
+        "persons"
+      ],
+      "exampleContexts": [
+        "I see a person."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/p/person.htm"
+    },
+    {
+      "id": "asl.adult.adult-person",
+      "signLanguage": "ASL",
+      "sense": "adult-person",
+      "label": "Adult",
+      "definition": "A grown person; not an unrelated media classification.",
+      "category": "people",
+      "aliases": [
+        "adult"
+      ],
+      "inflections": [
+        "adults"
+      ],
+      "exampleContexts": [
+        "An adult is here."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/a/adult.htm"
+    },
+    {
+      "id": "asl.interpreter.language-interpreter",
+      "signLanguage": "ASL",
+      "sense": "language-interpreter",
+      "label": "Interpreter",
+      "definition": "A person interpreting between languages; not a software interpreter.",
+      "category": "communication",
+      "aliases": [
+        "interpreter"
+      ],
+      "inflections": [
+        "interpreters"
+      ],
+      "exampleContexts": [
+        "I need an interpreter."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/i/interpreter.htm"
+    },
+    {
+      "id": "asl.translate.between-languages",
+      "signLanguage": "ASL",
+      "sense": "between-languages",
+      "label": "Translate",
+      "definition": "Translate between languages; not movement or an automatic sentence translation promise.",
+      "category": "communication",
+      "aliases": [
+        "translate"
+      ],
+      "inflections": [
+        "translates",
+        "translated",
+        "translating"
+      ],
+      "exampleContexts": [
+        "I translate a message."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/t/translate.htm"
+    },
+    {
+      "id": "asl.talk.conversation-action",
+      "signLanguage": "ASL",
+      "sense": "conversation-action",
+      "label": "Talk",
+      "definition": "Talk or converse; exact modality, direction and discourse role require review.",
+      "category": "communication",
+      "aliases": [
+        "talk"
+      ],
+      "inflections": [
+        "talks",
+        "talked",
+        "talking"
+      ],
+      "exampleContexts": [
+        "We talk today."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/t/talk.htm"
+    },
+    {
+      "id": "asl.show.show-something",
+      "signLanguage": "ASL",
+      "sense": "show-something",
+      "label": "Show",
+      "definition": "Show something to another person; not a performance or television show.",
+      "category": "communication",
+      "aliases": [
+        "show"
+      ],
+      "inflections": [
+        "shows",
+        "showed",
+        "showing"
+      ],
+      "exampleContexts": [
+        "Please show me."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/s/show.htm"
+    },
+    {
+      "id": "asl.sentence.language-sentence",
+      "signLanguage": "ASL",
+      "sense": "language-sentence",
+      "label": "Sentence",
+      "definition": "A linguistic sentence; not a criminal punishment.",
+      "category": "communication",
+      "aliases": [
+        "sentence"
+      ],
+      "inflections": [
+        "sentences"
+      ],
+      "exampleContexts": [
+        "I read a sentence."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/s/sentence.htm"
+    },
+    {
+      "id": "asl.word.language-word",
+      "signLanguage": "ASL",
+      "sense": "language-word",
+      "label": "Word",
+      "definition": "A word in a language; not a promise or named software product.",
+      "category": "communication",
+      "aliases": [
+        "word"
+      ],
+      "inflections": [
+        "words"
+      ],
+      "exampleContexts": [
+        "I know this word."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/w/word.htm"
+    },
+    {
+      "id": "asl.example.illustrative-example",
+      "signLanguage": "ASL",
+      "sense": "illustrative-example",
+      "label": "Example",
+      "definition": "An illustrative example; not automatically a complete explanatory phrase.",
+      "category": "communication",
+      "aliases": [
+        "example"
+      ],
+      "inflections": [
+        "examples"
+      ],
+      "exampleContexts": [
+        "Please show an example."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/e/example.htm"
+    },
+    {
+      "id": "asl.class.teaching-group",
+      "signLanguage": "ASL",
+      "sense": "teaching-group",
+      "label": "Class",
+      "definition": "An instructional class; not social class, quality, or programming.",
+      "category": "education",
+      "aliases": [
+        "class"
+      ],
+      "inflections": [
+        "classes"
+      ],
+      "exampleContexts": [
+        "My class is today."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/c/class.htm"
+    },
+    {
+      "id": "asl.lesson.teaching-unit",
+      "signLanguage": "ASL",
+      "sense": "teaching-unit",
+      "label": "Lesson",
+      "definition": "A unit of teaching; not a punitive metaphor.",
+      "category": "education",
+      "aliases": [
+        "lesson"
+      ],
+      "inflections": [
+        "lessons"
+      ],
+      "exampleContexts": [
+        "The lesson is today."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/l/lesson.htm"
+    },
+    {
+      "id": "asl.homework.schoolwork-at-home",
+      "signLanguage": "ASL",
+      "sense": "schoolwork-at-home",
+      "label": "Homework",
+      "definition": "Schoolwork assigned to do outside class.",
+      "category": "education",
+      "aliases": [
+        "homework"
+      ],
+      "inflections": [],
+      "exampleContexts": [
+        "I do my homework."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/h/homework.htm"
+    },
+    {
+      "id": "asl.library.book-lending-place",
+      "signLanguage": "ASL",
+      "sense": "book-lending-place",
+      "label": "Library",
+      "definition": "A library for reading and borrowing; not a software library.",
+      "category": "education",
+      "aliases": [
+        "library"
+      ],
+      "inflections": [
+        "libraries"
+      ],
+      "exampleContexts": [
+        "I go to the library."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/l/library.htm"
+    },
+    {
+      "id": "asl.computer.computing-device",
+      "signLanguage": "ASL",
+      "sense": "computing-device",
+      "label": "Computer",
+      "definition": "A computer device; not a named product.",
+      "category": "education",
+      "aliases": [
+        "computer"
+      ],
+      "inflections": [
+        "computers"
+      ],
+      "exampleContexts": [
+        "I use a computer."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/c/computer.htm"
+    },
+    {
+      "id": "asl.paper.paper-material",
+      "signLanguage": "ASL",
+      "sense": "paper-material",
+      "label": "Paper",
+      "definition": "Paper material; not automatically a newspaper, essay or examination.",
+      "category": "education",
+      "aliases": [
+        "paper"
+      ],
+      "inflections": [
+        "papers"
+      ],
+      "exampleContexts": [
+        "I need paper."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/p/paper.htm"
+    },
+    {
+      "id": "asl.pencil.writing-tool",
+      "signLanguage": "ASL",
+      "sense": "writing-tool",
+      "label": "Pencil",
+      "definition": "A pencil writing tool; not a scheduling verb.",
+      "category": "education",
+      "aliases": [
+        "pencil"
+      ],
+      "inflections": [
+        "pencils"
+      ],
+      "exampleContexts": [
+        "I write with a pencil."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/p/pencil.htm"
+    },
+    {
+      "id": "asl.test.assessment",
+      "signLanguage": "ASL",
+      "sense": "assessment",
+      "label": "Test",
+      "definition": "A test or assessment; medical tests and experimentation need separate context review.",
+      "category": "education",
+      "aliases": [
+        "test"
+      ],
+      "inflections": [
+        "tests"
+      ],
+      "exampleContexts": [
+        "My test is tomorrow."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/t/test.htm"
+    },
+    {
+      "id": "asl.afternoon.afternoon-time",
+      "signLanguage": "ASL",
+      "sense": "afternoon-time",
+      "label": "Afternoon",
+      "definition": "The period after noon; not a full good-afternoon greeting.",
+      "category": "time",
+      "aliases": [
+        "afternoon"
+      ],
+      "inflections": [
+        "afternoons"
+      ],
+      "exampleContexts": [
+        "I work in the afternoon."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/a/afternoon.htm"
+    },
+    {
+      "id": "asl.hour.hour-duration",
+      "signLanguage": "ASL",
+      "sense": "hour-duration",
+      "label": "Hour",
+      "definition": "An hour of duration; number incorporation requires separate review.",
+      "category": "time",
+      "aliases": [
+        "hour"
+      ],
+      "inflections": [
+        "hours"
+      ],
+      "exampleContexts": [
+        "I wait for an hour."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/h/hour.htm"
+    },
+    {
+      "id": "asl.minute.minute-duration",
+      "signLanguage": "ASL",
+      "sense": "minute-duration",
+      "label": "Minute",
+      "definition": "A minute of duration; smallness or meeting minutes are separate senses.",
+      "category": "time",
+      "aliases": [
+        "minute"
+      ],
+      "inflections": [
+        "minutes"
+      ],
+      "exampleContexts": [
+        "I wait for a minute."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/m/minute.htm"
+    },
+    {
+      "id": "asl.monday.weekday-monday",
+      "signLanguage": "ASL",
+      "sense": "weekday-monday",
+      "label": "Monday",
+      "definition": "Monday as a weekday; recurrence and tense are not inferred.",
+      "category": "time",
+      "aliases": [
+        "monday"
+      ],
+      "inflections": [
+        "mondays"
+      ],
+      "exampleContexts": [
+        "I work on Monday."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/m/monday.htm"
+    },
+    {
+      "id": "asl.wednesday.weekday-wednesday",
+      "signLanguage": "ASL",
+      "sense": "weekday-wednesday",
+      "label": "Wednesday",
+      "definition": "Wednesday as a weekday; recurrence and tense are not inferred.",
+      "category": "time",
+      "aliases": [
+        "wednesday"
+      ],
+      "inflections": [
+        "wednesdays"
+      ],
+      "exampleContexts": [
+        "I work on Wednesday."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/w/wednesday.htm"
+    },
+    {
+      "id": "asl.thursday.weekday-thursday",
+      "signLanguage": "ASL",
+      "sense": "weekday-thursday",
+      "label": "Thursday",
+      "definition": "Thursday as a weekday; recurrence and tense are not inferred.",
+      "category": "time",
+      "aliases": [
+        "thursday"
+      ],
+      "inflections": [
+        "thursdays"
+      ],
+      "exampleContexts": [
+        "I work on Thursday."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/t/thursday.htm"
+    },
+    {
+      "id": "asl.friday.weekday-friday",
+      "signLanguage": "ASL",
+      "sense": "weekday-friday",
+      "label": "Friday",
+      "definition": "Friday as a weekday; recurrence and tense are not inferred.",
+      "category": "time",
+      "aliases": [
+        "friday"
+      ],
+      "inflections": [
+        "fridays"
+      ],
+      "exampleContexts": [
+        "I work on Friday."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/f/friday.htm"
+    },
+    {
+      "id": "asl.saturday.weekday-saturday",
+      "signLanguage": "ASL",
+      "sense": "weekday-saturday",
+      "label": "Saturday",
+      "definition": "Saturday as a weekday; recurrence and tense are not inferred.",
+      "category": "time",
+      "aliases": [
+        "saturday"
+      ],
+      "inflections": [
+        "saturdays"
+      ],
+      "exampleContexts": [
+        "I work on Saturday."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/s/saturday.htm"
+    },
+    {
+      "id": "asl.later.later-time",
+      "signLanguage": "ASL",
+      "sense": "later-time",
+      "label": "Later",
+      "definition": "At a later time; not a full farewell phrase.",
+      "category": "time",
+      "aliases": [
+        "later"
+      ],
+      "inflections": [],
+      "exampleContexts": [
+        "I work later."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/l/later.htm"
+    },
+    {
+      "id": "asl.late.late-time",
+      "signLanguage": "ASL",
+      "sense": "late-time",
+      "label": "Late",
+      "definition": "Later than expected; not deceased or recent.",
+      "category": "time",
+      "aliases": [
+        "late"
+      ],
+      "inflections": [],
+      "exampleContexts": [
+        "I arrive late."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/l/late.htm"
+    },
+    {
+      "id": "asl.angry.anger-emotion",
+      "signLanguage": "ASL",
+      "sense": "anger-emotion",
+      "label": "Angry",
+      "definition": "Feeling anger; intensity and nonmanual features require review.",
+      "category": "emotion",
+      "aliases": [
+        "angry"
+      ],
+      "inflections": [],
+      "exampleContexts": [
+        "I am angry."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/a/angry.htm"
+    },
+    {
+      "id": "asl.scared.fear-emotion",
+      "signLanguage": "ASL",
+      "sense": "fear-emotion",
+      "label": "Scared",
+      "definition": "Feeling fear; source handshape and facial features require review.",
+      "category": "emotion",
+      "aliases": [
+        "scared"
+      ],
+      "inflections": [],
+      "exampleContexts": [
+        "I feel scared."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/s/scared.htm"
+    },
+    {
+      "id": "asl.worry.worry-emotion",
+      "signLanguage": "ASL",
+      "sense": "worry-emotion",
+      "label": "Worry",
+      "definition": "Worry or feel concern; not an unrelated reassurance sentence.",
+      "category": "emotion",
+      "aliases": [
+        "worry"
+      ],
+      "inflections": [
+        "worries",
+        "worried",
+        "worrying"
+      ],
+      "exampleContexts": [
+        "I worry about school."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/w/worry.htm"
+    },
+    {
+      "id": "asl.bored.boredom",
+      "signLanguage": "ASL",
+      "sense": "boredom",
+      "label": "Bored",
+      "definition": "Feeling bored; not drilling a hole.",
+      "category": "emotion",
+      "aliases": [
+        "bored"
+      ],
+      "inflections": [],
+      "exampleContexts": [
+        "I am bored."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/b/bored.htm"
+    },
+    {
+      "id": "asl.lonely.loneliness",
+      "signLanguage": "ASL",
+      "sense": "loneliness",
+      "label": "Lonely",
+      "definition": "Feeling lonely; being physically alone is not assumed equivalent.",
+      "category": "emotion",
+      "aliases": [
+        "lonely"
+      ],
+      "inflections": [],
+      "exampleContexts": [
+        "I feel lonely."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/l/lonely.htm"
+    },
+    {
+      "id": "asl.comfortable.physical-comfort",
+      "signLanguage": "ASL",
+      "sense": "physical-comfort",
+      "label": "Comfortable",
+      "definition": "Feeling comfortable; confident or financially secure meanings are not inferred.",
+      "category": "emotion",
+      "aliases": [
+        "comfortable"
+      ],
+      "inflections": [],
+      "exampleContexts": [
+        "I feel comfortable."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/c/comfortable.htm"
+    },
+    {
+      "id": "asl.relax.relax-action",
+      "signLanguage": "ASL",
+      "sense": "relax-action",
+      "label": "Relax",
+      "definition": "Relax or release tension; exact realization and nonmanuals require review.",
+      "category": "emotion",
+      "aliases": [
+        "relax"
+      ],
+      "inflections": [
+        "relaxes",
+        "relaxed",
+        "relaxing"
+      ],
+      "exampleContexts": [
+        "I relax at home."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/r/relax.htm"
+    },
+    {
+      "id": "asl.stress.stress-feeling",
+      "signLanguage": "ASL",
+      "sense": "stress-feeling",
+      "label": "Stress",
+      "definition": "Psychological stress; mechanical pressure and word emphasis are separate senses.",
+      "category": "emotion",
+      "aliases": [
+        "stress"
+      ],
+      "inflections": [],
+      "exampleContexts": [
+        "I feel stress."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/s/stress.htm"
+    },
+    {
+      "id": "asl.smile.smiling-action",
+      "signLanguage": "ASL",
+      "sense": "smiling-action",
+      "label": "Smile",
+      "definition": "A smile as an action; not grammatical nonmanuals for arbitrary ASL sentences.",
+      "category": "emotion",
+      "aliases": [
+        "smile"
+      ],
+      "inflections": [
+        "smiles",
+        "smiled",
+        "smiling"
+      ],
+      "exampleContexts": [
+        "I smile at my friend."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/s/smile.htm"
+    },
+    {
+      "id": "asl.cry.cry-action",
+      "signLanguage": "ASL",
+      "sense": "cry-action",
+      "label": "Cry",
+      "definition": "Cry with tears; not call out or shout.",
+      "category": "emotion",
+      "aliases": [
+        "cry"
+      ],
+      "inflections": [
+        "cries",
+        "cried",
+        "crying"
+      ],
+      "exampleContexts": [
+        "I cry when I am sad."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/c/cry.htm"
+    },
+    {
+      "id": "asl.laugh.laugh-action",
+      "signLanguage": "ASL",
+      "sense": "laugh-action",
+      "label": "Laugh",
+      "definition": "Laugh as an action; expression and source timing require review.",
+      "category": "emotion",
+      "aliases": [
+        "laugh"
+      ],
+      "inflections": [
+        "laughs",
+        "laughed",
+        "laughing"
+      ],
+      "exampleContexts": [
+        "I laugh with my friend."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/l/laugh.htm"
+    },
+    {
+      "id": "asl.ready.prepared-state",
+      "signLanguage": "ASL",
+      "sense": "prepared-state",
+      "label": "Ready",
+      "definition": "Being prepared or ready; not money or a complete question.",
+      "category": "description",
+      "aliases": [
+        "ready"
+      ],
+      "inflections": [],
+      "exampleContexts": [
+        "I am ready."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/r/ready.htm"
+    },
+    {
+      "id": "asl.easy.low-difficulty",
+      "signLanguage": "ASL",
+      "sense": "low-difficulty",
+      "label": "Easy",
+      "definition": "Low difficulty; not a command to slow down.",
+      "category": "description",
+      "aliases": [
+        "easy"
+      ],
+      "inflections": [],
+      "exampleContexts": [
+        "This lesson is easy."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/e/easy.htm"
+    },
+    {
+      "id": "asl.hard.high-difficulty",
+      "signLanguage": "ASL",
+      "sense": "high-difficulty",
+      "label": "Hard",
+      "definition": "High difficulty; solid texture and physical force are separate senses.",
+      "category": "description",
+      "aliases": [
+        "hard"
+      ],
+      "inflections": [],
+      "exampleContexts": [
+        "This lesson is hard."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/h/hard.htm"
+    },
+    {
+      "id": "asl.different.difference",
+      "signLanguage": "ASL",
+      "sense": "difference",
+      "label": "Different",
+      "definition": "Different or not the same; source variant and comparison scope require review.",
+      "category": "description",
+      "aliases": [
+        "different"
+      ],
+      "inflections": [],
+      "exampleContexts": [
+        "These words are different."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/d/different.htm"
+    },
+    {
+      "id": "asl.old.age-quality",
+      "signLanguage": "ASL",
+      "sense": "age-quality",
+      "label": "Old",
+      "definition": "Old in age; person versus object realization requires review.",
+      "category": "description",
+      "aliases": [
+        "old"
+      ],
+      "inflections": [],
+      "exampleContexts": [
+        "The book is old."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/o/old.htm"
+    },
+    {
+      "id": "asl.young.young-age",
+      "signLanguage": "ASL",
+      "sense": "young-age",
+      "label": "Young",
+      "definition": "Young in age; not a proper name.",
+      "category": "description",
+      "aliases": [
+        "young"
+      ],
+      "inflections": [],
+      "exampleContexts": [
+        "My cousin is young."
+      ],
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/y/young.htm"
+    }
+  ],
+  "entries": [
+    {
+      "id": "3dlex-nurse",
+      "word": "nurse",
+      "conceptId": "asl.nurse.nursing-professional",
+      "sense": "nursing-professional",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/nurse.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/n/nurse.htm"
+    },
+    {
+      "id": "3dlex-medicine",
+      "word": "medicine",
+      "conceptId": "asl.medicine.medication",
+      "sense": "medication",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/medicine.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/m/medicine.htm"
+    },
+    {
+      "id": "3dlex-headache",
+      "word": "headache",
+      "conceptId": "asl.headache.head-pain",
+      "sense": "head-pain",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/headache.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/h/headache.htm"
+    },
+    {
+      "id": "3dlex-health",
+      "word": "health",
+      "conceptId": "asl.health.wellbeing",
+      "sense": "wellbeing",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/health.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/h/health.htm"
+    },
+    {
+      "id": "3dlex-blood",
+      "word": "blood",
+      "conceptId": "asl.blood.body-fluid",
+      "sense": "body-fluid",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/blood.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/b/blood.htm"
+    },
+    {
+      "id": "3dlex-body",
+      "word": "body",
+      "conceptId": "asl.body.human-body",
+      "sense": "human-body",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/body.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/b/body.htm"
+    },
+    {
+      "id": "3dlex-breathe",
+      "word": "breathe",
+      "conceptId": "asl.breathe.respiration",
+      "sense": "respiration",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/breathe.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/b/breathe.htm"
+    },
+    {
+      "id": "3dlex-cough",
+      "word": "cough",
+      "conceptId": "asl.cough.cough-action",
+      "sense": "cough-action",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/cough.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/c/cough.htm"
+    },
+    {
+      "id": "3dlex-therapy",
+      "word": "therapy",
+      "conceptId": "asl.therapy.therapeutic-treatment",
+      "sense": "therapeutic-treatment",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/therapy.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/t/therapy.htm"
+    },
+    {
+      "id": "3dlex-surgery",
+      "word": "surgery",
+      "conceptId": "asl.surgery.surgical-procedure",
+      "sense": "surgical-procedure",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/surgery.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/s/surgery.htm"
+    },
+    {
+      "id": "3dlex-vomit",
+      "word": "vomit",
+      "conceptId": "asl.vomit.vomiting",
+      "sense": "vomiting",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/vomit.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/v/vomit.htm"
+    },
+    {
+      "id": "3dlex-rest",
+      "word": "rest",
+      "conceptId": "asl.rest.rest-action",
+      "sense": "rest-action",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/rest.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/r/rest.htm"
+    },
+    {
+      "id": "3dlex-clean",
+      "word": "clean",
+      "conceptId": "asl.clean.free-from-dirt",
+      "sense": "free-from-dirt",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/clean.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/c/clean.htm"
+    },
+    {
+      "id": "3dlex-dirty",
+      "word": "dirty",
+      "conceptId": "asl.dirty.unclean",
+      "sense": "unclean",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/dirty.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/d/dirty.htm"
+    },
+    {
+      "id": "3dlex-soap",
+      "word": "soap",
+      "conceptId": "asl.soap.washing-substance",
+      "sense": "washing-substance",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/soap.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/s/soap.htm"
+    },
+    {
+      "id": "3dlex-shower",
+      "word": "shower",
+      "conceptId": "asl.shower.washing-shower",
+      "sense": "washing-shower",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/shower.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/s/shower.htm"
+    },
+    {
+      "id": "3dlex-bed",
+      "word": "bed",
+      "conceptId": "asl.bed.sleeping-furniture",
+      "sense": "sleeping-furniture",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/bed.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/b/bed.htm"
+    },
+    {
+      "id": "3dlex-bedroom",
+      "word": "bedroom",
+      "conceptId": "asl.bedroom.sleeping-room",
+      "sense": "sleeping-room",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/bedroom.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/b/bedroom.htm"
+    },
+    {
+      "id": "3dlex-kitchen",
+      "word": "kitchen",
+      "conceptId": "asl.kitchen.food-preparation-room",
+      "sense": "food-preparation-room",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/kitchen.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/k/kitchen.htm"
+    },
+    {
+      "id": "3dlex-chair",
+      "word": "chair",
+      "conceptId": "asl.chair.sitting-furniture",
+      "sense": "sitting-furniture",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/chair.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/c/chair.htm"
+    },
+    {
+      "id": "3dlex-door",
+      "word": "door",
+      "conceptId": "asl.door.door-object",
+      "sense": "door-object",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/door.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/d/door.htm"
+    },
+    {
+      "id": "3dlex-window",
+      "word": "window",
+      "conceptId": "asl.window.building-window",
+      "sense": "building-window",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/window.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/w/window.htm"
+    },
+    {
+      "id": "3dlex-clothes",
+      "word": "clothes",
+      "conceptId": "asl.clothes.garments",
+      "sense": "garments",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/clothes.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/c/clothes.htm"
+    },
+    {
+      "id": "3dlex-shirt",
+      "word": "shirt",
+      "conceptId": "asl.shirt.upper-body-garment",
+      "sense": "upper-body-garment",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/shirt.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/s/shirt.htm"
+    },
+    {
+      "id": "3dlex-shoes",
+      "word": "shoes",
+      "conceptId": "asl.shoes.footwear",
+      "sense": "footwear",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/shoes.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/s/shoes.htm"
+    },
+    {
+      "id": "3dlex-banana",
+      "word": "banana",
+      "conceptId": "asl.banana.banana-fruit",
+      "sense": "banana-fruit",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/banana.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/b/banana.htm"
+    },
+    {
+      "id": "3dlex-cheese",
+      "word": "cheese",
+      "conceptId": "asl.cheese.cheese-food",
+      "sense": "cheese-food",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/cheese.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/c/cheese.htm"
+    },
+    {
+      "id": "3dlex-egg",
+      "word": "egg",
+      "conceptId": "asl.egg.egg-food",
+      "sense": "egg-food",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/egg.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/e/egg.htm"
+    },
+    {
+      "id": "3dlex-fruit",
+      "word": "fruit",
+      "conceptId": "asl.fruit.fruit-food",
+      "sense": "fruit-food",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/fruit.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/f/fruit.htm"
+    },
+    {
+      "id": "3dlex-orange",
+      "word": "orange",
+      "conceptId": "asl.orange.orange-fruit",
+      "sense": "orange-fruit",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/orange.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/o/orange.htm"
+    },
+    {
+      "id": "3dlex-potato",
+      "word": "potato",
+      "conceptId": "asl.potato.potato-food",
+      "sense": "potato-food",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/potato.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/p/potato.htm"
+    },
+    {
+      "id": "3dlex-tomato",
+      "word": "tomato",
+      "conceptId": "asl.tomato.tomato-food",
+      "sense": "tomato-food",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/tomato.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/t/tomato.htm"
+    },
+    {
+      "id": "3dlex-soup",
+      "word": "soup",
+      "conceptId": "asl.soup.soup-food",
+      "sense": "soup-food",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/soup.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/s/soup.htm"
+    },
+    {
+      "id": "3dlex-sandwich",
+      "word": "sandwich",
+      "conceptId": "asl.sandwich.sandwich-food",
+      "sense": "sandwich-food",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/sandwich.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/s/sandwich.htm"
+    },
+    {
+      "id": "3dlex-salt",
+      "word": "salt",
+      "conceptId": "asl.salt.salt-food",
+      "sense": "salt-food",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/salt.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/s/salt.htm"
+    },
+    {
+      "id": "3dlex-cook",
+      "word": "cook",
+      "conceptId": "asl.cook.prepare-food",
+      "sense": "prepare-food",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/cook.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/c/cook.htm"
+    },
+    {
+      "id": "3dlex-delicious",
+      "word": "delicious",
+      "conceptId": "asl.delicious.pleasant-taste",
+      "sense": "pleasant-taste",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/delicious.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/d/delicious.htm"
+    },
+    {
+      "id": "3dlex-full",
+      "word": "full",
+      "conceptId": "asl.full.satiated",
+      "sense": "satiated",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/full.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/f/full.htm"
+    },
+    {
+      "id": "3dlex-restaurant",
+      "word": "restaurant",
+      "conceptId": "asl.restaurant.eating-establishment",
+      "sense": "eating-establishment",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/restaurant.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/r/restaurant.htm"
+    },
+    {
+      "id": "3dlex-husband",
+      "word": "husband",
+      "conceptId": "asl.husband.male-spouse",
+      "sense": "male-spouse",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/husband.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/h/husband.htm"
+    },
+    {
+      "id": "3dlex-wife",
+      "word": "wife",
+      "conceptId": "asl.wife.female-spouse",
+      "sense": "female-spouse",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/wife.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/w/wife.htm"
+    },
+    {
+      "id": "3dlex-uncle",
+      "word": "uncle",
+      "conceptId": "asl.uncle.parent-sibling-male",
+      "sense": "parent-sibling-male",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/uncle.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/u/uncle.htm"
+    },
+    {
+      "id": "3dlex-cousin",
+      "word": "cousin",
+      "conceptId": "asl.cousin.cousin-relative",
+      "sense": "cousin-relative",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/cousin.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/c/cousin.htm"
+    },
+    {
+      "id": "3dlex-nephew",
+      "word": "nephew",
+      "conceptId": "asl.nephew.nephew-relative",
+      "sense": "nephew-relative",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/nephew.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/n/nephew.htm"
+    },
+    {
+      "id": "3dlex-niece",
+      "word": "niece",
+      "conceptId": "asl.niece.niece-relative",
+      "sense": "niece-relative",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/niece.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/n/niece.htm"
+    },
+    {
+      "id": "3dlex-grandmother",
+      "word": "grandmother",
+      "conceptId": "asl.grandmother.female-grandparent",
+      "sense": "female-grandparent",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/grandmother.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/g/grandmother.htm"
+    },
+    {
+      "id": "3dlex-grandfather",
+      "word": "grandfather",
+      "conceptId": "asl.grandfather.male-grandparent",
+      "sense": "male-grandparent",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/grandfather.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/g/grandfather.htm"
+    },
+    {
+      "id": "3dlex-parents",
+      "word": "parents",
+      "conceptId": "asl.parents.parent-relatives",
+      "sense": "parent-relatives",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/parents.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/p/parents.htm"
+    },
+    {
+      "id": "3dlex-person",
+      "word": "person",
+      "conceptId": "asl.person.human-person",
+      "sense": "human-person",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/person.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/p/person.htm"
+    },
+    {
+      "id": "3dlex-adult",
+      "word": "adult",
+      "conceptId": "asl.adult.adult-person",
+      "sense": "adult-person",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/adult.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/a/adult.htm"
+    },
+    {
+      "id": "3dlex-interpreter",
+      "word": "interpreter",
+      "conceptId": "asl.interpreter.language-interpreter",
+      "sense": "language-interpreter",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/interpreter.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/i/interpreter.htm"
+    },
+    {
+      "id": "3dlex-translate",
+      "word": "translate",
+      "conceptId": "asl.translate.between-languages",
+      "sense": "between-languages",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/translate.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/t/translate.htm"
+    },
+    {
+      "id": "3dlex-talk",
+      "word": "talk",
+      "conceptId": "asl.talk.conversation-action",
+      "sense": "conversation-action",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/talk.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/t/talk.htm"
+    },
+    {
+      "id": "3dlex-show",
+      "word": "show",
+      "conceptId": "asl.show.show-something",
+      "sense": "show-something",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/show.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/s/show.htm"
+    },
+    {
+      "id": "3dlex-sentence",
+      "word": "sentence",
+      "conceptId": "asl.sentence.language-sentence",
+      "sense": "language-sentence",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/sentence.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/s/sentence.htm"
+    },
+    {
+      "id": "3dlex-word",
+      "word": "word",
+      "conceptId": "asl.word.language-word",
+      "sense": "language-word",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/word.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/w/word.htm"
+    },
+    {
+      "id": "3dlex-example",
+      "word": "example",
+      "conceptId": "asl.example.illustrative-example",
+      "sense": "illustrative-example",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/example.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/e/example.htm"
+    },
+    {
+      "id": "3dlex-class",
+      "word": "class",
+      "conceptId": "asl.class.teaching-group",
+      "sense": "teaching-group",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/class.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/c/class.htm"
+    },
+    {
+      "id": "3dlex-lesson",
+      "word": "lesson",
+      "conceptId": "asl.lesson.teaching-unit",
+      "sense": "teaching-unit",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/lesson.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/l/lesson.htm"
+    },
+    {
+      "id": "3dlex-homework",
+      "word": "homework",
+      "conceptId": "asl.homework.schoolwork-at-home",
+      "sense": "schoolwork-at-home",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/homework.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/h/homework.htm"
+    },
+    {
+      "id": "3dlex-library",
+      "word": "library",
+      "conceptId": "asl.library.book-lending-place",
+      "sense": "book-lending-place",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/library.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/l/library.htm"
+    },
+    {
+      "id": "3dlex-computer",
+      "word": "computer",
+      "conceptId": "asl.computer.computing-device",
+      "sense": "computing-device",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/computer.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/c/computer.htm"
+    },
+    {
+      "id": "3dlex-paper",
+      "word": "paper",
+      "conceptId": "asl.paper.paper-material",
+      "sense": "paper-material",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/paper.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/p/paper.htm"
+    },
+    {
+      "id": "3dlex-pencil",
+      "word": "pencil",
+      "conceptId": "asl.pencil.writing-tool",
+      "sense": "writing-tool",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/pencil.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/p/pencil.htm"
+    },
+    {
+      "id": "3dlex-test",
+      "word": "test",
+      "conceptId": "asl.test.assessment",
+      "sense": "assessment",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/test.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/t/test.htm"
+    },
+    {
+      "id": "3dlex-afternoon",
+      "word": "afternoon",
+      "conceptId": "asl.afternoon.afternoon-time",
+      "sense": "afternoon-time",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/afternoon.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/a/afternoon.htm"
+    },
+    {
+      "id": "3dlex-hour",
+      "word": "hour",
+      "conceptId": "asl.hour.hour-duration",
+      "sense": "hour-duration",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/hour.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/h/hour.htm"
+    },
+    {
+      "id": "3dlex-minute",
+      "word": "minute",
+      "conceptId": "asl.minute.minute-duration",
+      "sense": "minute-duration",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/minute.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/m/minute.htm"
+    },
+    {
+      "id": "3dlex-monday",
+      "word": "monday",
+      "conceptId": "asl.monday.weekday-monday",
+      "sense": "weekday-monday",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/monday.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/m/monday.htm"
+    },
+    {
+      "id": "3dlex-wednesday",
+      "word": "wednesday",
+      "conceptId": "asl.wednesday.weekday-wednesday",
+      "sense": "weekday-wednesday",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/wednesday.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/w/wednesday.htm"
+    },
+    {
+      "id": "3dlex-thursday",
+      "word": "thursday",
+      "conceptId": "asl.thursday.weekday-thursday",
+      "sense": "weekday-thursday",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/thursday.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/t/thursday.htm"
+    },
+    {
+      "id": "3dlex-friday",
+      "word": "friday",
+      "conceptId": "asl.friday.weekday-friday",
+      "sense": "weekday-friday",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/friday.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/f/friday.htm"
+    },
+    {
+      "id": "3dlex-saturday",
+      "word": "saturday",
+      "conceptId": "asl.saturday.weekday-saturday",
+      "sense": "weekday-saturday",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/saturday.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/s/saturday.htm"
+    },
+    {
+      "id": "3dlex-later",
+      "word": "later",
+      "conceptId": "asl.later.later-time",
+      "sense": "later-time",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/later.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/l/later.htm"
+    },
+    {
+      "id": "3dlex-late",
+      "word": "late",
+      "conceptId": "asl.late.late-time",
+      "sense": "late-time",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/late.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/l/late.htm"
+    },
+    {
+      "id": "3dlex-angry",
+      "word": "angry",
+      "conceptId": "asl.angry.anger-emotion",
+      "sense": "anger-emotion",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/angry.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/a/angry.htm"
+    },
+    {
+      "id": "3dlex-scared",
+      "word": "scared",
+      "conceptId": "asl.scared.fear-emotion",
+      "sense": "fear-emotion",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/scared.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/s/scared.htm"
+    },
+    {
+      "id": "3dlex-worry",
+      "word": "worry",
+      "conceptId": "asl.worry.worry-emotion",
+      "sense": "worry-emotion",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/worry.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/w/worry.htm"
+    },
+    {
+      "id": "3dlex-bored",
+      "word": "bored",
+      "conceptId": "asl.bored.boredom",
+      "sense": "boredom",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/bored.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/b/bored.htm"
+    },
+    {
+      "id": "3dlex-lonely",
+      "word": "lonely",
+      "conceptId": "asl.lonely.loneliness",
+      "sense": "loneliness",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/lonely.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/l/lonely.htm"
+    },
+    {
+      "id": "3dlex-comfortable",
+      "word": "comfortable",
+      "conceptId": "asl.comfortable.physical-comfort",
+      "sense": "physical-comfort",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/comfortable.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/c/comfortable.htm"
+    },
+    {
+      "id": "3dlex-relax",
+      "word": "relax",
+      "conceptId": "asl.relax.relax-action",
+      "sense": "relax-action",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/relax.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/r/relax.htm"
+    },
+    {
+      "id": "3dlex-stress",
+      "word": "stress",
+      "conceptId": "asl.stress.stress-feeling",
+      "sense": "stress-feeling",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/stress.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/s/stress.htm"
+    },
+    {
+      "id": "3dlex-smile",
+      "word": "smile",
+      "conceptId": "asl.smile.smiling-action",
+      "sense": "smiling-action",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/smile.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/s/smile.htm"
+    },
+    {
+      "id": "3dlex-cry",
+      "word": "cry",
+      "conceptId": "asl.cry.cry-action",
+      "sense": "cry-action",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/cry.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/c/cry.htm"
+    },
+    {
+      "id": "3dlex-laugh",
+      "word": "laugh",
+      "conceptId": "asl.laugh.laugh-action",
+      "sense": "laugh-action",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/laugh.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/l/laugh.htm"
+    },
+    {
+      "id": "3dlex-ready",
+      "word": "ready",
+      "conceptId": "asl.ready.prepared-state",
+      "sense": "prepared-state",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/ready.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/r/ready.htm"
+    },
+    {
+      "id": "3dlex-easy",
+      "word": "easy",
+      "conceptId": "asl.easy.low-difficulty",
+      "sense": "low-difficulty",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/easy.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/e/easy.htm"
+    },
+    {
+      "id": "3dlex-hard",
+      "word": "hard",
+      "conceptId": "asl.hard.high-difficulty",
+      "sense": "high-difficulty",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/hard.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/h/hard.htm"
+    },
+    {
+      "id": "3dlex-different",
+      "word": "different",
+      "conceptId": "asl.different.difference",
+      "sense": "difference",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/different.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/d/different.htm"
+    },
+    {
+      "id": "3dlex-old",
+      "word": "old",
+      "conceptId": "asl.old.age-quality",
+      "sense": "age-quality",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/old.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/o/old.htm"
+    },
+    {
+      "id": "3dlex-young",
+      "word": "young",
+      "conceptId": "asl.young.young-age",
+      "sense": "young-age",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/presentation-batch-20261016/young.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "3D-LEX source capture; exact sense and variant pending review",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/y/young.htm"
+    }
+  ]
+}

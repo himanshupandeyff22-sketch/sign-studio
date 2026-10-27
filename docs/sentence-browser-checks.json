@@ -1,0 +1,109 @@
+{
+  "cases": [
+    {
+      "input": "I need help.",
+      "status": "Incomplete meaning · playback held",
+      "coverage": "1 of 3 meaning units have enabled clips. 2 need attention. This measures lexical coverage, not ASL accuracy.",
+      "playEnabled": false
+    },
+    {
+      "input": "I don’t need help.",
+      "status": "Incomplete meaning · playback held",
+      "coverage": "0 of 4 meaning units have enabled clips. 4 need attention. This measures lexical coverage, not ASL accuracy.",
+      "playEnabled": false
+    },
+    {
+      "input": "Where is school?",
+      "status": "Approximate sign sequence",
+      "coverage": "2 of 2 meaning units have enabled clips. 0 need attention. This measures lexical coverage, not ASL accuracy.",
+      "playEnabled": true
+    },
+    {
+      "input": "My name is Alice.",
+      "status": "Incomplete meaning · playback held",
+      "coverage": "1 of 3 meaning units have enabled clips. 2 need attention. This measures lexical coverage, not ASL accuracy.",
+      "playEnabled": false
+    },
+    {
+      "input": "You want qzxunknown.",
+      "status": "Incomplete meaning · playback held",
+      "coverage": "2 of 3 meaning units have enabled clips. 1 need attention. This measures lexical coverage, not ASL accuracy.",
+      "playEnabled": false
+    },
+    {
+      "input": "Your teacher works today. You want water. Please drink water.",
+      "status": "Approximate sign sequence",
+      "coverage": "10 of 10 meaning units have enabled clips. 0 need attention. This measures lexical coverage, not ASL accuracy.",
+      "playEnabled": true
+    }
+  ],
+  "frames": [
+    {
+      "source": "please",
+      "time": 2,
+      "current": "Please",
+      "review": "Technical visual inspection only; fluent ASL/source-meaning approval not performed."
+    },
+    {
+      "source": "drink",
+      "time": 6,
+      "current": "Drink",
+      "review": "Technical visual inspection only; fluent ASL/source-meaning approval not performed."
+    },
+    {
+      "source": "water",
+      "time": 9.5,
+      "current": "Water",
+      "review": "Technical visual inspection only; fluent ASL/source-meaning approval not performed."
+    },
+    {
+      "source": "your",
+      "time": 1.5,
+      "current": "Your",
+      "review": "Technical visual inspection only; fluent ASL/source-meaning approval not performed."
+    },
+    {
+      "source": "teacher",
+      "time": 4.5,
+      "current": "Teacher",
+      "review": "Technical visual inspection only; fluent ASL/source-meaning approval not performed."
+    },
+    {
+      "source": "work",
+      "time": 8.5,
+      "current": "works → Work",
+      "review": "Technical visual inspection only; fluent ASL/source-meaning approval not performed."
+    },
+    {
+      "source": "today",
+      "time": 11,
+      "current": "Today",
+      "review": "Technical visual inspection only; fluent ASL/source-meaning approval not performed."
+    },
+    {
+      "source": "where",
+      "time": 2.5,
+      "current": "Where",
+      "review": "Technical visual inspection only; fluent ASL/source-meaning approval not performed."
+    },
+    {
+      "source": "school",
+      "time": 9,
+      "current": "School",
+      "review": "Technical visual inspection only; fluent ASL/source-meaning approval not performed."
+    },
+    {
+      "source": "you",
+      "time": 1.5,
+      "current": "You",
+      "review": "Technical visual inspection only; fluent ASL/source-meaning approval not performed."
+    },
+    {
+      "source": "want",
+      "time": 7.5,
+      "current": "Want",
+      "review": "Technical visual inspection only; fluent ASL/source-meaning approval not performed."
+    }
+  ],
+  "largeInput": "500 words -> 500 lexical units, 60 initially rendered, 120 after Show more. No linguistic approval."
+}

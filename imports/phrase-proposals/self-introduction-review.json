@@ -1,0 +1,34 @@
+{
+  "schema": "asl-phrase-review-proposal/1",
+  "id": "asl.template.self-introduction",
+  "signLanguage": "ASL",
+  "englishPatterns": ["my name is {name}", "i am {name}"],
+  "intendedSense": "introducing the speaker by their supplied personal name in a small conversation",
+  "referenceURL": "https://www.lifeprint.com/asl101/topics/signingnotes.htm",
+  "referenceOnlyOutline": [
+    "ASLU discusses possessive MY with NAME and self-indexing followed by fingerspelled names as different introduction constructions.",
+    "Choose and review the exact construction and name rendering; do not substitute a lexical word sign for a person's name."
+  ],
+  "requiredMeaningDistinction": "MY possession and I/ME self-indexing are distinct. The {name} slot represents a personal name, not an ordinary vocabulary alias. A question, a reply supplying a name, and a formal public introduction have different contexts.",
+  "candidateInspectionAssets": [],
+  "existingConceptIds": ["asl.name.personal-label", "asl.person.first-person"],
+  "slotRequirements": {
+    "name": {
+      "type": "personal-name",
+      "preserveOriginal": true,
+      "requireValidatedFingerspellingOrExistingReviewedNameSign": true,
+      "availableValidatedFingerspelling": false
+    }
+  },
+  "enabledAnimationIds": [],
+  "translationEligible": false,
+  "status": "pending-source-and-phrase-review",
+  "linguisticReview": {"status": "pending", "reviewer": null, "date": null},
+  "remaining": [
+    "Obtain permitted compatible self-reference and, if chosen, MY/NAME motions; current first-person and NAME concepts have no recorded animation.",
+    "Obtain and validate fingerspelling, including transitions and repeated letters, or use only a specifically documented reviewed name sign.",
+    "Review gaze, facial/body expression, name legibility, timing and full signing-space visibility on Aarav.",
+    "Implement reviewed slot handling only after the exact phrase and name rendering are approved. Braced patterns here are proposal notation, not runtime matching syntax."
+  ],
+  "notice": "Authored pending review proposal only; no name sign or animation is invented. No reference media were copied. This record is not imported into the runtime manifest and supplies no playable sentence."
+}

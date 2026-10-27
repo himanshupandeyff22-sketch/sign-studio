@@ -1,0 +1,93 @@
+{
+  "verifiedOn": "2026-10-16",
+  "signedLanguage": "ASL",
+  "runtime": "v24.19.0",
+  "checks": {
+    "syntaxFiles": 41,
+    "uniqueUIIds": 137,
+    "immutableMotions": 153,
+    "passed": true
+  },
+  "tests": {
+    "tests": 70,
+    "passed": 70,
+    "failed": 0,
+    "skipped": 0,
+    "durationMs": 322591.3799
+  },
+  "before": {
+    "concepts": 122,
+    "recordedMotions": 78,
+    "approved": 0
+  },
+  "after": {
+    "concepts": 214,
+    "aliases": 233,
+    "inflections": 216,
+    "recordedMotions": 153,
+    "approved": 0
+  },
+  "original78RegistrationsAndBytesPreserved": true,
+  "aaravGLBSHA256": "ebe6b1596256f314d1356cfc2f42d28203b5bf1864d0bf139845cb9d13ee6500",
+  "testLogSHA256": "72a13bf732141931b8ef02ab8f01882b1309f9af9c84b1807f88c6b5fe772751",
+  "browser": {
+    "measuredCSSViewports": [
+      {
+        "width": 1440,
+        "height": 900
+      },
+      {
+        "width": 768,
+        "height": 900
+      },
+      {
+        "width": 390,
+        "height": 844
+      }
+    ],
+    "horizontalOverflow": false,
+    "avatarCanvases": 1,
+    "finalObservedConsoleWarningsAndErrors": 0,
+    "liveMicrophoneOrCameraRequested": false,
+    "physicalDevicesTested": false,
+    "auditoryVoiceQualityVerified": false
+  },
+  "linguisticApproval": false,
+  "completeConversationalTranslation": false,
+  "screenshots": [
+    {
+      "path": "docs/screenshots/upgrade-20261016/nurse-desktop.jpg",
+      "bytes": 57213,
+      "sha256": "b90dd004668539256935ae6c23e14a73445c66d7912f3838f143b60facbba20b"
+    },
+    {
+      "path": "docs/screenshots/upgrade-20261016/breathe-mobile.jpg",
+      "bytes": 30747,
+      "sha256": "214030569031e917234aa4d100894024d764ed6514314d2e864c4b43a5444507"
+    },
+    {
+      "path": "docs/screenshots/upgrade-20261016/library-mobile.jpg",
+      "bytes": 30004,
+      "sha256": "dfc31f8417ee3beb4642509c2905bc5e120667e4c6393f3a45956c9db30c0ff3"
+    },
+    {
+      "path": "docs/screenshots/upgrade-20261016/studio-tablet.jpg",
+      "bytes": 48686,
+      "sha256": "e992d683c23dd8fa546e541de70ba24133357318adb1ab53479e8edd43e4243c"
+    }
+  ],
+  "checkpoint": "../checkpoints/2026-10-16-before-upgrade/",
+  "currentCodeSHA256": {
+    "web/index.html": "e05717f6d339a472e2c11d5a0f9d756106fcf9ac4d28e98044f6dda06d7b00a9",
+    "web/presentation.css": "6bac9eb175183d1d0df05b726520d82e45a91ef7e6ad285714740723606cc4eb",
+    "web/app.js": "22cdaf30b7ba73742ef0ad6edcf8f30ea20b2b6f8a8d1c591b2d3a746b7cde18",
+    "web/avatar.js": "2472ff81074f5255f3121cbbe970dd11d5ea39d405860d19e03e43c06ab25130",
+    "web/asl-loader.js": "b94bc21017cab67d0e4ade3a57300a6eec25d0aa71b22b116aed7e3127dfe75e",
+    "web/voice.js": "d79129e8c3aeb88b6a7190ef81041446aa0f6da266c97d3daf404ce257e70d4a",
+    "web/request-lifecycle.mjs": "8aa9c91c8c508e8d3278be4c8cd261f3cfb302d2bc6e8b98afe6e16bb6f20338",
+    "backend/catalog.mjs": "62443cbd1309dc34e57098a72d48148632ee6e5385e1538894c61432f517cd3c",
+    "backend/interpret.mjs": "3b66ba83d1971f0e6378f96316539285ebbe065a44c74d100ced27cc6fb7363c",
+    "scripts/import-core.mjs": "4a11c5e305471bd95fa15b0c577b37e5220321dd4f0d7959063786293ff710c0",
+    "web/vocabulary-manifest.json": "4ee87cadb3c0c6b6cb5a3e49c4254b20dd3e3720efab5f9909007f59715e3426"
+  }
+}

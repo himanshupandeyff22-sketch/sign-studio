@@ -1,0 +1,17 @@
+{
+  "clip_id": "clerc_v03_0011",
+  "signer_id": "ALPHA",
+  "sign_language": "ASL",
+  "text_en": "Hello",
+  "fps": 30.0,
+  "n_frames": 137,
+  "segments": [
+    {
+      "gloss": "HELLO",
+      "start": 1.1,
+      "end": 3.3
+    }
+  ],
+  "phrase_id": 11,
+  "parallel": true
+}

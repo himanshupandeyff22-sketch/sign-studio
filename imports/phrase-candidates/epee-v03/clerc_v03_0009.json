@@ -1,0 +1,17 @@
+{
+  "clip_id": "clerc_v03_0009",
+  "signer_id": "ALPHA",
+  "sign_language": "ASL",
+  "text_en": "Thank you",
+  "fps": 30.0,
+  "n_frames": 118,
+  "segments": [
+    {
+      "gloss": "THANK YOU",
+      "start": 0.9,
+      "end": 2.6
+    }
+  ],
+  "phrase_id": 9,
+  "parallel": true
+}

@@ -1,0 +1,54 @@
+{
+  "report": "imports\\continuous\\continuous-asl-013-commit.json",
+  "dryRun": false,
+  "counts": {
+    "added": 0,
+    "merged": 0,
+    "skipped": 0,
+    "conflicting": 0,
+    "rejected": 12,
+    "pending-review": 0
+  },
+  "conceptChanges": {
+    "added": [
+      "asl.whatever.source-gloss-unverified",
+      "asl.which.source-gloss-unverified",
+      "asl.will.source-gloss-unverified",
+      "asl.win.source-gloss-unverified",
+      "asl.wind.source-gloss-unverified",
+      "asl.wine.source-gloss-unverified",
+      "asl.with.source-gloss-unverified",
+      "asl.wonder.source-gloss-unverified",
+      "asl.wood.source-gloss-unverified",
+      "asl.worse.source-gloss-unverified",
+      "asl.wow.source-gloss-unverified",
+      "asl.zero.source-gloss-unverified"
+    ],
+    "skipped": [],
+    "conflicting": []
+  },
+  "metadataChanges": {
+    "added": [],
+    "skipped": [],
+    "conflicting": []
+  },
+  "discoveryChanges": {
+    "added": 0,
+    "skipped": 0,
+    "conflicting": []
+  },
+  "pendingReview": [],
+  "before": {
+    "concepts": 777,
+    "aliases": 1012,
+    "animations": 397,
+    "reviewedEnabledSigns": 0
+  },
+  "after": {
+    "concepts": 789,
+    "aliases": 1024,
+    "animations": 397,
+    "reviewedEnabledSigns": 0
+  }
+}
+

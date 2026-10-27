@@ -1,0 +1,10 @@
+✔ bundled human model has licensed provenance and a complete articulated rig (1.7459ms)
+✔ research motion requests cancel, report missing assets and retry without poisoned cache (17.6879ms)
+ℹ tests 2
+ℹ suites 0
+ℹ pass 2
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 201.4967

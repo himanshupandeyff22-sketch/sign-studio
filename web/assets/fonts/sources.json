@@ -1,0 +1,25 @@
+{
+  "schema": "local-font-sources/1",
+  "fonts": [
+    {
+      "family": "manrope",
+      "file": "manrope-variable.ttf",
+      "source": "https://raw.githubusercontent.com/google/fonts/b31870aff700ab7a1d74fa0c6887d95beb9e0037/ofl/manrope/Manrope%5Bwght%5D.ttf",
+      "revision": "b31870aff700ab7a1d74fa0c6887d95beb9e0037",
+      "sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6",
+      "bytes": 164700,
+      "license": "SIL OFL 1.1",
+      "licenseFile": "manrope-OFL.txt"
+    },
+    {
+      "family": "dmsans",
+      "file": "dm-sans-variable.ttf",
+      "source": "https://raw.githubusercontent.com/google/fonts/5b35b7208dd4100571326fdf37f030b32a524232/ofl/dmsans/DMSans%5Bopsz%2Cwght%5D.ttf",
+      "revision": "5b35b7208dd4100571326fdf37f030b32a524232",
+      "sha256": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d",
+      "bytes": 240164,
+      "license": "SIL OFL 1.1",
+      "licenseFile": "dmsans-OFL.txt"
+    }
+  ]
+}

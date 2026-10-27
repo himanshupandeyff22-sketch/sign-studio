@@ -1,0 +1,82 @@
+{
+  "report": "imports\\continuous\\continuous-asl-007-commit.json",
+  "dryRun": false,
+  "counts": {
+    "added": 0,
+    "merged": 0,
+    "skipped": 0,
+    "conflicting": 0,
+    "rejected": 40,
+    "pending-review": 0
+  },
+  "conceptChanges": {
+    "added": [
+      "asl.invite.source-gloss-unverified",
+      "asl.iron.source-gloss-unverified",
+      "asl.italy.source-gloss-unverified",
+      "asl.japan.source-gloss-unverified",
+      "asl.jealous.source-gloss-unverified",
+      "asl.jewish.source-gloss-unverified",
+      "asl.join.source-gloss-unverified",
+      "asl.joke.source-gloss-unverified",
+      "asl.journey.source-gloss-unverified",
+      "asl.jump.source-gloss-unverified",
+      "asl.keep.source-gloss-unverified",
+      "asl.keyboard.source-gloss-unverified",
+      "asl.kid.source-gloss-unverified",
+      "asl.knife.source-gloss-unverified",
+      "asl.label.source-gloss-unverified",
+      "asl.law.source-gloss-unverified",
+      "asl.lawyer.source-gloss-unverified",
+      "asl.lazy.source-gloss-unverified",
+      "asl.lead.source-gloss-unverified",
+      "asl.leak.source-gloss-unverified",
+      "asl.less.source-gloss-unverified",
+      "asl.letter.source-gloss-unverified",
+      "asl.lettuce.source-gloss-unverified",
+      "asl.license.source-gloss-unverified",
+      "asl.lie.source-gloss-unverified",
+      "asl.lion.source-gloss-unverified",
+      "asl.lipstick.source-gloss-unverified",
+      "asl.lobster.source-gloss-unverified",
+      "asl.lock.source-gloss-unverified",
+      "asl.long.source-gloss-unverified",
+      "asl.loud.source-gloss-unverified",
+      "asl.lousy.source-gloss-unverified",
+      "asl.lucky.source-gloss-unverified",
+      "asl.mad.source-gloss-unverified",
+      "asl.magazine.source-gloss-unverified",
+      "asl.magic.source-gloss-unverified",
+      "asl.make.source-gloss-unverified",
+      "asl.many.source-gloss-unverified",
+      "asl.marry.source-gloss-unverified",
+      "asl.math.source-gloss-unverified"
+    ],
+    "skipped": [],
+    "conflicting": []
+  },
+  "metadataChanges": {
+    "added": [],
+    "skipped": [],
+    "conflicting": []
+  },
+  "discoveryChanges": {
+    "added": 0,
+    "skipped": 0,
+    "conflicting": []
+  },
+  "pendingReview": [],
+  "before": {
+    "concepts": 537,
+    "aliases": 772,
+    "animations": 397,
+    "reviewedEnabledSigns": 0
+  },
+  "after": {
+    "concepts": 577,
+    "aliases": 812,
+    "animations": 397,
+    "reviewedEnabledSigns": 0
+  }
+}
+

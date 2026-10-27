@@ -1,0 +1,41 @@
+{
+  "report": "imports\\continuous\\continuous-asl-018-repeat-commit.json",
+  "dryRun": false,
+  "counts": {
+    "added": 0,
+    "merged": 0,
+    "skipped": 40,
+    "conflicting": 0,
+    "rejected": 0,
+    "pending-review": 0
+  },
+  "conceptChanges": {
+    "added": [],
+    "skipped": [],
+    "conflicting": []
+  },
+  "metadataChanges": {
+    "added": [],
+    "skipped": [],
+    "conflicting": []
+  },
+  "discoveryChanges": {
+    "added": 0,
+    "skipped": 0,
+    "conflicting": []
+  },
+  "pendingReview": [],
+  "before": {
+    "concepts": 789,
+    "aliases": 1024,
+    "animations": 597,
+    "reviewedEnabledSigns": 0
+  },
+  "after": {
+    "concepts": 789,
+    "aliases": 1024,
+    "animations": 597,
+    "reviewedEnabledSigns": 0
+  }
+}
+

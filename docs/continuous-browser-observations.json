@@ -1,0 +1,72 @@
+[
+  {
+    "word": "bacon",
+    "midpoint": 1.7708333730697632,
+    "observation": "Preview started, paused and sought using UI; face/both hands visible at inspected frame. No linguistic approval."
+  },
+  {
+    "word": "bear",
+    "midpoint": 2.9791667461395264,
+    "observation": "Preview started, paused and sought using UI; face/both hands visible at inspected frame. No linguistic approval."
+  },
+  {
+    "word": "country",
+    "midpoint": 3.2916667461395264,
+    "observation": "Preview started, paused and sought using UI; face/both hands visible at inspected frame. No linguistic approval."
+  },
+  {
+    "word": "earthquake",
+    "midpoint": 1.5833333730697632,
+    "observation": "Preview started, paused and sought using UI; face/both hands visible at inspected frame. No linguistic approval."
+  },
+  {
+    "word": "elephant",
+    "midpoint": 1.6458333730697632,
+    "observation": "Preview started, paused and sought using UI; face/both hands visible at inspected frame. No linguistic approval."
+  },
+  {
+    "word": "game",
+    "time": 3.2,
+    "observation": "Playback started from preview; midpoint sought; face and both hands visible. Technical visual inspection only, no ASL approval."
+  },
+  {
+    "word": "we",
+    "time": 1.2,
+    "observation": "One-click preview starts, seek holds frame; face, hands visible. Rendering only, not ASL validation."
+  },
+  {
+    "word": "sunrise",
+    "time": 1.92,
+    "observation": "Preview starts automatically; seek holds frame. Technical rendering inspection only, no linguistic approval."
+  },
+  {
+    "word": "jump",
+    "time": 1.5,
+    "observation": "Preview starts; seeking holds frame. Face and hands visible, rendering observation only."
+  },
+  {
+    "word": "monkey",
+    "time": 1.5,
+    "observation": "Preview starts and seek holds frame. Technical rendering check only; not ASL approval."
+  },
+  {
+    "word": "stuck",
+    "time": 3,
+    "observation": "Preview starts and seek holds frame. Technical rendering check only; not ASL approval."
+  },
+  {
+    "word": "situation",
+    "time": 3.5,
+    "observation": "Preview starts and seek holds frame. Technical rendering check only; not ASL approval."
+  },
+  {
+    "word": "drug",
+    "time": 3,
+    "observation": "Preview starts and seek holds frame. Technical rendering check only; not ASL approval."
+  },
+  {
+    "word": "front",
+    "time": 1.5,
+    "observation": "Preview starts and seek holds frame. Technical rendering check only; not ASL approval."
+  }
+]

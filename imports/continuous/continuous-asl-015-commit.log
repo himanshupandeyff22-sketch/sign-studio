@@ -1,0 +1,82 @@
+{
+  "report": "imports\\continuous\\continuous-asl-015-commit.json",
+  "dryRun": false,
+  "counts": {
+    "added": 40,
+    "merged": 0,
+    "skipped": 0,
+    "conflicting": 0,
+    "rejected": 0,
+    "pending-review": 0
+  },
+  "conceptChanges": {
+    "added": [],
+    "skipped": [],
+    "conflicting": []
+  },
+  "metadataChanges": {
+    "added": [],
+    "skipped": [],
+    "conflicting": []
+  },
+  "discoveryChanges": {
+    "added": 0,
+    "skipped": 0,
+    "conflicting": []
+  },
+  "pendingReview": [
+    "3dlex-gay",
+    "3dlex-generation",
+    "3dlex-get",
+    "3dlex-ghost",
+    "3dlex-gift",
+    "3dlex-gloves",
+    "3dlex-goal",
+    "3dlex-goat",
+    "3dlex-gone",
+    "3dlex-gossip",
+    "3dlex-government",
+    "3dlex-grass",
+    "3dlex-gray",
+    "3dlex-grow",
+    "3dlex-hair",
+    "3dlex-haircut",
+    "3dlex-hanukkah",
+    "3dlex-happen",
+    "3dlex-hawaii",
+    "3dlex-head",
+    "3dlex-heaven",
+    "3dlex-heavy",
+    "3dlex-helicopter",
+    "3dlex-helmet",
+    "3dlex-hide",
+    "3dlex-history",
+    "3dlex-hockey",
+    "3dlex-honest",
+    "3dlex-honor",
+    "3dlex-hope",
+    "3dlex-hunt",
+    "3dlex-hurricane",
+    "3dlex-hurry",
+    "3dlex-idea",
+    "3dlex-impact",
+    "3dlex-impossible",
+    "3dlex-improve",
+    "3dlex-in",
+    "3dlex-innocent",
+    "3dlex-insurance"
+  ],
+  "before": {
+    "concepts": 789,
+    "aliases": 1024,
+    "animations": 437,
+    "reviewedEnabledSigns": 0
+  },
+  "after": {
+    "concepts": 789,
+    "aliases": 1024,
+    "animations": 477,
+    "reviewedEnabledSigns": 0
+  }
+}
+

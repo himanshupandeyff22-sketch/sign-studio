@@ -1,0 +1,701 @@
+{
+  "source": "https://osf.io/download/tcnhs/",
+  "cache": "asset-downloads\\everyday-batch-20261019",
+  "prefixBytes": 25649346,
+  "archiveEntries": 938,
+  "completePrefixEntries": 63,
+  "archiveLength": 392740736,
+  "unavailable": [],
+  "samples": [
+    {
+      "file": "ANIM_GLB/age.glb",
+      "size": 773240,
+      "generator": "FBX2glTF v0.9.7",
+      "joints": 68,
+      "clips": [
+        {
+          "duration": 3.8333332538604736,
+          "channels": 123,
+          "invalidValues": 0,
+          "invalidQuaternionKeys": 0,
+          "maxFingerTranslationMagnitude": 0.7243789730258333
+        }
+      ],
+      "meshNames": [
+        "Masculine_TPose_characterized"
+      ],
+      "materialNames": [
+        "Wolf3D_Avatar1"
+      ],
+      "facialMorphTargets": 0,
+      "anomalousFingerEnds": 8
+    },
+    {
+      "file": "ANIM_GLB/boss.glb",
+      "size": 776708,
+      "generator": "FBX2glTF v0.9.7",
+      "joints": 68,
+      "clips": [
+        {
+          "duration": 3.9166667461395264,
+          "channels": 123,
+          "invalidValues": 0,
+          "invalidQuaternionKeys": 0,
+          "maxFingerTranslationMagnitude": 0.6998616274408703
+        }
+      ],
+      "meshNames": [
+        "Masculine_TPose_characterized"
+      ],
+      "materialNames": [
+        "Wolf3D_Avatar1"
+      ],
+      "facialMorphTargets": 0,
+      "anomalousFingerEnds": 8
+    },
+    {
+      "file": "ANIM_GLB/can.glb",
+      "size": 724648,
+      "generator": "FBX2glTF v0.9.7",
+      "joints": 68,
+      "clips": [
+        {
+          "duration": 2.6666667461395264,
+          "channels": 123,
+          "invalidValues": 0,
+          "invalidQuaternionKeys": 0,
+          "maxFingerTranslationMagnitude": 0.7234279410891443
+        }
+      ],
+      "meshNames": [
+        "Masculine_TPose_characterized"
+      ],
+      "materialNames": [
+        "Wolf3D_Avatar1"
+      ],
+      "facialMorphTargets": 0,
+      "anomalousFingerEnds": 8
+    },
+    {
+      "file": "ANIM_GLB/chocolate.glb",
+      "size": 771508,
+      "generator": "FBX2glTF v0.9.7",
+      "joints": 68,
+      "clips": [
+        {
+          "duration": 3.7916667461395264,
+          "channels": 123,
+          "invalidValues": 0,
+          "invalidQuaternionKeys": 0,
+          "maxFingerTranslationMagnitude": 0.7230755914265172
+        }
+      ],
+      "meshNames": [
+        "Masculine_TPose_characterized"
+      ],
+      "materialNames": [
+        "Wolf3D_Avatar1"
+      ],
+      "facialMorphTargets": 0,
+      "anomalousFingerEnds": 8
+    },
+    {
+      "file": "ANIM_GLB/counselor.glb",
+      "size": 750652,
+      "generator": "FBX2glTF v0.9.7",
+      "joints": 68,
+      "clips": [
+        {
+          "duration": 3.2916667461395264,
+          "channels": 123,
+          "invalidValues": 0,
+          "invalidQuaternionKeys": 0,
+          "maxFingerTranslationMagnitude": 0.7230755914265172
+        }
+      ],
+      "meshNames": [
+        "Masculine_TPose_characterized"
+      ],
+      "materialNames": [
+        "Wolf3D_Avatar1"
+      ],
+      "facialMorphTargets": 0,
+      "anomalousFingerEnds": 8
+    },
+    {
+      "file": "ANIM_GLB/down.glb",
+      "size": 702040,
+      "generator": "FBX2glTF v0.9.7",
+      "joints": 68,
+      "clips": [
+        {
+          "duration": 2.125,
+          "channels": 123,
+          "invalidValues": 0,
+          "invalidQuaternionKeys": 0,
+          "maxFingerTranslationMagnitude": 0.7230755914265172
+        }
+      ],
+      "meshNames": [
+        "Masculine_TPose_characterized"
+      ],
+      "materialNames": [
+        "Wolf3D_Avatar1"
+      ],
+      "facialMorphTargets": 0,
+      "anomalousFingerEnds": 8
+    },
+    {
+      "file": "ANIM_GLB/enough.glb",
+      "size": 740252,
+      "generator": "FBX2glTF v0.9.7",
+      "joints": 68,
+      "clips": [
+        {
+          "duration": 3.0416667461395264,
+          "channels": 123,
+          "invalidValues": 0,
+          "invalidQuaternionKeys": 0,
+          "maxFingerTranslationMagnitude": 0.7234279969513746
+        }
+      ],
+      "meshNames": [
+        "Masculine_TPose_characterized"
+      ],
+      "materialNames": [
+        "Wolf3D_Avatar1"
+      ],
+      "facialMorphTargets": 0,
+      "anomalousFingerEnds": 8
+    },
+    {
+      "file": "ANIM_GLB/enter.glb",
+      "size": 684132,
+      "generator": "FBX2glTF v0.9.7",
+      "joints": 68,
+      "clips": [
+        {
+          "duration": 4.25,
+          "channels": 55,
+          "invalidValues": 0,
+          "invalidQuaternionKeys": 0,
+          "maxFingerTranslationMagnitude": 0
+        }
+      ],
+      "meshNames": [
+        "SkeletalMeshComponent0"
+      ],
+      "materialNames": [
+        "Wolf3D_Avatar1"
+      ],
+      "facialMorphTargets": 0,
+      "anomalousFingerEnds": 8
+    },
+    {
+      "file": "ANIM_GLB/far.glb",
+      "size": 752384,
+      "generator": "FBX2glTF v0.9.7",
+      "joints": 68,
+      "clips": [
+        {
+          "duration": 3.3333332538604736,
+          "channels": 123,
+          "invalidValues": 0,
+          "invalidQuaternionKeys": 0,
+          "maxFingerTranslationMagnitude": 0.724378973040065
+        }
+      ],
+      "meshNames": [
+        "Masculine_TPose_characterized"
+      ],
+      "materialNames": [
+        "Wolf3D_Avatar1"
+      ],
+      "facialMorphTargets": 0,
+      "anomalousFingerEnds": 8
+    },
+    {
+      "file": "ANIM_GLB/first.glb",
+      "size": 707032,
+      "generator": "FBX2glTF v0.9.7",
+      "joints": 68,
+      "clips": [
+        {
+          "duration": 5.333333492279053,
+          "channels": 55,
+          "invalidValues": 0,
+          "invalidQuaternionKeys": 0,
+          "maxFingerTranslationMagnitude": 0
+        }
+      ],
+      "meshNames": [
+        "SkeletalMeshComponent0"
+      ],
+      "materialNames": [
+        "Wolf3D_Avatar1"
+      ],
+      "facialMorphTargets": 0,
+      "anomalousFingerEnds": 8
+    },
+    {
+      "file": "ANIM_GLB/future.glb",
+      "size": 733792,
+      "generator": "FBX2glTF v0.9.7",
+      "joints": 68,
+      "clips": [
+        {
+          "duration": 2.8333332538604736,
+          "channels": 125,
+          "invalidValues": 0,
+          "invalidQuaternionKeys": 0,
+          "maxFingerTranslationMagnitude": 0.7230755914265172
+        }
+      ],
+      "meshNames": [
+        "Masculine_TPose_characterized"
+      ],
+      "materialNames": [
+        "Wolf3D_Avatar1"
+      ],
+      "facialMorphTargets": 0,
+      "anomalousFingerEnds": 8
+    },
+    {
+      "file": "ANIM_GLB/give.glb",
+      "size": 743708,
+      "generator": "FBX2glTF v0.9.7",
+      "joints": 68,
+      "clips": [
+        {
+          "duration": 3.125,
+          "channels": 123,
+          "invalidValues": 0,
+          "invalidQuaternionKeys": 0,
+          "maxFingerTranslationMagnitude": 0.6998616274408703
+        }
+      ],
+      "meshNames": [
+        "Masculine_TPose_characterized"
+      ],
+      "materialNames": [
+        "Wolf3D_Avatar1"
+      ],
+      "facialMorphTargets": 0,
+      "anomalousFingerEnds": 8
+    },
+    {
+      "file": "ANIM_GLB/here.glb",
+      "size": 751356,
+      "generator": "FBX2glTF v0.9.7",
+      "joints": 68,
+      "clips": [
+        {
+          "duration": 3.25,
+          "channels": 125,
+          "invalidValues": 0,
+          "invalidQuaternionKeys": 0,
+          "maxFingerTranslationMagnitude": 0.6998616274693764
+        }
+      ],
+      "meshNames": [
+        "Masculine_TPose_characterized"
+      ],
+      "materialNames": [
+        "Wolf3D_Avatar1"
+      ],
+      "facialMorphTargets": 0,
+      "anomalousFingerEnds": 8
+    },
+    {
+      "file": "ANIM_GLB/inside.glb",
+      "size": 771508,
+      "generator": "FBX2glTF v0.9.7",
+      "joints": 68,
+      "clips": [
+        {
+          "duration": 3.7916667461395264,
+          "channels": 123,
+          "invalidValues": 0,
+          "invalidQuaternionKeys": 0,
+          "maxFingerTranslationMagnitude": 0.7230755914265172
+        }
+      ],
+      "meshNames": [
+        "Masculine_TPose_characterized"
+      ],
+      "materialNames": [
+        "Wolf3D_Avatar1"
+      ],
+      "facialMorphTargets": 0,
+      "anomalousFingerEnds": 8
+    },
+    {
+      "file": "ANIM_GLB/introduce.glb",
+      "size": 722212,
+      "generator": "FBX2glTF v0.9.7",
+      "joints": 68,
+      "clips": [
+        {
+          "duration": 2.5833332538604736,
+          "channels": 124,
+          "invalidValues": 0,
+          "invalidQuaternionKeys": 0,
+          "maxFingerTranslationMagnitude": 0.7230755914265172
+        }
+      ],
+      "meshNames": [
+        "Masculine_TPose_characterized"
+      ],
+      "materialNames": [
+        "Wolf3D_Avatar1"
+      ],
+      "facialMorphTargets": 0,
+      "anomalousFingerEnds": 8
+    },
+    {
+      "file": "ANIM_GLB/leave.glb",
+      "size": 717636,
+      "generator": "FBX2glTF v0.9.7",
+      "joints": 68,
+      "clips": [
+        {
+          "duration": 2.5,
+          "channels": 123,
+          "invalidValues": 0,
+          "invalidQuaternionKeys": 0,
+          "maxFingerTranslationMagnitude": 0.7230755914265172
+        }
+      ],
+      "meshNames": [
+        "Masculine_TPose_characterized"
+      ],
+      "materialNames": [
+        "Wolf3D_Avatar1"
+      ],
+      "facialMorphTargets": 0,
+      "anomalousFingerEnds": 8
+    },
+    {
+      "file": "ANIM_GLB/meet.glb",
+      "size": 743708,
+      "generator": "FBX2glTF v0.9.7",
+      "joints": 68,
+      "clips": [
+        {
+          "duration": 3.125,
+          "channels": 123,
+          "invalidValues": 0,
+          "invalidQuaternionKeys": 0,
+          "maxFingerTranslationMagnitude": 0.7230755914265172
+        }
+      ],
+      "meshNames": [
+        "Masculine_TPose_characterized"
+      ],
+      "materialNames": [
+        "Wolf3D_Avatar1"
+      ],
+      "facialMorphTargets": 0,
+      "anomalousFingerEnds": 8
+    },
+    {
+      "file": "ANIM_GLB/my.glb",
+      "size": 672648,
+      "generator": "FBX2glTF v0.9.7",
+      "joints": 68,
+      "clips": [
+        {
+          "duration": 3.7083332538604736,
+          "channels": 55,
+          "invalidValues": 0,
+          "invalidQuaternionKeys": 0,
+          "maxFingerTranslationMagnitude": 0
+        }
+      ],
+      "meshNames": [
+        "SkeletalMeshComponent0"
+      ],
+      "materialNames": [
+        "Wolf3D_Avatar1"
+      ],
+      "facialMorphTargets": 0,
+      "anomalousFingerEnds": 8
+    },
+    {
+      "file": "ANIM_GLB/near.glb",
+      "size": 661204,
+      "generator": "FBX2glTF v0.9.7",
+      "joints": 68,
+      "clips": [
+        {
+          "duration": 3.1666667461395264,
+          "channels": 55,
+          "invalidValues": 0,
+          "invalidQuaternionKeys": 0,
+          "maxFingerTranslationMagnitude": 0
+        }
+      ],
+      "meshNames": [
+        "SkeletalMeshComponent0"
+      ],
+      "materialNames": [
+        "Wolf3D_Avatar1"
+      ],
+      "facialMorphTargets": 0,
+      "anomalousFingerEnds": 8
+    },
+    {
+      "file": "ANIM_GLB/next.glb",
+      "size": 674408,
+      "generator": "FBX2glTF v0.9.7",
+      "joints": 68,
+      "clips": [
+        {
+          "duration": 3.7916667461395264,
+          "channels": 55,
+          "invalidValues": 0,
+          "invalidQuaternionKeys": 0,
+          "maxFingerTranslationMagnitude": 0
+        }
+      ],
+      "meshNames": [
+        "SkeletalMeshComponent0"
+      ],
+      "materialNames": [
+        "Wolf3D_Avatar1"
+      ],
+      "facialMorphTargets": 0,
+      "anomalousFingerEnds": 8
+    },
+    {
+      "file": "ANIM_GLB/now.glb",
+      "size": 748908,
+      "generator": "FBX2glTF v0.9.7",
+      "joints": 68,
+      "clips": [
+        {
+          "duration": 3.25,
+          "channels": 123,
+          "invalidValues": 0,
+          "invalidQuaternionKeys": 0,
+          "maxFingerTranslationMagnitude": 0.6998616833632566
+        }
+      ],
+      "meshNames": [
+        "Masculine_TPose_characterized"
+      ],
+      "materialNames": [
+        "Wolf3D_Avatar1"
+      ],
+      "facialMorphTargets": 0,
+      "anomalousFingerEnds": 8
+    },
+    {
+      "file": "ANIM_GLB/office.glb",
+      "size": 740252,
+      "generator": "FBX2glTF v0.9.7",
+      "joints": 68,
+      "clips": [
+        {
+          "duration": 3.0416667461395264,
+          "channels": 123,
+          "invalidValues": 0,
+          "invalidQuaternionKeys": 0,
+          "maxFingerTranslationMagnitude": 0.7243789729689065
+        }
+      ],
+      "meshNames": [
+        "Masculine_TPose_characterized"
+      ],
+      "materialNames": [
+        "Wolf3D_Avatar1"
+      ],
+      "facialMorphTargets": 0,
+      "anomalousFingerEnds": 8
+    },
+    {
+      "file": "ANIM_GLB/open.glb",
+      "size": 747184,
+      "generator": "FBX2glTF v0.9.7",
+      "joints": 68,
+      "clips": [
+        {
+          "duration": 3.2083332538604736,
+          "channels": 123,
+          "invalidValues": 0,
+          "invalidQuaternionKeys": 0,
+          "maxFingerTranslationMagnitude": 0.7230755914265172
+        }
+      ],
+      "meshNames": [
+        "Masculine_TPose_characterized"
+      ],
+      "materialNames": [
+        "Wolf3D_Avatar1"
+      ],
+      "facialMorphTargets": 0,
+      "anomalousFingerEnds": 8
+    },
+    {
+      "file": "ANIM_GLB/pepper.glb",
+      "size": 776708,
+      "generator": "FBX2glTF v0.9.7",
+      "joints": 68,
+      "clips": [
+        {
+          "duration": 3.9166667461395264,
+          "channels": 123,
+          "invalidValues": 0,
+          "invalidQuaternionKeys": 0,
+          "maxFingerTranslationMagnitude": 0.723427996937142
+        }
+      ],
+      "meshNames": [
+        "Masculine_TPose_characterized"
+      ],
+      "materialNames": [
+        "Wolf3D_Avatar1"
+      ],
+      "facialMorphTargets": 0,
+      "anomalousFingerEnds": 8
+    },
+    {
+      "file": "ANIM_GLB/room.glb",
+      "size": 659444,
+      "generator": "FBX2glTF v0.9.7",
+      "joints": 68,
+      "clips": [
+        {
+          "duration": 3.0833332538604736,
+          "channels": 55,
+          "invalidValues": 0,
+          "invalidQuaternionKeys": 0,
+          "maxFingerTranslationMagnitude": 0
+        }
+      ],
+      "meshNames": [
+        "SkeletalMeshComponent0"
+      ],
+      "materialNames": [
+        "Wolf3D_Avatar1"
+      ],
+      "facialMorphTargets": 0,
+      "anomalousFingerEnds": 8
+    },
+    {
+      "file": "ANIM_GLB/start.glb",
+      "size": 696468,
+      "generator": "FBX2glTF v0.9.7",
+      "joints": 68,
+      "clips": [
+        {
+          "duration": 4.833333492279053,
+          "channels": 55,
+          "invalidValues": 0,
+          "invalidQuaternionKeys": 0,
+          "maxFingerTranslationMagnitude": 0
+        }
+      ],
+      "meshNames": [
+        "SkeletalMeshComponent0"
+      ],
+      "materialNames": [
+        "Wolf3D_Avatar1"
+      ],
+      "facialMorphTargets": 0,
+      "anomalousFingerEnds": 8
+    },
+    {
+      "file": "ANIM_GLB/take.glb",
+      "size": 733304,
+      "generator": "FBX2glTF v0.9.7",
+      "joints": 68,
+      "clips": [
+        {
+          "duration": 2.875,
+          "channels": 123,
+          "invalidValues": 0,
+          "invalidQuaternionKeys": 0,
+          "maxFingerTranslationMagnitude": 0.7230755914265172
+        }
+      ],
+      "meshNames": [
+        "Masculine_TPose_characterized"
+      ],
+      "materialNames": [
+        "Wolf3D_Avatar1"
+      ],
+      "facialMorphTargets": 0,
+      "anomalousFingerEnds": 8
+    },
+    {
+      "file": "ANIM_GLB/toast.glb",
+      "size": 731584,
+      "generator": "FBX2glTF v0.9.7",
+      "joints": 68,
+      "clips": [
+        {
+          "duration": 2.8333332538604736,
+          "channels": 123,
+          "invalidValues": 0,
+          "invalidQuaternionKeys": 0,
+          "maxFingerTranslationMagnitude": 0.723427996937142
+        }
+      ],
+      "meshNames": [
+        "Masculine_TPose_characterized"
+      ],
+      "materialNames": [
+        "Wolf3D_Avatar1"
+      ],
+      "facialMorphTargets": 0,
+      "anomalousFingerEnds": 8
+    },
+    {
+      "file": "ANIM_GLB/use.glb",
+      "size": 768044,
+      "generator": "FBX2glTF v0.9.7",
+      "joints": 68,
+      "clips": [
+        {
+          "duration": 3.7083332538604736,
+          "channels": 123,
+          "invalidValues": 0,
+          "invalidQuaternionKeys": 0,
+          "maxFingerTranslationMagnitude": 0.723427996937142
+        }
+      ],
+      "meshNames": [
+        "Masculine_TPose_characterized"
+      ],
+      "materialNames": [
+        "Wolf3D_Avatar1"
+      ],
+      "facialMorphTargets": 0,
+      "anomalousFingerEnds": 8
+    },
+    {
+      "file": "ANIM_GLB/your.glb",
+      "size": 721180,
+      "generator": "FBX2glTF v0.9.7",
+      "joints": 68,
+      "clips": [
+        {
+          "duration": 2.5833332538604736,
+          "channels": 123,
+          "invalidValues": 0,
+          "invalidQuaternionKeys": 0,
+          "maxFingerTranslationMagnitude": 0.6998616274408703
+        }
+      ],
+      "meshNames": [
+        "Masculine_TPose_characterized"
+      ],
+      "materialNames": [
+        "Wolf3D_Avatar1"
+      ],
+      "facialMorphTargets": 0,
+      "anomalousFingerEnds": 8
+    }
+  ]
+}

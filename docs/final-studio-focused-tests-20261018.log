@@ -1,0 +1,38 @@
+✔ all first-visit research examples resolve to their intended recording and sense (424.5329ms)
+✔ unavailable, wrong-language and inspection-only recordings cannot become guided examples (3.1161ms)
+✔ guided examples cannot erase the meaning choice required for No and Love (3.7873ms)
+✔ clear contextual transpositions preserve original spans and can be undone (30.3343ms)
+✔ unknown valid words, names, digits and negation are never aggressively corrected (13.8898ms)
+✔ equivalent English candidate aliases share one concept but require ASL mapping review (6.7085ms)
+✔ declared names cannot bypass interpretation through the raw vocabulary matcher (10.641ms)
+✔ financial and river bank senses remain distinct; uncertain context asks per occurrence (7.6005ms)
+✔ light/right senses and multiword meanings resolve before single-word matches (5.6201ms)
+✔ negated clauses are held rather than rendered as positive HELP (6.4819ms)
+✔ unreviewed complete expressions never become a vaguely similar lexical sign (3.8332ms)
+✔ 500 words retain exact original and interpreted punctuation, positions and concept decisions (66.7425ms)
+✔ new motions are inspection-only and cannot be enabled by spelling/meaning matches or client flags (10.6831ms)
+✔ microphone, manual speech and signing replace competing media without discarding the queue (1.8752ms)
+✔ media cleanup works during initialization and after a viewer is disposed (0.3983ms)
+✔ local demo eligibility requires current technical evidence and never grants linguistic approval (345.2971ms)
+✔ only the browser-observed complete source recording is publicly eligible (4.9789ms)
+✔ resubmission aborts old work and only the newest operation can commit or unlock (2.2191ms)
+✔ cancel invalidates preparation immediately and the next submission starts cleanly (0.4763ms)
+✔ voice ranking prefers available natural English speech and respects other languages (1.9341ms)
+✔ speech chunking and playback preserve every character of at least 500 words (4.3508ms)
+✔ speech selection, pause/resume, stop, mute and repeated playback ignore stale events (1.4082ms)
+✔ late voices load, default-voice fallback, synthesis errors and unsupported browser have useful states (1.3267ms)
+✔ passive microphone cleanup preserves the start prompt, reviewed text and permission guidance (3.0038ms)
+✔ network errors without onend release the microphone and ignore late results after retry (0.282ms)
+✔ microphone watchdogs recover from a provider that never starts or finishes (0.2837ms)
+✔ preferred microphone uses only an already installed local engine and otherwise falls back (0.7776ms)
+✔ a canceled, failed or stalled local-engine probe cannot start a stale microphone (0.443ms)
+✔ microphone returns editable interim/final transcripts without truncating or auto-submitting (0.3668ms)
+✔ microphone handles permission denial, cancellation, restart and unsupported input (0.2685ms)
+ℹ tests 30
+ℹ suites 0
+ℹ pass 30
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 602.8961

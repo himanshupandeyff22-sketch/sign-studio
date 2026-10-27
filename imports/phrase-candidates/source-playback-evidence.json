@@ -1,0 +1,15 @@
+{
+  "schema": "source-video-technical-observation/1",
+  "notice": "Browser technical observation only. No linguistic approval or local full-file hash verification.",
+  "items": [
+    {
+      "id": "asl.utterance.flores-dev-390",
+      "url": "https://huggingface.co/datasets/alj68/2M-Flores-ASL/resolve/c68240b1fe33d4a9745537a1cff048078376bc9b/data/dev/dev_390_0.mp4",
+      "date": "2026-10-18",
+      "browserPlayback": "observed",
+      "evidence": "docs/screenshots/library-ux-20261018/complete-source-recording.png",
+      "observations": "In-app Chromium decoded 3840x2160 video; face/both hands visible, native playback and paused-frame seeking worked. Video source released on close and input edit.",
+      "linguisticReview": null
+    }
+  ]
+}

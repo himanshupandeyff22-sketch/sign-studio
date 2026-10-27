@@ -1,0 +1,331 @@
+{
+  "selected": [
+    {
+      "word": "introduce",
+      "conceptId": "asl.introduce.introducing-person",
+      "sense": "introducing-person",
+      "category": "communication",
+      "reference": "https://www.lifeprint.com/asl101/pages-signs/i/introduce.htm",
+      "existingCanonicalConcept": false,
+      "linguisticValidation": "pending",
+      "referenceScope": "Same-ASL lexical comparison only, not approval of the source capture or retarget."
+    },
+    {
+      "word": "my",
+      "conceptId": "asl.my.speaker-possessive",
+      "sense": "speaker-possessive",
+      "category": "communication",
+      "reference": "https://www.lifeprint.com/asl101/pages-signs/m/my.htm",
+      "existingCanonicalConcept": false,
+      "linguisticValidation": "pending",
+      "referenceScope": "Same-ASL lexical comparison only, not approval of the source capture or retarget."
+    },
+    {
+      "word": "your",
+      "conceptId": "asl.your.addressee-possessive",
+      "sense": "addressee-possessive",
+      "category": "communication",
+      "reference": "https://www.lifeprint.com/asl101/pages-signs/y/your.htm",
+      "existingCanonicalConcept": false,
+      "linguisticValidation": "pending",
+      "referenceScope": "Same-ASL lexical comparison only, not approval of the source capture or retarget."
+    },
+    {
+      "word": "meet",
+      "conceptId": "asl.meet.encounter-person",
+      "sense": "encounter-person",
+      "category": "communication",
+      "reference": "https://www.lifeprint.com/asl101/pages-signs/m/meet.htm",
+      "existingCanonicalConcept": false,
+      "linguisticValidation": "pending",
+      "referenceScope": "Same-ASL lexical comparison only, not approval of the source capture or retarget."
+    },
+    {
+      "word": "age",
+      "conceptId": "asl.age.age-concept",
+      "sense": "age-concept",
+      "category": "people",
+      "reference": "https://www.lifeprint.com/asl101/pages-signs/a/age.htm",
+      "existingCanonicalConcept": false,
+      "linguisticValidation": "pending",
+      "referenceScope": "Same-ASL lexical comparison only, not approval of the source capture or retarget."
+    },
+    {
+      "word": "can",
+      "conceptId": "asl.can.ability",
+      "sense": "ability",
+      "category": "communication",
+      "reference": "https://www.lifeprint.com/asl101/pages-signs/c/can.htm",
+      "existingCanonicalConcept": false,
+      "linguisticValidation": "pending",
+      "referenceScope": "Same-ASL lexical comparison only, not approval of the source capture or retarget."
+    },
+    {
+      "word": "enough",
+      "conceptId": "asl.enough.sufficient-quantity",
+      "sense": "sufficient-quantity",
+      "category": "description",
+      "reference": "https://www.lifeprint.com/asl101/pages-signs/e/enough.htm",
+      "existingCanonicalConcept": false,
+      "linguisticValidation": "pending",
+      "referenceScope": "Same-ASL lexical comparison only, not approval of the source capture or retarget."
+    },
+    {
+      "word": "boss",
+      "conceptId": "asl.boss.workplace-supervisor",
+      "sense": "workplace-supervisor",
+      "category": "people",
+      "reference": "https://www.lifeprint.com/asl101/pages-signs/b/boss.htm",
+      "existingCanonicalConcept": false,
+      "linguisticValidation": "pending",
+      "referenceScope": "Same-ASL lexical comparison only, not approval of the source capture or retarget."
+    },
+    {
+      "word": "counselor",
+      "conceptId": "asl.counselor.advising-person",
+      "sense": "advising-person",
+      "category": "people",
+      "reference": "https://www.lifeprint.com/asl101/pages-signs/c/counsel.htm",
+      "existingCanonicalConcept": false,
+      "linguisticValidation": "pending",
+      "referenceScope": "Same-ASL lexical comparison only, not approval of the source capture or retarget."
+    },
+    {
+      "word": "chocolate",
+      "conceptId": "asl.chocolate.cocoa-food",
+      "sense": "cocoa-food",
+      "category": "food",
+      "reference": "https://www.lifeprint.com/asl101/pages-signs/c/chocolate.htm",
+      "existingCanonicalConcept": false,
+      "linguisticValidation": "pending",
+      "referenceScope": "Same-ASL lexical comparison only, not approval of the source capture or retarget."
+    },
+    {
+      "word": "pepper",
+      "conceptId": "asl.pepper.pepper-seasoning",
+      "sense": "pepper-seasoning",
+      "category": "food",
+      "reference": "https://www.lifeprint.com/asl101/pages-signs/p/pepper.htm",
+      "existingCanonicalConcept": false,
+      "linguisticValidation": "pending",
+      "referenceScope": "Same-ASL lexical comparison only, not approval of the source capture or retarget."
+    },
+    {
+      "word": "toast",
+      "conceptId": "asl.toast.toasted-bread",
+      "sense": "toasted-bread",
+      "category": "food",
+      "reference": "https://www.lifeprint.com/asl101/pages-signs/t/toast.htm",
+      "existingCanonicalConcept": false,
+      "linguisticValidation": "pending",
+      "referenceScope": "Same-ASL lexical comparison only, not approval of the source capture or retarget."
+    },
+    {
+      "word": "now",
+      "conceptId": "asl.time.now",
+      "sense": "current-time",
+      "category": "time",
+      "reference": "https://www.lifeprint.com/asl101/pages-signs/n/now.htm",
+      "existingCanonicalConcept": true,
+      "linguisticValidation": "pending",
+      "referenceScope": "Same-ASL lexical comparison only, not approval of the source capture or retarget."
+    },
+    {
+      "word": "first",
+      "conceptId": "asl.first.first-in-order",
+      "sense": "first-in-order",
+      "category": "time",
+      "reference": "https://www.lifeprint.com/asl101/pages-signs/f/first.htm",
+      "existingCanonicalConcept": false,
+      "linguisticValidation": "pending",
+      "referenceScope": "Same-ASL lexical comparison only, not approval of the source capture or retarget."
+    },
+    {
+      "word": "next",
+      "conceptId": "asl.next.next-in-sequence",
+      "sense": "next-in-sequence",
+      "category": "time",
+      "reference": "https://www.lifeprint.com/asl101/pages-signs/n/next.htm",
+      "existingCanonicalConcept": false,
+      "linguisticValidation": "pending",
+      "referenceScope": "Same-ASL lexical comparison only, not approval of the source capture or retarget."
+    },
+    {
+      "word": "future",
+      "conceptId": "asl.future.future-time",
+      "sense": "future-time",
+      "category": "time",
+      "reference": "https://www.lifeprint.com/asl101/pages-signs/f/future.htm",
+      "existingCanonicalConcept": false,
+      "linguisticValidation": "pending",
+      "referenceScope": "Same-ASL lexical comparison only, not approval of the source capture or retarget."
+    },
+    {
+      "word": "here",
+      "conceptId": "asl.here.nearby-location",
+      "sense": "nearby-location",
+      "category": "travel",
+      "reference": "https://www.lifeprint.com/asl101/pages-signs/h/here.htm",
+      "existingCanonicalConcept": false,
+      "linguisticValidation": "pending",
+      "referenceScope": "Same-ASL lexical comparison only, not approval of the source capture or retarget."
+    },
+    {
+      "word": "office",
+      "conceptId": "asl.office.workplace-room",
+      "sense": "workplace-room",
+      "category": "travel",
+      "reference": "https://www.lifeprint.com/asl101/pages-signs/o/office.htm",
+      "existingCanonicalConcept": false,
+      "linguisticValidation": "pending",
+      "referenceScope": "Same-ASL lexical comparison only, not approval of the source capture or retarget."
+    },
+    {
+      "word": "room",
+      "conceptId": "asl.room.enclosed-room",
+      "sense": "enclosed-room",
+      "category": "home",
+      "reference": "https://www.lifeprint.com/asl101/pages-signs/r/room.htm",
+      "existingCanonicalConcept": false,
+      "linguisticValidation": "pending",
+      "referenceScope": "Same-ASL lexical comparison only, not approval of the source capture or retarget."
+    },
+    {
+      "word": "inside",
+      "conceptId": "asl.inside.interior-location",
+      "sense": "interior-location",
+      "category": "travel",
+      "reference": "https://www.lifeprint.com/asl101/pages-signs/i/inside.htm",
+      "existingCanonicalConcept": false,
+      "linguisticValidation": "pending",
+      "referenceScope": "Same-ASL lexical comparison only, not approval of the source capture or retarget."
+    },
+    {
+      "word": "near",
+      "conceptId": "asl.near.near-distance",
+      "sense": "near-distance",
+      "category": "travel",
+      "reference": "https://www.lifeprint.com/asl101/pages-signs/n/near.htm",
+      "existingCanonicalConcept": false,
+      "linguisticValidation": "pending",
+      "referenceScope": "Same-ASL lexical comparison only, not approval of the source capture or retarget."
+    },
+    {
+      "word": "far",
+      "conceptId": "asl.far.far-distance",
+      "sense": "far-distance",
+      "category": "travel",
+      "reference": "https://www.lifeprint.com/asl101/pages-signs/f/far.htm",
+      "existingCanonicalConcept": false,
+      "linguisticValidation": "pending",
+      "referenceScope": "Same-ASL lexical comparison only, not approval of the source capture or retarget."
+    },
+    {
+      "word": "down",
+      "conceptId": "asl.down.downward-direction",
+      "sense": "downward-direction",
+      "category": "travel",
+      "reference": "https://www.lifeprint.com/asl101/pages-signs/d/down.htm",
+      "existingCanonicalConcept": false,
+      "linguisticValidation": "pending",
+      "referenceScope": "Same-ASL lexical comparison only, not approval of the source capture or retarget."
+    },
+    {
+      "word": "open",
+      "conceptId": "asl.open.open-object",
+      "sense": "open-object",
+      "category": "home",
+      "reference": "https://www.lifeprint.com/asl101/pages-signs/o/open.htm",
+      "existingCanonicalConcept": false,
+      "linguisticValidation": "pending",
+      "referenceScope": "Same-ASL lexical comparison only, not approval of the source capture or retarget."
+    },
+    {
+      "word": "give",
+      "conceptId": "asl.give.transfer-to-person",
+      "sense": "transfer-to-person",
+      "category": "communication",
+      "reference": "https://www.lifeprint.com/asl101/pages-signs/g/give.htm",
+      "existingCanonicalConcept": false,
+      "linguisticValidation": "pending",
+      "referenceScope": "Same-ASL lexical comparison only, not approval of the source capture or retarget."
+    },
+    {
+      "word": "take",
+      "conceptId": "asl.take.take-object",
+      "sense": "take-object",
+      "category": "communication",
+      "reference": "https://www.lifeprint.com/asl101/pages-signs/t/take.htm",
+      "existingCanonicalConcept": false,
+      "linguisticValidation": "pending",
+      "referenceScope": "Same-ASL lexical comparison only, not approval of the source capture or retarget."
+    },
+    {
+      "word": "use",
+      "conceptId": "asl.use.use-object",
+      "sense": "use-object",
+      "category": "communication",
+      "reference": "https://www.lifeprint.com/asl101/pages-signs/u/use.htm",
+      "existingCanonicalConcept": false,
+      "linguisticValidation": "pending",
+      "referenceScope": "Same-ASL lexical comparison only, not approval of the source capture or retarget."
+    },
+    {
+      "word": "enter",
+      "conceptId": "asl.enter.movement-into",
+      "sense": "movement-into",
+      "category": "travel",
+      "reference": "https://www.lifeprint.com/asl101/pages-signs/e/enter.htm",
+      "existingCanonicalConcept": false,
+      "linguisticValidation": "pending",
+      "referenceScope": "Same-ASL lexical comparison only, not approval of the source capture or retarget."
+    },
+    {
+      "word": "leave",
+      "conceptId": "asl.leave.departure",
+      "sense": "departure",
+      "category": "travel",
+      "reference": "https://www.lifeprint.com/asl101/pages-signs/l/leave.htm",
+      "existingCanonicalConcept": false,
+      "linguisticValidation": "pending",
+      "referenceScope": "Same-ASL lexical comparison only, not approval of the source capture or retarget."
+    },
+    {
+      "word": "start",
+      "conceptId": "asl.start.begin-action",
+      "sense": "begin-action",
+      "category": "time",
+      "reference": "https://www.lifeprint.com/asl101/pages-signs/s/start.htm",
+      "existingCanonicalConcept": false,
+      "linguisticValidation": "pending",
+      "referenceScope": "Same-ASL lexical comparison only, not approval of the source capture or retarget."
+    }
+  ],
+  "skippedBeforeAcquisition": [
+    {
+      "words": [
+        "me",
+        "need",
+        "friend",
+        "person",
+        "interpreter",
+        "bread",
+        "milk",
+        "lemon",
+        "later",
+        "ready",
+        "buy"
+      ],
+      "reason": "Existing canonical meanings; previous source inspections found no animation. No duplicate download or new playable-word claim."
+    },
+    {
+      "words": [
+        "walk",
+        "wait"
+      ],
+      "reason": "Already imported canonical motions; skipped duplicates."
+    }
+  ],
+  "maximumConcepts": 30,
+  "actualSelected": 30
+}

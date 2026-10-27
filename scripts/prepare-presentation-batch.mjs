@@ -1,0 +1,122 @@
+// Proposed source meanings only. Import requires a saved, matching dry-run.
+// The ASL references are comparison evidence, never approval of a capture.
+import fs from 'node:fs';
+const rows = [
+ ['nurse','nursing-professional','A nursing professional; not the verb breastfeed or a complete request.','health','I need a nurse.',['nurses']],
+ ['medicine','medication','Medication; not all drugs, treatment, or medical advice.','health','I take medicine.',['medicines']],
+ ['headache','head-pain','Pain in the head; exact location and severity require review.','health','I have a headache.',['headaches']],
+ ['health','wellbeing','Physical health or wellbeing; not a diagnosis or promise of care.','health','My health is important.'],
+ ['blood','body-fluid','Blood as a body fluid; not family ancestry or metaphorical meanings.','health','I see blood.'],
+ ['body','human-body','A human physical body; not an organization or body of text.','health','My body is tired.',['bodies']],
+ ['breathe','respiration','Breathe or respire; intensity and clinical meanings are not inferred.','health','I breathe slowly.',['breathes','breathed','breathing']],
+ ['cough','cough-action','Coughing as an action; not a diagnosis.','health','I cough at night.',['coughs','coughed','coughing']],
+ ['therapy','therapeutic-treatment','Therapeutic treatment; type and source variant require human review.','health','I go to therapy.',['therapies']],
+ ['surgery','surgical-procedure','A surgical procedure; not an office or a guaranteed operation.','health','The surgery is tomorrow.',['surgeries']],
+ ['vomit','vomiting','Expel stomach contents; nonmanual features need review.','health','I feel like I may vomit.',['vomits','vomited','vomiting']],
+ ['rest','rest-action','Rest or take a break; not the remainder of a quantity.','health','I need rest.',['rests','rested','resting']],
+ ['clean','free-from-dirt','Clean or remove dirt; not an unrelated metaphorical meaning.','home','I clean my room.',['cleans','cleaned','cleaning']],
+ ['dirty','unclean','Dirty or unclean; not obscene language or metaphorical behavior.','home','My shirt is dirty.'],
+ ['soap','washing-substance','Soap used for washing; not a soap opera.','home','I need soap.'],
+ ['shower','washing-shower','A shower for washing; not rain or a celebration.','home','I take a shower.',['showers']],
+ ['bed','sleeping-furniture','A bed for sleeping; not a garden bed or river bed.','home','I go to bed.',['beds']],
+ ['bedroom','sleeping-room','A room used for sleeping; not a reviewed compound assembled from separate clips.','home','My bedroom is here.',['bedrooms']],
+ ['kitchen','food-preparation-room','A room for preparing food.','home','The kitchen is clean.',['kitchens']],
+ ['chair','sitting-furniture','A chair for sitting; not chairing a committee.','home','I need a chair.',['chairs']],
+ ['door','door-object','A door opening into a space; not opportunity or a named product.','home','The door is open.',['doors']],
+ ['window','building-window','A window in a building; not a software window.','home','I open the window.',['windows']],
+ ['clothes','garments','Clothing or garments; source lexical scope requires review.','home','I wash my clothes.'],
+ ['shirt','upper-body-garment','A shirt garment; not all clothes.','home','My shirt is blue.',['shirts']],
+ ['shoes','footwear','Shoes or footwear; exact singular/plural realization requires review.','home','My shoes are here.'],
+ ['banana','banana-fruit','A banana fruit.','food','I want a banana.',['bananas']],
+ ['cheese','cheese-food','Cheese as food; not a request to smile for a photograph.','food','I want cheese.'],
+ ['egg','egg-food','An egg as food; not a metaphorical egg.','food','I cook an egg.',['eggs']],
+ ['fruit','fruit-food','Fruit as food; not metaphorical results.','food','I want fruit.',['fruits']],
+ ['orange','orange-fruit','The orange fruit; color and other senses require clarification.','food','I eat an orange.',['oranges']],
+ ['potato','potato-food','A potato as food.','food','I cook a potato.',['potatoes']],
+ ['tomato','tomato-food','A tomato as food.','food','I want a tomato.',['tomatoes']],
+ ['soup','soup-food','Soup as food; not a generic meal request.','food','The soup is hot.',['soups']],
+ ['sandwich','sandwich-food','A sandwich as food; not the verb squeeze between objects.','food','I want a sandwich.',['sandwiches']],
+ ['salt','salt-food','Salt as a food seasoning; not the sea or a chemistry-specific claim.','food','I need salt.'],
+ ['sugar','sweetener','Sugar as a food sweetener; source capture availability is checked separately.','food','I need sugar.'],
+ ['cook','prepare-food','Prepare food by cooking; not a person who is a cook.','food','I cook soup.',['cooks','cooked','cooking']],
+ ['delicious','pleasant-taste','Food tasting pleasant; intensity and facial expression require review.','food','The soup is delicious.'],
+ ['full','satiated','Satiated after eating; container capacity and filled spaces remain different senses.','food','I am full after lunch.'],
+ ['restaurant','eating-establishment','A restaurant; not an automatically translated request for a table.','food','I go to a restaurant.',['restaurants']],
+ ['husband','male-spouse','A husband or male spouse; relationship and regional variant require review.','people','My husband is here.',['husbands']],
+ ['wife','female-spouse','A wife or female spouse; relationship and regional variant require review.','people','My wife is here.',['wives']],
+ ['uncle','parent-sibling-male','An uncle as a family relationship; not a personal name.','people','My uncle is here.',['uncles']],
+ ['cousin','cousin-relative','A cousin as a family relationship; gendered variants require review.','people','My cousin is here.',['cousins']],
+ ['nephew','nephew-relative','A nephew as a family relationship.','people','My nephew is here.',['nephews']],
+ ['niece','niece-relative','A niece as a family relationship.','people','My niece is here.',['nieces']],
+ ['grandmother','female-grandparent','A grandmother or female grandparent; exact family variant requires review.','people','My grandmother is here.',['grandmothers']],
+ ['grandfather','male-grandparent','A grandfather or male grandparent; exact family variant requires review.','people','My grandfather is here.',['grandfathers']],
+ ['parents','parent-relatives','Parents as a family relationship; number and family composition require review.','people','My parents are here.'],
+ ['person','human-person','A human person; not the grammatical person of a verb.','people','I see a person.',['persons']],
+ ['adult','adult-person','A grown person; not an unrelated media classification.','people','An adult is here.',['adults']],
+ ['interpreter','language-interpreter','A person interpreting between languages; not a software interpreter.','communication','I need an interpreter.',['interpreters']],
+ ['translate','between-languages','Translate between languages; not movement or an automatic sentence translation promise.','communication','I translate a message.',['translates','translated','translating']],
+ ['talk','conversation-action','Talk or converse; exact modality, direction and discourse role require review.','communication','We talk today.',['talks','talked','talking']],
+ ['show','show-something','Show something to another person; not a performance or television show.','communication','Please show me.',['shows','showed','showing']],
+ ['explain','explanation-action','Give an explanation; not every English interpretation of explain.','communication','Please explain again.',['explains','explained','explaining']],
+ ['mean','meaning-action','Convey a meaning; unkindness and arithmetic average are separate senses.','communication','What does it mean?',['means','meant']],
+ ['sentence','language-sentence','A linguistic sentence; not a criminal punishment.','communication','I read a sentence.',['sentences']],
+ ['word','language-word','A word in a language; not a promise or named software product.','communication','I know this word.',['words']],
+ ['example','illustrative-example','An illustrative example; not automatically a complete explanatory phrase.','communication','Please show an example.',['examples']],
+ ['practice','rehearsal-action','Practise or rehearse a skill; professional practice is a separate sense.','education','I practice every day.',['practices','practiced','practicing']],
+ ['study','study-action','Study or learn a subject; not a research report or room.','education','I study at school.',['studies','studied','studying']],
+ ['class','teaching-group','An instructional class; not social class, quality, or programming.','education','My class is today.',['classes']],
+ ['lesson','teaching-unit','A unit of teaching; not a punitive metaphor.','education','The lesson is today.',['lessons']],
+ ['homework','schoolwork-at-home','Schoolwork assigned to do outside class.','education','I do my homework.'],
+ ['library','book-lending-place','A library for reading and borrowing; not a software library.','education','I go to the library.',['libraries']],
+ ['computer','computing-device','A computer device; not a named product.','education','I use a computer.',['computers']],
+ ['paper','paper-material','Paper material; not automatically a newspaper, essay or examination.','education','I need paper.',['papers']],
+ ['pencil','writing-tool','A pencil writing tool; not a scheduling verb.','education','I write with a pencil.',['pencils']],
+ ['test','assessment','A test or assessment; medical tests and experimentation need separate context review.','education','My test is tomorrow.',['tests']],
+ ['afternoon','afternoon-time','The period after noon; not a full good-afternoon greeting.','time','I work in the afternoon.',['afternoons']],
+ ['hour','hour-duration','An hour of duration; number incorporation requires separate review.','time','I wait for an hour.',['hours']],
+ ['minute','minute-duration','A minute of duration; smallness or meeting minutes are separate senses.','time','I wait for a minute.',['minutes']],
+ ['monday','weekday-monday','Monday as a weekday; recurrence and tense are not inferred.','time','I work on Monday.',['mondays']],
+ ['wednesday','weekday-wednesday','Wednesday as a weekday; recurrence and tense are not inferred.','time','I work on Wednesday.',['wednesdays']],
+ ['thursday','weekday-thursday','Thursday as a weekday; recurrence and tense are not inferred.','time','I work on Thursday.',['thursdays']],
+ ['friday','weekday-friday','Friday as a weekday; recurrence and tense are not inferred.','time','I work on Friday.',['fridays']],
+ ['saturday','weekday-saturday','Saturday as a weekday; recurrence and tense are not inferred.','time','I work on Saturday.',['saturdays']],
+ ['later','later-time','At a later time; not a full farewell phrase.','time','I work later.'],
+ ['early','early-time','Earlier than expected; not a specific time or appointment.','time','I arrive early.'],
+ ['late','late-time','Later than expected; not deceased or recent.','time','I arrive late.'],
+ ['angry','anger-emotion','Feeling anger; intensity and nonmanual features require review.','emotion','I am angry.'],
+ ['scared','fear-emotion','Feeling fear; source handshape and facial features require review.','emotion','I feel scared.'],
+ ['worry','worry-emotion','Worry or feel concern; not an unrelated reassurance sentence.','emotion','I worry about school.',['worries','worried','worrying']],
+ ['bored','boredom','Feeling bored; not drilling a hole.','emotion','I am bored.'],
+ ['lonely','loneliness','Feeling lonely; being physically alone is not assumed equivalent.','emotion','I feel lonely.'],
+ ['comfortable','physical-comfort','Feeling comfortable; confident or financially secure meanings are not inferred.','emotion','I feel comfortable.'],
+ ['relax','relax-action','Relax or release tension; exact realization and nonmanuals require review.','emotion','I relax at home.',['relaxes','relaxed','relaxing']],
+ ['stress','stress-feeling','Psychological stress; mechanical pressure and word emphasis are separate senses.','emotion','I feel stress.'],
+ ['smile','smiling-action','A smile as an action; not grammatical nonmanuals for arbitrary ASL sentences.','emotion','I smile at my friend.',['smiles','smiled','smiling']],
+ ['cry','cry-action','Cry with tears; not call out or shout.','emotion','I cry when I am sad.',['cries','cried','crying']],
+ ['laugh','laugh-action','Laugh as an action; expression and source timing require review.','emotion','I laugh with my friend.',['laughs','laughed','laughing']],
+ ['ready','prepared-state','Being prepared or ready; not money or a complete question.','description','I am ready.'],
+ ['easy','low-difficulty','Low difficulty; not a command to slow down.','description','This lesson is easy.'],
+ ['hard','high-difficulty','High difficulty; solid texture and physical force are separate senses.','description','This lesson is hard.'],
+ ['different','difference','Different or not the same; source variant and comparison scope require review.','description','These words are different.'],
+ ['same','sameness','The same or identical; source capture availability is checked separately.','description','These words are the same.'],
+ ['new','recently-new','New or recent; not a novice person or the word news.','description','I have a new book.'],
+ ['old','age-quality','Old in age; person versus object realization requires review.','description','The book is old.'],
+ ['young','young-age','Young in age; not a proper name.','description','My cousin is young.']
+];
+export const presentationRows = rows;
+if (process.argv.includes('--write')) {
+ const library=JSON.parse(fs.readFileSync('web/vocabulary-manifest.json'));
+ const inventory=JSON.parse(fs.readFileSync('asset-downloads/presentation-batch-20261016/inventory.json'));
+ const evidence=JSON.parse(fs.readFileSync('asset-downloads/presentation-research-20261016/reference-checks.json'));
+ const byWord=new Map(evidence.map(e=>[e.word,e]));
+ const available=new Set(inventory.samples.map(s=>s.file.slice(9,-4)));
+ const selected=rows.filter(([word])=>available.has(word)&&byWord.get(word)?.status===200&&byWord.get(word)?.aslReference);
+ if(selected.length>100)throw Error('Bounded batch exceeded.');
+ const conceptProposals=selected.map(([word,sense,definition,category,example,inflections=[]])=>{
+  if(library.concepts.some(c=>c.id===`asl.${word}.${sense}`||c.sense===sense&&c.aliases.some(a=>a.text===word)))throw Error('Concept already exists; merge must be explicit: '+word);
+  return {id:`asl.${word}.${sense}`,signLanguage:'ASL',sense,label:word[0].toUpperCase()+word.slice(1),definition,category,aliases:[word],inflections,exampleContexts:[example],sourceProject:'https://osf.io/mqzyk/',license:'CC-BY-4.0',meaningReference:byWord.get(word).url};
+ });
+ const entries=conceptProposals.map(c=>({id:'3dlex-'+c.aliases[0],word:c.aliases[0],conceptId:c.id,sense:c.sense,signLanguage:'ASL',sourcePath:`asset-downloads/presentation-batch-20261016/${c.aliases[0]}.glb`,variantId:'3dlex-v1-source',variantLabel:'3D-LEX source capture; exact sense and variant pending review',sourceProject:c.sourceProject,archiveURL:'https://osf.io/download/tcnhs/',license:c.license,sourceLanguageVerified:true,meaningReference:c.meaningReference}));
+ fs.writeFileSync('imports/asl-presentation-20261016.json',JSON.stringify({schema:'asl-motion-batch/1',id:'asl-presentation-20261016',conceptProposals,entries},null,2)+'\n',{flag:'wx'});
+ console.log(JSON.stringify({proposedRows:rows.length,archiveSamples:available.size,referenceSupported:selected.length,excluded:rows.filter(([word])=>!selected.some(([w])=>w===word)).map(([word])=>({word,reason:available.has(word)?'ASL reference absent or unresolved':'Not in downloaded ASL archive samples'}))},null,2));
+}

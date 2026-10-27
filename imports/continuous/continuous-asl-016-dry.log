@@ -1,0 +1,82 @@
+{
+  "report": "imports\\continuous\\continuous-asl-016-dry.json",
+  "dryRun": true,
+  "counts": {
+    "added": 40,
+    "merged": 0,
+    "skipped": 0,
+    "conflicting": 0,
+    "rejected": 0,
+    "pending-review": 0
+  },
+  "conceptChanges": {
+    "added": [],
+    "skipped": [],
+    "conflicting": []
+  },
+  "metadataChanges": {
+    "added": [],
+    "skipped": [],
+    "conflicting": []
+  },
+  "discoveryChanges": {
+    "added": 0,
+    "skipped": 0,
+    "conflicting": []
+  },
+  "pendingReview": [
+    "3dlex-invite",
+    "3dlex-iron",
+    "3dlex-italy",
+    "3dlex-japan",
+    "3dlex-jealous",
+    "3dlex-jewish",
+    "3dlex-join",
+    "3dlex-joke",
+    "3dlex-journey",
+    "3dlex-jump",
+    "3dlex-keep",
+    "3dlex-keyboard",
+    "3dlex-kid",
+    "3dlex-knife",
+    "3dlex-label",
+    "3dlex-law",
+    "3dlex-lawyer",
+    "3dlex-lazy",
+    "3dlex-lead",
+    "3dlex-leak",
+    "3dlex-less",
+    "3dlex-letter",
+    "3dlex-lettuce",
+    "3dlex-license",
+    "3dlex-lie",
+    "3dlex-lion",
+    "3dlex-lipstick",
+    "3dlex-lobster",
+    "3dlex-lock",
+    "3dlex-long",
+    "3dlex-loud",
+    "3dlex-lousy",
+    "3dlex-lucky",
+    "3dlex-mad",
+    "3dlex-magazine",
+    "3dlex-magic",
+    "3dlex-make",
+    "3dlex-many",
+    "3dlex-marry",
+    "3dlex-math"
+  ],
+  "before": {
+    "concepts": 789,
+    "aliases": 1024,
+    "animations": 477,
+    "reviewedEnabledSigns": 0
+  },
+  "after": {
+    "concepts": 789,
+    "aliases": 1024,
+    "animations": 517,
+    "reviewedEnabledSigns": 0
+  }
+}
+

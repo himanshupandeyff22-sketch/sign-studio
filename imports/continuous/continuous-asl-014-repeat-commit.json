@@ -1,0 +1,446 @@
+{
+  "schema": "asl-import-report/1",
+  "batchId": "continuous-asl-014",
+  "before": {
+    "concepts": 789,
+    "aliases": 1024,
+    "animations": 437,
+    "reviewedEnabledSigns": 0
+  },
+  "after": {
+    "concepts": 789,
+    "aliases": 1024,
+    "animations": 437,
+    "reviewedEnabledSigns": 0
+  },
+  "conceptChanges": {
+    "added": [],
+    "skipped": [],
+    "conflicting": []
+  },
+  "metadataChanges": {
+    "added": [],
+    "skipped": [],
+    "conflicting": []
+  },
+  "discoveryChanges": {
+    "added": 0,
+    "skipped": 0,
+    "conflicting": []
+  },
+  "counts": {
+    "added": 0,
+    "merged": 0,
+    "skipped": 40,
+    "conflicting": 0,
+    "rejected": 0,
+    "pending-review": 0
+  },
+  "pendingReview": [],
+  "rows": [
+    {
+      "id": "3dlex-everyday",
+      "conceptId": "asl.everyday.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/everyday.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "dc719cc1c199b026c46411442d5964e760d3f1c4cb8e3de4e51b0d26850bce5c",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/everyday.glb"
+    },
+    {
+      "id": "3dlex-evidence",
+      "conceptId": "asl.evidence.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/evidence.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "b03d8d9297c26f5dcf51cd025f4755f48b5c2bc631e91c09a4b1d887e049b116",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/evidence.glb"
+    },
+    {
+      "id": "3dlex-expect",
+      "conceptId": "asl.expect.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/expect.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "30689080499c1d431a1d9b61f317a26607d7533cfc2fc83b4a828c53f7ae3f5b",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/expect.glb"
+    },
+    {
+      "id": "3dlex-expensive",
+      "conceptId": "asl.expensive.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/expensive.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "8cc30587c850a439d06fe44217c260da3fb115f2d2f766a28b343ff98bf93243",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/expensive.glb"
+    },
+    {
+      "id": "3dlex-experiment",
+      "conceptId": "asl.experiment.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/experiment.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "b844ebb4fa4c872c116aa9abdb8f5cfd47141cc29e65a2e3d92500bef37de661",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/experiment.glb"
+    },
+    {
+      "id": "3dlex-expert",
+      "conceptId": "asl.expert.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/expert.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "1095b6d8c756de761f03ac4b6d19770505845fd2000e0cb58608f4a9c625deef",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/expert.glb"
+    },
+    {
+      "id": "3dlex-express",
+      "conceptId": "asl.express.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/express.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "c415dfaa4ba8fa24efead1b180787aed858122ba0e744c5dbdc5e51e8ec99a27",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/express.glb"
+    },
+    {
+      "id": "3dlex-eyeglasses",
+      "conceptId": "asl.eyeglasses.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/eyeglasses.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "5c255a71de3cc52670a7fe5657ee66faa713141e0eedb48840223d7f43265fb4",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/eyeglasses.glb"
+    },
+    {
+      "id": "3dlex-face",
+      "conceptId": "asl.face.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/face.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "583ff9cd30869f3c0312623a52a7b7a10786a4315b7e7e25eddd302e2ead559a",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/face.glb"
+    },
+    {
+      "id": "3dlex-fail",
+      "conceptId": "asl.fail.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/fail.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "614ac1ee0273519523ce0285192089efc45f2daa0847a4580498b4c57efa4040",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/fail.glb"
+    },
+    {
+      "id": "3dlex-fake",
+      "conceptId": "asl.fake.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/fake.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "f9d5a140191fcaa2fa20c4f9b10520a9e03f5cf133a9baba78fa45966368999d",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/fake.glb"
+    },
+    {
+      "id": "3dlex-famous",
+      "conceptId": "asl.famous.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/famous.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "ed4f6c8df75da5426a312638ba277028d0cd321b198ef58366e5954b5c658ec6",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/famous.glb"
+    },
+    {
+      "id": "3dlex-farm",
+      "conceptId": "asl.farm.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/farm.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "6d1e76b8a520a338be092914ae9d5d1ba57fd031e9cd95ffdac11fb6a1e5f415",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/farm.glb"
+    },
+    {
+      "id": "3dlex-fat",
+      "conceptId": "asl.fat.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/fat.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "bd44dde4956d7f0fae5bc7792797c7d70df6d9c094853ff8fe9d3ffd2105a13b",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/fat.glb"
+    },
+    {
+      "id": "3dlex-favorite",
+      "conceptId": "asl.favorite.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/favorite.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "446b5f6ca3a9a8d0d0fa48d02114047c1ea3146c7defca42ed6c4d96729912ee",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/favorite.glb"
+    },
+    {
+      "id": "3dlex-few",
+      "conceptId": "asl.few.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/few.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "3d7e8bc88af3882bf6c862c1c1278be46589cebe94acc51f3795f968a9fd89d4",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/few.glb"
+    },
+    {
+      "id": "3dlex-fight",
+      "conceptId": "asl.fight.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/fight.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "353e9eba537c1c85ade0f8549394dba17042a5c4584114bb7ca68b54afba64ba",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/fight.glb"
+    },
+    {
+      "id": "3dlex-finally",
+      "conceptId": "asl.finally.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/finally.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "d05bf369095bd00083da564aa00ff9c12d56686006b54f2995abf46bee2b75d9",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/finally.glb"
+    },
+    {
+      "id": "3dlex-fire",
+      "conceptId": "asl.fire.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/fire.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "19a9273e2b53205c570ff78546d0e2356f3adcdacdd3ca870dccc768a4a26e0a",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/fire.glb"
+    },
+    {
+      "id": "3dlex-floor",
+      "conceptId": "asl.floor.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/floor.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "1af482bc237693e96b6071d38376dc5310f920ff6ec6bab4118cc72ca51b7ad3",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/floor.glb"
+    },
+    {
+      "id": "3dlex-fly",
+      "conceptId": "asl.fly.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/fly.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "5818a7d7d4181dd95290636f3c5dee263c35a8b8e84132687db8b9538e93ccb3",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/fly.glb"
+    },
+    {
+      "id": "3dlex-fool",
+      "conceptId": "asl.fool.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/fool.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "ec3ac417cad5a2db32118b7b5f95d051ed1084b26bf0b2e449ba2193e3a231d5",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/fool.glb"
+    },
+    {
+      "id": "3dlex-football",
+      "conceptId": "asl.football.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/football.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "4b280e3141efa06e8174b07966b3ae31ee5558a75398b44cae5379f6b96a21ce",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/football.glb"
+    },
+    {
+      "id": "3dlex-for",
+      "conceptId": "asl.for.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/for.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "8ef97a45a473153195ef5fb5664c6b398827bb2cf2e2baebd128bce560389946",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/for.glb"
+    },
+    {
+      "id": "3dlex-forbid",
+      "conceptId": "asl.forbid.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/forbid.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "40bc1947d6ef8205788f734ddfd3611b2392935fe45f3a6d35d62781b6ea16df",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/forbid.glb"
+    },
+    {
+      "id": "3dlex-form",
+      "conceptId": "asl.form.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/form.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "e44431384eff4a0f1e78ae6b471293ac022ab4cb94775a283570c1bf98b7abf8",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/form.glb"
+    },
+    {
+      "id": "3dlex-former",
+      "conceptId": "asl.former.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/former.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "57d28a6486ad291c01607b478118e2c45654e818e976acdf083b53b4caec5834",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/former.glb"
+    },
+    {
+      "id": "3dlex-four",
+      "conceptId": "asl.four.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/four.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "6ff9c986c3de02ae4cd78a6724acf7c1b08faa28294d75b6741d31d9e5661891",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/four.glb"
+    },
+    {
+      "id": "3dlex-free",
+      "conceptId": "asl.free.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/free.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "767116dede773f6eec045092ee23931ef33c2533326d0420e322b10bfa80300c",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/free.glb"
+    },
+    {
+      "id": "3dlex-freeway",
+      "conceptId": "asl.freeway.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/freeway.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "879d2dc70d6a7bbd36a1e4a841871070193490242b6ea65dc1a022d0dea4345f",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/freeway.glb"
+    },
+    {
+      "id": "3dlex-freeze",
+      "conceptId": "asl.freeze.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/freeze.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "ebf3b9fe8e1320934af7e18f8a4e8698eb9a0823b5813c366c136e1b4817a608",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/freeze.glb"
+    },
+    {
+      "id": "3dlex-french",
+      "conceptId": "asl.french.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/french.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "7910ea03be57e5465423eaea76abfb7159fac9d2f3564f60adac89a818c1d9d0",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/french.glb"
+    },
+    {
+      "id": "3dlex-friendly",
+      "conceptId": "asl.friendly.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/friendly.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "fa675586c78983f7b439f6e0dbf08f4d934b395bdf22edf1653dc5240c54dc27",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/friendly.glb"
+    },
+    {
+      "id": "3dlex-front",
+      "conceptId": "asl.front.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/front.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "a741f07f5307d058aa0b8eba8b90cee60f293ffcdbb01c41801c7f127ec18236",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/front.glb"
+    },
+    {
+      "id": "3dlex-fun",
+      "conceptId": "asl.fun.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/fun.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "de9da16ba9d016a0d4d69e0d828535b01cbfd3c267fa252977f85bd0ffe28021",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/fun.glb"
+    },
+    {
+      "id": "3dlex-funny",
+      "conceptId": "asl.funny.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/funny.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "989510227b3ddc906921be31b349d4b2847de437f222934d662bf4e7a3032e19",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/funny.glb"
+    },
+    {
+      "id": "3dlex-furniture",
+      "conceptId": "asl.furniture.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/furniture.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "2dce2a978d9246f8bf366bd8d8f86ddbbe9ef92a4cde3dc9fb6e309961e5f53d",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/furniture.glb"
+    },
+    {
+      "id": "3dlex-gamble",
+      "conceptId": "asl.gamble.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/gamble.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "77083756f205c053bf00ea65e8606274d1827ad8815d6b0bf9c063f5c3b1ce39",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/gamble.glb"
+    },
+    {
+      "id": "3dlex-game",
+      "conceptId": "asl.game.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/game.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "6ad4bfa5b8073d791c0aca416449382b374b5506741664a1202f198dd21596f2",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/game.glb"
+    },
+    {
+      "id": "3dlex-gas",
+      "conceptId": "asl.gas.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "sourcePath": "asset-downloads/continuous-20261019/gas.glb",
+      "status": "skipped",
+      "reason": "Identical registered primary/additional source/hash; canonical motion preserved.",
+      "sourceSHA256": "9503a31752d75e7cede8a64f4a9d3c60517f799bf3063c5dc1c4d1b16ee72cf4",
+      "sourceIdentity": "https://osf.io/download/tcnhs/#ANIM_GLB/gas.glb"
+    }
+  ],
+  "dryRun": false,
+  "batchSHA256": "47d6e4e7ca49a8de41cc3ea2619ed3c0c18c27e89793eb155d1eb4bd066a40a2",
+  "baselineManifestSHA256": "529fd1374e74e37944eea4c00fc2a2f3ac249ef45d2b628437c465cee1298ce5",
+  "planFingerprint": "2625f9382932e013d06ed28bedafc9ccaafa38450bf2058a1ab74b6954995251"
+}

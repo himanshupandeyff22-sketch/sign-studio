@@ -1,0 +1,45 @@
+✔ API supports sessions, preferences, translations, history, export and input protection (652.8448ms)
+✔ API queues 500-word multi-sentence input, persists all text, and permits repeated submissions (381.7759ms)
+✔ API excludes unreviewed motions by default and requires explicit research meanings (212.4614ms)
+✔ an unrecognized session cookie can be replaced and an existing session resumes (241.7933ms)
+✔ API restores complete vocabulary coverage and preferences after a backend restart (442.725ms)
+✔ all first-visit research examples resolve to their intended recording and sense (166.885ms)
+✔ unavailable, wrong-language and inspection-only recordings cannot become guided examples (3.5293ms)
+✔ guided examples cannot erase the meaning choice required for No and Love (3.586ms)
+✔ manual inspection supports one legacy ID and an ordered queue without sentence translation (6.6474ms)
+✔ inspection spans, coverage and duration describe selected registered glosses exactly (1.4065ms)
+✔ the complete queue is validated before playback and rejects malformed or unregistered IDs (2.8127ms)
+✔ manual inspection cannot inject assets, approval or mappings or enable translation (42.7312ms)
+✔ saved inspection sequences replay all IDs through the current registry instead of cached paths (8.0252ms)
+✔ clear contextual transpositions preserve original spans and can be undone (42.9845ms)
+✔ unknown valid words, names, digits and negation are never aggressively corrected (17.8497ms)
+✔ equivalent English candidate aliases share one concept but require ASL mapping review (7.6083ms)
+✔ declared names cannot bypass interpretation through the raw vocabulary matcher (10.9749ms)
+✔ financial and river bank senses remain distinct; uncertain context asks per occurrence (6.6403ms)
+✔ light/right senses and multiword meanings resolve before single-word matches (5.1878ms)
+✔ negated clauses are held rather than rendered as positive HELP (7.2477ms)
+✔ unreviewed complete expressions never become a vaguely similar lexical sign (4.7158ms)
+✔ 500 words retain exact original and interpreted punctuation, positions and concept decisions (64.069ms)
+✔ new motions are inspection-only and cannot be enabled by spelling/meaning matches or client flags (10.6582ms)
+✔ Select all shown preserves queue order, deduplicates and only removes the shown subset (5.2332ms)
+✔ bulk selection is atomic at the existing 100-motion limit (0.6799ms)
+✔ sentence options preserve source language, separate media types and retain exact provenance (7.4824ms)
+✔ whole-expression requests never fall back to isolated words in any vocabulary mode (26.8102ms)
+✔ word matches never appear as complete translated phrases (13.6848ms)
+✔ inspection-only words, missing vocabulary and negation explain different blockers (4.9353ms)
+✔ paragraph diagnostics preserve spans and every segment of a 500-word input (22.8025ms)
+✔ legacy phrase illustrations and camera/manual inspection cannot claim phrase approval (1.9011ms)
+✔ five-expression kit reuses canonical concepts and templates without enabling candidates (37.5743ms)
+✔ staged candidates have pinned provenance, intact hashes, distinct numeric payloads and matching meanings (7.3333ms)
+✔ every supported phrase resolves in its selected language (2.3722ms)
+✔ input normalization handles punctuation, whitespace, and apostrophes (2.8537ms)
+✔ unsupported input never silently produces a gesture (0.3435ms)
+✔ camera responses map only to supported animation identifiers (0.2695ms)
+ℹ tests 37
+ℹ suites 0
+ℹ pass 37
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 2198.6581

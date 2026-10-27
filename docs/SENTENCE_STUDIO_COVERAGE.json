@@ -1,0 +1,42 @@
+{
+  "checkedAt": "2026-10-19T08:38:16.716Z",
+  "counts": {
+    "expandedResearchTextConcepts": 725,
+    "expandedResearchTextMotions": 726,
+    "registeredFiles": 729,
+    "onDiskFiles": 729,
+    "uniqueRegisteredFiles": 729,
+    "technicallyPlayable": 729,
+    "aaravCompatible": 729,
+    "candidateConcepts": 789,
+    "uniqueMotionConcepts": 728,
+    "inspectionOnlyAssets": 725,
+    "catalogueEntries": 938,
+    "catalogueNotImported": 209,
+    "textMappedConcepts": 4,
+    "textLinkedPreviews": 4,
+    "completeAvatarSentences": 0,
+    "sourceVideoReferences": 8,
+    "browserCheckedSourceVideos": 1,
+    "localSentenceVideos": 0,
+    "approvedSigns": 0
+  },
+  "aliases": 808,
+  "declaredInflections": 216,
+  "uniqueRuntimeHashes": 729,
+  "uniqueSourceHashes": 729,
+  "uniqueNormalizedMotionHashes": 729,
+  "conceptsWithoutImportedAnimation": 61,
+  "multipleCaptureConcepts": [
+    {
+      "id": "asl.bathroom.restroom",
+      "assets": [
+        "3dlex-bathroom",
+        "3dlex-toilet"
+      ]
+    }
+  ],
+  "assetBasis": "cef40810277dd3fc728046368646f69905c7ab12dfb6fcea0ec057ae0c0f90c1",
+  "issues": [],
+  "notice": "729 distinct captures, 728 source/candidate concepts; aliases and inflections are not new signs. No linguistic approval."
+}

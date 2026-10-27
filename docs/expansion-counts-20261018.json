@@ -1,0 +1,52 @@
+{
+  "conceptCount": 268,
+  "aliasCount": 287,
+  "inflectionCount": 216,
+  "recordedMotionCount": 207,
+  "inspectionOnlyCount": 203,
+  "text": "Ordered vocabulary playback with validation gates, explicit ambiguity and missing coverage",
+  "camera": [
+    "Open_Palm",
+    "Thumb_Up",
+    "Thumb_Down",
+    "Victory",
+    "ILoveYou"
+  ],
+  "cameraVocabularyMode": "demo",
+  "cameraModelPoseCount": 7,
+  "cameraIllustrationPoseCount": 5,
+  "cameraDistinctIllustrations": 4,
+  "cameraControlCount": 2,
+  "cameraValidatedSignCount": 0,
+  "signLanguage": "ASL",
+  "validatedSignLanguage": false,
+  "responseTypes": [
+    "vocabulary",
+    "camera-demo",
+    "asset-review"
+  ],
+  "vocabularyModes": [
+    "validated",
+    "research",
+    "demo"
+  ],
+  "defaultVocabularyMode": "validated",
+  "vocabularyCounts": {
+    "validated": 0,
+    "research": 4,
+    "demo": 6
+  },
+  "validatedCount": 0,
+  "researchCount": 4,
+  "demoCount": 6,
+  "maxInput": 100000,
+  "maxWords": 10000,
+  "maxSequence": 10000,
+  "fingerspelling": false,
+  "notice": "Validated vocabulary mode. No current asset has completed technical and human ASL review. Uncertain motions are excluded. Missing terms have no signing or fingerspelling animation.",
+  "notices": {
+    "validated": "Validated vocabulary mode. No current asset has completed technical and human ASL review. Uncertain motions are excluded. Missing terms have no signing or fingerspelling animation.",
+    "research": "ASL research preview: retargeted 3D-LEX motion, pending technical and human ASL review. Meanings require explicit selection where ambiguous. This vocabulary prototype is not grammatical sign-language translation.",
+    "demo": "Illustrative demo mode: six legacy procedural motions, all unvalidated. This vocabulary prototype is not grammatical sign-language translation. Missing terms receive no generic talk or fingerspelling fallback."
+  }
+}

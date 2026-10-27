@@ -1,0 +1,82 @@
+{
+  "report": "imports\\continuous\\continuous-asl-009-dry.json",
+  "dryRun": true,
+  "counts": {
+    "added": 0,
+    "merged": 0,
+    "skipped": 0,
+    "conflicting": 0,
+    "rejected": 40,
+    "pending-review": 0
+  },
+  "conceptChanges": {
+    "added": [
+      "asl.perfect.source-gloss-unverified",
+      "asl.perspective.source-gloss-unverified",
+      "asl.piano.source-gloss-unverified",
+      "asl.pie.source-gloss-unverified",
+      "asl.pig.source-gloss-unverified",
+      "asl.pity.source-gloss-unverified",
+      "asl.place.source-gloss-unverified",
+      "asl.plan.source-gloss-unverified",
+      "asl.plant.source-gloss-unverified",
+      "asl.play.source-gloss-unverified",
+      "asl.plenty.source-gloss-unverified",
+      "asl.plus.source-gloss-unverified",
+      "asl.point.source-gloss-unverified",
+      "asl.poop.source-gloss-unverified",
+      "asl.popular.source-gloss-unverified",
+      "asl.postpone.source-gloss-unverified",
+      "asl.power.source-gloss-unverified",
+      "asl.precious.source-gloss-unverified",
+      "asl.president.source-gloss-unverified",
+      "asl.pretty.source-gloss-unverified",
+      "asl.price.source-gloss-unverified",
+      "asl.pride.source-gloss-unverified",
+      "asl.print.source-gloss-unverified",
+      "asl.process.source-gloss-unverified",
+      "asl.promise.source-gloss-unverified",
+      "asl.promote.source-gloss-unverified",
+      "asl.proof.source-gloss-unverified",
+      "asl.pull.source-gloss-unverified",
+      "asl.punish.source-gloss-unverified",
+      "asl.push.source-gloss-unverified",
+      "asl.put.source-gloss-unverified",
+      "asl.puzzled.source-gloss-unverified",
+      "asl.queen.source-gloss-unverified",
+      "asl.quiet.source-gloss-unverified",
+      "asl.race.source-gloss-unverified",
+      "asl.rake.source-gloss-unverified",
+      "asl.really.source-gloss-unverified",
+      "asl.refuse.source-gloss-unverified",
+      "asl.relationship.source-gloss-unverified",
+      "asl.request.source-gloss-unverified"
+    ],
+    "skipped": [],
+    "conflicting": []
+  },
+  "metadataChanges": {
+    "added": [],
+    "skipped": [],
+    "conflicting": []
+  },
+  "discoveryChanges": {
+    "added": 0,
+    "skipped": 0,
+    "conflicting": []
+  },
+  "pendingReview": [],
+  "before": {
+    "concepts": 617,
+    "aliases": 852,
+    "animations": 397,
+    "reviewedEnabledSigns": 0
+  },
+  "after": {
+    "concepts": 657,
+    "aliases": 892,
+    "animations": 397,
+    "reviewedEnabledSigns": 0
+  }
+}
+

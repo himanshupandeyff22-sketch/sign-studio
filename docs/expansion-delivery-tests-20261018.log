@@ -1,0 +1,19 @@
+✔ API supports sessions, preferences, translations, history, export and input protection (695.1544ms)
+✔ API queues 500-word multi-sentence input, persists all text, and permits repeated submissions (334.9959ms)
+✔ API excludes unreviewed motions by default and requires explicit research meanings (205.1089ms)
+✔ an unrecognized session cookie can be replaced and an existing session resumes (150.3871ms)
+✔ API restores complete vocabulary coverage and preferences after a backend restart (349.1762ms)
+✔ camera captures stable poses once and requires neutral release/cooldown before repeat (3.222ms)
+✔ unknown, weak, conflicting and cropped hands never become a confirmed word (0.4114ms)
+✔ seven pose classes remain five opt-in illustrations plus two explicit controls, not seven ASL words (9.6285ms)
+✔ camera worker bounds frame size, rejects concurrent frames and releases pending work on stop (1.9352ms)
+✔ camera history preserves original confirmation and score without claiming a new capture (2.0677ms)
+✔ cached catalog gzip preserves every record and respects explicit encoding refusal (530.5168ms)
+ℹ tests 11
+ℹ suites 0
+ℹ pass 11
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1945.3532

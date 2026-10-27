@@ -1,0 +1,2110 @@
+{
+  "schema": "complete-expression-source-index/1",
+  "notice": "Discovery/review metadata only. Source-recording previews are separate from Aarav. No new validated signs, templates or rigged animations.",
+  "sources": {
+    "clercMetadataSHA256": "264b7be51c2906291299a5659e91082cd5f60f11b57dc3fef42a7b92dbc76084",
+    "floresRevision": "c68240b1fe33d4a9745537a1cff048078376bc9b",
+    "floresCardSHA256": "d96d44a964f8e029565eb07248a0c6ec42b880f99e036be9887d6360378d82a1",
+    "floresMetadataSHA256": "6974542d7160d9c9f6fe9c08e90f07f69c2edf9f4b0651eefb37e6ae45263c96"
+  },
+  "items": [
+    {
+      "id": "asl.template.greeting-wellbeing",
+      "text": "How are you?",
+      "englishPatterns": [
+        "how are you",
+        "hi how are you",
+        "hello how are you",
+        "how are u",
+        "how r u"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "staged-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0027",
+          "signer": "ALPHA",
+          "frames": 112,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0027.npy"
+        },
+        {
+          "clipId": "clerc_v03_0227",
+          "signer": "BRAVO",
+          "frames": 84,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0227.npy"
+        },
+        {
+          "clipId": "clerc_v03_0427",
+          "signer": "CHARLIE",
+          "frames": 93,
+          "fps": 29.95,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0427.npy"
+        },
+        {
+          "clipId": "clerc_v03_0627",
+          "signer": "DELTA",
+          "frames": 174,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0627.npy"
+        },
+        {
+          "clipId": "clerc_v03_0826",
+          "signer": "ECHO",
+          "frames": 69,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0826.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.template.ask-name",
+      "text": "What is your name?",
+      "englishPatterns": [
+        "what is your name",
+        "what's your name"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0018",
+          "signer": "ALPHA",
+          "frames": 126,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0018.npy"
+        },
+        {
+          "clipId": "clerc_v03_0218",
+          "signer": "BRAVO",
+          "frames": 134,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0218.npy"
+        },
+        {
+          "clipId": "clerc_v03_0418",
+          "signer": "CHARLIE",
+          "frames": 125,
+          "fps": 30.1,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0418.npy"
+        },
+        {
+          "clipId": "clerc_v03_0618",
+          "signer": "DELTA",
+          "frames": 186,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0618.npy"
+        },
+        {
+          "clipId": "clerc_v03_0817",
+          "signer": "ECHO",
+          "frames": 72,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0817.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-0eaa523b08690250",
+      "text": "Nice to meet you",
+      "englishPatterns": [
+        "nice to meet you"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0012",
+          "signer": "ALPHA",
+          "frames": 173,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0012.npy"
+        },
+        {
+          "clipId": "clerc_v03_0212",
+          "signer": "BRAVO",
+          "frames": 128,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0212.npy"
+        },
+        {
+          "clipId": "clerc_v03_0412",
+          "signer": "CHARLIE",
+          "frames": 130,
+          "fps": 30.1,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0412.npy"
+        },
+        {
+          "clipId": "clerc_v03_0612",
+          "signer": "DELTA",
+          "frames": 162,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0612.npy"
+        },
+        {
+          "clipId": "clerc_v03_0811",
+          "signer": "ECHO",
+          "frames": 67,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0811.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-cdf71dea7d7741a2",
+      "text": "Good morning",
+      "englishPatterns": [
+        "good morning"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0013",
+          "signer": "ALPHA",
+          "frames": 163,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0013.npy"
+        },
+        {
+          "clipId": "clerc_v03_0213",
+          "signer": "BRAVO",
+          "frames": 117,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0213.npy"
+        },
+        {
+          "clipId": "clerc_v03_0413",
+          "signer": "CHARLIE",
+          "frames": 119,
+          "fps": 30.1,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0413.npy"
+        },
+        {
+          "clipId": "clerc_v03_0613",
+          "signer": "DELTA",
+          "frames": 166,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0613.npy"
+        },
+        {
+          "clipId": "clerc_v03_0812",
+          "signer": "ECHO",
+          "frames": 62,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0812.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-f01e727e7b79d92a",
+      "text": "Good afternoon",
+      "englishPatterns": [
+        "good afternoon"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0014",
+          "signer": "ALPHA",
+          "frames": 161,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0014.npy"
+        },
+        {
+          "clipId": "clerc_v03_0214",
+          "signer": "BRAVO",
+          "frames": 127,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0214.npy"
+        },
+        {
+          "clipId": "clerc_v03_0414",
+          "signer": "CHARLIE",
+          "frames": 130,
+          "fps": 30.1,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0414.npy"
+        },
+        {
+          "clipId": "clerc_v03_0614",
+          "signer": "DELTA",
+          "frames": 135,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0614.npy"
+        },
+        {
+          "clipId": "clerc_v03_0813",
+          "signer": "ECHO",
+          "frames": 63,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0813.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-1b2393b1cd37a2e9",
+      "text": "Good evening",
+      "englishPatterns": [
+        "good evening"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0015",
+          "signer": "ALPHA",
+          "frames": 158,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0015.npy"
+        },
+        {
+          "clipId": "clerc_v03_0215",
+          "signer": "BRAVO",
+          "frames": 131,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0215.npy"
+        },
+        {
+          "clipId": "clerc_v03_0415",
+          "signer": "CHARLIE",
+          "frames": 117,
+          "fps": 30.1,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0415.npy"
+        },
+        {
+          "clipId": "clerc_v03_0615",
+          "signer": "DELTA",
+          "frames": 115,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0615.npy"
+        },
+        {
+          "clipId": "clerc_v03_0814",
+          "signer": "ECHO",
+          "frames": 59,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0814.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-82e35a63ceba37e9",
+      "text": "Goodbye",
+      "englishPatterns": [
+        "goodbye"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0016",
+          "signer": "ALPHA",
+          "frames": 115,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0016.npy"
+        },
+        {
+          "clipId": "clerc_v03_0216",
+          "signer": "BRAVO",
+          "frames": 111,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0216.npy"
+        },
+        {
+          "clipId": "clerc_v03_0416",
+          "signer": "CHARLIE",
+          "frames": 100,
+          "fps": 30.1,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0416.npy"
+        },
+        {
+          "clipId": "clerc_v03_0616",
+          "signer": "DELTA",
+          "frames": 126,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0616.npy"
+        },
+        {
+          "clipId": "clerc_v03_0815",
+          "signer": "ECHO",
+          "frames": 58,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0815.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-21d30fe6e987931b",
+      "text": "See you later",
+      "englishPatterns": [
+        "see you later"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0040",
+          "signer": "ALPHA",
+          "frames": 90,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0040.npy"
+        },
+        {
+          "clipId": "clerc_v03_0240",
+          "signer": "BRAVO",
+          "frames": 94,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0240.npy"
+        },
+        {
+          "clipId": "clerc_v03_0440",
+          "signer": "CHARLIE",
+          "frames": 89,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0440.npy"
+        },
+        {
+          "clipId": "clerc_v03_0640",
+          "signer": "DELTA",
+          "frames": 89,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0640.npy"
+        },
+        {
+          "clipId": "clerc_v03_0839",
+          "signer": "ECHO",
+          "frames": 55,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0839.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.template.express-thanks",
+      "text": "Thank you",
+      "englishPatterns": [
+        "thank you",
+        "thanks"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "staged-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0009",
+          "signer": "ALPHA",
+          "frames": 118,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0009.npy"
+        },
+        {
+          "clipId": "clerc_v03_0209",
+          "signer": "BRAVO",
+          "frames": 94,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0209.npy"
+        },
+        {
+          "clipId": "clerc_v03_0409",
+          "signer": "CHARLIE",
+          "frames": 90,
+          "fps": 30.08,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0409.npy"
+        },
+        {
+          "clipId": "clerc_v03_0609",
+          "signer": "DELTA",
+          "frames": 169,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0609.npy"
+        },
+        {
+          "clipId": "clerc_v03_0808",
+          "signer": "ECHO",
+          "frames": 68,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0808.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-570bbec9e4b6bfc5",
+      "text": "No problem",
+      "englishPatterns": [
+        "no problem"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0046",
+          "signer": "ALPHA",
+          "frames": 96,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0046.npy"
+        },
+        {
+          "clipId": "clerc_v03_0246",
+          "signer": "BRAVO",
+          "frames": 96,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0246.npy"
+        },
+        {
+          "clipId": "clerc_v03_0446",
+          "signer": "CHARLIE",
+          "frames": 105,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0446.npy"
+        },
+        {
+          "clipId": "clerc_v03_0646",
+          "signer": "DELTA",
+          "frames": 134,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0646.npy"
+        },
+        {
+          "clipId": "clerc_v03_0845",
+          "signer": "ECHO",
+          "frames": 61,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0845.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-cbe649f8e0039474",
+      "text": "What time is it?",
+      "englishPatterns": [
+        "what time is it"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0032",
+          "signer": "ALPHA",
+          "frames": 117,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0032.npy"
+        },
+        {
+          "clipId": "clerc_v03_0232",
+          "signer": "BRAVO",
+          "frames": 105,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0232.npy"
+        },
+        {
+          "clipId": "clerc_v03_0432",
+          "signer": "CHARLIE",
+          "frames": 97,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0432.npy"
+        },
+        {
+          "clipId": "clerc_v03_0632",
+          "signer": "DELTA",
+          "frames": 120,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0632.npy"
+        },
+        {
+          "clipId": "clerc_v03_0831",
+          "signer": "ECHO",
+          "frames": 65,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0831.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-bc3f7f7fd709c907",
+      "text": "What happened?",
+      "englishPatterns": [
+        "what happened"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0033",
+          "signer": "ALPHA",
+          "frames": 128,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0033.npy"
+        },
+        {
+          "clipId": "clerc_v03_0233",
+          "signer": "BRAVO",
+          "frames": 96,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0233.npy"
+        },
+        {
+          "clipId": "clerc_v03_0433",
+          "signer": "CHARLIE",
+          "frames": 92,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0433.npy"
+        },
+        {
+          "clipId": "clerc_v03_0633",
+          "signer": "DELTA",
+          "frames": 119,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0633.npy"
+        },
+        {
+          "clipId": "clerc_v03_0832",
+          "signer": "ECHO",
+          "frames": 60,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0832.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-a1f7308abfc1e5c5",
+      "text": "Where is the bathroom",
+      "englishPatterns": [
+        "where is the bathroom"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0025",
+          "signer": "ALPHA",
+          "frames": 167,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0025.npy"
+        },
+        {
+          "clipId": "clerc_v03_0225",
+          "signer": "BRAVO",
+          "frames": 132,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0225.npy"
+        },
+        {
+          "clipId": "clerc_v03_0425",
+          "signer": "CHARLIE",
+          "frames": 99,
+          "fps": 30.03,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0425.npy"
+        },
+        {
+          "clipId": "clerc_v03_0625",
+          "signer": "DELTA",
+          "frames": 181,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0625.npy"
+        },
+        {
+          "clipId": "clerc_v03_0824",
+          "signer": "ECHO",
+          "frames": 73,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0824.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-ab9e34a24904058c",
+      "text": "Where is the cafeteria?",
+      "englishPatterns": [
+        "where is the cafeteria"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0050",
+          "signer": "ALPHA",
+          "frames": 105,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0050.npy"
+        },
+        {
+          "clipId": "clerc_v03_0250",
+          "signer": "BRAVO",
+          "frames": 129,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0250.npy"
+        },
+        {
+          "clipId": "clerc_v03_0450",
+          "signer": "CHARLIE",
+          "frames": 115,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0450.npy"
+        },
+        {
+          "clipId": "clerc_v03_0650",
+          "signer": "DELTA",
+          "frames": 111,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0650.npy"
+        },
+        {
+          "clipId": "clerc_v03_0849",
+          "signer": "ECHO",
+          "frames": 61,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0849.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-06bc24b8521f2fa0",
+      "text": "Where do you live?",
+      "englishPatterns": [
+        "where do you live"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0005",
+          "signer": "ALPHA",
+          "frames": 142,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0005.npy"
+        },
+        {
+          "clipId": "clerc_v03_0205",
+          "signer": "BRAVO",
+          "frames": 155,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0205.npy"
+        },
+        {
+          "clipId": "clerc_v03_0405",
+          "signer": "CHARLIE",
+          "frames": 152,
+          "fps": 30.07,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0405.npy"
+        },
+        {
+          "clipId": "clerc_v03_0605",
+          "signer": "DELTA",
+          "frames": 151,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0605.npy"
+        },
+        {
+          "clipId": "clerc_v03_0804",
+          "signer": "ECHO",
+          "frames": 86,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0804.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-a41b1881009e9940",
+      "text": "Where are you from?",
+      "englishPatterns": [
+        "where are you from"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0020",
+          "signer": "ALPHA",
+          "frames": 172,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0020.npy"
+        },
+        {
+          "clipId": "clerc_v03_0220",
+          "signer": "BRAVO",
+          "frames": 124,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0220.npy"
+        },
+        {
+          "clipId": "clerc_v03_0420",
+          "signer": "CHARLIE",
+          "frames": 120,
+          "fps": 30.1,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0420.npy"
+        },
+        {
+          "clipId": "clerc_v03_0620",
+          "signer": "DELTA",
+          "frames": 107,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0620.npy"
+        },
+        {
+          "clipId": "clerc_v03_0819",
+          "signer": "ECHO",
+          "frames": 75,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0819.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-332f6decc9976945",
+      "text": "How old are you?",
+      "englishPatterns": [
+        "how old are you"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0007",
+          "signer": "ALPHA",
+          "frames": 213,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0007.npy"
+        },
+        {
+          "clipId": "clerc_v03_0207",
+          "signer": "BRAVO",
+          "frames": 104,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0207.npy"
+        },
+        {
+          "clipId": "clerc_v03_0407",
+          "signer": "CHARLIE",
+          "frames": 103,
+          "fps": 30.1,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0407.npy"
+        },
+        {
+          "clipId": "clerc_v03_0607",
+          "signer": "DELTA",
+          "frames": 119,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0607.npy"
+        },
+        {
+          "clipId": "clerc_v03_0806",
+          "signer": "ECHO",
+          "frames": 56,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0806.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-6cc15a6371ee1070",
+      "text": "How do you feel?",
+      "englishPatterns": [
+        "how do you feel"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0008",
+          "signer": "ALPHA",
+          "frames": 139,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0008.npy"
+        },
+        {
+          "clipId": "clerc_v03_0208",
+          "signer": "BRAVO",
+          "frames": 141,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0208.npy"
+        },
+        {
+          "clipId": "clerc_v03_0408",
+          "signer": "CHARLIE",
+          "frames": 126,
+          "fps": 29.95,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0408.npy"
+        },
+        {
+          "clipId": "clerc_v03_0608",
+          "signer": "DELTA",
+          "frames": 107,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0608.npy"
+        },
+        {
+          "clipId": "clerc_v03_0807",
+          "signer": "ECHO",
+          "frames": 80,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0807.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-81c0c6d6f3ee76b1",
+      "text": "Are you hungry?",
+      "englishPatterns": [
+        "are you hungry"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0004",
+          "signer": "ALPHA",
+          "frames": 124,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0004.npy"
+        },
+        {
+          "clipId": "clerc_v03_0204",
+          "signer": "BRAVO",
+          "frames": 166,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0204.npy"
+        },
+        {
+          "clipId": "clerc_v03_0404",
+          "signer": "CHARLIE",
+          "frames": 128,
+          "fps": 30.08,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0404.npy"
+        },
+        {
+          "clipId": "clerc_v03_0604",
+          "signer": "DELTA",
+          "frames": 139,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0604.npy"
+        },
+        {
+          "clipId": "clerc_v03_0803",
+          "signer": "ECHO",
+          "frames": 77,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0803.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-1471e7b4c77471cd",
+      "text": "Are you tired?",
+      "englishPatterns": [
+        "are you tired"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0003",
+          "signer": "ALPHA",
+          "frames": 114,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0003.npy"
+        },
+        {
+          "clipId": "clerc_v03_0203",
+          "signer": "BRAVO",
+          "frames": 137,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0203.npy"
+        },
+        {
+          "clipId": "clerc_v03_0403",
+          "signer": "CHARLIE",
+          "frames": 115,
+          "fps": 29.95,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0403.npy"
+        },
+        {
+          "clipId": "clerc_v03_0603",
+          "signer": "DELTA",
+          "frames": 151,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0603.npy"
+        },
+        {
+          "clipId": "clerc_v03_0802",
+          "signer": "ECHO",
+          "frames": 67,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0802.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-791c68e90a6a2f60",
+      "text": "Are you happy?",
+      "englishPatterns": [
+        "are you happy"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0034",
+          "signer": "ALPHA",
+          "frames": 90,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0034.npy"
+        },
+        {
+          "clipId": "clerc_v03_0234",
+          "signer": "BRAVO",
+          "frames": 127,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0234.npy"
+        },
+        {
+          "clipId": "clerc_v03_0434",
+          "signer": "CHARLIE",
+          "frames": 109,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0434.npy"
+        },
+        {
+          "clipId": "clerc_v03_0634",
+          "signer": "DELTA",
+          "frames": 110,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0634.npy"
+        },
+        {
+          "clipId": "clerc_v03_0833",
+          "signer": "ECHO",
+          "frames": 71,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0833.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-2e3493ef5c02dc1b",
+      "text": "Are you cold?",
+      "englishPatterns": [
+        "are you cold"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0028",
+          "signer": "ALPHA",
+          "frames": 113,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0028.npy"
+        },
+        {
+          "clipId": "clerc_v03_0228",
+          "signer": "BRAVO",
+          "frames": 112,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0228.npy"
+        },
+        {
+          "clipId": "clerc_v03_0428",
+          "signer": "CHARLIE",
+          "frames": 101,
+          "fps": 29.9,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0428.npy"
+        },
+        {
+          "clipId": "clerc_v03_0628",
+          "signer": "DELTA",
+          "frames": 138,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0628.npy"
+        },
+        {
+          "clipId": "clerc_v03_0827",
+          "signer": "ECHO",
+          "frames": 65,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0827.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-7c948c5f0164c627",
+      "text": "Are you finished?",
+      "englishPatterns": [
+        "are you finished"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0029",
+          "signer": "ALPHA",
+          "frames": 137,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0029.npy"
+        },
+        {
+          "clipId": "clerc_v03_0229",
+          "signer": "BRAVO",
+          "frames": 99,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0229.npy"
+        },
+        {
+          "clipId": "clerc_v03_0429",
+          "signer": "CHARLIE",
+          "frames": 95,
+          "fps": 29.9,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0429.npy"
+        },
+        {
+          "clipId": "clerc_v03_0629",
+          "signer": "DELTA",
+          "frames": 113,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0629.npy"
+        },
+        {
+          "clipId": "clerc_v03_0828",
+          "signer": "ECHO",
+          "frames": 55,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0828.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-348ae21c50e14c96",
+      "text": "Are you alright?",
+      "englishPatterns": [
+        "are you alright"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0039",
+          "signer": "ALPHA",
+          "frames": 108,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0039.npy"
+        },
+        {
+          "clipId": "clerc_v03_0239",
+          "signer": "BRAVO",
+          "frames": 92,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0239.npy"
+        },
+        {
+          "clipId": "clerc_v03_0439",
+          "signer": "CHARLIE",
+          "frames": 110,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0439.npy"
+        },
+        {
+          "clipId": "clerc_v03_0639",
+          "signer": "DELTA",
+          "frames": 114,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0639.npy"
+        },
+        {
+          "clipId": "clerc_v03_0838",
+          "signer": "ECHO",
+          "frames": 59,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0838.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-f14ee4877032c8f7",
+      "text": "Do you know ASL?",
+      "englishPatterns": [
+        "do you know asl"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0090",
+          "signer": "ALPHA",
+          "frames": 109,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0090.npy"
+        },
+        {
+          "clipId": "clerc_v03_0290",
+          "signer": "BRAVO",
+          "frames": 108,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0290.npy"
+        },
+        {
+          "clipId": "clerc_v03_0490",
+          "signer": "CHARLIE",
+          "frames": 146,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0490.npy"
+        },
+        {
+          "clipId": "clerc_v03_0690",
+          "signer": "DELTA",
+          "frames": 107,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0690.npy"
+        },
+        {
+          "clipId": "clerc_v03_0889",
+          "signer": "ECHO",
+          "frames": 66,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0889.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-d99f38af3d600186",
+      "text": "Do you use ASL?",
+      "englishPatterns": [
+        "do you use asl"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0048",
+          "signer": "ALPHA",
+          "frames": 138,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0048.npy"
+        },
+        {
+          "clipId": "clerc_v03_0248",
+          "signer": "BRAVO",
+          "frames": 125,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0248.npy"
+        },
+        {
+          "clipId": "clerc_v03_0448",
+          "signer": "CHARLIE",
+          "frames": 148,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0448.npy"
+        },
+        {
+          "clipId": "clerc_v03_0648",
+          "signer": "DELTA",
+          "frames": 125,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0648.npy"
+        },
+        {
+          "clipId": "clerc_v03_0847",
+          "signer": "ECHO",
+          "frames": 84,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0847.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-0bb91e1509a552fd",
+      "text": "Do you like coffee?",
+      "englishPatterns": [
+        "do you like coffee"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0052",
+          "signer": "ALPHA",
+          "frames": 132,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0052.npy"
+        },
+        {
+          "clipId": "clerc_v03_0252",
+          "signer": "BRAVO",
+          "frames": 126,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0252.npy"
+        },
+        {
+          "clipId": "clerc_v03_0452",
+          "signer": "CHARLIE",
+          "frames": 139,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0452.npy"
+        },
+        {
+          "clipId": "clerc_v03_0652",
+          "signer": "DELTA",
+          "frames": 121,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0652.npy"
+        },
+        {
+          "clipId": "clerc_v03_0851",
+          "signer": "ECHO",
+          "frames": 74,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0851.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-8e799889540cfe16",
+      "text": "Do you want a drink?",
+      "englishPatterns": [
+        "do you want a drink"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0056",
+          "signer": "ALPHA",
+          "frames": 115,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0056.npy"
+        },
+        {
+          "clipId": "clerc_v03_0256",
+          "signer": "BRAVO",
+          "frames": 134,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0256.npy"
+        },
+        {
+          "clipId": "clerc_v03_0456",
+          "signer": "CHARLIE",
+          "frames": 121,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0456.npy"
+        },
+        {
+          "clipId": "clerc_v03_0656",
+          "signer": "DELTA",
+          "frames": 136,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0656.npy"
+        },
+        {
+          "clipId": "clerc_v03_0855",
+          "signer": "ECHO",
+          "frames": 93,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0855.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-9d96ae0df18ea631",
+      "text": "Do you want milk?",
+      "englishPatterns": [
+        "do you want milk"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0057",
+          "signer": "ALPHA",
+          "frames": 114,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0057.npy"
+        },
+        {
+          "clipId": "clerc_v03_0257",
+          "signer": "BRAVO",
+          "frames": 125,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0257.npy"
+        },
+        {
+          "clipId": "clerc_v03_0457",
+          "signer": "CHARLIE",
+          "frames": 126,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0457.npy"
+        },
+        {
+          "clipId": "clerc_v03_0657",
+          "signer": "DELTA",
+          "frames": 122,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0657.npy"
+        },
+        {
+          "clipId": "clerc_v03_0856",
+          "signer": "ECHO",
+          "frames": 86,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0856.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-2b72b5c04859e18e",
+      "text": "Do you want more food?",
+      "englishPatterns": [
+        "do you want more food"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0059",
+          "signer": "ALPHA",
+          "frames": 137,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0059.npy"
+        },
+        {
+          "clipId": "clerc_v03_0259",
+          "signer": "BRAVO",
+          "frames": 139,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0259.npy"
+        },
+        {
+          "clipId": "clerc_v03_0459",
+          "signer": "CHARLIE",
+          "frames": 152,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0459.npy"
+        },
+        {
+          "clipId": "clerc_v03_0659",
+          "signer": "DELTA",
+          "frames": 142,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0659.npy"
+        },
+        {
+          "clipId": "clerc_v03_0858",
+          "signer": "ECHO",
+          "frames": 90,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0858.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-6f97e64ce50feb17",
+      "text": "Do you mind?",
+      "englishPatterns": [
+        "do you mind"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0061",
+          "signer": "ALPHA",
+          "frames": 77,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0061.npy"
+        },
+        {
+          "clipId": "clerc_v03_0261",
+          "signer": "BRAVO",
+          "frames": 97,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0261.npy"
+        },
+        {
+          "clipId": "clerc_v03_0461",
+          "signer": "CHARLIE",
+          "frames": 79,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0461.npy"
+        },
+        {
+          "clipId": "clerc_v03_0661",
+          "signer": "DELTA",
+          "frames": 73,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0661.npy"
+        },
+        {
+          "clipId": "clerc_v03_0860",
+          "signer": "ECHO",
+          "frames": 53,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0860.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-62a20366039d4c2e",
+      "text": "I do not understand",
+      "englishPatterns": [
+        "i do not understand"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0010",
+          "signer": "ALPHA",
+          "frames": 148,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0010.npy"
+        },
+        {
+          "clipId": "clerc_v03_0210",
+          "signer": "BRAVO",
+          "frames": 126,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0210.npy"
+        },
+        {
+          "clipId": "clerc_v03_0410",
+          "signer": "CHARLIE",
+          "frames": 109,
+          "fps": 30.02,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0410.npy"
+        },
+        {
+          "clipId": "clerc_v03_0610",
+          "signer": "DELTA",
+          "frames": 180,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0610.npy"
+        },
+        {
+          "clipId": "clerc_v03_0809",
+          "signer": "ECHO",
+          "frames": 60,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0809.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-1b9bed4553057e91",
+      "text": "Do you have an ID?",
+      "englishPatterns": [
+        "do you have an id"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0087",
+          "signer": "ALPHA",
+          "frames": 94,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0087.npy"
+        },
+        {
+          "clipId": "clerc_v03_0287",
+          "signer": "BRAVO",
+          "frames": 129,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0287.npy"
+        },
+        {
+          "clipId": "clerc_v03_0487",
+          "signer": "CHARLIE",
+          "frames": 106,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0487.npy"
+        },
+        {
+          "clipId": "clerc_v03_0687",
+          "signer": "DELTA",
+          "frames": 85,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0687.npy"
+        },
+        {
+          "clipId": "clerc_v03_0886",
+          "signer": "ECHO",
+          "frames": 77,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0886.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-e2338517804f9653",
+      "text": "Where were you born?",
+      "englishPatterns": [
+        "where were you born"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0076",
+          "signer": "ALPHA",
+          "frames": 108,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0076.npy"
+        },
+        {
+          "clipId": "clerc_v03_0276",
+          "signer": "BRAVO",
+          "frames": 154,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0276.npy"
+        },
+        {
+          "clipId": "clerc_v03_0476",
+          "signer": "CHARLIE",
+          "frames": 131,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0476.npy"
+        },
+        {
+          "clipId": "clerc_v03_0676",
+          "signer": "DELTA",
+          "frames": 110,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0676.npy"
+        },
+        {
+          "clipId": "clerc_v03_0875",
+          "signer": "ECHO",
+          "frames": 84,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0875.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-6b6d33f066acb212",
+      "text": "How much?",
+      "englishPatterns": [
+        "how much"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0067",
+          "signer": "ALPHA",
+          "frames": 88,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0067.npy"
+        },
+        {
+          "clipId": "clerc_v03_0267",
+          "signer": "BRAVO",
+          "frames": 105,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0267.npy"
+        },
+        {
+          "clipId": "clerc_v03_0467",
+          "signer": "CHARLIE",
+          "frames": 108,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0467.npy"
+        },
+        {
+          "clipId": "clerc_v03_0667",
+          "signer": "DELTA",
+          "frames": 108,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0667.npy"
+        },
+        {
+          "clipId": "clerc_v03_0866",
+          "signer": "ECHO",
+          "frames": 59,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0866.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.epee-7edc4101d295db37",
+      "text": "How many minutes?",
+      "englishPatterns": [
+        "how many minutes"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "CLERC Épée v0.3",
+      "sourceStatus": "indexed-keypoints",
+      "license": "CC-BY-NC-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+      "variants": [
+        {
+          "clipId": "clerc_v03_0065",
+          "signer": "ALPHA",
+          "frames": 113,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0065.npy"
+        },
+        {
+          "clipId": "clerc_v03_0265",
+          "signer": "BRAVO",
+          "frames": 123,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0265.npy"
+        },
+        {
+          "clipId": "clerc_v03_0465",
+          "signer": "CHARLIE",
+          "frames": 117,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0465.npy"
+        },
+        {
+          "clipId": "clerc_v03_0665",
+          "signer": "DELTA",
+          "frames": 81,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0665.npy"
+        },
+        {
+          "clipId": "clerc_v03_0864",
+          "signer": "ECHO",
+          "frames": 82,
+          "fps": 30.0,
+          "url": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0864.npy"
+        }
+      ],
+      "sourceVideoURL": null,
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.flores-dev-390",
+      "text": "Sanskrit is an ancient language and is comparable to the Latin language spoken in Europe.",
+      "englishPatterns": [
+        "sanskrit is an ancient language and is comparable to the latin language spoken in europe"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "2M-Flores-ASL",
+      "sourceStatus": "external-recording",
+      "license": "CC-BY-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/alj68/2M-Flores-ASL",
+      "revision": "c68240b1fe33d4a9745537a1cff048078376bc9b",
+      "member": "data/dev/dev_390_0.mp4",
+      "sourceVideoURL": "https://huggingface.co/datasets/alj68/2M-Flores-ASL/resolve/c68240b1fe33d4a9745537a1cff048078376bc9b/data/dev/dev_390_0.mp4",
+      "sourceVideoBytes": 59631981,
+      "publisherSHA256": "8d2c11b8525a93e7503e66fac640b3f0280f7ff362e3111564b598e15abbfaec",
+      "publisherHashVerifiedLocally": false,
+      "originalTextSourceURL": "https://en.wikibooks.org/wiki/Wikijunior:Languages/Sanskrit",
+      "gloss": "LANGUAGE #SANSKRIT !OLD! PARRALEL LATIN HIS EUROPE",
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.flores-dev-601",
+      "text": "Elements and compounds can move from one state to another and not change.",
+      "englishPatterns": [
+        "elements and compounds can move from one state to another and not change"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "2M-Flores-ASL",
+      "sourceStatus": "external-recording",
+      "license": "CC-BY-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/alj68/2M-Flores-ASL",
+      "revision": "c68240b1fe33d4a9745537a1cff048078376bc9b",
+      "member": "data/dev/dev_601_0.mp4",
+      "sourceVideoURL": "https://huggingface.co/datasets/alj68/2M-Flores-ASL/resolve/c68240b1fe33d4a9745537a1cff048078376bc9b/data/dev/dev_601_0.mp4",
+      "sourceVideoBytes": 95711188,
+      "publisherSHA256": "d527239445c86bc0e645dc74fc417015647ce72cfc289ba0ea61a5cc8d37a618",
+      "publisherHashVerifiedLocally": false,
+      "originalTextSourceURL": "https://en.wikibooks.org/wiki/Wikijunior:The_Elements/Matter_Is_The_Stuff_Around_You",
+      "gloss": "#ELEMENT, #COMPOUND CAN STATE SWITCH-BACK-AND-FORTH, BUT CHANGE, NONE. ",
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.flores-dev-602",
+      "text": "Nitrogen as a gas still has the same properties as liquid nitrogen. The liquid state is denser but the molecules are still the same.",
+      "englishPatterns": [
+        "nitrogen as a gas still has the same properties as liquid nitrogen. the liquid state is denser but the molecules are still the same"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "2M-Flores-ASL",
+      "sourceStatus": "external-recording",
+      "license": "CC-BY-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/alj68/2M-Flores-ASL",
+      "revision": "c68240b1fe33d4a9745537a1cff048078376bc9b",
+      "member": "data/dev/dev_602_0.mp4",
+      "sourceVideoURL": "https://huggingface.co/datasets/alj68/2M-Flores-ASL/resolve/c68240b1fe33d4a9745537a1cff048078376bc9b/data/dev/dev_602_0.mp4",
+      "sourceVideoBytes": 145745598,
+      "publisherSHA256": "a1adce52da15f8869029778a08924116b1bb79c16d08f69936f419433b50a8bd",
+      "publisherHashVerifiedLocally": false,
+      "originalTextSourceURL": "https://en.wikibooks.org/wiki/Wikijunior:The_Elements/Matter_Is_The_Stuff_Around_You",
+      "gloss": "#NITROGEN CAN GAS (left) LIQUID (right) DOESN'T-MATTER. INSIDE PROPERTY, SAME. UNDERSTAND, IX #LIQUID MORE THICK, BUT INSIDE #MOLECULE, SAME! ",
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.flores-dev-603",
+      "text": "Water is another example. The compound water is made up of two hydrogen atoms and one oxygen atom.",
+      "englishPatterns": [
+        "water is another example. the compound water is made up of two hydrogen atoms and one oxygen atom"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "2M-Flores-ASL",
+      "sourceStatus": "external-recording",
+      "license": "CC-BY-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/alj68/2M-Flores-ASL",
+      "revision": "c68240b1fe33d4a9745537a1cff048078376bc9b",
+      "member": "data/dev/dev_603_0.mp4",
+      "sourceVideoURL": "https://huggingface.co/datasets/alj68/2M-Flores-ASL/resolve/c68240b1fe33d4a9745537a1cff048078376bc9b/data/dev/dev_603_0.mp4",
+      "sourceVideoBytes": 137381931,
+      "publisherSHA256": "fb97a2952cdb8593a2c0157a7cf953bd89722b68732cf515d574ae96cc3e78e8",
+      "publisherHashVerifiedLocally": false,
+      "originalTextSourceURL": "https://en.wikibooks.org/wiki/Wikijunior:The_Elements/Matter_Is_The_Stuff_Around_You",
+      "gloss": "OTHER EXAMPLE, WATER. WATER ITSELF #COMPOUND HAVE #ATOM 3 CL:5claw clump three together. IX WHAT? #HYDROGEN 2, OXYGEN 1. ",
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.flores-dev-604",
+      "text": "It has the same molecular structure whether it is a gas, liquid, or solid.",
+      "englishPatterns": [
+        "it has the same molecular structure whether it is a gas, liquid, or solid"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "2M-Flores-ASL",
+      "sourceStatus": "external-recording",
+      "license": "CC-BY-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/alj68/2M-Flores-ASL",
+      "revision": "c68240b1fe33d4a9745537a1cff048078376bc9b",
+      "member": "data/dev/dev_604_0.mp4",
+      "sourceVideoURL": "https://huggingface.co/datasets/alj68/2M-Flores-ASL/resolve/c68240b1fe33d4a9745537a1cff048078376bc9b/data/dev/dev_604_0.mp4",
+      "sourceVideoBytes": 82744444,
+      "publisherSHA256": "3c3756b7f3df1b5dca14e8266b8db93b2680ed5c3e0d8978dcc0344c2c0da523",
+      "publisherHashVerifiedLocally": false,
+      "originalTextSourceURL": "https://en.wikibooks.org/wiki/Wikijunior:The_Elements/Matter_Is_The_Stuff_Around_You",
+      "gloss": "HIS STRUCTURE #MOLECULE SAME. #GAS, #LIQUID, #SOLID, DOESN'T-MATTER",
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.flores-dev-605",
+      "text": "Although its physical state may change, its chemical state remains the same.",
+      "englishPatterns": [
+        "although its physical state may change, its chemical state remains the same"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "2M-Flores-ASL",
+      "sourceStatus": "external-recording",
+      "license": "CC-BY-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/alj68/2M-Flores-ASL",
+      "revision": "c68240b1fe33d4a9745537a1cff048078376bc9b",
+      "member": "data/dev/dev_605_0.mp4",
+      "sourceVideoURL": "https://huggingface.co/datasets/alj68/2M-Flores-ASL/resolve/c68240b1fe33d4a9745537a1cff048078376bc9b/data/dev/dev_605_0.mp4",
+      "sourceVideoBytes": 66608100,
+      "publisherSHA256": "36134dbdde057df9a20c00552dafc76ccb5addd93be79e70619e1327aebbaabd",
+      "publisherHashVerifiedLocally": false,
+      "originalTextSourceURL": "https://en.wikibooks.org/wiki/Wikijunior:The_Elements/Matter_Is_The_Stuff_Around_You",
+      "gloss": "PHYSICAL LOOK-LIKE CHANGE. BEHIND CHEMICAL STRUCTURE SAME. ",
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.flores-dev-531",
+      "text": "Golf is a game in which players use clubs to hit balls into holes.",
+      "englishPatterns": [
+        "golf is a game in which players use clubs to hit balls into holes"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "2M-Flores-ASL",
+      "sourceStatus": "external-recording",
+      "license": "CC-BY-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/alj68/2M-Flores-ASL",
+      "revision": "c68240b1fe33d4a9745537a1cff048078376bc9b",
+      "member": "data/dev/dev_531_0.mov",
+      "sourceVideoURL": "https://huggingface.co/datasets/alj68/2M-Flores-ASL/resolve/c68240b1fe33d4a9745537a1cff048078376bc9b/data/dev/dev_531_0.mov",
+      "sourceVideoBytes": 54879114,
+      "publisherSHA256": "5b97a66783abd33c626883c32d398a77be7cac8caa7f0017f212be29f2b24c6d",
+      "publisherHashVerifiedLocally": false,
+      "originalTextSourceURL": "https://en.wikibooks.org/wiki/Golf",
+      "gloss": "GOLF IX GAME DO-DO? PLAYERS USE CLUBS cl: ball-on-tee 1-cl: hit-ball, roll-into-hole",
+      "translationEligible": false,
+      "humanReview": null
+    },
+    {
+      "id": "asl.utterance.flores-dev-968",
+      "text": "They are listed on the UNESCO World Heritage List.",
+      "englishPatterns": [
+        "they are listed on the unesco world heritage list"
+      ],
+      "signLanguage": "ASL",
+      "dataset": "2M-Flores-ASL",
+      "sourceStatus": "external-recording",
+      "license": "CC-BY-SA-4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceURL": "https://huggingface.co/datasets/alj68/2M-Flores-ASL",
+      "revision": "c68240b1fe33d4a9745537a1cff048078376bc9b",
+      "member": "data/dev/dev_968_0.MOV",
+      "sourceVideoURL": "https://huggingface.co/datasets/alj68/2M-Flores-ASL/resolve/c68240b1fe33d4a9745537a1cff048078376bc9b/data/dev/dev_968_0.MOV",
+      "sourceVideoBytes": 242958347,
+      "publisherSHA256": "d6ad28038dc735f718dc8577e40abf76b30ff8b0b300518b34a57f40efecd956",
+      "publisherHashVerifiedLocally": false,
+      "originalTextSourceURL": "https://en.wikivoyage.org/wiki/Cinque_Terre",
+      "gloss": "#UNESCO WORLD HERITAGE THEIR LIST, THEY TRUE-BIZ ON-LIST (CL:flat O on palm)",
+      "translationEligible": false,
+      "humanReview": null
+    }
+  ]
+}

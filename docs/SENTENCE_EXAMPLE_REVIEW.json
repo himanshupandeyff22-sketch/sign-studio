@@ -1,0 +1,893 @@
+{
+  "checkedAt": "2026-10-19T08:50:52.215Z",
+  "basis": [
+    {
+      "path": "backend/catalog.mjs",
+      "sha256": "3c05212aadb1a484c7cfa8495b8cb24d6d3755851a742bb7984a013d159bb6d3"
+    },
+    {
+      "path": "backend/interpret.mjs",
+      "sha256": "930d70275acbfff0f90d49b1f4fc764c36826b4ea23b24b07257982677382e5f"
+    },
+    {
+      "path": "backend/sentence-plan.mjs",
+      "sha256": "855fa4fc7a7c203bb78729037d219725d41ec8f4d98de3be8bea4cd8fa3764bc"
+    },
+    {
+      "path": "web/vocabulary-manifest.json",
+      "sha256": "cef40810277dd3fc728046368646f69905c7ab12dfb6fcea0ec057ae0c0f90c1"
+    }
+  ],
+  "examples": [
+    {
+      "id": "sentence-0",
+      "text": "You want water.",
+      "motionIds": [
+        "3dlex-you",
+        "3dlex-want",
+        "3dlex-water"
+      ],
+      "reviewStatus": "unverified",
+      "notice": "Approximate source-order sign sequence; not a reviewed ASL sentence.",
+      "plan": {
+        "schema": "sentence-plan/1",
+        "status": "approximate",
+        "completeTranslation": false,
+        "originalInput": "You want water.",
+        "order": "English source order; no automatic ASL rearrangement",
+        "units": [
+          {
+            "id": "meaning-0",
+            "startWordIndex": 0,
+            "endWordIndex": 1,
+            "startChar": 0,
+            "endChar": 3,
+            "sourceText": "You",
+            "kind": "concept",
+            "conceptId": "asl.person.second-person",
+            "label": "You",
+            "status": "available",
+            "reason": "Unreviewed lexical recording; meaning and retargeting need human ASL review.",
+            "normalization": null
+          },
+          {
+            "id": "meaning-1",
+            "startWordIndex": 1,
+            "endWordIndex": 2,
+            "startChar": 4,
+            "endChar": 8,
+            "sourceText": "want",
+            "kind": "concept",
+            "conceptId": "asl.want.desire",
+            "label": "Want",
+            "status": "available",
+            "reason": "Unreviewed lexical recording; meaning and retargeting need human ASL review.",
+            "normalization": null
+          },
+          {
+            "id": "meaning-2",
+            "startWordIndex": 2,
+            "endWordIndex": 3,
+            "startChar": 9,
+            "endChar": 14,
+            "sourceText": "water",
+            "kind": "concept",
+            "conceptId": "asl.water.liquid",
+            "label": "Water",
+            "status": "available",
+            "reason": "Unreviewed lexical recording; meaning and retargeting need human ASL review.",
+            "normalization": null
+          }
+        ],
+        "clauses": [
+          {
+            "id": 0,
+            "startWordIndex": 0,
+            "endWordIndex": 3,
+            "startChar": 0,
+            "endChar": 14,
+            "sourceText": "You want water",
+            "question": false,
+            "negative": false,
+            "unitIds": [
+              "meaning-0",
+              "meaning-1",
+              "meaning-2"
+            ],
+            "notes": []
+          }
+        ],
+        "grammarNotes": [],
+        "coverage": {
+          "totalConcepts": 3,
+          "availableConcepts": 3,
+          "missingConcepts": 0,
+          "queuedConcepts": 3
+        },
+        "summary": "All identified lexical concepts have enabled recordings. Approximate sign sequence only; grammar, context and ASL correctness remain unvalidated.",
+        "limitations": [
+          "No reviewed ASL sentence pattern is applied.",
+          "Finger spelling is unavailable.",
+          "Question/nonmanual grammar, referents, direction and source senses need human ASL review."
+        ]
+      },
+      "signs": [
+        {
+          "id": "3dlex-you",
+          "conceptId": "asl.person.second-person",
+          "meaning": "Candidate mapping: Second-person addressee; signing location/direction and plural distinctions need review.",
+          "motionUrl": "/web/assets/asl/3dlex-you-eff57202d8b7.motion.json",
+          "sha256": "eff57202d8b706d26d8fbb305cf162bdf380983576da7cb3e3224ce84e96d69f",
+          "language": "ASL",
+          "source": {
+            "dataset": "3D-LEX v1.0",
+            "authors": [
+              "Oline Ranum",
+              "Gomèr Otterspeer",
+              "Jari I. Andersen",
+              "Robert G. Belleman",
+              "Floris Roelofsen"
+            ],
+            "projectUrl": "https://osf.io/mqzyk/",
+            "archiveUrl": "https://osf.io/download/tcnhs/",
+            "filename": "you.glb",
+            "license": "CC-BY-4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+            "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/y/you.htm",
+            "sourceGLBSHA256": "e6d82a6d051db4c875f9bc03bd9d19d770727f9f3b9771eccc67b2093d04fdfa",
+            "runtimeSHA256": "eff57202d8b706d26d8fbb305cf162bdf380983576da7cb3e3224ce84e96d69f",
+            "format": "motion-only JSON derived from GLB"
+          },
+          "linguisticReview": {
+            "status": "pending",
+            "reviewer": null,
+            "date": null
+          },
+          "reviewRequired": [
+            "exact source meaning and contextual sense",
+            "handshape and finger articulation",
+            "palm orientation, location and movement",
+            "two-hand coordination/contact after retargeting",
+            "missing facial/body grammar, referents and direction"
+          ]
+        },
+        {
+          "id": "3dlex-want",
+          "conceptId": "asl.want.desire",
+          "meaning": "Candidate mapping: Desire something; not lack, need, or a negated desire.",
+          "motionUrl": "/web/assets/asl/3dlex-want-e5b9c9449f57.motion.json",
+          "sha256": "e5b9c9449f57b7ff05a37f78cf5b6ce67a67caa6ad2fe861ad5d077602b131d3",
+          "language": "ASL",
+          "source": {
+            "dataset": "3D-LEX v1.0",
+            "authors": [
+              "Oline Ranum",
+              "Gomèr Otterspeer",
+              "Jari I. Andersen",
+              "Robert G. Belleman",
+              "Floris Roelofsen"
+            ],
+            "projectUrl": "https://osf.io/mqzyk/",
+            "archiveUrl": "https://osf.io/download/tcnhs/",
+            "filename": "want.glb",
+            "license": "CC-BY-4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+            "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/w/want.htm",
+            "sourceGLBSHA256": "bbdbe83106d7ab23c8ecedd938db3e5832ac0c00f27fb5739e2eec95b37bbb8a",
+            "runtimeSHA256": "e5b9c9449f57b7ff05a37f78cf5b6ce67a67caa6ad2fe861ad5d077602b131d3",
+            "format": "motion-only JSON derived from GLB"
+          },
+          "linguisticReview": {
+            "status": "pending",
+            "reviewer": null,
+            "date": null
+          },
+          "reviewRequired": [
+            "exact source meaning and contextual sense",
+            "handshape and finger articulation",
+            "palm orientation, location and movement",
+            "two-hand coordination/contact after retargeting",
+            "missing facial/body grammar, referents and direction"
+          ]
+        },
+        {
+          "id": "3dlex-water",
+          "conceptId": "asl.water.liquid",
+          "meaning": "Candidate mapping: Water as a liquid, distinct from the verb to water plants.",
+          "motionUrl": "/web/assets/asl/3dlex-water-ee1c8f080013.motion.json",
+          "sha256": "ee1c8f080013e192568f57752cf8ecaa341ef5c2d26f43831be18955146d861b",
+          "language": "ASL",
+          "source": {
+            "dataset": "3D-LEX v1.0",
+            "authors": [
+              "Oline Ranum",
+              "Gomèr Otterspeer",
+              "Jari I. Andersen",
+              "Robert G. Belleman",
+              "Floris Roelofsen"
+            ],
+            "projectUrl": "https://osf.io/mqzyk/",
+            "archiveUrl": "https://osf.io/download/tcnhs/",
+            "filename": "water.glb",
+            "license": "CC-BY-4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+            "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/w/water.htm",
+            "sourceGLBSHA256": "787d743048894bd645fdba6a4dc46257e2210c4e7a9a6b624b87e270209c8ad0",
+            "runtimeSHA256": "ee1c8f080013e192568f57752cf8ecaa341ef5c2d26f43831be18955146d861b",
+            "format": "motion-only JSON derived from GLB"
+          },
+          "linguisticReview": {
+            "status": "pending",
+            "reviewer": null,
+            "date": null
+          },
+          "reviewRequired": [
+            "exact source meaning and contextual sense",
+            "handshape and finger articulation",
+            "palm orientation, location and movement",
+            "two-hand coordination/contact after retargeting",
+            "missing facial/body grammar, referents and direction"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sentence-1",
+      "text": "Please drink water.",
+      "motionIds": [
+        "3dlex-please",
+        "3dlex-drink",
+        "3dlex-water"
+      ],
+      "reviewStatus": "unverified",
+      "notice": "Approximate source-order sign sequence; not a reviewed ASL sentence.",
+      "plan": {
+        "schema": "sentence-plan/1",
+        "status": "approximate",
+        "completeTranslation": false,
+        "originalInput": "Please drink water.",
+        "order": "English source order; no automatic ASL rearrangement",
+        "units": [
+          {
+            "id": "meaning-0",
+            "startWordIndex": 0,
+            "endWordIndex": 1,
+            "startChar": 0,
+            "endChar": 6,
+            "sourceText": "Please",
+            "kind": "concept",
+            "conceptId": "asl.please.courtesy",
+            "label": "Please",
+            "status": "available",
+            "reason": "Unreviewed lexical recording; meaning and retargeting need human ASL review.",
+            "normalization": null
+          },
+          {
+            "id": "meaning-1",
+            "startWordIndex": 1,
+            "endWordIndex": 2,
+            "startChar": 7,
+            "endChar": 12,
+            "sourceText": "drink",
+            "kind": "concept",
+            "conceptId": "asl.drink.consume-liquid",
+            "label": "Drink",
+            "status": "available",
+            "reason": "Unreviewed lexical recording; meaning and retargeting need human ASL review.",
+            "normalization": null
+          },
+          {
+            "id": "meaning-2",
+            "startWordIndex": 2,
+            "endWordIndex": 3,
+            "startChar": 13,
+            "endChar": 18,
+            "sourceText": "water",
+            "kind": "concept",
+            "conceptId": "asl.water.liquid",
+            "label": "Water",
+            "status": "available",
+            "reason": "Unreviewed lexical recording; meaning and retargeting need human ASL review.",
+            "normalization": null
+          }
+        ],
+        "clauses": [
+          {
+            "id": 0,
+            "startWordIndex": 0,
+            "endWordIndex": 3,
+            "startChar": 0,
+            "endChar": 18,
+            "sourceText": "Please drink water",
+            "question": false,
+            "negative": false,
+            "unitIds": [
+              "meaning-0",
+              "meaning-1",
+              "meaning-2"
+            ],
+            "notes": []
+          }
+        ],
+        "grammarNotes": [],
+        "coverage": {
+          "totalConcepts": 3,
+          "availableConcepts": 3,
+          "missingConcepts": 0,
+          "queuedConcepts": 3
+        },
+        "summary": "All identified lexical concepts have enabled recordings. Approximate sign sequence only; grammar, context and ASL correctness remain unvalidated.",
+        "limitations": [
+          "No reviewed ASL sentence pattern is applied.",
+          "Finger spelling is unavailable.",
+          "Question/nonmanual grammar, referents, direction and source senses need human ASL review."
+        ]
+      },
+      "signs": [
+        {
+          "id": "3dlex-please",
+          "conceptId": "asl.please.courtesy",
+          "meaning": "Candidate mapping: Polite request marker, distinct from the verb meaning satisfy.",
+          "motionUrl": "/web/assets/asl/3dlex-please-d74ebd52041a.motion.json",
+          "sha256": "d74ebd52041a9cef71da083d4cbc45563f87f4bebd688585abfc28584db10284",
+          "language": "ASL",
+          "source": {
+            "dataset": "3D-LEX v1.0",
+            "authors": [
+              "Oline Ranum",
+              "Gomèr Otterspeer",
+              "Jari I. Andersen",
+              "Robert G. Belleman",
+              "Floris Roelofsen"
+            ],
+            "projectUrl": "https://osf.io/mqzyk/",
+            "archiveUrl": "https://osf.io/download/tcnhs/",
+            "filename": "please.glb",
+            "license": "CC-BY-4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+            "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/p/please.htm",
+            "sourceGLBSHA256": "a204e8efc07890c0913b25390580f7962a946830872db1f4891d0296bf26acc0",
+            "runtimeSHA256": "d74ebd52041a9cef71da083d4cbc45563f87f4bebd688585abfc28584db10284",
+            "format": "motion-only JSON derived from GLB"
+          },
+          "linguisticReview": {
+            "status": "pending",
+            "reviewer": null,
+            "date": null
+          },
+          "reviewRequired": [
+            "exact source meaning and contextual sense",
+            "handshape and finger articulation",
+            "palm orientation, location and movement",
+            "two-hand coordination/contact after retargeting",
+            "missing facial/body grammar, referents and direction"
+          ]
+        },
+        {
+          "id": "3dlex-drink",
+          "conceptId": "asl.drink.consume-liquid",
+          "meaning": "Candidate mapping: Consume a liquid; alcohol, container and manner variants require separate review.",
+          "motionUrl": "/web/assets/asl/3dlex-drink-d0bc93f601c4.motion.json",
+          "sha256": "d0bc93f601c4760b2389f5933fecf6b6e39c36a33473f1906d53ebbf2f9a4895",
+          "language": "ASL",
+          "source": {
+            "dataset": "3D-LEX v1.0",
+            "authors": [
+              "Oline Ranum",
+              "Gomèr Otterspeer",
+              "Jari I. Andersen",
+              "Robert G. Belleman",
+              "Floris Roelofsen"
+            ],
+            "projectUrl": "https://osf.io/mqzyk/",
+            "archiveUrl": "https://osf.io/download/tcnhs/",
+            "filename": "drink.glb",
+            "license": "CC-BY-4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+            "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/d/drink.htm",
+            "sourceGLBSHA256": "b909d3041d2897ab4b9a5c9813538fd9899ff0353464222d2a5d8751f7f3263b",
+            "runtimeSHA256": "d0bc93f601c4760b2389f5933fecf6b6e39c36a33473f1906d53ebbf2f9a4895",
+            "format": "motion-only JSON derived from GLB"
+          },
+          "linguisticReview": {
+            "status": "pending",
+            "reviewer": null,
+            "date": null
+          },
+          "reviewRequired": [
+            "exact source meaning and contextual sense",
+            "handshape and finger articulation",
+            "palm orientation, location and movement",
+            "two-hand coordination/contact after retargeting",
+            "missing facial/body grammar, referents and direction"
+          ]
+        },
+        {
+          "id": "3dlex-water",
+          "conceptId": "asl.water.liquid",
+          "meaning": "Candidate mapping: Water as a liquid, distinct from the verb to water plants.",
+          "motionUrl": "/web/assets/asl/3dlex-water-ee1c8f080013.motion.json",
+          "sha256": "ee1c8f080013e192568f57752cf8ecaa341ef5c2d26f43831be18955146d861b",
+          "language": "ASL",
+          "source": {
+            "dataset": "3D-LEX v1.0",
+            "authors": [
+              "Oline Ranum",
+              "Gomèr Otterspeer",
+              "Jari I. Andersen",
+              "Robert G. Belleman",
+              "Floris Roelofsen"
+            ],
+            "projectUrl": "https://osf.io/mqzyk/",
+            "archiveUrl": "https://osf.io/download/tcnhs/",
+            "filename": "water.glb",
+            "license": "CC-BY-4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+            "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/w/water.htm",
+            "sourceGLBSHA256": "787d743048894bd645fdba6a4dc46257e2210c4e7a9a6b624b87e270209c8ad0",
+            "runtimeSHA256": "ee1c8f080013e192568f57752cf8ecaa341ef5c2d26f43831be18955146d861b",
+            "format": "motion-only JSON derived from GLB"
+          },
+          "linguisticReview": {
+            "status": "pending",
+            "reviewer": null,
+            "date": null
+          },
+          "reviewRequired": [
+            "exact source meaning and contextual sense",
+            "handshape and finger articulation",
+            "palm orientation, location and movement",
+            "two-hand coordination/contact after retargeting",
+            "missing facial/body grammar, referents and direction"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sentence-2",
+      "text": "Your teacher works today.",
+      "motionIds": [
+        "3dlex-your",
+        "3dlex-teacher",
+        "3dlex-work",
+        "3dlex-today"
+      ],
+      "reviewStatus": "unverified",
+      "notice": "Approximate source-order sign sequence; not a reviewed ASL sentence.",
+      "plan": {
+        "schema": "sentence-plan/1",
+        "status": "approximate",
+        "completeTranslation": false,
+        "originalInput": "Your teacher works today.",
+        "order": "English source order; no automatic ASL rearrangement",
+        "units": [
+          {
+            "id": "meaning-0",
+            "startWordIndex": 0,
+            "endWordIndex": 1,
+            "startChar": 0,
+            "endChar": 4,
+            "sourceText": "Your",
+            "kind": "concept",
+            "conceptId": "asl.your.addressee-possessive",
+            "label": "Your",
+            "status": "available",
+            "reason": "Unreviewed lexical recording; meaning and retargeting need human ASL review.",
+            "normalization": null
+          },
+          {
+            "id": "meaning-1",
+            "startWordIndex": 1,
+            "endWordIndex": 2,
+            "startChar": 5,
+            "endChar": 12,
+            "sourceText": "teacher",
+            "kind": "concept",
+            "conceptId": "asl.teacher.teaching-person",
+            "label": "Teacher",
+            "status": "available",
+            "reason": "Unreviewed lexical recording; meaning and retargeting need human ASL review.",
+            "normalization": null
+          },
+          {
+            "id": "meaning-2",
+            "startWordIndex": 2,
+            "endWordIndex": 3,
+            "startChar": 13,
+            "endChar": 18,
+            "sourceText": "works",
+            "kind": "concept",
+            "conceptId": "asl.work.labor",
+            "label": "Work",
+            "status": "available",
+            "reason": "Unreviewed lexical recording; meaning and retargeting need human ASL review.",
+            "normalization": "works → WORK"
+          },
+          {
+            "id": "meaning-3",
+            "startWordIndex": 3,
+            "endWordIndex": 4,
+            "startChar": 19,
+            "endChar": 24,
+            "sourceText": "today",
+            "kind": "concept",
+            "conceptId": "asl.today.current-day",
+            "label": "Today",
+            "status": "available",
+            "reason": "Unreviewed lexical recording; meaning and retargeting need human ASL review.",
+            "normalization": null
+          }
+        ],
+        "clauses": [
+          {
+            "id": 0,
+            "startWordIndex": 0,
+            "endWordIndex": 4,
+            "startChar": 0,
+            "endChar": 24,
+            "sourceText": "Your teacher works today",
+            "question": false,
+            "negative": false,
+            "unitIds": [
+              "meaning-0",
+              "meaning-1",
+              "meaning-2",
+              "meaning-3"
+            ],
+            "notes": []
+          }
+        ],
+        "grammarNotes": [
+          {
+            "startWordIndex": 2,
+            "endWordIndex": 3,
+            "startChar": 13,
+            "endChar": 18,
+            "sourceText": "works",
+            "explanation": "works → WORK (English verb agreement after an overt subject only; no sentence grammar validated)."
+          }
+        ],
+        "coverage": {
+          "totalConcepts": 4,
+          "availableConcepts": 4,
+          "missingConcepts": 0,
+          "queuedConcepts": 4
+        },
+        "summary": "All identified lexical concepts have enabled recordings. Approximate sign sequence only; grammar, context and ASL correctness remain unvalidated.",
+        "limitations": [
+          "No reviewed ASL sentence pattern is applied.",
+          "Finger spelling is unavailable.",
+          "Question/nonmanual grammar, referents, direction and source senses need human ASL review."
+        ]
+      },
+      "signs": [
+        {
+          "id": "3dlex-your",
+          "conceptId": "asl.your.addressee-possessive",
+          "meaning": "Candidate mapping: Possession associated with the addressee; direction and context need review.",
+          "motionUrl": "/web/assets/asl/3dlex-your-f9699e0bc657.motion.json",
+          "sha256": "f9699e0bc657f963778ef0999f7abc93f1794d16c6e0b2c37ea1452ff493e8dc",
+          "language": "ASL",
+          "source": {
+            "dataset": "3D-LEX v1.0",
+            "authors": [
+              "Oline Ranum",
+              "Gomèr Otterspeer",
+              "Jari I. Andersen",
+              "Robert G. Belleman",
+              "Floris Roelofsen"
+            ],
+            "projectUrl": "https://osf.io/mqzyk/",
+            "archiveUrl": "https://osf.io/download/tcnhs/",
+            "filename": "your.glb",
+            "license": "CC-BY-4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+            "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/y/your.htm",
+            "sourceGLBSHA256": "aa3c0eb97f42bcb3029ad8c96731d822769f201b7335bc8c01aed86d02e47615",
+            "runtimeSHA256": "f9699e0bc657f963778ef0999f7abc93f1794d16c6e0b2c37ea1452ff493e8dc",
+            "format": "motion-only JSON derived from GLB"
+          },
+          "linguisticReview": {
+            "status": "pending",
+            "reviewer": null,
+            "date": null
+          },
+          "reviewRequired": [
+            "exact source meaning and contextual sense",
+            "handshape and finger articulation",
+            "palm orientation, location and movement",
+            "two-hand coordination/contact after retargeting",
+            "missing facial/body grammar, referents and direction"
+          ]
+        },
+        {
+          "id": "3dlex-teacher",
+          "conceptId": "asl.teacher.teaching-person",
+          "meaning": "Candidate mapping: A person who teaches; complete TEACHER is not simply an approved TEACH clip.",
+          "motionUrl": "/web/assets/asl/3dlex-teacher-af47ad5f95cb.motion.json",
+          "sha256": "af47ad5f95cbd898bb7695a306dc02d5c066ff5addbe7963ef7de3367f8b1b10",
+          "language": "ASL",
+          "source": {
+            "dataset": "3D-LEX v1.0",
+            "authors": [
+              "Oline Ranum",
+              "Gomèr Otterspeer",
+              "Jari I. Andersen",
+              "Robert G. Belleman",
+              "Floris Roelofsen"
+            ],
+            "projectUrl": "https://osf.io/mqzyk/",
+            "archiveUrl": "https://osf.io/download/tcnhs/",
+            "filename": "teacher.glb",
+            "license": "CC-BY-4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+            "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/t/teacher.htm",
+            "sourceGLBSHA256": "4217fc9f33edcfd414a293ba543d8a8ec0d429b113e674fdf1af3a6e2992e4a8",
+            "runtimeSHA256": "af47ad5f95cbd898bb7695a306dc02d5c066ff5addbe7963ef7de3367f8b1b10",
+            "format": "motion-only JSON derived from GLB"
+          },
+          "linguisticReview": {
+            "status": "pending",
+            "reviewer": null,
+            "date": null
+          },
+          "reviewRequired": [
+            "exact source meaning and contextual sense",
+            "handshape and finger articulation",
+            "palm orientation, location and movement",
+            "two-hand coordination/contact after retargeting",
+            "missing facial/body grammar, referents and direction"
+          ]
+        },
+        {
+          "id": "3dlex-work",
+          "conceptId": "asl.work.labor",
+          "meaning": "Candidate mapping: Labor or employment; not function correctly, operate, or an artwork.",
+          "motionUrl": "/web/assets/asl/3dlex-work-1fce92312174.motion.json",
+          "sha256": "1fce92312174b7a576d4dbf9ee9a010c31a79902c4764bd675f133d6297753de",
+          "language": "ASL",
+          "source": {
+            "dataset": "3D-LEX v1.0",
+            "authors": [
+              "Oline Ranum",
+              "Gomèr Otterspeer",
+              "Jari I. Andersen",
+              "Robert G. Belleman",
+              "Floris Roelofsen"
+            ],
+            "projectUrl": "https://osf.io/mqzyk/",
+            "archiveUrl": "https://osf.io/download/tcnhs/",
+            "filename": "work.glb",
+            "license": "CC-BY-4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+            "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/w/work.htm",
+            "sourceGLBSHA256": "13f6d27b4a5b2c93d7041ad5b3e1bf52d7b2ddb40ba15097311dacd80f0418b6",
+            "runtimeSHA256": "1fce92312174b7a576d4dbf9ee9a010c31a79902c4764bd675f133d6297753de",
+            "format": "motion-only JSON derived from GLB"
+          },
+          "linguisticReview": {
+            "status": "pending",
+            "reviewer": null,
+            "date": null
+          },
+          "reviewRequired": [
+            "exact source meaning and contextual sense",
+            "handshape and finger articulation",
+            "palm orientation, location and movement",
+            "two-hand coordination/contact after retargeting",
+            "missing facial/body grammar, referents and direction"
+          ]
+        },
+        {
+          "id": "3dlex-today",
+          "conceptId": "asl.today.current-day",
+          "meaning": "Candidate mapping: The current day; not an unconditional synonym for NOW.",
+          "motionUrl": "/web/assets/asl/3dlex-today-7ec5b15ef6d3.motion.json",
+          "sha256": "7ec5b15ef6d3867798e27c294a884838e750f3d72e3a3c5fb6973a22c71f8eb6",
+          "language": "ASL",
+          "source": {
+            "dataset": "3D-LEX v1.0",
+            "authors": [
+              "Oline Ranum",
+              "Gomèr Otterspeer",
+              "Jari I. Andersen",
+              "Robert G. Belleman",
+              "Floris Roelofsen"
+            ],
+            "projectUrl": "https://osf.io/mqzyk/",
+            "archiveUrl": "https://osf.io/download/tcnhs/",
+            "filename": "today.glb",
+            "license": "CC-BY-4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+            "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/t/today.htm",
+            "sourceGLBSHA256": "3057a2d6da029e55e0e99f31e6d585f2381d561a3a8b1fc64a425d7fb91c1b25",
+            "runtimeSHA256": "7ec5b15ef6d3867798e27c294a884838e750f3d72e3a3c5fb6973a22c71f8eb6",
+            "format": "motion-only JSON derived from GLB"
+          },
+          "linguisticReview": {
+            "status": "pending",
+            "reviewer": null,
+            "date": null
+          },
+          "reviewRequired": [
+            "exact source meaning and contextual sense",
+            "handshape and finger articulation",
+            "palm orientation, location and movement",
+            "two-hand coordination/contact after retargeting",
+            "missing facial/body grammar, referents and direction"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sentence-3",
+      "text": "Where is school?",
+      "motionIds": [
+        "3dlex-where",
+        "3dlex-school"
+      ],
+      "reviewStatus": "unverified",
+      "notice": "Approximate source-order sign sequence; not a reviewed ASL sentence.",
+      "plan": {
+        "schema": "sentence-plan/1",
+        "status": "approximate",
+        "completeTranslation": false,
+        "originalInput": "Where is school?",
+        "order": "English source order; no automatic ASL rearrangement",
+        "units": [
+          {
+            "id": "meaning-0",
+            "startWordIndex": 0,
+            "endWordIndex": 1,
+            "startChar": 0,
+            "endChar": 5,
+            "sourceText": "Where",
+            "kind": "concept",
+            "conceptId": "asl.where.location-question",
+            "label": "Where",
+            "status": "available",
+            "reason": "Unreviewed lexical recording; meaning and retargeting need human ASL review.",
+            "normalization": null
+          },
+          {
+            "id": "meaning-2",
+            "startWordIndex": 2,
+            "endWordIndex": 3,
+            "startChar": 9,
+            "endChar": 15,
+            "sourceText": "school",
+            "kind": "concept",
+            "conceptId": "asl.school.education-place",
+            "label": "School",
+            "status": "available",
+            "reason": "Unreviewed lexical recording; meaning and retargeting need human ASL review.",
+            "normalization": null
+          }
+        ],
+        "clauses": [
+          {
+            "id": 0,
+            "startWordIndex": 0,
+            "endWordIndex": 3,
+            "startChar": 0,
+            "endChar": 15,
+            "sourceText": "Where is school",
+            "question": true,
+            "negative": false,
+            "unitIds": [
+              "meaning-0",
+              "meaning-2"
+            ],
+            "notes": [
+              "Question intent is retained. These recordings have no validated question facial/body grammar."
+            ]
+          }
+        ],
+        "grammarNotes": [
+          {
+            "startWordIndex": 1,
+            "endWordIndex": 2,
+            "startChar": 6,
+            "endChar": 8,
+            "sourceText": "is",
+            "explanation": "English article/copula retained in the original; no separate lexical clip. This is not an ASL grammar rule."
+          }
+        ],
+        "coverage": {
+          "totalConcepts": 2,
+          "availableConcepts": 2,
+          "missingConcepts": 0,
+          "queuedConcepts": 2
+        },
+        "summary": "All identified lexical concepts have enabled recordings. Approximate sign sequence only; grammar, context and ASL correctness remain unvalidated.",
+        "limitations": [
+          "No reviewed ASL sentence pattern is applied.",
+          "Finger spelling is unavailable.",
+          "Question/nonmanual grammar, referents, direction and source senses need human ASL review."
+        ]
+      },
+      "signs": [
+        {
+          "id": "3dlex-where",
+          "conceptId": "asl.where.location-question",
+          "meaning": "Candidate mapping: Ask about a location; question nonmanuals are required.",
+          "motionUrl": "/web/assets/asl/3dlex-where-ae5365c5e081.motion.json",
+          "sha256": "ae5365c5e081556e4ebaf3130ea4fb0fc2b49bad13c44d40bbc2a4252cd771b9",
+          "language": "ASL",
+          "source": {
+            "dataset": "3D-LEX v1.0",
+            "authors": [
+              "Oline Ranum",
+              "Gomèr Otterspeer",
+              "Jari I. Andersen",
+              "Robert G. Belleman",
+              "Floris Roelofsen"
+            ],
+            "projectUrl": "https://osf.io/mqzyk/",
+            "archiveUrl": "https://osf.io/download/tcnhs/",
+            "filename": "where.glb",
+            "license": "CC-BY-4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+            "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/w/where.htm",
+            "sourceGLBSHA256": "7764c95faf13c96e7714f6b7dfd982a16783d788501fd2c7853aee3ab6e57019",
+            "runtimeSHA256": "ae5365c5e081556e4ebaf3130ea4fb0fc2b49bad13c44d40bbc2a4252cd771b9",
+            "format": "motion-only JSON derived from GLB"
+          },
+          "linguisticReview": {
+            "status": "pending",
+            "reviewer": null,
+            "date": null
+          },
+          "reviewRequired": [
+            "exact source meaning and contextual sense",
+            "handshape and finger articulation",
+            "palm orientation, location and movement",
+            "two-hand coordination/contact after retargeting",
+            "missing facial/body grammar, referents and direction"
+          ]
+        },
+        {
+          "id": "3dlex-school",
+          "conceptId": "asl.school.education-place",
+          "meaning": "Candidate mapping: A place or institution for education; not a group of fish.",
+          "motionUrl": "/web/assets/asl/3dlex-school-3e2354c11d50.motion.json",
+          "sha256": "3e2354c11d505a832cd2ea46bc33cdd7039655f5ac82bd74e887d1e8a736cfe4",
+          "language": "ASL",
+          "source": {
+            "dataset": "3D-LEX v1.0",
+            "authors": [
+              "Oline Ranum",
+              "Gomèr Otterspeer",
+              "Jari I. Andersen",
+              "Robert G. Belleman",
+              "Floris Roelofsen"
+            ],
+            "projectUrl": "https://osf.io/mqzyk/",
+            "archiveUrl": "https://osf.io/download/tcnhs/",
+            "filename": "school.glb",
+            "license": "CC-BY-4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+            "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/s/school.htm",
+            "sourceGLBSHA256": "72eff75e775221ad77e571b7c4e69e4284de92ebcdd51851a4ed3c851c14a5d3",
+            "runtimeSHA256": "3e2354c11d505a832cd2ea46bc33cdd7039655f5ac82bd74e887d1e8a736cfe4",
+            "format": "motion-only JSON derived from GLB"
+          },
+          "linguisticReview": {
+            "status": "pending",
+            "reviewer": null,
+            "date": null
+          },
+          "reviewRequired": [
+            "exact source meaning and contextual sense",
+            "handshape and finger articulation",
+            "palm orientation, location and movement",
+            "two-hand coordination/contact after retargeting",
+            "missing facial/body grammar, referents and direction"
+          ]
+        }
+      ]
+    }
+  ],
+  "linguisticApproval": false,
+  "notes": "Existing licensed source captures only; eleven distinct example motions inspected for technical playback/framing. No fluent ASL approval, sentence equivalence or expert semantic verification claimed."
+}

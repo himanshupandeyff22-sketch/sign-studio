@@ -1,0 +1,22 @@
+{
+  "schema": "asl-phrase-review-proposal/1",
+  "id": "asl.template.greeting-wellbeing",
+  "signLanguage": "ASL",
+  "englishPatterns": ["hi how are you", "hello how are you", "how are you"],
+  "intendedSense": "friendly greeting asking about wellbeing",
+  "referenceURL": "https://www.lifeprint.com/asl101/pages-signs/h/how.htm",
+  "referenceOnlyOutline": ["HELLO for the greeting prefix", "HOW-YOU greeting construction"],
+  "requiredMeaningDistinction": "Friendly greeting and serious wellbeing inquiry have different nonmanual expression; do not silently treat every How are you as the same variant.",
+  "candidateInspectionAssets": ["3dlex-how", "3dlex-you"],
+  "enabledAnimationIds": [],
+  "translationEligible": false,
+  "status": "pending-source-and-phrase-review",
+  "linguisticReview": {"status": "pending", "reviewer": null, "date": null},
+  "remaining": [
+    "Obtain a permitted compatible recorded greeting animation or review a permitted greeting realization; the retained procedural Hello is not an approved clip.",
+    "Verify whether the exact HOW and YOU source captures support this greeting construction, its movement reduction and addressee direction after retargeting.",
+    "Provide and review the appropriate facial expression and transition timing on Aarav.",
+    "Record a fluent ASL review of the exact complete phrase and English intent mapping before runtime activation."
+  ],
+  "notice": "Authored review proposal only; not an import batch, validated template or playable phrase. Reference text/images/video were not imported. The outline does not approve or license any animation."
+}

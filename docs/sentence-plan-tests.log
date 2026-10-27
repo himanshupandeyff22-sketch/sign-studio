@@ -1,0 +1,27 @@
+✔ clear contextual transpositions preserve original spans and can be undone (27.7017ms)
+✔ unknown valid words, names, digits and negation are never aggressively corrected (21.0178ms)
+✔ equivalent English candidate aliases share one concept but require ASL mapping review (21.9984ms)
+✔ declared names cannot bypass interpretation through the raw vocabulary matcher (23.0172ms)
+✔ financial and river bank senses remain distinct; uncertain context asks per occurrence (13.7716ms)
+✔ light/right senses and multiword meanings resolve before single-word matches (13.7158ms)
+✔ negated clauses are held rather than rendered as positive HELP (13.9264ms)
+✔ unreviewed complete expressions never become a vaguely similar lexical sign (10.8102ms)
+✔ 500 words retain exact original and interpreted punctuation, positions and concept decisions (97.6624ms)
+✔ new motions are inspection-only and cannot be enabled by spelling/meaning matches or client flags (9.2091ms)
+✔ sentence examples resolve existing real motions without approving grammar or assets (1150.2145ms)
+✔ natural source order, punctuation, capitalization and explicit grammar notes are preserved (2.3088ms)
+✔ missing people, actions, negation and incomplete clauses hold the entire message (16.6996ms)
+✔ question intent is explicit; polar questions cannot turn into statements (7.4352ms)
+✔ narrow contraction/agreement normalization preserves source; tense/plural/ambiguous forms are held (10.739ms)
+✔ multiword meaning wins over shorter signs and unreviewed synonyms do not bypass review (8.4759ms)
+✔ names/numbers remain explicit, no fingerspelling is invented, ambiguity remains interactive (18.4883ms)
+✔ sentence mode obeys approval/consent gates and rejects invalid modes without changing legacy paths (3.9618ms)
+✔ 500-word planning is repeatable, untruncated and positions remain tied to the original (49.4868ms)
+ℹ tests 19
+ℹ suites 0
+ℹ pass 19
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1443.517

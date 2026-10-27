@@ -1,0 +1,14 @@
+✔ API supports sessions, preferences, translations, history, export and input protection (3974.2434ms)
+✔ API queues 500-word multi-sentence input, persists all text, and permits repeated submissions (289.3071ms)
+✔ API excludes unreviewed motions by default and requires explicit research meanings (193.2215ms)
+✔ an unrecognized session cookie can be replaced and an existing session resumes (161.1673ms)
+✔ API restores complete vocabulary coverage and preferences after a backend restart (424.911ms)
+✔ cached catalog gzip preserves every record and respects explicit encoding refusal (3859.0684ms)
+ℹ tests 6
+ℹ suites 0
+ℹ pass 6
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 5212.6009

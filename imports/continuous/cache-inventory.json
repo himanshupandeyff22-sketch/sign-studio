@@ -1,0 +1,2386 @@
+[
+  [
+    "ANIM_GLB/accomplish.glb",
+    {
+      "path": "asset-downloads/asl-inspection/accomplish.glb",
+      "sha256": "66ef6b7327d7d17f948a9b94632a061fc4e6984d3930ce837de82d5e588edf2b",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/act.glb",
+    {
+      "path": "asset-downloads/asl-inspection/act.glb",
+      "sha256": "a79ad80b06c38050d67804147ee95dd9e30ef7c8452c7d5397d3dc6cbb5bbe69",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/add.glb",
+    {
+      "path": "asset-downloads/asl-inspection/add.glb",
+      "sha256": "ea9d4c6dd70fef93e014bcfb3f9c933fec4cacf03eb90c428c916774c9553724",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/alone.glb",
+    {
+      "path": "asset-downloads/asl-inspection/alone.glb",
+      "sha256": "1d605733002802b5cd29d27529d33acb5da1f578ff59c3dbb47e01a293918d71",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/apple.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/apple.glb",
+      "sha256": "2791fcf78875080b6bbabdef921d82d3caafb3c740202855fd3d8b2bf814f932",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/hello.glb",
+    {
+      "path": "asset-downloads/asl-inspection/hello.glb",
+      "sha256": "ea9d4c6dd70fef93e014bcfb3f9c933fec4cacf03eb90c428c916774c9553724",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/help.glb",
+    {
+      "path": "asset-downloads/asl-inspection/help.glb",
+      "sha256": "61e7bb2177e3f2d3a50d610ce3da5fd68a29cffd4fff2e35fdd2058065ec7d20",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/love.glb",
+    {
+      "path": "asset-downloads/asl-inspection/love.glb",
+      "sha256": "54b2f8e0fd5cf8751cbdfa1cea9d71d3acdece8d84ddb83d2bd5f6a148f43219",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/no.glb",
+    {
+      "path": "asset-downloads/asl-inspection/no.glb",
+      "sha256": "9e4f3ad918416302c25b6b19a9cb3156b21e24037c4b1700f278ede5c8427722",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/yes.glb",
+    {
+      "path": "asset-downloads/asl-inspection/yes.glb",
+      "sha256": "0a4312a09c34bc9ee5ac03da035e5cb4d8b7fcf7760aa8a44f386402c240cefa",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/family.glb",
+    {
+      "path": "asset-downloads/concept-batch-20261012/family.glb",
+      "sha256": "55e11404b844e08384d412dc86f8d827f419af520d8a1c14a72bb4f160c42243",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/friend.glb",
+    {
+      "path": "asset-downloads/concept-batch-20261012/friend.glb",
+      "sha256": "73823dd3165d278f72d1d28f2a22a649bc5e20d405c2e1d358f17635ccb415e4",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/like.glb",
+    {
+      "path": "asset-downloads/concept-batch-20261012/like.glb",
+      "sha256": "73823dd3165d278f72d1d28f2a22a649bc5e20d405c2e1d358f17635ccb415e4",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/me.glb",
+    {
+      "path": "asset-downloads/concept-batch-20261012/me.glb",
+      "sha256": "ea9d4c6dd70fef93e014bcfb3f9c933fec4cacf03eb90c428c916774c9553724",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/please.glb",
+    {
+      "path": "asset-downloads/concept-batch-20261012/please.glb",
+      "sha256": "a204e8efc07890c0913b25390580f7962a946830872db1f4891d0296bf26acc0",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/remember.glb",
+    {
+      "path": "asset-downloads/concept-batch-20261012/remember.glb",
+      "sha256": "e526509f07cd22b9f43483ace78ef321c3750d44b23d0f395640f249cad1cc00",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/water.glb",
+    {
+      "path": "asset-downloads/concept-batch-20261012/water.glb",
+      "sha256": "787d743048894bd645fdba6a4dc46257e2210c4e7a9a6b624b87e270209c8ad0",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/you.glb",
+    {
+      "path": "asset-downloads/concept-batch-20261012/you.glb",
+      "sha256": "e6d82a6d051db4c875f9bc03bd9d19d770727f9f3b9771eccc67b2093d04fdfa",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/bad.glb",
+    {
+      "path": "asset-downloads/conversation-batch-20261012/bad.glb",
+      "sha256": "1fd0fb7fb17c24fbc1440d7251cf3a2cebe86856bb9e496397421fa0590ceb91",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/come.glb",
+    {
+      "path": "asset-downloads/conversation-batch-20261012/come.glb",
+      "sha256": "ea9d4c6dd70fef93e014bcfb3f9c933fec4cacf03eb90c428c916774c9553724",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/drink.glb",
+    {
+      "path": "asset-downloads/conversation-batch-20261012/drink.glb",
+      "sha256": "b909d3041d2897ab4b9a5c9813538fd9899ff0353464222d2a5d8751f7f3263b",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/go.glb",
+    {
+      "path": "asset-downloads/conversation-batch-20261012/go.glb",
+      "sha256": "0c39c5e53f6e4ffeb0d78fdb19a58a1e0cf2d8f38879c83ce0dccdc48533dc97",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/good.glb",
+    {
+      "path": "asset-downloads/conversation-batch-20261012/good.glb",
+      "sha256": "ea9d4c6dd70fef93e014bcfb3f9c933fec4cacf03eb90c428c916774c9553724",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/happy.glb",
+    {
+      "path": "asset-downloads/conversation-batch-20261012/happy.glb",
+      "sha256": "09bfec9ab831df5bf62fa8b5836a2eec8468531845838c66367dd15b6e70f8d0",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/home.glb",
+    {
+      "path": "asset-downloads/conversation-batch-20261012/home.glb",
+      "sha256": "e7f57fae5a737b3734b7243b7fc16e275fde12102b90697f7e509d5216a5e8c4",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/how.glb",
+    {
+      "path": "asset-downloads/conversation-batch-20261012/how.glb",
+      "sha256": "61436e61d4f69f6e55a7e8af8489de9fd9a5883a1993117f14d710e1e286d549",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/know.glb",
+    {
+      "path": "asset-downloads/conversation-batch-20261012/know.glb",
+      "sha256": "115f519c0c5e1f45040106bd2d03a1a387c78e4926dbf3c97a0b0f3664d46103",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/learn.glb",
+    {
+      "path": "asset-downloads/conversation-batch-20261012/learn.glb",
+      "sha256": "a8d4b054d7675c11676d3ace315d55ed7a7ba76b8acc2d9618dbb4031205cf54",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/mother.glb",
+    {
+      "path": "asset-downloads/conversation-batch-20261012/mother.glb",
+      "sha256": "30a93edd0d48a0c1e1ca1b2099ed81ee3616d396ba97574b58aa7f64ba886c18",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/name.glb",
+    {
+      "path": "asset-downloads/conversation-batch-20261012/name.glb",
+      "sha256": "a8d4b054d7675c11676d3ace315d55ed7a7ba76b8acc2d9618dbb4031205cf54",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/need.glb",
+    {
+      "path": "asset-downloads/conversation-batch-20261012/need.glb",
+      "sha256": "ea9d4c6dd70fef93e014bcfb3f9c933fec4cacf03eb90c428c916774c9553724",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/sad.glb",
+    {
+      "path": "asset-downloads/conversation-batch-20261012/sad.glb",
+      "sha256": "d5818a94a681a7dc3e20f2582f9282f76ef0ca98182c1e6a85f745ef7b223fbc",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/school.glb",
+    {
+      "path": "asset-downloads/conversation-batch-20261012/school.glb",
+      "sha256": "72eff75e775221ad77e571b7c4e69e4284de92ebcdd51851a4ed3c851c14a5d3",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/sister.glb",
+    {
+      "path": "asset-downloads/conversation-batch-20261012/sister.glb",
+      "sha256": "a55ac756c119dbbfd1bceb19eb80f1e4f1bea5c382a1852ff1a2067c839c6157",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/sorry.glb",
+    {
+      "path": "asset-downloads/conversation-batch-20261012/sorry.glb",
+      "sha256": "7a5d891673347b0f46dd655b501b1db4d7cf685f3c4d3a65dcd690a289f983bc",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/stop.glb",
+    {
+      "path": "asset-downloads/conversation-batch-20261012/stop.glb",
+      "sha256": "ea9d4c6dd70fef93e014bcfb3f9c933fec4cacf03eb90c428c916774c9553724",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/understand.glb",
+    {
+      "path": "asset-downloads/conversation-batch-20261012/understand.glb",
+      "sha256": "20cb83e3936f46627c7f43f3d915e73b7f337a56bf64c13065f0714747fa0531",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/want.glb",
+    {
+      "path": "asset-downloads/conversation-batch-20261012/want.glb",
+      "sha256": "bbdbe83106d7ab23c8ecedd938db3e5832ac0c00f27fb5739e2eec95b37bbb8a",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/when.glb",
+    {
+      "path": "asset-downloads/conversation-batch-20261012/when.glb",
+      "sha256": "3036c2a905a4d38b4f853547aee27ea6971e82cb237c57e86026f4ba1afd7a32",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/where.glb",
+    {
+      "path": "asset-downloads/conversation-batch-20261012/where.glb",
+      "sha256": "7764c95faf13c96e7714f6b7dfd982a16783d788501fd2c7853aee3ab6e57019",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/who.glb",
+    {
+      "path": "asset-downloads/conversation-batch-20261012/who.glb",
+      "sha256": "91ada060e523071d439be3ffe8d8e11b683f00fe4a012c5ff3c9e5b6c71f6a76",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/why.glb",
+    {
+      "path": "asset-downloads/conversation-batch-20261012/why.glb",
+      "sha256": "a01d553e561459fac6644582bd24dbbaa29333a8032fe4af1830971385960760",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/work.glb",
+    {
+      "path": "asset-downloads/conversation-batch-20261012/work.glb",
+      "sha256": "13f6d27b4a5b2c93d7041ad5b3e1bf52d7b2ddb40ba15097311dacd80f0418b6",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/again.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/again.glb",
+      "sha256": "41b525f3262408744b8f263e8af7ffe4a37da1678c7690939ca99eecb359e83b",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/answer.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/answer.glb",
+      "sha256": "be3ee439a4b6b4bfad68d0d3773fbed06e0dd33deb99ad4c06dff3f7f4df8a24",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/ask.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/ask.glb",
+      "sha256": "993494371fb49ba2d424293d99fbcc2be680c1766294c98435c9df5e02878ba1",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/bathroom.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/bathroom.glb",
+      "sha256": "7ee765d1bc2ab50006721569195828a54e37497e1688235ccd76a70cf3f9fcd8",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/big.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/big.glb",
+      "sha256": "73823dd3165d278f72d1d28f2a22a649bc5e20d405c2e1d358f17635ccb415e4",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/book.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/book.glb",
+      "sha256": "69a09c198bce2a455e0f5fa9684824d13e2564d7a6c1a6df971616f72ff58177",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/boy.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/boy.glb",
+      "sha256": "6b19f893164346679d50277e480a2907c883448ec79e1f85606e773d1052b6f6",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/bread.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/bread.glb",
+      "sha256": "73823dd3165d278f72d1d28f2a22a649bc5e20d405c2e1d358f17635ccb415e4",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/bus.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/bus.glb",
+      "sha256": "56277b491c3da412eb479399b614b57f0fc37378e66d1324b4941d324dab8154",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/buy.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/buy.glb",
+      "sha256": "73823dd3165d278f72d1d28f2a22a649bc5e20d405c2e1d358f17635ccb415e4",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/car.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/car.glb",
+      "sha256": "71614922ab81bacf6a5d00db90ea7cf972f8553a39f35466336762cc91f1b731",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/children.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/children.glb",
+      "sha256": "2a27d37a76b5dde294a5a33172dcdf474dde3d1d6eb4e2d4383c4ff81418a768",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/coffee.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/coffee.glb",
+      "sha256": "f71cd542f0beff7b60f26c6c03492859ffe0c9d614c5dce51db347f85dfda81d",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/cold.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/cold.glb",
+      "sha256": "78c268eb5ca95d8f3724e3cc72757914e56095ce1c51607511d46fc6ee6451d9",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/day.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/day.glb",
+      "sha256": "43ad3892f51a28df53fdd93bbc38f5de92a56246e4c2a6d6f7faf626521f337d",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/doctor.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/doctor.glb",
+      "sha256": "e0058b60b96e01f6150034818223a1de88789980a2c21edff22d50c3bedf6d0c",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/english.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/english.glb",
+      "sha256": "ea9d4c6dd70fef93e014bcfb3f9c933fec4cacf03eb90c428c916774c9553724",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/fast.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/fast.glb",
+      "sha256": "47957ea09d7cb81630af4a1fbe0278e33d76766dae20f1af6ee2de61473815e0",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/feel.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/feel.glb",
+      "sha256": "8f4d288a03918591fb54c9d7e28d920e78cad2e9d86ba31b528e1d6502db1ed4",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/finish.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/finish.glb",
+      "sha256": "8789f92d8c22c7e4de2203ff497e4e81a5a44a51982d915812f65c0cc912659e",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/fish.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/fish.glb",
+      "sha256": "23a905541b773e2a0183154f1329c2978db22821d26c2fc1f6b2fb55fc1ef389",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/girl.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/girl.glb",
+      "sha256": "8edb60b8c54c5972b5701b220241b6860e874fc32abe7a9ae082a388d1ee9063",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/hearing.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/hearing.glb",
+      "sha256": "a8d4b054d7675c11676d3ace315d55ed7a7ba76b8acc2d9618dbb4031205cf54",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/hospital.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/hospital.glb",
+      "sha256": "c83b3c8981cb5a4672411083952af779d4fc5e4150b51acd920be8866f3cff7f",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/hot.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/hot.glb",
+      "sha256": "d42f576c4e6494b188b1e19a9441b8c4b3b5dc8b8403ddab22d0102c147bd2c8",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/hungry.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/hungry.glb",
+      "sha256": "75213e09305ca904e046cd870568b5bc66db5b995f123f88294cfdd7c09966a6",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/hurt.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/hurt.glb",
+      "sha256": "0c6fc637817740eb6650b0e8f149952d7c505dba16b25f8c84f57f12d3a03978",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/important.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/important.glb",
+      "sha256": "ea9d4c6dd70fef93e014bcfb3f9c933fec4cacf03eb90c428c916774c9553724",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/language.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/language.glb",
+      "sha256": "73823dd3165d278f72d1d28f2a22a649bc5e20d405c2e1d358f17635ccb415e4",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/listen.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/listen.glb",
+      "sha256": "fca873ddff221659bdb1441363fed139209f3c1d40be4d15e28dd84c1856eeec",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/man.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/man.glb",
+      "sha256": "111c152925170f6250c9ed5e47d112c6b83f6cc7a463de98f74f089984c0154c",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/milk.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/milk.glb",
+      "sha256": "ea9d4c6dd70fef93e014bcfb3f9c933fec4cacf03eb90c428c916774c9553724",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/money.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/money.glb",
+      "sha256": "64c591912afea1f8e4fbea11b61247ecdfceaebac4eb0f3d7b3bee4fa7939589",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/month.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/month.glb",
+      "sha256": "d3d0a41f941c288af5258625dae13d2e569ac843488eceec2025fc4c3ba9134a",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/morning.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/morning.glb",
+      "sha256": "128a4ec55fff5a7867926e4f6b61766388aa6ba2f271beb74657097ab7e2b39f",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/night.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/night.glb",
+      "sha256": "65acf1e3c8eae1013627e9024866847f977c265190531842fb44ea4ce3cce4ef",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/pay.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/pay.glb",
+      "sha256": "0d1f23d385ee00aa0634447dbfb06410e4f8840209ab8a7eb235d5ac45d176e9",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/read.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/read.glb",
+      "sha256": "b4fced52516fc4967e5d84c4dddf4c5bec9ec506c8ec3f9e32412094565c2cf4",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/see.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/see.glb",
+      "sha256": "afe6d489f3ca1030178a1b94bd248341a7a80f0992da6676148280ff3d8f0c9a",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/sign.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/sign.glb",
+      "sha256": "ce8e8562088b84a45716317554957587ada39cb73f314959ff09804a75f65090",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/sit.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/sit.glb",
+      "sha256": "d25e9dc9f368698dd26dab0dbbd34e86c2ae365055151161e76f95e96b167c7e",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/sleep.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/sleep.glb",
+      "sha256": "eb00fab35c7fcfb2ea20860445391200227819075b8843b176a425c12bd1a16a",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/slow.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/slow.glb",
+      "sha256": "c1cd7a50d9f1c0841c99040d8edb00145d23528576b37554e9669962c9e52321",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/small.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/small.glb",
+      "sha256": "ea9d4c6dd70fef93e014bcfb3f9c933fec4cacf03eb90c428c916774c9553724",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/student.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/student.glb",
+      "sha256": "3379824674806f61118a3745a0201dc625ef098caf0fcfd5d32ee30436adce45",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/tea.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/tea.glb",
+      "sha256": "03fe4a42cd8a299249d2ff4f34aae87c5c70bada8e8426198f18435b1a39a1ea",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/teacher.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/teacher.glb",
+      "sha256": "4217fc9f33edcfd414a293ba543d8a8ec0d429b113e674fdf1af3a6e2992e4a8",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/tell.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/tell.glb",
+      "sha256": "7cc72ed162612be2f9e16f39c57f0e261fc38355090928523235d8e3234f455d",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/think.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/think.glb",
+      "sha256": "73823dd3165d278f72d1d28f2a22a649bc5e20d405c2e1d358f17635ccb415e4",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/thirsty.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/thirsty.glb",
+      "sha256": "1d0e3ab09a98ac62efb99b65bdd57a21cc66e24b2cf4f19165e69b9742343be5",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/tired.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/tired.glb",
+      "sha256": "c65ede0ac594156d3f027f1d9fa644d3c1748b28c6300951166012f532805039",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/today.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/today.glb",
+      "sha256": "3057a2d6da029e55e0e99f31e6d585f2381d561a3a8b1fc64a425d7fb91c1b25",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/toilet.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/toilet.glb",
+      "sha256": "5fc91dfd9d9267f35e2313c4d747b1b563d2eb658a444c739f9c42166fbcef14",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/tomorrow.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/tomorrow.glb",
+      "sha256": "a847109d57022e75139da1abe47e9f7f27bc629d66b5c779edb8bc464f596cfe",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/train.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/train.glb",
+      "sha256": "0fb384800d8e57af94f9afb39c51810f191121da109859a32d5aa07c68dae205",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/vegetable.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/vegetable.glb",
+      "sha256": "73823dd3165d278f72d1d28f2a22a649bc5e20d405c2e1d358f17635ccb415e4",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/wait.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/wait.glb",
+      "sha256": "5c0d43cb45b9f31e7bd4990972bc26d978a175578899d51960d7536ba1349df6",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/walk.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/walk.glb",
+      "sha256": "e1a3f3fe32d72d69e7419fc8b17cac61d66d9a08542f55bc4f0662219c73ce88",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/week.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/week.glb",
+      "sha256": "ea9d4c6dd70fef93e014bcfb3f9c933fec4cacf03eb90c428c916774c9553724",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/woman.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/woman.glb",
+      "sha256": "a75989fd959cc64985cf291ad2878d6bd10212127cd38e2d60d77f5138642e62",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/write.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/write.glb",
+      "sha256": "946ff8021766550192f7cb36f7239042580f1ba1a01792aa1c1892acb617c419",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/year.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/year.glb",
+      "sha256": "16c0da9617cb15f23f4051d0fe66c21e38212ed84dae24790bd72fc11ae19a7c",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/yesterday.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261012/yesterday.glb",
+      "sha256": "63cffaf6b465b87cf7ffa23e20aeac01ffb9dc9d0c33b71310dd591914717fa5",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/age.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261019/age.glb",
+      "sha256": "c529208b790354596ec3427830b42b870e9ba754acb9a669ff7fca2eec70b144",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/boss.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261019/boss.glb",
+      "sha256": "e1741c55ddf03473abfab3bbce747b892003af901b1bcd5bd82f89ffb51da804",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/can.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261019/can.glb",
+      "sha256": "ac2279bcfba625475bc0428ae64eaabd8f5505c5db492623aff605d6e5623b3d",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/chocolate.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261019/chocolate.glb",
+      "sha256": "7d66e298010b717e76e05f3374d8b71898faeb5d3709a6ce2573261ce755267e",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/counselor.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261019/counselor.glb",
+      "sha256": "47ac0d18e1296d695c71df6130a279ba08e30862698af711aad0b2c3ede472fe",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/down.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261019/down.glb",
+      "sha256": "f2f9cf14f1370df0e982d15465fc681815bd6bd5adc50378cc6b41a927564458",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/enough.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261019/enough.glb",
+      "sha256": "44d76b13bfb73f175cca5f3b5e3f4fdfdb0db58da2b736444a58fb6786ddaa7d",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/enter.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261019/enter.glb",
+      "sha256": "3d74c93f2aaf61edba20babb0674e83a7cb22d1642e4520a1f37ae4de433b167",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/far.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261019/far.glb",
+      "sha256": "356e2930e338f0d574ab0df30d202d7b4604cefb559a04defde55befe13379c6",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/first.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261019/first.glb",
+      "sha256": "0bed578b63c29cd3f13c739bc79a65cc856de56c04bf4d9508c9757e5fdcc509",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/future.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261019/future.glb",
+      "sha256": "dcf4d26fb3d811f562802bee30f87a33bc3f91b4c780a7968e5ff909a2727d82",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/give.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261019/give.glb",
+      "sha256": "391a667394aac8059f6596e70195cd83c59de9a2b6f9fc701c992932747bd0ef",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/here.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261019/here.glb",
+      "sha256": "917a748979614f035de48756159f1f67b90e693c9b3cb7ed2ccb8a09a439ea0a",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/inside.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261019/inside.glb",
+      "sha256": "c09802458bef2cc12d80bd1463601dbe8a917836de2d85cfc1d7761c7a93c959",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/introduce.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261019/introduce.glb",
+      "sha256": "47bb31c13abc5a00504d4d37b6ccdbd10c7f09a74f38a24d39c7338029aead17",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/leave.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261019/leave.glb",
+      "sha256": "2334fca3f7a86e60edbcec04a2678dbd87eaed94b563c0be1954375cd2811da6",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/meet.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261019/meet.glb",
+      "sha256": "4fd8fcae30856bdece65cc1abe84895acbe81040ef717abbb0ca618c3e977029",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/my.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261019/my.glb",
+      "sha256": "fafcc9733c1c1c8a480cd2f351bb9d229f09002829b7a8e762ea329b2fce881f",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/near.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261019/near.glb",
+      "sha256": "e615052379394cac4b69cea0e17f8cf483258fd94cde022b3e44142c5fe5f028",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/next.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261019/next.glb",
+      "sha256": "601476e6e5b6df1484d1b933b1a7f4ed7dc85fe31859354a9bbbbdc4c12a6191",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/now.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261019/now.glb",
+      "sha256": "dce6d578b616702fd189095f41adda535f480f1888fc05b4af364f7784b2f587",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/office.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261019/office.glb",
+      "sha256": "57b60dfce30a43904c20fd07b34d995fa24efe1e244fdcc8e019c9188a0562fd",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/open.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261019/open.glb",
+      "sha256": "08cef2b4b071c73442b9c2cf4fc8fa52bd080befde750a90a81a67034e9cb434",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/pepper.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261019/pepper.glb",
+      "sha256": "9313453a96336030b9025f3c523f442b0b15f1c3482f8386284587761377c3f5",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/room.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261019/room.glb",
+      "sha256": "29641441e84f2fd591dd1acff34b2f4158573610e61eda56b52ee1e4cd2c7801",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/start.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261019/start.glb",
+      "sha256": "31a44674d475a69a1b2f68bf9bb98637352392b9f3b1900d8ecb4b401c6dca6a",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/take.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261019/take.glb",
+      "sha256": "a9cae60068c0dbd8742a6d27bf0899c0bf1990be5f33137816dcb968a299c65e",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/toast.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261019/toast.glb",
+      "sha256": "d1908bdd9607056c9e41a3f8f0496d27d9853b75004e77a2b28ee88b89e89b38",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/use.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261019/use.glb",
+      "sha256": "c0f6d14a67750b423d77cbd1e9312bea428c08fcb2e57b94904e2448ae88300a",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/your.glb",
+    {
+      "path": "asset-downloads/everyday-batch-20261019/your.glb",
+      "sha256": "aa3c0eb97f42bcb3029ad8c96731d822769f201b7335bc8c01aed86d02e47615",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/airplane.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/airplane.glb",
+      "sha256": "73823dd3165d278f72d1d28f2a22a649bc5e20d405c2e1d358f17635ccb415e4",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/animal.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/animal.glb",
+      "sha256": "ea9d4c6dd70fef93e014bcfb3f9c933fec4cacf03eb90c428c916774c9553724",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/bicycle.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/bicycle.glb",
+      "sha256": "a635d42688ed2d08ee8f90607c4f8e32ca466a77dab14d5fed461f8ec140aae8",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/birthday.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/birthday.glb",
+      "sha256": "ea9d4c6dd70fef93e014bcfb3f9c933fec4cacf03eb90c428c916774c9553724",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/blanket.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/blanket.glb",
+      "sha256": "bf33eb61fd95606ab52a8dddc53852be0001d3222e7a853c946ee260757e4a84",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/blue.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/blue.glb",
+      "sha256": "ea9d4c6dd70fef93e014bcfb3f9c933fec4cacf03eb90c428c916774c9553724",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/boat.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/boat.glb",
+      "sha256": "f1d9f8ecc4f78124a475e1eafe0f0cf2212ba4cc668d0dce86bcfa8f7eda559b",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/bottle.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/bottle.glb",
+      "sha256": "8cf4c3c25461b4a43e957111d84d083d58c8d44fdaccfbf6952b2fe8a8c1402d",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/bowl.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/bowl.glb",
+      "sha256": "59375bbe6e9061d7c3d52abcfb9c6e32731706b7d5804c64dacc98ef8d6fe464",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/box.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/box.glb",
+      "sha256": "ea9d4c6dd70fef93e014bcfb3f9c933fec4cacf03eb90c428c916774c9553724",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/bridge.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/bridge.glb",
+      "sha256": "e35123a39c0d1c3bc8aee999bf358db6e147bede07772e14420a3b2910c6827f",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/butter.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/butter.glb",
+      "sha256": "ea9d4c6dd70fef93e014bcfb3f9c933fec4cacf03eb90c428c916774c9553724",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/cat.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/cat.glb",
+      "sha256": "1061be134044ea7090a8109f0b2d0bd0ec4e56f93bd78750f317f15f910a30cc",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/city.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/city.glb",
+      "sha256": "3f3c06e0dd6bd23fa985b28cbdcb688315f2b7cd7379053e8aa8495760665b65",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/college.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/college.glb",
+      "sha256": "77121ec8afe757f6e258c8e01a58cec928a78146daf53ad8c595108beb3209db",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/cup.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/cup.glb",
+      "sha256": "b5b9d7cf0661cc87e4e58aa8dee242ba197b3fbc918055a24294bcbaa7061283",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/dog.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/dog.glb",
+      "sha256": "39e5714081db5d1cd1f7ef6ca9dd80d94487680bb0217d4429af40fadef2332c",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/duck.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/duck.glb",
+      "sha256": "846d43faa5a80b615d645b4340569f5f6dd5da92b76109b0522d3e7e2e409c8b",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/email.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/email.glb",
+      "sha256": "d04cfa3eb2aa9215d6cc40285839fab5262299fb5031cff30bda5c764922247e",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/flower.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/flower.glb",
+      "sha256": "655f270b7c5f8db259e8e15c3670417d1ca923a435dcf00b393a28755df71549",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/forest.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/forest.glb",
+      "sha256": "b3c497efc090028c0ce1a4ab473296dca72421058f78eef7368a660bcfeed24b",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/glasses.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/glasses.glb",
+      "sha256": "73823dd3165d278f72d1d28f2a22a649bc5e20d405c2e1d358f17635ccb415e4",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/grapes.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/grapes.glb",
+      "sha256": "897e1dcb2eef839777dbc214f7f1f8fd46465c2cd6e87dd3ff59878ae74434fa",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/green.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/green.glb",
+      "sha256": "d01d3d48b16a14c615083626514a58c3a8b1aa4cad0fc720f8baadf13e43ab9d",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/hat.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/hat.glb",
+      "sha256": "6ce4112cd106641351965128e2bb4cd51b5968f0b928d6760215b9ea64d67077",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/horse.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/horse.glb",
+      "sha256": "8d1be442937f17c8addaed15f60142e8af25fa4989df02d89099588810af18d8",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/house.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/house.glb",
+      "sha256": "9b1965d9ac34592bf8f2ca3f905eda1670256d2ebaa8afa4c081fd15e18c79d6",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/internet.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/internet.glb",
+      "sha256": "247eff3c45876f6c76a15feadf901d9afe29cc5c3e5a43c1c75076be12a8ac56",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/jacket.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/jacket.glb",
+      "sha256": "63e79496742852105d62ec4c0ceab84e00f774d3da71594099dd515ecfa4d09e",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/key.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/key.glb",
+      "sha256": "9602e1bf61d1e3993f42677db337918f6f373a0b3f9d2ef49833174b0c452616",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/keyboard.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/keyboard.glb",
+      "sha256": "9b7456c0bfca1f8e04e4618f02ede49319de3e01376d59f68803b2efe9c77e7e",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/lamp.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/lamp.glb",
+      "sha256": "fe5fe7bb3d343397bc8b8b7492e68247d43ab5bdf56701c758ff6795517bbd0a",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/laptop.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/laptop.glb",
+      "sha256": "a6099fe4171614093e191ffc4d94b4b46c846d4e50004210f3f6e7e4f274903d",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/lemon.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/lemon.glb",
+      "sha256": "ea9d4c6dd70fef93e014bcfb3f9c933fec4cacf03eb90c428c916774c9553724",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/meeting.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/meeting.glb",
+      "sha256": "dfed70a46f42b4ce00f5c1d7247c20808f11ef6924c8969200c1ff12f8d42ed0",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/napkin.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/napkin.glb",
+      "sha256": "a0e66fff645687846b03c358be2d241bd7cad55df0b959956729fbb2ee90154a",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/newspaper.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/newspaper.glb",
+      "sha256": "4e086298b140a057bc613e9363ce7a7dcf962a4f054783e3109a30092a0db6bf",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/picture.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/picture.glb",
+      "sha256": "3b02a3603099ad01bce6da9bc75ccba653a27a34ea2323f277d0bb6d3659ad10",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/pink.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/pink.glb",
+      "sha256": "c2585dfb7b20092758a26972611ccfbdd6d8fc90d0baed1c88545e0dc66ccf2f",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/plate.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/plate.glb",
+      "sha256": "46e42a3b64e7e6fa5b4788c43f65031876d41371770758837dadb7af7c70d0de",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/purple.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/purple.glb",
+      "sha256": "2ba052d43578a643827fc6d957b874dcde98857218fdae5f24f583029cda388f",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/rabbit.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/rabbit.glb",
+      "sha256": "e27ae07005a563a0c09cc1169b36efeee056c2f68f228c71c1e2ebf209100fc2",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/rain.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/rain.glb",
+      "sha256": "73823dd3165d278f72d1d28f2a22a649bc5e20d405c2e1d358f17635ccb415e4",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/red.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/red.glb",
+      "sha256": "2199be3ffc5b6a98576edeb3a5c354c833ba1443dcbb871ec6d7a0dd6fa5cdb1",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/river.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/river.glb",
+      "sha256": "73823dd3165d278f72d1d28f2a22a649bc5e20d405c2e1d358f17635ccb415e4",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/road.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/road.glb",
+      "sha256": "bd241c4eeade4201fe9c08d653423c8023dd581211673759dd7369441db1acf8",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/salad.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/salad.glb",
+      "sha256": "988a4a1d5af264514021cef7eb0178a1c748f26e7bb3ed349e756cb0c810a36d",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/science.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/science.glb",
+      "sha256": "3a9d446de14980439a15000289dffc4a69c1f1a77be8b936582432eda1ddd539",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/send.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/send.glb",
+      "sha256": "b30f515eca676029163d3d42266846fdeae0265c3158c74d847bc63c71cd1566",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/share.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/share.glb",
+      "sha256": "e5c3cc423dc4cdcd3a503d1f8fd602d9e2e759bccc30760cf7e1c391e9e3b7c5",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/socks.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/socks.glb",
+      "sha256": "3f04859ecf20f90321fd062f66fe1e020fb207e1223156955908909df1ae40bd",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/soda.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/soda.glb",
+      "sha256": "892fc9f38ea534093eabde3125a0bfd50e01f2c9cdce89ba5b460a504b1dc55f",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/sofa.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/sofa.glb",
+      "sha256": "a3ced4eb040003f856108a4de221ebb304c694fac2132d27839d63084b4664f1",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/spoon.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/spoon.glb",
+      "sha256": "0c079f73a52ef3cd8056335672673d38f38344c33ec7f8c92200a9235068b6b5",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/stairs.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/stairs.glb",
+      "sha256": "9c2cdf35d233de74a688c4a4be8df122fcf0025575371e76dd3ec93ebbb9d3f3",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/star.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/star.glb",
+      "sha256": "a8fc22b9bd92f4e41ce6d8d04f171f0e71cef792c2b2d9a5de2c8f7b1df4e6a9",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/study.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/study.glb",
+      "sha256": "58877a7310e28c447899ac6c5e5847d80ac5c67b2f6895eaa8aaf649e3bba925",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/summer.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/summer.glb",
+      "sha256": "f95d39776577c18381bebc2ce1536b0fd1fcbbf381ada5e1e353ea4169a36f7b",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/sun.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/sun.glb",
+      "sha256": "73823dd3165d278f72d1d28f2a22a649bc5e20d405c2e1d358f17635ccb415e4",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/telephone.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/telephone.glb",
+      "sha256": "c9ca1acb571e438429f8dbbba675c663c7d3ab473cd38feff26bdb372f2f5769",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/ticket.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/ticket.glb",
+      "sha256": "74fed3bd2c8ba7f4aba76c2a594eb2558f9886514d25415ec7fde9efd4013a5a",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/together.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/together.glb",
+      "sha256": "ea9d4c6dd70fef93e014bcfb3f9c933fec4cacf03eb90c428c916774c9553724",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/travel.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/travel.glb",
+      "sha256": "73823dd3165d278f72d1d28f2a22a649bc5e20d405c2e1d358f17635ccb415e4",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/tree.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/tree.glb",
+      "sha256": "446f5e78d56cd84b8cdda3f54f988f52912148cbb05236995e1a46f87ba7b4c8",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/university.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/university.glb",
+      "sha256": "923d87e60fdf8c303e9fed5427b1a9f913df679eaaf605b8ed8cdabb5cdb1515",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/vacation.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/vacation.glb",
+      "sha256": "370939f253be45c49094dcfc715cdf9a6f9d2200206db1f21a0a1a915e544344",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/waiter.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/waiter.glb",
+      "sha256": "6a65b93f6ff37a5acb9cbaa3d90df62a131bcb77c98201a44ac54d1cf65a22af",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/weather.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/weather.glb",
+      "sha256": "13741f0cfe2db491238aaadfdcc320530d290d48b2dc107e17db1bfbc6e78b40",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/white.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/white.glb",
+      "sha256": "73823dd3165d278f72d1d28f2a22a649bc5e20d405c2e1d358f17635ccb415e4",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/yellow.glb",
+    {
+      "path": "asset-downloads/expansion-20261018/yellow.glb",
+      "sha256": "b5ad89fba9391c1fbecfcda39f4f60ec3d29282db1d15175d7269081e21803c3",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/adult.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/adult.glb",
+      "sha256": "d5e511452afd69915a551b8f7b3fcdc06e5104abce36beaafc401ad353ad11ad",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/afternoon.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/afternoon.glb",
+      "sha256": "d8382db890da286cffbae88b06977b74bbf478a68736e569698ff35218c106a1",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/angry.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/angry.glb",
+      "sha256": "990f03794f4e224c3dc37b305e387daeb65222b0a9ac0d345ffb6596a444b4fb",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/banana.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/banana.glb",
+      "sha256": "ea9d4c6dd70fef93e014bcfb3f9c933fec4cacf03eb90c428c916774c9553724",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/bed.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/bed.glb",
+      "sha256": "bf57697629423d50a60208bc2ceb0802393b17e768e94daab539db35ff02fc6a",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/bedroom.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/bedroom.glb",
+      "sha256": "aefb4fd788da47c6b1bcbb63668313e7a7beb2de37bcf04e82d6df7b2116ee74",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/blood.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/blood.glb",
+      "sha256": "a186f14e3b628faec296839f316d99d85f81cffc0ec762102743cacc946737c6",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/body.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/body.glb",
+      "sha256": "886a1cd9ad1a2cfde3d636495f789b125e498c06c2b706cb1a1887f1256cba70",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/bored.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/bored.glb",
+      "sha256": "346b16775777b5bf99ff9278fc875d30f863da65c33852d06c81d0b7696893a4",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/breathe.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/breathe.glb",
+      "sha256": "360906c4cdd36ce16a9e2216c5a6b99324faf67539cb58543258c0bb3792847d",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/chair.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/chair.glb",
+      "sha256": "0586da13b9014016d7207554c73d3444f0ca1672813d104ec2692764e8bdc2b1",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/cheese.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/cheese.glb",
+      "sha256": "9658465e54a6065edb7dc61a7a0ec816861b87aea7d7ba455fe3f608bb67466e",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/class.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/class.glb",
+      "sha256": "e5d9874fcf206312db4082d12221e98391f0357d24f2c96f3aff5c27cab8b2f0",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/clean.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/clean.glb",
+      "sha256": "13c866bd59405d47b649594fbed25b031aa2b9c4d01588d5afc85aa7e0fca26c",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/clothes.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/clothes.glb",
+      "sha256": "50c1d220bb786d62aaf833716d0d3673665e0397aaf1306691c936e26c3df922",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/comfortable.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/comfortable.glb",
+      "sha256": "8a46bfb5cc52b05635ff6cea02b5f840d9e54ed36e7684ced48a0ab012c4f0af",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/computer.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/computer.glb",
+      "sha256": "618eab1f4a1ddfa247df0bcaf07697d803179ea86db1f014c5ea1dd3afb45acd",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/cook.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/cook.glb",
+      "sha256": "a50e174e6aa4cf249a2b59d9c596f83d47b39bc017a88582f78b558a31b62727",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/cough.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/cough.glb",
+      "sha256": "0a130821e7ed66ee42c1b32450a778acb29b868cfeb6ba40b6f04236630eb35e",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/cousin.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/cousin.glb",
+      "sha256": "42bd654b703221c6c109976c5c1c2bb05d79c3074f55bea7fd184baadf509a6c",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/cry.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/cry.glb",
+      "sha256": "1d6331eb85eacd21e3dde455b3438cf49dc0980770671d34d79f17b789469393",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/delicious.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/delicious.glb",
+      "sha256": "fb2fff528690633bab06afe37a1314ed3aa3e261b8cca4e48ff6db75b64897fa",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/different.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/different.glb",
+      "sha256": "71fe5a3447b48977b364344d6d5ea1c734a627c6c8308c4691ca3d1454982f18",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/dirty.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/dirty.glb",
+      "sha256": "73896a0365606d39cb08c60df92ab8ad5bc6d9445a62d5ccd6aeae25ead99cb8",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/door.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/door.glb",
+      "sha256": "a8d761f3e070ac9119b1868b150828029b9f349c85ecb8850986ec85a372c2ef",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/easy.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/easy.glb",
+      "sha256": "885658d5935913f904d1fd38e82b5861527acfe0baeb7a27e46c2a180b5c5fc4",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/egg.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/egg.glb",
+      "sha256": "9658465e54a6065edb7dc61a7a0ec816861b87aea7d7ba455fe3f608bb67466e",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/example.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/example.glb",
+      "sha256": "1f9e9deb2c8e908f3b01d684be320aa6cf13b5fae36f9fe89c211f2cf7f14a4c",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/friday.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/friday.glb",
+      "sha256": "697faaf93d2eae1caae343e478ce7c9dae123c8e6753b6ff734b556fd0c4dcc4",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/fruit.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/fruit.glb",
+      "sha256": "6e16f6480c383ab99aaae151cc6f65da8713039983e8b1f39ead1f32b1bd8430",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/full.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/full.glb",
+      "sha256": "985162c8cb1a8cb3fc454bb502a805efc73fbca9db6a5cc06929d471d30e2f3c",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/grandfather.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/grandfather.glb",
+      "sha256": "931f436d5b2c2d01842720d0e5e2e0ed8401a4d7bf18a2435963cc92807e3a68",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/grandmother.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/grandmother.glb",
+      "sha256": "493f3a3a9a43ef4d8b1d2ceb5c473c0cd084d8b10a4d020e4a3b491b831d93d5",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/hard.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/hard.glb",
+      "sha256": "503e10268c58df1e92c1897845d1f0a273a48757db3bc0a3e99c670bf9b1504e",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/headache.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/headache.glb",
+      "sha256": "95dc250ef1ceae1ebdfc50610b4268ba7089344ce674846e0d6c5064d44369db",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/health.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/health.glb",
+      "sha256": "19fd10204e12e72c5ddbe60a35efc54d1fb9750a4bd49b0123d2d55c6c70eae3",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/homework.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/homework.glb",
+      "sha256": "ce7436a3ebd09bd932b4b2ece6b4d2c3e6245faeaec4f7ee8b924de748883c67",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/hour.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/hour.glb",
+      "sha256": "ed0db99fd63691966f66bd490853460dae224812a74825dbbf043962f246790d",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/husband.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/husband.glb",
+      "sha256": "6260d62adfa992aa4ef7014d33e153f5f8d110a8f2b9773162002990ec6cd230",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/interpreter.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/interpreter.glb",
+      "sha256": "9658465e54a6065edb7dc61a7a0ec816861b87aea7d7ba455fe3f608bb67466e",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/kitchen.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/kitchen.glb",
+      "sha256": "7837ec921e7c7dea2e32b4ddadd0c781438a4307035b520213df18d7f21f6bb4",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/late.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/late.glb",
+      "sha256": "a2c3a2693e3e1daa581fbf7a31717d51148f67cc5805aeba2e9dcfc8cd0d86be",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/later.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/later.glb",
+      "sha256": "73823dd3165d278f72d1d28f2a22a649bc5e20d405c2e1d358f17635ccb415e4",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/laugh.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/laugh.glb",
+      "sha256": "73823dd3165d278f72d1d28f2a22a649bc5e20d405c2e1d358f17635ccb415e4",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/lesson.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/lesson.glb",
+      "sha256": "ea9d4c6dd70fef93e014bcfb3f9c933fec4cacf03eb90c428c916774c9553724",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/library.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/library.glb",
+      "sha256": "0ac285703c145ba1681b938c91668903b04867138814a0d743427246d23844bc",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/lonely.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/lonely.glb",
+      "sha256": "ab3fdb9f60272e15f2d6c1ea5b5159673442b8a7bf30ad5ae7561d370eeecdec",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/medicine.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/medicine.glb",
+      "sha256": "73823dd3165d278f72d1d28f2a22a649bc5e20d405c2e1d358f17635ccb415e4",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/minute.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/minute.glb",
+      "sha256": "88212efcb698c92fa0f5bb217bf3b7ccf60fe68c1dfd08ab7e935bb16c34c7e5",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/monday.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/monday.glb",
+      "sha256": "73823dd3165d278f72d1d28f2a22a649bc5e20d405c2e1d358f17635ccb415e4",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/nephew.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/nephew.glb",
+      "sha256": "512060d1d2712532d838379e8bb6f722c4b4054388478c52e6575647df87f158",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/niece.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/niece.glb",
+      "sha256": "b1b2701b9a009f19eb0e9eb5a79d85e0e7904a9ff68bdc450de8bcd86171a931",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/nurse.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/nurse.glb",
+      "sha256": "170cb0045427937264169a8570ff1d51a99a77d7d887d3d236825a6e3f13d3e4",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/old.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/old.glb",
+      "sha256": "3ee96a7a93c5635372cf45adcbd85ce0c1b91a5618364cc824beb2c32d6fe771",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/orange.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/orange.glb",
+      "sha256": "ea9d4c6dd70fef93e014bcfb3f9c933fec4cacf03eb90c428c916774c9553724",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/paper.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/paper.glb",
+      "sha256": "a937bfb83e3e693f5865c4419ada5bec33abb8c3e0aaecfedbf39dde9f471c3e",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/parents.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/parents.glb",
+      "sha256": "0332c978bad6627388be484ce6fcb8f01b7b2a98252c71c3a1d555d61fba571e",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/pencil.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/pencil.glb",
+      "sha256": "a8d4b054d7675c11676d3ace315d55ed7a7ba76b8acc2d9618dbb4031205cf54",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/person.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/person.glb",
+      "sha256": "ea9d4c6dd70fef93e014bcfb3f9c933fec4cacf03eb90c428c916774c9553724",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/potato.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/potato.glb",
+      "sha256": "99f73d85837730ac4fbd71ae124360e8209469f8c03c4c646995156d862a61de",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/ready.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/ready.glb",
+      "sha256": "73823dd3165d278f72d1d28f2a22a649bc5e20d405c2e1d358f17635ccb415e4",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/relax.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/relax.glb",
+      "sha256": "7c1b4c18ba14fbe829dd38d81d4d621003bba9dbc6ba578ff90b7c9ae76ab1b4",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/rest.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/rest.glb",
+      "sha256": "b6dbfd0293557ef03295ea80929c5bc54c19a0ee1ce0983c58c1fe168f799e49",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/restaurant.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/restaurant.glb",
+      "sha256": "73823dd3165d278f72d1d28f2a22a649bc5e20d405c2e1d358f17635ccb415e4",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/salt.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/salt.glb",
+      "sha256": "ea9d4c6dd70fef93e014bcfb3f9c933fec4cacf03eb90c428c916774c9553724",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/sandwich.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/sandwich.glb",
+      "sha256": "cef44b730ed354870b6aa8dca0f8575a50804039f275e7965e830abd377bc341",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/saturday.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/saturday.glb",
+      "sha256": "11b17b30575f95119390abda9a3f2902a057450c86221205a173824ef077360a",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/scared.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/scared.glb",
+      "sha256": "df9bcae10bf73610fa56ff4d5d42d3009097d13706314d25d69483149aa993af",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/sentence.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/sentence.glb",
+      "sha256": "6414f14f8fcada76cdd3c9f42596fb3c7f717494fb017f227ffceead8d208495",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/shirt.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/shirt.glb",
+      "sha256": "06a212f4819aa95b19018383fb6bd53b1865a31b2fb74d867555bb7aa8258afa",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/shoes.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/shoes.glb",
+      "sha256": "afb2aa56df20d39dc34fc906340b3e19b36feba245fa195d25dff2fcce92e62f",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/show.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/show.glb",
+      "sha256": "073718231ea3d1c0512a3502552685957a7e60d1e7380e5016fecad7e8d3d4a0",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/shower.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/shower.glb",
+      "sha256": "308d20df293fe21a20ad1dfa287262b73e6923e2e39708017b1901ecf13b984f",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/smile.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/smile.glb",
+      "sha256": "3f7a89d8287fb2857f3aed57fd0edf47c9b4b42f6326bc585e267c897ded4c84",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/soap.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/soap.glb",
+      "sha256": "2de3f309185e69489d5f7c8ca72b28f0f64935daadd0b5e4b7a3eaf4eeba40ae",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/soup.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/soup.glb",
+      "sha256": "901d8759a2c95eb1bbf2fe6f8a1b9288e539b457f4605abafbc8f3fd03912d66",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/stress.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/stress.glb",
+      "sha256": "bb85cd1c0fb25a57ebb4bffb5978d41c184da1f4b123f6ad39c5aff73beb99f1",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/surgery.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/surgery.glb",
+      "sha256": "ed6b8be71391ed254306c24734367eda232d6d1d0bc0775c66943a21d3a4a4c1",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/talk.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/talk.glb",
+      "sha256": "73823dd3165d278f72d1d28f2a22a649bc5e20d405c2e1d358f17635ccb415e4",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/test.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/test.glb",
+      "sha256": "8f33ee02ae887ce90f1d3b4f3b1e0bfc83ded001863463ca05350474ee603c1e",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/therapy.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/therapy.glb",
+      "sha256": "7cc0d7f731ac719f1d72463962f63586087dc24e288979fb71ec1689113bed23",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/thursday.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/thursday.glb",
+      "sha256": "117b0aa79acf34021cc74101cc058fcb578cf4920cf41e55bb57f14dfb614e82",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/tomato.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/tomato.glb",
+      "sha256": "d1b47d33f615ae7406fff88352516ce8f27346f7902d79dca8eff7503b8c9ab8",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/translate.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/translate.glb",
+      "sha256": "7f7c5e3411f141f018f2e95deeef6265ec16b26a602a6b015176dfa8947439bb",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/uncle.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/uncle.glb",
+      "sha256": "2b71ad4cd521d881a36ac1cd8a7e3f7e16f6e4b4a97fe45ef2c5f828ce183d50",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/vomit.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/vomit.glb",
+      "sha256": "9614fac3d505eb270253a6eed0f867c348bfd0c385e32eaa0db14e5e73d60f81",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/wednesday.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/wednesday.glb",
+      "sha256": "31051f81bf43a6037060073ea5a27f7e1775499410ec60a4bfaaf09fb9cfe885",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/wife.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/wife.glb",
+      "sha256": "e0dee949e048c15608308e739ecca3ab7446a1a71fa9a3d9d0e7175f9d854da7",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/window.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/window.glb",
+      "sha256": "a4c2371dbd8985fc10a5d16172afd636a450ede586dac388e54aba91478f5d13",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/word.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/word.glb",
+      "sha256": "73823dd3165d278f72d1d28f2a22a649bc5e20d405c2e1d358f17635ccb415e4",
+      "clips": 0
+    }
+  ],
+  [
+    "ANIM_GLB/worry.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/worry.glb",
+      "sha256": "0ee8a3e8d7d9c51091f23c668a9bcb20b503f7974c066fc57f77e7039fed83ad",
+      "clips": 1
+    }
+  ],
+  [
+    "ANIM_GLB/young.glb",
+    {
+      "path": "asset-downloads/presentation-batch-20261016/young.glb",
+      "sha256": "1d228b9f2f4c9adee9781ffb4ecc2ee38b562937c7a21e4ad0ff6c046a242d62",
+      "clips": 1
+    }
+  ]
+]

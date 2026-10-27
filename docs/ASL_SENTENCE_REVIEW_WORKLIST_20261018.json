@@ -1,0 +1,531 @@
+{
+  "schema": "asl-sentence-review-worklist/1",
+  "runtimeTemplatesAdded": 0,
+  "approvedPhrases": 0,
+  "rows": [
+    {
+      "id": "review-20261018-1",
+      "englishInput": "I need help.",
+      "signLanguage": "ASL",
+      "status": "complete-phrase-review-needed",
+      "completeTranslation": false,
+      "linguisticReview": {
+        "status": "pending",
+        "reviewer": null,
+        "date": null
+      },
+      "existingTemplateIds": [
+        "asl.template.request-help"
+      ],
+      "candidateConceptIds": [
+        "asl.person.first-person",
+        "asl.need.requirement",
+        "asl.help.assistance"
+      ],
+      "missingTerms": [
+        {
+          "term": "I",
+          "count": 1,
+          "wordIndices": [
+            0
+          ]
+        },
+        {
+          "term": "need",
+          "count": 1,
+          "wordIndices": [
+            1
+          ]
+        }
+      ],
+      "required": [
+        "Obtain an exact permitted utterance or have a fluent signer specify the ASL construction.",
+        "Review roles, tense, negation, spatial reference and facial/body expression.",
+        "Review exact source and final Aarav handshape, orientation, movement, location and two-hand contact.",
+        "Record identified human approval of exact asset hashes before activation."
+      ],
+      "notice": "Candidate concepts do not specify ASL signing order. This is a review worklist, not an implemented template or translated sentence."
+    },
+    {
+      "id": "review-20261018-2",
+      "englishInput": "Please repeat.",
+      "signLanguage": "ASL",
+      "status": "complete-phrase-review-needed",
+      "completeTranslation": false,
+      "linguisticReview": {
+        "status": "pending",
+        "reviewer": null,
+        "date": null
+      },
+      "existingTemplateIds": [],
+      "candidateConceptIds": [
+        "asl.please.courtesy"
+      ],
+      "missingTerms": [
+        {
+          "term": "Please",
+          "count": 1,
+          "wordIndices": [
+            0
+          ]
+        },
+        {
+          "term": "repeat",
+          "count": 1,
+          "wordIndices": [
+            1
+          ]
+        }
+      ],
+      "required": [
+        "Obtain an exact permitted utterance or have a fluent signer specify the ASL construction.",
+        "Review roles, tense, negation, spatial reference and facial/body expression.",
+        "Review exact source and final Aarav handshape, orientation, movement, location and two-hand contact.",
+        "Record identified human approval of exact asset hashes before activation."
+      ],
+      "notice": "Candidate concepts do not specify ASL signing order. This is a review worklist, not an implemented template or translated sentence."
+    },
+    {
+      "id": "review-20261018-3",
+      "englishInput": "I have a ticket.",
+      "signLanguage": "ASL",
+      "status": "complete-phrase-review-needed",
+      "completeTranslation": false,
+      "linguisticReview": {
+        "status": "pending",
+        "reviewer": null,
+        "date": null
+      },
+      "existingTemplateIds": [],
+      "candidateConceptIds": [
+        "asl.person.first-person",
+        "asl.ticket.admission-pass"
+      ],
+      "missingTerms": [
+        {
+          "term": "I",
+          "count": 1,
+          "wordIndices": [
+            0
+          ]
+        },
+        {
+          "term": "have",
+          "count": 1,
+          "wordIndices": [
+            1
+          ]
+        },
+        {
+          "term": "a",
+          "count": 1,
+          "wordIndices": [
+            2
+          ]
+        },
+        {
+          "term": "ticket",
+          "count": 1,
+          "wordIndices": [
+            3
+          ]
+        }
+      ],
+      "required": [
+        "Obtain an exact permitted utterance or have a fluent signer specify the ASL construction.",
+        "Review roles, tense, negation, spatial reference and facial/body expression.",
+        "Review exact source and final Aarav handshape, orientation, movement, location and two-hand contact.",
+        "Record identified human approval of exact asset hashes before activation."
+      ],
+      "notice": "Candidate concepts do not specify ASL signing order. This is a review worklist, not an implemented template or translated sentence."
+    },
+    {
+      "id": "review-20261018-4",
+      "englishInput": "Where is the restaurant?",
+      "signLanguage": "ASL",
+      "status": "complete-phrase-review-needed",
+      "completeTranslation": false,
+      "linguisticReview": {
+        "status": "pending",
+        "reviewer": null,
+        "date": null
+      },
+      "existingTemplateIds": [],
+      "candidateConceptIds": [
+        "asl.where.location-question",
+        "asl.restaurant.eating-establishment"
+      ],
+      "missingTerms": [
+        {
+          "term": "Where",
+          "count": 1,
+          "wordIndices": [
+            0
+          ]
+        },
+        {
+          "term": "is",
+          "count": 1,
+          "wordIndices": [
+            1
+          ]
+        },
+        {
+          "term": "the",
+          "count": 1,
+          "wordIndices": [
+            2
+          ]
+        },
+        {
+          "term": "restaurant",
+          "count": 1,
+          "wordIndices": [
+            3
+          ]
+        }
+      ],
+      "required": [
+        "Obtain an exact permitted utterance or have a fluent signer specify the ASL construction.",
+        "Review roles, tense, negation, spatial reference and facial/body expression.",
+        "Review exact source and final Aarav handshape, orientation, movement, location and two-hand contact.",
+        "Record identified human approval of exact asset hashes before activation."
+      ],
+      "notice": "Candidate concepts do not specify ASL signing order. This is a review worklist, not an implemented template or translated sentence."
+    },
+    {
+      "id": "review-20261018-5",
+      "englishInput": "I study science.",
+      "signLanguage": "ASL",
+      "status": "complete-phrase-review-needed",
+      "completeTranslation": false,
+      "linguisticReview": {
+        "status": "pending",
+        "reviewer": null,
+        "date": null
+      },
+      "existingTemplateIds": [],
+      "candidateConceptIds": [
+        "asl.person.first-person",
+        "asl.study.study-action",
+        "asl.science.scientific-study"
+      ],
+      "missingTerms": [
+        {
+          "term": "I",
+          "count": 1,
+          "wordIndices": [
+            0
+          ]
+        },
+        {
+          "term": "study",
+          "count": 1,
+          "wordIndices": [
+            1
+          ]
+        },
+        {
+          "term": "science",
+          "count": 1,
+          "wordIndices": [
+            2
+          ]
+        }
+      ],
+      "required": [
+        "Obtain an exact permitted utterance or have a fluent signer specify the ASL construction.",
+        "Review roles, tense, negation, spatial reference and facial/body expression.",
+        "Review exact source and final Aarav handshape, orientation, movement, location and two-hand contact.",
+        "Record identified human approval of exact asset hashes before activation."
+      ],
+      "notice": "Candidate concepts do not specify ASL signing order. This is a review worklist, not an implemented template or translated sentence."
+    },
+    {
+      "id": "review-20261018-6",
+      "englishInput": "Please send the email.",
+      "signLanguage": "ASL",
+      "status": "complete-phrase-review-needed",
+      "completeTranslation": false,
+      "linguisticReview": {
+        "status": "pending",
+        "reviewer": null,
+        "date": null
+      },
+      "existingTemplateIds": [],
+      "candidateConceptIds": [
+        "asl.please.courtesy",
+        "asl.send.send-action",
+        "asl.email.electronic-message"
+      ],
+      "missingTerms": [
+        {
+          "term": "Please",
+          "count": 1,
+          "wordIndices": [
+            0
+          ]
+        },
+        {
+          "term": "send",
+          "count": 1,
+          "wordIndices": [
+            1
+          ]
+        },
+        {
+          "term": "the",
+          "count": 1,
+          "wordIndices": [
+            2
+          ]
+        },
+        {
+          "term": "email",
+          "count": 1,
+          "wordIndices": [
+            3
+          ]
+        }
+      ],
+      "required": [
+        "Obtain an exact permitted utterance or have a fluent signer specify the ASL construction.",
+        "Review roles, tense, negation, spatial reference and facial/body expression.",
+        "Review exact source and final Aarav handshape, orientation, movement, location and two-hand contact.",
+        "Record identified human approval of exact asset hashes before activation."
+      ],
+      "notice": "Candidate concepts do not specify ASL signing order. This is a review worklist, not an implemented template or translated sentence."
+    },
+    {
+      "id": "review-20261018-7",
+      "englishInput": "I need an interpreter.",
+      "signLanguage": "ASL",
+      "status": "complete-phrase-review-needed",
+      "completeTranslation": false,
+      "linguisticReview": {
+        "status": "pending",
+        "reviewer": null,
+        "date": null
+      },
+      "existingTemplateIds": [],
+      "candidateConceptIds": [
+        "asl.person.first-person",
+        "asl.need.requirement",
+        "asl.interpreter.language-interpreter"
+      ],
+      "missingTerms": [
+        {
+          "term": "I",
+          "count": 1,
+          "wordIndices": [
+            0
+          ]
+        },
+        {
+          "term": "need",
+          "count": 1,
+          "wordIndices": [
+            1
+          ]
+        },
+        {
+          "term": "an",
+          "count": 1,
+          "wordIndices": [
+            2
+          ]
+        },
+        {
+          "term": "interpreter",
+          "count": 1,
+          "wordIndices": [
+            3
+          ]
+        }
+      ],
+      "required": [
+        "Obtain an exact permitted utterance or have a fluent signer specify the ASL construction.",
+        "Review roles, tense, negation, spatial reference and facial/body expression.",
+        "Review exact source and final Aarav handshape, orientation, movement, location and two-hand contact.",
+        "Record identified human approval of exact asset hashes before activation."
+      ],
+      "notice": "Candidate concepts do not specify ASL signing order. This is a review worklist, not an implemented template or translated sentence."
+    },
+    {
+      "id": "review-20261018-8",
+      "englishInput": "We meet at college.",
+      "signLanguage": "ASL",
+      "status": "complete-phrase-review-needed",
+      "completeTranslation": false,
+      "linguisticReview": {
+        "status": "pending",
+        "reviewer": null,
+        "date": null
+      },
+      "existingTemplateIds": [],
+      "candidateConceptIds": [
+        "asl.college.educational-institution"
+      ],
+      "missingTerms": [
+        {
+          "term": "We",
+          "count": 1,
+          "wordIndices": [
+            0
+          ]
+        },
+        {
+          "term": "meet",
+          "count": 1,
+          "wordIndices": [
+            1
+          ]
+        },
+        {
+          "term": "at",
+          "count": 1,
+          "wordIndices": [
+            2
+          ]
+        },
+        {
+          "term": "college",
+          "count": 1,
+          "wordIndices": [
+            3
+          ]
+        }
+      ],
+      "required": [
+        "Obtain an exact permitted utterance or have a fluent signer specify the ASL construction.",
+        "Review roles, tense, negation, spatial reference and facial/body expression.",
+        "Review exact source and final Aarav handshape, orientation, movement, location and two-hand contact.",
+        "Record identified human approval of exact asset hashes before activation."
+      ],
+      "notice": "Candidate concepts do not specify ASL signing order. This is a review worklist, not an implemented template or translated sentence."
+    },
+    {
+      "id": "review-20261018-9",
+      "englishInput": "The weather is cold.",
+      "signLanguage": "ASL",
+      "status": "complete-phrase-review-needed",
+      "completeTranslation": false,
+      "linguisticReview": {
+        "status": "pending",
+        "reviewer": null,
+        "date": null
+      },
+      "existingTemplateIds": [],
+      "candidateConceptIds": [
+        "asl.weather.atmospheric-conditions"
+      ],
+      "missingTerms": [
+        {
+          "term": "The",
+          "count": 1,
+          "wordIndices": [
+            0
+          ]
+        },
+        {
+          "term": "weather",
+          "count": 1,
+          "wordIndices": [
+            1
+          ]
+        },
+        {
+          "term": "is",
+          "count": 1,
+          "wordIndices": [
+            2
+          ]
+        },
+        {
+          "term": "cold",
+          "count": 1,
+          "wordIndices": [
+            3
+          ]
+        }
+      ],
+      "required": [
+        "Obtain an exact permitted utterance or have a fluent signer specify the ASL construction.",
+        "Review roles, tense, negation, spatial reference and facial/body expression.",
+        "Review exact source and final Aarav handshape, orientation, movement, location and two-hand contact.",
+        "Record identified human approval of exact asset hashes before activation."
+      ],
+      "notice": "Candidate concepts do not specify ASL signing order. This is a review worklist, not an implemented template or translated sentence."
+    },
+    {
+      "id": "review-20261018-10",
+      "englishInput": "I want a cup of water.",
+      "signLanguage": "ASL",
+      "status": "complete-phrase-review-needed",
+      "completeTranslation": false,
+      "linguisticReview": {
+        "status": "pending",
+        "reviewer": null,
+        "date": null
+      },
+      "existingTemplateIds": [],
+      "candidateConceptIds": [
+        "asl.person.first-person",
+        "asl.want.desire",
+        "asl.cup.drinking-vessel",
+        "asl.water.liquid"
+      ],
+      "missingTerms": [
+        {
+          "term": "I",
+          "count": 1,
+          "wordIndices": [
+            0
+          ]
+        },
+        {
+          "term": "want",
+          "count": 1,
+          "wordIndices": [
+            1
+          ]
+        },
+        {
+          "term": "a",
+          "count": 1,
+          "wordIndices": [
+            2
+          ]
+        },
+        {
+          "term": "cup",
+          "count": 1,
+          "wordIndices": [
+            3
+          ]
+        },
+        {
+          "term": "of",
+          "count": 1,
+          "wordIndices": [
+            4
+          ]
+        },
+        {
+          "term": "water",
+          "count": 1,
+          "wordIndices": [
+            5
+          ]
+        }
+      ],
+      "required": [
+        "Obtain an exact permitted utterance or have a fluent signer specify the ASL construction.",
+        "Review roles, tense, negation, spatial reference and facial/body expression.",
+        "Review exact source and final Aarav handshape, orientation, movement, location and two-hand contact.",
+        "Record identified human approval of exact asset hashes before activation."
+      ],
+      "notice": "Candidate concepts do not specify ASL signing order. This is a review worklist, not an implemented template or translated sentence."
+    }
+  ]
+}

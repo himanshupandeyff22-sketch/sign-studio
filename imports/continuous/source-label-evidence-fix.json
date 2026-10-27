@@ -1,0 +1,607 @@
+{
+  "schema": "asl-motion-batch/1",
+  "id": "source-label-evidence-fix",
+  "entries": [],
+  "sourceEvidenceProposals": [
+    {
+      "conceptId": "asl.accomplish.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.act.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.actor.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.address.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.africa.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.against.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.agreement.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.alcohol.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.all.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.alone.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.always.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.amazing.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.america.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.and.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.angel.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.announce.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.appear.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.area.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.argue.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.arm.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.army.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.arrive.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.art.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.asia.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.audience.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.avoid.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.award.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.awkward.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.back.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.bacon.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.balance.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.ball.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.balloon.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.bar.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.barely.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.baseball.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.basement.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.basketball.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.bath.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.battery.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.bear.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.beg.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.behavior.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.behind.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.believe.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.benefit.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.best.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.bet.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.better.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.birth.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.black.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.blame.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.bless.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.blind.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.bone.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.boots.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.bracelet.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.brave.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.break.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.breakdown.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.bright.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.brown.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.brush.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.busy.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.butterfly.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.bye.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.cabinet.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.california.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.call.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.camera.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.canada.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.cannot.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.canoe.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.careful.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.carry.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.catholic.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.celebrate.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.center.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.cereal.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.certificate.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.challenge.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.chance.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.change.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.character.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.chase.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.chat.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.cheap.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.check.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.cherry.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.china.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.choke.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.chop.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.church.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.circle.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.clear.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.clock.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.clown.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.clueless.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.color.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.comb.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.complex.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.concept.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.conflict.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.congratulations.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.continue.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.cooperate.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.copy.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.count.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.country.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.cow.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.cracker.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.crazy.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.curious.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.dance.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.danger.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.date.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.death.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.deep.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.deer.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    },
+    {
+      "conceptId": "asl.degree.source-gloss-unverified",
+      "evidence": "publisher-gloss-only",
+      "url": "https://osf.io/mqzyk/"
+    }
+  ]
+}

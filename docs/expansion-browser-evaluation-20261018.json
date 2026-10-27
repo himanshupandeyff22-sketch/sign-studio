@@ -1,0 +1,103 @@
+{
+  "date": "2026-10-18",
+  "environment": {
+    "os": "Windows",
+    "browser": "Codex in-app browser",
+    "node": "24.19.0",
+    "hardware": "CPU/GPU model not measured",
+    "viewportsCssPx": [
+      1146,
+      390,
+      351,
+      320
+    ],
+    "npm": "Not available in bundled runtime; existing pinned dependencies used"
+  },
+  "productionBrowser": [
+    {
+      "case": "New motion inspection queue",
+      "observed": "Bicycle, Cup and Weather prepared in selection order; Play, pause, keyboard seek, resume and stop worked; face and both hands visible in inspected frames",
+      "scope": "Technical visual check, not ASL meaning approval"
+    },
+    {
+      "case": "Library pagination/search",
+      "observed": "40 cards initially, 80 after Show more; bicycle search found one concept/motion; three selections persisted across searches"
+    },
+    {
+      "case": "Mobile signing",
+      "observed": "390 and 320 CSS px: no horizontal overflow. At 320 px, all playback buttons measured 44 px high. Face and both hands visible in paused Bicycle frame."
+    },
+    {
+      "case": "Actual camera startup",
+      "observed": "Production local camera became active with no console errors; uncertain/out-of-frame feedback observed. Stopped explicitly.",
+      "scope": "No deliberate signer, lighting benchmark or recognition accuracy evaluation"
+    }
+  ],
+  "controlledBrowserFixture": {
+    "isolation": "Separate localhost tab/server, in-memory SQLite, synthetic canvas video; no private user database modifications by fixture",
+    "actualModel": {
+      "runtime": "worker",
+      "input": "Synthetic blank capture 640x480, resized within 480x360",
+      "observedInferenceMs": 107.9,
+      "upToRequestsPerSecond": 6.2,
+      "output": "No hands detected",
+      "accuracyClaim": false
+    },
+    "scriptedCamera": [
+      "Stable Open_Palm captured but confirm disabled until illustration opt-in",
+      "Captured Open_Palm corrected to Thumb_Up and confirmed: Yes queue prepared without autoplay",
+      "Continuous held pose did not automatically resubmit; neutral release required",
+      "Conflicting two-hand poses produced no proposal",
+      "Confirmed fist paused prepared signing; confirmed pointing up resumed it",
+      "Explicit Stop released synthetic tracks/detector",
+      "Permission denial, missing device, delayed-start cancellation and disconnection all produced useful states",
+      "Corrected mobile raw-pose selector checked at 351 CSS px",
+      "Saved confirmation replay remained prepared, requiring explicit Play"
+    ],
+    "microphone": "Stubbed SpeechRecognition returned not-allowed; permission guidance and Type instead worked",
+    "assets": "Selected Love motion fetch intentionally failed; recovery panel appeared; retry after removing fault prepared same queue successfully",
+    "longInput": {
+      "inputWords": 500,
+      "characters": 2999,
+      "observedMotions": 200,
+      "missingWords": 300,
+      "mode": "unverified Research preview",
+      "completeAslTranslation": false
+    },
+    "incompleteGreeting": {
+      "input": "Hi, How are you?",
+      "observed": "4 words retained, no enabled motion in Research mode; missing coverage visible"
+    },
+    "console": "No new error/warn messages in inspected production/fixture sessions"
+  },
+  "automatedEvidence": [
+    "expansion-tests-20261018.log: initial full 87 passed",
+    "expansion-final-focused-20261018.log: 22 affected checks passed after score-preserving replay change",
+    "expansion-delivery-tests-20261018.log: 11 affected checks passed after gzip delivery change",
+    "expansion-final-suite-20261018.log: final full suite; see log result"
+  ],
+  "notRun": [
+    "Fluent-signer linguistic or skin-contact approval",
+    "Physical microphone transcription / subjective speech-quality evaluation",
+    "Multi-person held-out sign recognition or lighting/occlusion accuracy benchmark",
+    "New ASL classifier training",
+    "Fresh npm dependency installation",
+    "Assistive-technology user study"
+  ],
+  "screenshots": [
+    "screenshots/expansion-20261018/desktop-bicycle.png",
+    "screenshots/expansion-20261018/desktop-cup.png",
+    "screenshots/expansion-20261018/desktop-weather.png",
+    "screenshots/expansion-20261018/mobile-bicycle.png",
+    "screenshots/expansion-20261018/mobile-320-bicycle.png",
+    "screenshots/expansion-20261018/mobile-camera-controlled-qa.png"
+  ],
+  "finalAutomatedResult": {
+    "tests": 89,
+    "passed": 89,
+    "failed": 0,
+    "skipped": 0,
+    "durationMs": 190939.24,
+    "log": "expansion-final-suite-20261018.log"
+  }
+}

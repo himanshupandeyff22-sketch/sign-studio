@@ -1,0 +1,68 @@
+{
+  "schema": "tested-studio-build/1",
+  "savedAt": "2026-10-18T23:37:27.783605+05:30",
+  "team": "Beyond Words",
+  "signLanguage": "ASL",
+  "avatar": "Aarav",
+  "readyFor": "Local research-vocabulary demonstration",
+  "linguisticallyValidated": false,
+  "tests": {
+    "fullSuitePassed": 93,
+    "focusedPassed": 30,
+    "static": "passed",
+    "desktopMobile": "inspected"
+  },
+  "publicCompleteSourceRecordings": 1,
+  "completeAvatarSentences": 0,
+  "checkpoint": "C:\\Users\\himan\\OneDrive\\Desktop\\Sing Lang\\.checkpoints\\tested-studio-final-20261018-233727",
+  "files": [
+    {
+      "path": "web/index.html",
+      "sha256": "c24bfb456369edbb2bfa03e4cab9d747c85947e479ee23af15dcc5bbf3e6a512"
+    },
+    {
+      "path": "web/app.js",
+      "sha256": "f2340cf211e26dddbf8e56a3dc1b43c8dec73136dc16aa8514b9279235a447be"
+    },
+    {
+      "path": "web/avatar.js",
+      "sha256": "979bdb599c83646d0a5f1a11370b9b060f2f0a6d95b72241f591ad74af518761"
+    },
+    {
+      "path": "web/final-studio.css",
+      "sha256": "415767227433706b35553a609b102650c8f4efa77d506e27e393bc0c3b9e5d7d"
+    },
+    {
+      "path": "web/demo-guide.mjs",
+      "sha256": "b2e0840e429066ded56e8cdfe2b0ee55bc118c3839b7d7e3faaa18843e4d1209"
+    },
+    {
+      "path": "web/vocabulary-manifest.json",
+      "sha256": "80d2dda38a508f046c8e32010654f3572bbe84cb38d0033e108b148e2d794af4"
+    },
+    {
+      "path": "backend/catalog.mjs",
+      "sha256": "63d5cc0e1c618b3ebe9a12dac65ff4860451ad2b51930164547a83f992be8480"
+    },
+    {
+      "path": "backend/readiness.mjs",
+      "sha256": "64e06b236455d5afe6a783a0ad8008905de3dfb657c26ff4fd90ab1b7d474416"
+    },
+    {
+      "path": "start-studio.cmd",
+      "sha256": "e6a26e02900d68b9e425ba49a6851742ad53669c779569cdfde74b0340854fa5"
+    },
+    {
+      "path": "docs/STUDIO_ASSET_AUDIT_20261018.json",
+      "sha256": "61c40103c3fd359e5ab20138519b94daca7b94d8accdc191e0fba4e344bc1f93"
+    },
+    {
+      "path": "docs/final-studio-tests-20261018.log",
+      "sha256": "88cc70d10bbc5a682c33123ec81e4b8eded97db9710a899eb63db8ef731039f6"
+    },
+    {
+      "path": "docs/final-studio-focused-tests-20261018.log",
+      "sha256": "c1ede1c39061d53e38d9adfe75af185ade0ccf91f869943ba0a4ce0eed7e3e06"
+    }
+  ]
+}

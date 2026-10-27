@@ -1,0 +1,40 @@
+import fs from 'node:fs';
+let p='web/index.html',s=fs.readFileSync(p,'utf8');
+if(s.includes('id="research-consent"'))throw Error('Studio refinement already applied.');
+// Keep the one primary player action visible; Replay and viewer tools remain
+// available together in a native keyboard-accessible disclosure.
+const replay='<button id="replay" class="control-button" disabled><svg><use href="#i-replay"/></svg>Replay</button>';
+const seek=s.match(/<p id="seek-note"[^>]*>.*?<\/p>/)[0];s=s.replace(replay,'').replace(seek,'');
+s=s.replace('<div class="viewer-tools">','<details class="viewer-options"><summary>View &amp; playback options</summary><div class="viewer-tools">');
+s=s.replace('<span id="viewer-tool-status" role="status"></span></div>',''+replay+'<span id="viewer-tool-status" role="status"></span></div>'+seek+'</details>');
+const sample='<button id="sample-long" type="button" class="subtle-button">Load a 500-word example</button>';
+s=s.replace(sample,'').replace('<summary>Optional playback preferences</summary>','<summary>Input &amp; playback options</summary>'+sample);
+s=s.replace('<div class="guided-examples"><strong>Local demo · Aarav animations</strong><p>Technically checked local clips · ASL linguistic review pending.</p>','<div class="guided-examples"><strong>Try a local preview</strong>');
+s=s.replace('<details class="preview-settings">','<details class="studio-options"><summary>Studio settings <span>Language, voice &amp; speech</span></summary><details class="preview-settings">');
+const privacy=s.match(/<p class="local-privacy">.*?<\/p>/)[0];s=s.replace(privacy,'');
+s=s.replace('<div id="feedback"','</details><div id="feedback"');
+const speech=s.match(/<details class="speech-settings">.*?<\/details>/s)[0];s=s.replace(speech,'');
+s=s.replace('</details><div id="feedback"',speech+privacy+'</details><div id="feedback"');
+const consent='<section class="research-choice" aria-label="Research playback opt-in"><label><input id="research-consent" type="checkbox"><span>Use unreviewed research recordings</span></label><p id="research-consent-note">Explicit opt-in for source-word previews. Meaning and ASL grammar are unverified.</p></section>';
+s=s.replace('<div id="text-panel"',consent+'<div id="text-panel"');
+s=s.replace('<span class="section-label">REVIEW BEFORE PLAYBACK</span><h3 id="demo-review-title">Your preview</h3>','<h3 id="demo-review-title">Your preview</h3>');
+s=s.replace('<section class="queue-card"','<section data-has-result="false" class="queue-card"');
+s=s.replace('<section class="recent-section">','<details class="recent-section activity-details"><summary>Recent activity <span>Your saved messages &amp; inspections</span></summary>').replace('<div id="recent-items" class="recent-items"><p class="empty-state">Your first conversation starts above.</p></div></section>','<div id="recent-items" class="recent-items"><p class="empty-state">Your first conversation starts above.</p></div></details>');
+s=s.replace('final-studio.css?v=20261019-3','final-studio.css?v=20261019-4').replace('app.js?v=20261019-1','app.js?v=20261019-4');fs.writeFileSync(p,s);
+p='web/app.js';s=fs.readFileSync(p,'utf8');
+s=s.replace('function renderCoverage(){','function renderCoverage(){const panel=document.querySelector(\'.queue-card\');panel.dataset.hasResult=String(Boolean(lastResult));panel.dataset.inspection=String(lastResult?.responseType===\'asset-review\');');
+s=s.replace("meaning='Selected source recordings play immediately when loaded. Use Pause, Replay or Stop above. These are unverified motions, separate from sentence translation.'", "meaning='Unverified source recording. Inspect it with the player; this is not sentence translation.'");
+s=s.replace('body:{...input,completePhraseOnly:',"body:{...input,researchPreviewConsent:!['camera','asset-review'].includes(input.mode)&&selectedMode==='research'&&$('research-consent').checked,completePhraseOnly:");
+s=s.replace("$('vocabulary-mode').addEventListener('change',()=>{", "$('research-consent').addEventListener('change',()=>{cancelProcessing({announce:false});avatar?.stop();speech.stop();vocabularyMode=$('research-consent').checked?'research':'validated';senses={};clearQueue();updateVocabulary();feedback($('research-consent').checked?'Research opt-in enabled. Matching source-word recordings may be queued; meanings and ASL grammar are unverified.':'Research opt-in disabled. Default approved vocabulary restored.');});\n$('vocabulary-mode').addEventListener('change',()=>{if($('vocabulary-mode').value!=='research')$('research-consent').checked=false;");
+s=s.replace("const audit=catalog.capabilities.readiness,search=", "const audit=catalog.capabilities.readiness,search=");
+s=s.replace("const audit=catalog?.capabilities.readiness,counts=", "const audit=catalog?.capabilities.readiness,counts=");
+s=s.replace("const labels={registeredFiles:","const labels={expandedResearchTextConcepts:'Concepts available with expanded research opt-in',expandedResearchTextMotions:'Motions eligible for explicit text research opt-in',registeredFiles:");
+s=s.replace("function renderGuidedExamples(){", "function renderGuidedExamples(){if(catalog)$('research-consent-note').textContent=(catalog.capabilities.readiness.counts.expandedResearchTextMotions||0)+' technically checked recordings · source-word previews only; meanings and ASL grammar unverified.';");
+s=s.replace("async function replayItem(item){if(busy)return;", "async function replayItem(item){if(busy)return;if(item.researchPreviewConsent&&!$('research-consent').checked){setView('studio');feedback('Enable Use unreviewed research recordings before replaying this research word queue.');focusSection($('research-consent'));return;}");
+s=s.replace("asset-review')?", "asset-review')?");
+s=s.replace("Technical playback is separate from linguistic approval.","Technical playback is separate from linguistic approval.");
+s=s.replace("${counts.textMappedConcepts} opt-in text concepts", "${counts.expandedResearchTextConcepts} expanded research text candidates");
+s=s.replace("item.type==='catalogue'?'Unverified archive filename. No motion downloaded or meaning established.':item.definition", "item.type==='catalogue'?'Unverified archive filename. No registered playable motion; inspect the developer audit for static or rejected sources.':item.definition");
+s=s.replace("avatar.js?v=20261019-1","avatar.js?v=20261019-4");fs.writeFileSync(p,s);
+// Mutable browser module graph: new manifest and policy must load together.
+for(const p of ['web/avatar.js','web/asl-loader.js','web/vocabulary.mjs'])fs.writeFileSync(p,fs.readFileSync(p,'utf8').replaceAll('v=20261019-1','v=20261019-4'));

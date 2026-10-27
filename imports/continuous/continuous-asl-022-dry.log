@@ -1,0 +1,54 @@
+{
+  "report": "imports\\continuous\\continuous-asl-022-dry.json",
+  "dryRun": true,
+  "counts": {
+    "added": 12,
+    "merged": 0,
+    "skipped": 0,
+    "conflicting": 0,
+    "rejected": 0,
+    "pending-review": 0
+  },
+  "conceptChanges": {
+    "added": [],
+    "skipped": [],
+    "conflicting": []
+  },
+  "metadataChanges": {
+    "added": [],
+    "skipped": [],
+    "conflicting": []
+  },
+  "discoveryChanges": {
+    "added": 0,
+    "skipped": 0,
+    "conflicting": []
+  },
+  "pendingReview": [
+    "3dlex-whatever",
+    "3dlex-which",
+    "3dlex-will",
+    "3dlex-win",
+    "3dlex-wind",
+    "3dlex-wine",
+    "3dlex-with",
+    "3dlex-wonder",
+    "3dlex-wood",
+    "3dlex-worse",
+    "3dlex-wow",
+    "3dlex-zero"
+  ],
+  "before": {
+    "concepts": 789,
+    "aliases": 1024,
+    "animations": 717,
+    "reviewedEnabledSigns": 0
+  },
+  "after": {
+    "concepts": 789,
+    "aliases": 1024,
+    "animations": 729,
+    "reviewedEnabledSigns": 0
+  }
+}
+

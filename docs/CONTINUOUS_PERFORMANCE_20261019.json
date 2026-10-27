@@ -1,0 +1,39 @@
+{
+  "before": {
+    "environment": {
+      "node": "v24.19.0",
+      "platform": "win32",
+      "architecture": "x64"
+    },
+    "catalogColdMilliseconds": 894.5083000000001,
+    "libraryRowsMilliseconds": 10.84579999999994,
+    "filterMeanMilliseconds": 0.3973430000000008,
+    "paragraph500WordsMilliseconds": 30.790199999999913,
+    "paragraphWords": 500,
+    "queued": 300,
+    "unsupportedWords": 200,
+    "catalogBytes": 21658680,
+    "catalogGzipBytes": 2451415,
+    "libraryRows": 999,
+    "conditions": "Single local Node process; one cold catalogue, 100 in-memory filters; not browser FPS or before-after speed claim."
+  },
+  "after": {
+    "environment": {
+      "node": "v24.19.0",
+      "platform": "win32",
+      "architecture": "x64"
+    },
+    "catalogColdMilliseconds": 840.8514,
+    "libraryRowsMilliseconds": 7.9179000000000315,
+    "filterMeanMilliseconds": 0.3541549999999995,
+    "paragraph500WordsMilliseconds": 25.668300000000045,
+    "paragraphWords": 500,
+    "queued": 300,
+    "unsupportedWords": 200,
+    "catalogBytes": 8558460,
+    "catalogGzipBytes": 857738,
+    "libraryRows": 999
+  },
+  "change": "Public catalogue omits repeated frame-level technical diagnostics. Full immutable evidence remains in manifest and local audit.",
+  "conditions": "Same local Windows Node version, separate single-process samples. Size reduction is deterministic; timings are observations, not a statistically established speedup or FPS claim."
+}

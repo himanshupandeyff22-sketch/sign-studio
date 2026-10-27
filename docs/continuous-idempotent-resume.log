@@ -1,0 +1,1 @@
+{"counts":{"added":452,"static-no-motion":203,"registered-recovered":40,"technical-rejected":6},"pending":0,"registeredMotions":729,"resume":"node scripts/expand-library.mjs --resume"}

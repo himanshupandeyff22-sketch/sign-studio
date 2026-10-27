@@ -1,0 +1,247 @@
+{
+  "schema": "asl-motion-batch/1",
+  "id": "asl-topic-metadata-20261012",
+  "topicProposals": [
+    {
+      "conceptId": "asl.help.assistance",
+      "category": "communication",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.answer.affirmative",
+      "category": "communication",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.answer.negative",
+      "category": "communication",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.love.affection",
+      "category": "communication",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.greeting.hello",
+      "category": "communication",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.gratitude.thanks",
+      "category": "communication",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.phrase.i-love-you",
+      "category": "communication",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.water.liquid",
+      "category": "food",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.family.relatives",
+      "category": "people",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.remember.recall",
+      "category": "education",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.please.courtesy",
+      "category": "communication",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.person.second-person",
+      "category": "people",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.person.first-person",
+      "category": "people",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.like.enjoy",
+      "category": "description",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.like.resemblance",
+      "category": "description",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.bank.financial",
+      "category": "shopping",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.bank.river-edge",
+      "category": "travel",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.light.illumination",
+      "category": "description",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.light.low-weight",
+      "category": "description",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.right.direction",
+      "category": "travel",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.right.correct",
+      "category": "communication",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.time.now",
+      "category": "time",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.friend.relationship",
+      "category": "people",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.drink.consume-liquid",
+      "category": "food",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.want.desire",
+      "category": "communication",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.need.requirement",
+      "category": "communication",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.where.location-question",
+      "category": "communication",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.who.person-question",
+      "category": "communication",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.when.time-question",
+      "category": "communication",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.why.reason-question",
+      "category": "communication",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.how.manner-question",
+      "category": "communication",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.good.positive-quality",
+      "category": "communication",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.bad.negative-quality",
+      "category": "communication",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.happy.happiness",
+      "category": "health",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.sad.sadness",
+      "category": "health",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.work.labor",
+      "category": "education",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.school.education-place",
+      "category": "education",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.home.residence",
+      "category": "travel",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.mother.female-parent",
+      "category": "people",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.sister.female-sibling",
+      "category": "people",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.name.personal-label",
+      "category": "people",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.know.knowledge",
+      "category": "education",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.understand.comprehension",
+      "category": "education",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.learn.acquire-knowledge",
+      "category": "education",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.go.movement-away",
+      "category": "travel",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.come.movement-toward",
+      "category": "travel",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.stop.cease-action",
+      "category": "communication",
+      "purpose": "interface-grouping-only"
+    },
+    {
+      "conceptId": "asl.sorry.apology",
+      "category": "communication",
+      "purpose": "interface-grouping-only"
+    }
+  ],
+  "entries": []
+}

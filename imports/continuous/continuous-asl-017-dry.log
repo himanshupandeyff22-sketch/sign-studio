@@ -1,0 +1,82 @@
+{
+  "report": "imports\\continuous\\continuous-asl-017-dry.json",
+  "dryRun": true,
+  "counts": {
+    "added": 40,
+    "merged": 0,
+    "skipped": 0,
+    "conflicting": 0,
+    "rejected": 0,
+    "pending-review": 0
+  },
+  "conceptChanges": {
+    "added": [],
+    "skipped": [],
+    "conflicting": []
+  },
+  "metadataChanges": {
+    "added": [],
+    "skipped": [],
+    "conflicting": []
+  },
+  "discoveryChanges": {
+    "added": 0,
+    "skipped": 0,
+    "conflicting": []
+  },
+  "pendingReview": [
+    "3dlex-maybe",
+    "3dlex-member",
+    "3dlex-memorize",
+    "3dlex-microwave",
+    "3dlex-mirror",
+    "3dlex-misunderstand",
+    "3dlex-mock",
+    "3dlex-monkey",
+    "3dlex-monster",
+    "3dlex-moon",
+    "3dlex-mountain",
+    "3dlex-mouse",
+    "3dlex-mouth",
+    "3dlex-movie",
+    "3dlex-music",
+    "3dlex-must",
+    "3dlex-necklace",
+    "3dlex-negative",
+    "3dlex-never",
+    "3dlex-normal",
+    "3dlex-north",
+    "3dlex-nose",
+    "3dlex-not",
+    "3dlex-obsess",
+    "3dlex-ocean",
+    "3dlex-off",
+    "3dlex-ok",
+    "3dlex-on",
+    "3dlex-onion",
+    "3dlex-other",
+    "3dlex-out",
+    "3dlex-outside",
+    "3dlex-over",
+    "3dlex-overlook",
+    "3dlex-owl",
+    "3dlex-pack",
+    "3dlex-paint",
+    "3dlex-parade",
+    "3dlex-pass",
+    "3dlex-past"
+  ],
+  "before": {
+    "concepts": 789,
+    "aliases": 1024,
+    "animations": 517,
+    "reviewedEnabledSigns": 0
+  },
+  "after": {
+    "concepts": 789,
+    "aliases": 1024,
+    "animations": 557,
+    "reviewedEnabledSigns": 0
+  }
+}
+

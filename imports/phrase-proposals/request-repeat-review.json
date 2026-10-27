@@ -1,0 +1,20 @@
+{
+  "schema": "asl-phrase-review-proposal/1",
+  "id": "asl.template.request-repeat",
+  "signLanguage": "ASL",
+  "englishPatterns": ["please repeat"],
+  "intendedSense": "politely asking the present addressee to repeat their preceding message",
+  "referenceURL": "https://www.lifeprint.com/asl101/pages-signs/a/again.htm",
+  "existingConceptIds": ["asl.again.repetition","asl.please.courtesy"],
+  "candidateInspectionAssets": ["3dlex-again"],
+  "enabledAnimationIds": [],
+  "translationEligible": false,
+  "status": "pending-source-and-phrase-review",
+  "linguisticReview": {"status":"pending","reviewer":null,"date":null},
+  "remaining": [
+    "Obtain an exact permitted complete-utterance source. The staged CLERC subset has no exact match for this request.",
+    "A fluent signer must choose an appropriate request construction and nonmanual expression; lexical AGAIN alone is not an approved complete sentence mapping.",
+    "Inspect both hands, contact, timing, orientation and expression after retargeting; record phrase-level review before activation."
+  ],
+  "notice": "Concept links identify review scope, not signing order. Existing AGAIN remains inspection-only. No copied reference media or duplicate lexical concept."
+}

@@ -1,0 +1,45 @@
+✔ API supports sessions, preferences, translations, history, export and input protection (3999.0254ms)
+✔ API queues 500-word multi-sentence input, persists all text, and permits repeated submissions (279.9814ms)
+✔ API excludes unreviewed motions by default and requires explicit research meanings (206.3617ms)
+✔ an unrecognized session cookie can be replaced and an existing session resumes (170.5108ms)
+✔ API restores complete vocabulary coverage and preferences after a backend restart (282.1265ms)
+✔ all first-visit research examples resolve to their intended recording and sense (3504.4655ms)
+✔ unavailable, wrong-language and inspection-only recordings cannot become guided examples (21.4223ms)
+✔ guided examples cannot erase the meaning choice required for No and Love (20.9297ms)
+✔ clear contextual transpositions preserve original spans and can be undone (23.8208ms)
+✔ unknown valid words, names, digits and negation are never aggressively corrected (24.9269ms)
+✔ equivalent English candidate aliases share one concept but require ASL mapping review (23.4944ms)
+✔ declared names cannot bypass interpretation through the raw vocabulary matcher (31.2584ms)
+✔ financial and river bank senses remain distinct; uncertain context asks per occurrence (23.9951ms)
+✔ light/right senses and multiword meanings resolve before single-word matches (13.6338ms)
+✔ negated clauses are held rather than rendered as positive HELP (19.7569ms)
+✔ unreviewed complete expressions never become a vaguely similar lexical sign (11.3631ms)
+✔ 500 words retain exact original and interpreted punctuation, positions and concept decisions (148.156ms)
+✔ new motions are inspection-only and cannot be enabled by spelling/meaning matches or client flags (11.8621ms)
+✔ canonical library groups captures, searches aliases, separates senses and exposes real availability (3414.8324ms)
+✔ everyday batch is idempotent and preserves every existing asset and concept except the explicit now link (1542.4141ms)
+✔ local demo eligibility requires current technical evidence and never grants linguistic approval (3538.8358ms)
+✔ only the browser-observed complete source recording is publicly eligible (21.2254ms)
+✔ expanded text previews require explicit consent and current technical evidence (3296.3692ms)
+✔ opt-in does not bypass names, numbers, negation, ambiguity or whole-expression gates (36.4786ms)
+✔ all earlier manifest records and assets remain intact; new captures stay unapproved (19.2988ms)
+✔ publisher-only evidence cannot approve or overwrite established senses (112.4637ms)
+✔ public catalogue omits repeated rig diagnostics while preserving review gates and provenance (105.0121ms)
+✔ expanded ideas have stable unique plans, useful categories, and explicit rejected-candidate accounting (3957.7063ms)
+✔ sentence examples resolve existing real motions without approving grammar or assets (520.3435ms)
+✔ natural source order, punctuation, capitalization and explicit grammar notes are preserved (1.5896ms)
+✔ missing people, actions, negation and incomplete clauses hold the entire message (7.4732ms)
+✔ question intent is explicit; polar questions cannot turn into statements (4.3744ms)
+✔ narrow contraction/agreement normalization preserves source; tense/plural/ambiguous forms are held (6.0522ms)
+✔ multiword meaning wins over shorter signs and unreviewed synonyms do not bypass review (5.0193ms)
+✔ names/numbers remain explicit, no fingerspelling is invented, ambiguity remains interactive (12.3366ms)
+✔ sentence mode obeys approval/consent gates and rejects invalid modes without changing legacy paths (4.2216ms)
+✔ 500-word planning is repeatable, untruncated and positions remain tied to the original (41.3303ms)
+ℹ tests 37
+ℹ suites 0
+ℹ pass 37
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 5157.6012

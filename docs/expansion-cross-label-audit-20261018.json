@@ -1,0 +1,562 @@
+{
+  "scope": "Pre-import raw and normalized-content collision audit against all current registrations and the entire proposed batch",
+  "rows": [
+    {
+      "id": "3dlex-airplane",
+      "conceptId": "asl.airplane.aircraft",
+      "word": "airplane",
+      "sourceSHA256": "73823dd3165d278f72d1d28f2a22a649bc5e20d405c2e1d358f17635ccb415e4",
+      "status": "rejected",
+      "reason": "No animation tracks; a static avatar is not a sign."
+    },
+    {
+      "id": "3dlex-bicycle",
+      "conceptId": "asl.bicycle.pedal-vehicle",
+      "word": "bicycle",
+      "sourceSHA256": "a635d42688ed2d08ee8f90607c4f8e32ca466a77dab14d5fed461f8ec140aae8",
+      "status": "candidate",
+      "motionContentSHA256": "dda3c7334a18229e652b601d6de347e64b66c64649e02633590490c0e94579bd"
+    },
+    {
+      "id": "3dlex-boat",
+      "conceptId": "asl.boat.watercraft",
+      "word": "boat",
+      "sourceSHA256": "f1d9f8ecc4f78124a475e1eafe0f0cf2212ba4cc668d0dce86bcfa8f7eda559b",
+      "status": "candidate",
+      "motionContentSHA256": "4a1663aae41199d702a0ed0d02063d58b9818b956c14513f3bea2318d5ecaf9a"
+    },
+    {
+      "id": "3dlex-bridge",
+      "conceptId": "asl.bridge.physical-bridge",
+      "word": "bridge",
+      "sourceSHA256": "e35123a39c0d1c3bc8aee999bf358db6e147bede07772e14420a3b2910c6827f",
+      "status": "candidate",
+      "motionContentSHA256": "4cf83c30fa873874896281e3a30daa5a6b6cd7cc3133660004546d4bf35ce72c"
+    },
+    {
+      "id": "3dlex-city",
+      "conceptId": "asl.city.urban-place",
+      "word": "city",
+      "sourceSHA256": "3f3c06e0dd6bd23fa985b28cbdcb688315f2b7cd7379053e8aa8495760665b65",
+      "status": "candidate",
+      "motionContentSHA256": "339018889b14fe09d66c9cabb6e1bb27ac2af0a138613f959c16b9af914ba102"
+    },
+    {
+      "id": "3dlex-road",
+      "conceptId": "asl.road.roadway",
+      "word": "road",
+      "sourceSHA256": "bd241c4eeade4201fe9c08d653423c8023dd581211673759dd7369441db1acf8",
+      "status": "candidate",
+      "motionContentSHA256": "50b00fefed4db1a4fe096c25def98e6365037a6f9db42414b292631f6c8061a5"
+    },
+    {
+      "id": "3dlex-travel",
+      "conceptId": "asl.travel.travel-action",
+      "word": "travel",
+      "sourceSHA256": "73823dd3165d278f72d1d28f2a22a649bc5e20d405c2e1d358f17635ccb415e4",
+      "status": "rejected",
+      "reason": "No animation tracks; a static avatar is not a sign."
+    },
+    {
+      "id": "3dlex-vacation",
+      "conceptId": "asl.vacation.holiday-break",
+      "word": "vacation",
+      "sourceSHA256": "370939f253be45c49094dcfc715cdf9a6f9d2200206db1f21a0a1a915e544344",
+      "status": "candidate",
+      "motionContentSHA256": "abfa41804a14170fdef2cdd9c641f150700e611bb34bfaa811350719d2756b72"
+    },
+    {
+      "id": "3dlex-ticket",
+      "conceptId": "asl.ticket.admission-pass",
+      "word": "ticket",
+      "sourceSHA256": "74fed3bd2c8ba7f4aba76c2a594eb2558f9886514d25415ec7fde9efd4013a5a",
+      "status": "candidate",
+      "motionContentSHA256": "c7682bf56e316c4c7aab6b76dd7f607aeb59d2787c564367f56946ae87170563"
+    },
+    {
+      "id": "3dlex-bottle",
+      "conceptId": "asl.bottle.container",
+      "word": "bottle",
+      "sourceSHA256": "8cf4c3c25461b4a43e957111d84d083d58c8d44fdaccfbf6952b2fe8a8c1402d",
+      "status": "candidate",
+      "motionContentSHA256": "6616e58680a78ab07d2e138217ba9520e34bb6595c5362d59014ced9243141bb"
+    },
+    {
+      "id": "3dlex-bowl",
+      "conceptId": "asl.bowl.food-container",
+      "word": "bowl",
+      "sourceSHA256": "59375bbe6e9061d7c3d52abcfb9c6e32731706b7d5804c64dacc98ef8d6fe464",
+      "status": "candidate",
+      "motionContentSHA256": "ce9aba7c654b1701c3898a64192e0139ce628542ea88b6e20304884c4dc8ee52"
+    },
+    {
+      "id": "3dlex-butter",
+      "conceptId": "asl.butter.dairy-spread",
+      "word": "butter",
+      "sourceSHA256": "ea9d4c6dd70fef93e014bcfb3f9c933fec4cacf03eb90c428c916774c9553724",
+      "status": "rejected",
+      "reason": "No animation tracks; a static avatar is not a sign."
+    },
+    {
+      "id": "3dlex-cup",
+      "conceptId": "asl.cup.drinking-vessel",
+      "word": "cup",
+      "sourceSHA256": "b5b9d7cf0661cc87e4e58aa8dee242ba197b3fbc918055a24294bcbaa7061283",
+      "status": "candidate",
+      "motionContentSHA256": "ab2b2571d1286b345087fd715ab87d0689b9394f7155c2f8484b9e1a4a2d8d83"
+    },
+    {
+      "id": "3dlex-grapes",
+      "conceptId": "asl.grapes.fruit",
+      "word": "grapes",
+      "sourceSHA256": "897e1dcb2eef839777dbc214f7f1f8fd46465c2cd6e87dd3ff59878ae74434fa",
+      "status": "candidate",
+      "motionContentSHA256": "ea334f38346222f9071ae39014d4c16d2cc8cd68d96642cf612a4acc89f8ab20"
+    },
+    {
+      "id": "3dlex-lemon",
+      "conceptId": "asl.lemon.citrus-fruit",
+      "word": "lemon",
+      "sourceSHA256": "ea9d4c6dd70fef93e014bcfb3f9c933fec4cacf03eb90c428c916774c9553724",
+      "status": "rejected",
+      "reason": "No animation tracks; a static avatar is not a sign."
+    },
+    {
+      "id": "3dlex-plate",
+      "conceptId": "asl.plate.dish",
+      "word": "plate",
+      "sourceSHA256": "46e42a3b64e7e6fa5b4788c43f65031876d41371770758837dadb7af7c70d0de",
+      "status": "candidate",
+      "motionContentSHA256": "1a66d434e440fd71f6d5a1dde5bd80c314c1841a0a84b2a276c306a68b8eaca4"
+    },
+    {
+      "id": "3dlex-salad",
+      "conceptId": "asl.salad.prepared-food",
+      "word": "salad",
+      "sourceSHA256": "988a4a1d5af264514021cef7eb0178a1c748f26e7bb3ed349e756cb0c810a36d",
+      "status": "candidate",
+      "motionContentSHA256": "ce19723c3cd41ad125f2162b7b8ce415d3745b8b50093847ed9413f7b4f5a888"
+    },
+    {
+      "id": "3dlex-soda",
+      "conceptId": "asl.soda.soft-drink",
+      "word": "soda",
+      "sourceSHA256": "892fc9f38ea534093eabde3125a0bfd50e01f2c9cdce89ba5b460a504b1dc55f",
+      "status": "candidate",
+      "motionContentSHA256": "2d9813e98fde63bb6a7bd42d96d3b76a27980c0539c8a08b30a762f43fad8149"
+    },
+    {
+      "id": "3dlex-spoon",
+      "conceptId": "asl.spoon.eating-utensil",
+      "word": "spoon",
+      "sourceSHA256": "0c079f73a52ef3cd8056335672673d38f38344c33ec7f8c92200a9235068b6b5",
+      "status": "candidate",
+      "motionContentSHA256": "e4551242a7b760a127dbebb91e8362e6833e8951935b949dabd9d701cbd0c0be"
+    },
+    {
+      "id": "3dlex-waiter",
+      "conceptId": "asl.waiter.restaurant-worker",
+      "word": "waiter",
+      "sourceSHA256": "6a65b93f6ff37a5acb9cbaa3d90df62a131bcb77c98201a44ac54d1cf65a22af",
+      "status": "candidate",
+      "motionContentSHA256": "bfd3111b50fa13b35707fac2b7ac9b542a2fbb5548d46b6cd6c735446941fae6"
+    },
+    {
+      "id": "3dlex-meeting",
+      "conceptId": "asl.meeting.gathering",
+      "word": "meeting",
+      "sourceSHA256": "dfed70a46f42b4ce00f5c1d7247c20808f11ef6924c8969200c1ff12f8d42ed0",
+      "status": "candidate",
+      "motionContentSHA256": "659e6ad619e64dbd4f9f8e9a29850beca2a29e648f3d1869595739c4e59c8d0f"
+    },
+    {
+      "id": "3dlex-college",
+      "conceptId": "asl.college.educational-institution",
+      "word": "college",
+      "sourceSHA256": "77121ec8afe757f6e258c8e01a58cec928a78146daf53ad8c595108beb3209db",
+      "status": "candidate",
+      "motionContentSHA256": "37124bc825a16ce7f491ee556983a8ad9bd732073364c511e03792e64ab4154f"
+    },
+    {
+      "id": "3dlex-laptop",
+      "conceptId": "asl.laptop.portable-computer",
+      "word": "laptop",
+      "sourceSHA256": "a6099fe4171614093e191ffc4d94b4b46c846d4e50004210f3f6e7e4f274903d",
+      "status": "candidate",
+      "motionContentSHA256": "3117ec62c33f073538810b0deaabe8990282d90ad88c3e177fb9f2d9609123a2"
+    },
+    {
+      "id": "3dlex-newspaper",
+      "conceptId": "asl.newspaper.news-publication",
+      "word": "newspaper",
+      "sourceSHA256": "4e086298b140a057bc613e9363ce7a7dcf962a4f054783e3109a30092a0db6bf",
+      "status": "candidate",
+      "motionContentSHA256": "ed4790d4f100ec43c58d03c9544172da5b2f728b308e1b7cb0ddb3794e1a48d6"
+    },
+    {
+      "id": "3dlex-picture",
+      "conceptId": "asl.picture.image",
+      "word": "picture",
+      "sourceSHA256": "3b02a3603099ad01bce6da9bc75ccba653a27a34ea2323f277d0bb6d3659ad10",
+      "status": "candidate",
+      "motionContentSHA256": "6a961faa4ad8134f81d1a6f14ffc2dd8f91a18f5fba4a174fbd1b900f1338ecf"
+    },
+    {
+      "id": "3dlex-science",
+      "conceptId": "asl.science.scientific-study",
+      "word": "science",
+      "sourceSHA256": "3a9d446de14980439a15000289dffc4a69c1f1a77be8b936582432eda1ddd539",
+      "status": "candidate",
+      "motionContentSHA256": "bb56c95a66ee98207a7921939f68e6073759ae84a4c8202f24be77c6f6e6f6d5"
+    },
+    {
+      "id": "3dlex-study",
+      "conceptId": "asl.study.study-action",
+      "word": "study",
+      "sourceSHA256": "58877a7310e28c447899ac6c5e5847d80ac5c67b2f6895eaa8aaf649e3bba925",
+      "status": "candidate",
+      "motionContentSHA256": "ec68672e03e060cd13679113d8c869cfc1b51d2b160beab98f4c609bae372595"
+    },
+    {
+      "id": "3dlex-university",
+      "conceptId": "asl.university.educational-institution",
+      "word": "university",
+      "sourceSHA256": "923d87e60fdf8c303e9fed5427b1a9f913df679eaaf605b8ed8cdabb5cdb1515",
+      "status": "candidate",
+      "motionContentSHA256": "7ed99cc4a13d87511453e123da0a93c97e081340ce97bd21f7e2eb6874bbd748"
+    },
+    {
+      "id": "3dlex-email",
+      "conceptId": "asl.email.electronic-message",
+      "word": "email",
+      "sourceSHA256": "d04cfa3eb2aa9215d6cc40285839fab5262299fb5031cff30bda5c764922247e",
+      "status": "candidate",
+      "motionContentSHA256": "417a5a0be9edf95fbd6ea7d1dbfda2c5486f48839a96cba77fffe652ca474580"
+    },
+    {
+      "id": "3dlex-internet",
+      "conceptId": "asl.internet.computer-network",
+      "word": "internet",
+      "sourceSHA256": "247eff3c45876f6c76a15feadf901d9afe29cc5c3e5a43c1c75076be12a8ac56",
+      "status": "candidate",
+      "motionContentSHA256": "018a7b5dfe6659beaab19a5ed5bdfd9f80367b669343d6af095147e51069aa6b"
+    },
+    {
+      "id": "3dlex-send",
+      "conceptId": "asl.send.send-action",
+      "word": "send",
+      "sourceSHA256": "b30f515eca676029163d3d42266846fdeae0265c3158c74d847bc63c71cd1566",
+      "status": "candidate",
+      "motionContentSHA256": "377390681f9cebafd28f1c53cd4c3b51097fe7a2bfd21c3b62034cbed2b2db20"
+    },
+    {
+      "id": "3dlex-share",
+      "conceptId": "asl.share.sharing-action",
+      "word": "share",
+      "sourceSHA256": "e5c3cc423dc4cdcd3a503d1f8fd602d9e2e759bccc30760cf7e1c391e9e3b7c5",
+      "status": "candidate",
+      "motionContentSHA256": "a1a775f413d18e52397396e131de2aed95da3793ed8f75de850acad553fd53e5"
+    },
+    {
+      "id": "3dlex-telephone",
+      "conceptId": "asl.telephone.telephone-device",
+      "word": "telephone",
+      "sourceSHA256": "c9ca1acb571e438429f8dbbba675c663c7d3ab473cd38feff26bdb372f2f5769",
+      "status": "candidate",
+      "motionContentSHA256": "eede6a3ebcadd7ae2fe8c6f6ff32c2cae39f5e94b23a5f1c1a3c12180eca4c67"
+    },
+    {
+      "id": "3dlex-together",
+      "conceptId": "asl.together.jointly",
+      "word": "together",
+      "sourceSHA256": "ea9d4c6dd70fef93e014bcfb3f9c933fec4cacf03eb90c428c916774c9553724",
+      "status": "rejected",
+      "reason": "No animation tracks; a static avatar is not a sign."
+    },
+    {
+      "id": "3dlex-blanket",
+      "conceptId": "asl.blanket.bed-cover",
+      "word": "blanket",
+      "sourceSHA256": "bf33eb61fd95606ab52a8dddc53852be0001d3222e7a853c946ee260757e4a84",
+      "status": "candidate",
+      "motionContentSHA256": "64ed2c94e950cad1f82d921f879f17bc1afb0aa15fd14e24c650162a42206b8c"
+    },
+    {
+      "id": "3dlex-box",
+      "conceptId": "asl.box.container",
+      "word": "box",
+      "sourceSHA256": "ea9d4c6dd70fef93e014bcfb3f9c933fec4cacf03eb90c428c916774c9553724",
+      "status": "rejected",
+      "reason": "No animation tracks; a static avatar is not a sign."
+    },
+    {
+      "id": "3dlex-glasses",
+      "conceptId": "asl.glasses.eyeglasses",
+      "word": "glasses",
+      "sourceSHA256": "73823dd3165d278f72d1d28f2a22a649bc5e20d405c2e1d358f17635ccb415e4",
+      "status": "rejected",
+      "reason": "No animation tracks; a static avatar is not a sign."
+    },
+    {
+      "id": "3dlex-hat",
+      "conceptId": "asl.hat.headwear",
+      "word": "hat",
+      "sourceSHA256": "6ce4112cd106641351965128e2bb4cd51b5968f0b928d6760215b9ea64d67077",
+      "status": "candidate",
+      "motionContentSHA256": "9f71ebe67b314f29348e920577f717b0cd74f26f7371096733562e6272b2a846"
+    },
+    {
+      "id": "3dlex-house",
+      "conceptId": "asl.house.dwelling",
+      "word": "house",
+      "sourceSHA256": "9b1965d9ac34592bf8f2ca3f905eda1670256d2ebaa8afa4c081fd15e18c79d6",
+      "status": "candidate",
+      "motionContentSHA256": "6da39f09f0db05d71faf64d02ef18411495794d2f8c772131d5bd03da4110a32"
+    },
+    {
+      "id": "3dlex-jacket",
+      "conceptId": "asl.jacket.outerwear",
+      "word": "jacket",
+      "sourceSHA256": "63e79496742852105d62ec4c0ceab84e00f774d3da71594099dd515ecfa4d09e",
+      "status": "candidate",
+      "motionContentSHA256": "94167aa5b262294d63bb578a6fc4ebd6e74768410a53187ec07537b8997dc353"
+    },
+    {
+      "id": "3dlex-key",
+      "conceptId": "asl.key.lock-key",
+      "word": "key",
+      "sourceSHA256": "9602e1bf61d1e3993f42677db337918f6f373a0b3f9d2ef49833174b0c452616",
+      "status": "candidate",
+      "motionContentSHA256": "094665fdfe8ac3c7b70824da48e07d979146309d0b9a9bf261524d45fc5d4f1d"
+    },
+    {
+      "id": "3dlex-lamp",
+      "conceptId": "asl.lamp.lighting-device",
+      "word": "lamp",
+      "sourceSHA256": "fe5fe7bb3d343397bc8b8b7492e68247d43ab5bdf56701c758ff6795517bbd0a",
+      "status": "candidate",
+      "motionContentSHA256": "e93a109346a14635fb2ddb7eb35532a4ab738c0fc8d7d7b2524469cbfccf6556"
+    },
+    {
+      "id": "3dlex-napkin",
+      "conceptId": "asl.napkin.table-cloth",
+      "word": "napkin",
+      "sourceSHA256": "a0e66fff645687846b03c358be2d241bd7cad55df0b959956729fbb2ee90154a",
+      "status": "candidate",
+      "motionContentSHA256": "92b976b095689f1bfe87f090387e67f7c0bcbca0f037dbed13b8bc5f088ea54f"
+    },
+    {
+      "id": "3dlex-socks",
+      "conceptId": "asl.socks.footwear",
+      "word": "socks",
+      "sourceSHA256": "3f04859ecf20f90321fd062f66fe1e020fb207e1223156955908909df1ae40bd",
+      "status": "rejected",
+      "reason": "No animation tracks; a static avatar is not a sign."
+    },
+    {
+      "id": "3dlex-sofa",
+      "conceptId": "asl.sofa.seating-furniture",
+      "word": "sofa",
+      "sourceSHA256": "a3ced4eb040003f856108a4de221ebb304c694fac2132d27839d63084b4664f1",
+      "status": "candidate",
+      "motionContentSHA256": "f870ead6c0fe7746242edd8b58da04c458fa6840206b6a4e9bcc8b6ac50fe3c5"
+    },
+    {
+      "id": "3dlex-stairs",
+      "conceptId": "asl.stairs.steps-structure",
+      "word": "stairs",
+      "sourceSHA256": "9c2cdf35d233de74a688c4a4be8df122fcf0025575371e76dd3ec93ebbb9d3f3",
+      "status": "candidate",
+      "motionContentSHA256": "6409ddcc55741f8e31046cc1f32b0cb15409f0e68f5fac625d7e21f15beb9b91"
+    },
+    {
+      "id": "3dlex-animal",
+      "conceptId": "asl.animal.nonhuman-animal",
+      "word": "animal",
+      "sourceSHA256": "ea9d4c6dd70fef93e014bcfb3f9c933fec4cacf03eb90c428c916774c9553724",
+      "status": "rejected",
+      "reason": "No animation tracks; a static avatar is not a sign."
+    },
+    {
+      "id": "3dlex-cat",
+      "conceptId": "asl.cat.domestic-animal",
+      "word": "cat",
+      "sourceSHA256": "1061be134044ea7090a8109f0b2d0bd0ec4e56f93bd78750f317f15f910a30cc",
+      "status": "candidate",
+      "motionContentSHA256": "fc53eb519292392e87225d9f4bc3b57ff9265a55a42a628be2b6fdcedee0c4ed"
+    },
+    {
+      "id": "3dlex-dog",
+      "conceptId": "asl.dog.domestic-animal",
+      "word": "dog",
+      "sourceSHA256": "39e5714081db5d1cd1f7ef6ca9dd80d94487680bb0217d4429af40fadef2332c",
+      "status": "candidate",
+      "motionContentSHA256": "9b454285a02965d57c010bd65a6712ef4d1213ea373be922805ebb6c14a82f9f"
+    },
+    {
+      "id": "3dlex-duck",
+      "conceptId": "asl.duck.waterbird",
+      "word": "duck",
+      "sourceSHA256": "846d43faa5a80b615d645b4340569f5f6dd5da92b76109b0522d3e7e2e409c8b",
+      "status": "candidate",
+      "motionContentSHA256": "500dfdcebb2f8c05b87500c184f7dec7ea5bbdf41311d389f634e66fa194ef63"
+    },
+    {
+      "id": "3dlex-flower",
+      "conceptId": "asl.flower.plant-blossom",
+      "word": "flower",
+      "sourceSHA256": "655f270b7c5f8db259e8e15c3670417d1ca923a435dcf00b393a28755df71549",
+      "status": "candidate",
+      "motionContentSHA256": "db60cce8888ff591377f2deec24773734de04196fe6353aa0c98988221ebdb27"
+    },
+    {
+      "id": "3dlex-forest",
+      "conceptId": "asl.forest.woodland",
+      "word": "forest",
+      "sourceSHA256": "b3c497efc090028c0ce1a4ab473296dca72421058f78eef7368a660bcfeed24b",
+      "status": "candidate",
+      "motionContentSHA256": "c6e7ec69d8f7938f5e9c1236d8ad9532bfb899e0f1011cf540a61cffca384be0"
+    },
+    {
+      "id": "3dlex-horse",
+      "conceptId": "asl.horse.animal",
+      "word": "horse",
+      "sourceSHA256": "8d1be442937f17c8addaed15f60142e8af25fa4989df02d89099588810af18d8",
+      "status": "candidate",
+      "motionContentSHA256": "2d2e3cce8bec4d1be5f8e24729aaf33bc9743419a5483456a067344ced18398c"
+    },
+    {
+      "id": "3dlex-rabbit",
+      "conceptId": "asl.rabbit.animal",
+      "word": "rabbit",
+      "sourceSHA256": "e27ae07005a563a0c09cc1169b36efeee056c2f68f228c71c1e2ebf209100fc2",
+      "status": "candidate",
+      "motionContentSHA256": "e1b4ea155ac5d405665e6591a4e7fcd01311185fdf29253c97d2962d9bf80ce7"
+    },
+    {
+      "id": "3dlex-rain",
+      "conceptId": "asl.rain.precipitation",
+      "word": "rain",
+      "sourceSHA256": "73823dd3165d278f72d1d28f2a22a649bc5e20d405c2e1d358f17635ccb415e4",
+      "status": "rejected",
+      "reason": "No animation tracks; a static avatar is not a sign."
+    },
+    {
+      "id": "3dlex-river",
+      "conceptId": "asl.river.watercourse",
+      "word": "river",
+      "sourceSHA256": "73823dd3165d278f72d1d28f2a22a649bc5e20d405c2e1d358f17635ccb415e4",
+      "status": "rejected",
+      "reason": "No animation tracks; a static avatar is not a sign."
+    },
+    {
+      "id": "3dlex-star",
+      "conceptId": "asl.star.celestial-body",
+      "word": "star",
+      "sourceSHA256": "a8fc22b9bd92f4e41ce6d8d04f171f0e71cef792c2b2d9a5de2c8f7b1df4e6a9",
+      "status": "candidate",
+      "motionContentSHA256": "555aecf87059df1b24be4bb7ae85d3e6e7fe848c82e7c1c8a593e57c4a5c5c66"
+    },
+    {
+      "id": "3dlex-sun",
+      "conceptId": "asl.sun.celestial-body",
+      "word": "sun",
+      "sourceSHA256": "73823dd3165d278f72d1d28f2a22a649bc5e20d405c2e1d358f17635ccb415e4",
+      "status": "rejected",
+      "reason": "No animation tracks; a static avatar is not a sign."
+    },
+    {
+      "id": "3dlex-tree",
+      "conceptId": "asl.tree.woody-plant",
+      "word": "tree",
+      "sourceSHA256": "446f5e78d56cd84b8cdda3f54f988f52912148cbb05236995e1a46f87ba7b4c8",
+      "status": "candidate",
+      "motionContentSHA256": "6ccb8bddca4b6c8d6d896bb99c6c29efdc45a906478a9fd90a85a7848ebc78f5"
+    },
+    {
+      "id": "3dlex-weather",
+      "conceptId": "asl.weather.atmospheric-conditions",
+      "word": "weather",
+      "sourceSHA256": "13741f0cfe2db491238aaadfdcc320530d290d48b2dc107e17db1bfbc6e78b40",
+      "status": "candidate",
+      "motionContentSHA256": "8cd95870c7723aa084063bb9402a71783bc7fe092a946bfa3709f9d199d27c3a"
+    },
+    {
+      "id": "3dlex-blue",
+      "conceptId": "asl.blue.colour",
+      "word": "blue",
+      "sourceSHA256": "ea9d4c6dd70fef93e014bcfb3f9c933fec4cacf03eb90c428c916774c9553724",
+      "status": "rejected",
+      "reason": "No animation tracks; a static avatar is not a sign."
+    },
+    {
+      "id": "3dlex-green",
+      "conceptId": "asl.green.colour",
+      "word": "green",
+      "sourceSHA256": "d01d3d48b16a14c615083626514a58c3a8b1aa4cad0fc720f8baadf13e43ab9d",
+      "status": "candidate",
+      "motionContentSHA256": "fa52b54e3ae0762ab736be6e479366aac6c48973247df836414b2bf0ce68b8fd"
+    },
+    {
+      "id": "3dlex-pink",
+      "conceptId": "asl.pink.colour",
+      "word": "pink",
+      "sourceSHA256": "c2585dfb7b20092758a26972611ccfbdd6d8fc90d0baed1c88545e0dc66ccf2f",
+      "status": "candidate",
+      "motionContentSHA256": "03ec4d3f95eb66e80c5079028e5147969b8f9ba77e2d0eaf139ba3f2f12212fb"
+    },
+    {
+      "id": "3dlex-purple",
+      "conceptId": "asl.purple.colour",
+      "word": "purple",
+      "sourceSHA256": "2ba052d43578a643827fc6d957b874dcde98857218fdae5f24f583029cda388f",
+      "status": "candidate",
+      "motionContentSHA256": "eb78f43f2227ddde05b536c6105458198e8b43b3bb4039145257b170bf0f93fb"
+    },
+    {
+      "id": "3dlex-red",
+      "conceptId": "asl.red.colour",
+      "word": "red",
+      "sourceSHA256": "2199be3ffc5b6a98576edeb3a5c354c833ba1443dcbb871ec6d7a0dd6fa5cdb1",
+      "status": "candidate",
+      "motionContentSHA256": "64be55eed682b68d484bd889fab9c0dcf9fc5d1b1168cf34b72aa38ec9546bab"
+    },
+    {
+      "id": "3dlex-white",
+      "conceptId": "asl.white.colour",
+      "word": "white",
+      "sourceSHA256": "73823dd3165d278f72d1d28f2a22a649bc5e20d405c2e1d358f17635ccb415e4",
+      "status": "rejected",
+      "reason": "No animation tracks; a static avatar is not a sign."
+    },
+    {
+      "id": "3dlex-yellow",
+      "conceptId": "asl.yellow.colour",
+      "word": "yellow",
+      "sourceSHA256": "b5ad89fba9391c1fbecfcda39f4f60ec3d29282db1d15175d7269081e21803c3",
+      "status": "candidate",
+      "motionContentSHA256": "fdc92fb790783a9c03aa9697aaaa63bc1f22d8367aca729010584ce663fb3f2e"
+    },
+    {
+      "id": "3dlex-birthday",
+      "conceptId": "asl.birthday.birth-anniversary",
+      "word": "birthday",
+      "sourceSHA256": "ea9d4c6dd70fef93e014bcfb3f9c933fec4cacf03eb90c428c916774c9553724",
+      "status": "rejected",
+      "reason": "No animation tracks; a static avatar is not a sign."
+    },
+    {
+      "id": "3dlex-summer",
+      "conceptId": "asl.summer.season",
+      "word": "summer",
+      "sourceSHA256": "f95d39776577c18381bebc2ce1536b0fd1fcbbf381ada5e1e353ea4169a36f7b",
+      "status": "candidate",
+      "motionContentSHA256": "78bb82c62f319dbcd59191a1723b78aaa7e188e46078b0e37a80492bceac9996"
+    }
+  ],
+  "counts": {
+    "candidate": 54,
+    "conflicting": 0,
+    "rejected": 15
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-18",
+  "checks": [
+    {
+      "name": "sapa-readme",
+      "url": "https://raw.githubusercontent.com/OlineRanum/SAPA/main/README.md",
+      "status": 200,
+      "sha256": "cf48c0113c55f80f9305d33fb641871c601c09d01162d3dda30a61f50a907d6c",
+      "bytes": 4942
+    },
+    {
+      "name": "sapa-commit",
+      "url": "https://api.github.com/repos/OlineRanum/SAPA/commits/main",
+      "status": 200,
+      "sha256": "a27c96094219aab5ab97e02ebd00412509bbbdaeb97882f9f9467690d2b307b7",
+      "bytes": 2473
+    },
+    {
+      "name": "osf-asl-license",
+      "url": "https://api.osf.io/v2/licenses/563c1cf88c5e4a3877f9e96a/",
+      "status": 200,
+      "sha256": "32fb3d7b32be0843803f96424fe7739f69574481211a2d323e16f8da8536c635",
+      "bytes": 13121
+    },
+    {
+      "name": "osf-asl-node",
+      "url": "https://api.osf.io/v2/nodes/mqzyk/",
+      "status": 200,
+      "sha256": "e2917576c4d16e608d557e4887d9fa959d8c731bab374bb19c0c327fe3f80247",
+      "bytes": 4518
+    },
+    {
+      "name": "harshbg",
+      "url": "https://api.github.com/repos/harshbg/Sign-Language-Interpreter-using-Deep-Learning/commits/master",
+      "status": 200,
+      "sha256": "df76582b7fe442abdd39f42f0a5e4f9131599993d054f82de7a7dbde1db9e431",
+      "bytes": 5830
+    },
+    {
+      "name": "evilport",
+      "url": "https://api.github.com/repos/EvilPort2/Sign-Language/commits/master",
+      "status": 200,
+      "sha256": "6c49afa25b378daa573d626c807a3fb042fbca5dbb73028ee95cf637f49afd89",
+      "bytes": 5733
+    },
+    {
+      "name": "asl-citizen-readme",
+      "url": "https://raw.githubusercontent.com/microsoft/ASL-citizen-code/main/README.md",
+      "status": 200,
+      "sha256": "02dcfdb29b7e54f2421cdb9306f57c001e2934099eb30228a71b6c296929020d",
+      "bytes": 566
+    },
+    {
+      "name": "asl-citizen-code-license",
+      "url": "https://raw.githubusercontent.com/microsoft/ASL-citizen-code/main/LICENSE",
+      "status": 200,
+      "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+      "bytes": 1141
+    },
+    {
+      "name": "openasl-license",
+      "url": "https://raw.githubusercontent.com/chevalierNoir/OpenASL/main/LICENSE",
+      "status": 404,
+      "sha256": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed",
+      "bytes": 14
+    },
+    {
+      "name": "skeleton3d-readme",
+      "url": "https://raw.githubusercontent.com/amorim-cleison/asl-datasets-gen/main/README.md",
+      "status": 200,
+      "sha256": "676f7299b9bcd9cb6e31a4f4591c2b034ad31f1f2c3c9045b12894c5d103984a",
+      "bytes": 6478
+    },
+    {
+      "name": "skeleton3d-code-license",
+      "url": "https://raw.githubusercontent.com/amorim-cleison/asl-datasets-gen/main/LICENSE",
+      "status": 200,
+      "sha256": "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809",
+      "bytes": 35823
+    },
+    {
+      "name": "mediapipe-code-license",
+      "url": "https://raw.githubusercontent.com/google-ai-edge/mediapipe/master/LICENSE",
+      "status": 200,
+      "sha256": "8707eef0533987efc5b155d64761eeb6e20793f50b9bd1a68dad1cf4719d0ed8",
+      "bytes": 12331
+    }
+  ],
+  "pinnedRevisions": {
+    "sapa-commit": "0f636e119bccde2c035422f50820e3f8b94a5fb8",
+    "harshbg": "6f594c03aa60c324e11cea03e2a17cb0d1677bff",
+    "evilport": "df1d62444340f70da6847601f30919ebdc914e73"
+  },
+  "notice": "Metadata/code-license reads are not dataset, avatar or weight permission grants. See accompanying narrative audit."
+}

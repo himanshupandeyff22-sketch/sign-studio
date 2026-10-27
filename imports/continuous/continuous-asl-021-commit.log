@@ -1,0 +1,82 @@
+{
+  "report": "imports\\continuous\\continuous-asl-021-commit.json",
+  "dryRun": false,
+  "counts": {
+    "added": 40,
+    "merged": 0,
+    "skipped": 0,
+    "conflicting": 0,
+    "rejected": 0,
+    "pending-review": 0
+  },
+  "conceptChanges": {
+    "added": [],
+    "skipped": [],
+    "conflicting": []
+  },
+  "metadataChanges": {
+    "added": [],
+    "skipped": [],
+    "conflicting": []
+  },
+  "discoveryChanges": {
+    "added": 0,
+    "skipped": 0,
+    "conflicting": []
+  },
+  "pendingReview": [
+    "3dlex-that",
+    "3dlex-thermometer",
+    "3dlex-thin",
+    "3dlex-three",
+    "3dlex-throw",
+    "3dlex-tiger",
+    "3dlex-tissue",
+    "3dlex-tobacco",
+    "3dlex-top",
+    "3dlex-tornado",
+    "3dlex-touch",
+    "3dlex-tournament",
+    "3dlex-towel",
+    "3dlex-traffic",
+    "3dlex-transfer",
+    "3dlex-trouble",
+    "3dlex-truth",
+    "3dlex-turn",
+    "3dlex-turtle",
+    "3dlex-two",
+    "3dlex-ugly",
+    "3dlex-under",
+    "3dlex-unique",
+    "3dlex-up",
+    "3dlex-verb",
+    "3dlex-violin",
+    "3dlex-visualize",
+    "3dlex-voice",
+    "3dlex-volunteer",
+    "3dlex-vote",
+    "3dlex-wall",
+    "3dlex-wander",
+    "3dlex-warn",
+    "3dlex-watch",
+    "3dlex-way",
+    "3dlex-we",
+    "3dlex-weak",
+    "3dlex-wedding",
+    "3dlex-weight",
+    "3dlex-wet"
+  ],
+  "before": {
+    "concepts": 789,
+    "aliases": 1024,
+    "animations": 677,
+    "reviewedEnabledSigns": 0
+  },
+  "after": {
+    "concepts": 789,
+    "aliases": 1024,
+    "animations": 717,
+    "reviewedEnabledSigns": 0
+  }
+}
+

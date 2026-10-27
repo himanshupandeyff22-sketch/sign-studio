@@ -1,0 +1,82 @@
+{
+  "report": "imports\\continuous\\continuous-asl-006-commit.json",
+  "dryRun": false,
+  "counts": {
+    "added": 0,
+    "merged": 0,
+    "skipped": 0,
+    "conflicting": 0,
+    "rejected": 40,
+    "pending-review": 0
+  },
+  "conceptChanges": {
+    "added": [
+      "asl.gay.source-gloss-unverified",
+      "asl.generation.source-gloss-unverified",
+      "asl.get.source-gloss-unverified",
+      "asl.ghost.source-gloss-unverified",
+      "asl.gift.source-gloss-unverified",
+      "asl.gloves.source-gloss-unverified",
+      "asl.goal.source-gloss-unverified",
+      "asl.goat.source-gloss-unverified",
+      "asl.gone.source-gloss-unverified",
+      "asl.gossip.source-gloss-unverified",
+      "asl.government.source-gloss-unverified",
+      "asl.grass.source-gloss-unverified",
+      "asl.gray.source-gloss-unverified",
+      "asl.grow.source-gloss-unverified",
+      "asl.hair.source-gloss-unverified",
+      "asl.haircut.source-gloss-unverified",
+      "asl.hanukkah.source-gloss-unverified",
+      "asl.happen.source-gloss-unverified",
+      "asl.hawaii.source-gloss-unverified",
+      "asl.head.source-gloss-unverified",
+      "asl.heaven.source-gloss-unverified",
+      "asl.heavy.source-gloss-unverified",
+      "asl.helicopter.source-gloss-unverified",
+      "asl.helmet.source-gloss-unverified",
+      "asl.hide.source-gloss-unverified",
+      "asl.history.source-gloss-unverified",
+      "asl.hockey.source-gloss-unverified",
+      "asl.honest.source-gloss-unverified",
+      "asl.honor.source-gloss-unverified",
+      "asl.hope.source-gloss-unverified",
+      "asl.hunt.source-gloss-unverified",
+      "asl.hurricane.source-gloss-unverified",
+      "asl.hurry.source-gloss-unverified",
+      "asl.idea.source-gloss-unverified",
+      "asl.impact.source-gloss-unverified",
+      "asl.impossible.source-gloss-unverified",
+      "asl.improve.source-gloss-unverified",
+      "asl.in.source-gloss-unverified",
+      "asl.innocent.source-gloss-unverified",
+      "asl.insurance.source-gloss-unverified"
+    ],
+    "skipped": [],
+    "conflicting": []
+  },
+  "metadataChanges": {
+    "added": [],
+    "skipped": [],
+    "conflicting": []
+  },
+  "discoveryChanges": {
+    "added": 0,
+    "skipped": 0,
+    "conflicting": []
+  },
+  "pendingReview": [],
+  "before": {
+    "concepts": 497,
+    "aliases": 732,
+    "animations": 397,
+    "reviewedEnabledSigns": 0
+  },
+  "after": {
+    "concepts": 537,
+    "aliases": 772,
+    "animations": 397,
+    "reviewedEnabledSigns": 0
+  }
+}
+

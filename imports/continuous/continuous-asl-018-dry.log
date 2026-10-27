@@ -1,0 +1,82 @@
+{
+  "report": "imports\\continuous\\continuous-asl-018-dry.json",
+  "dryRun": true,
+  "counts": {
+    "added": 40,
+    "merged": 0,
+    "skipped": 0,
+    "conflicting": 0,
+    "rejected": 0,
+    "pending-review": 0
+  },
+  "conceptChanges": {
+    "added": [],
+    "skipped": [],
+    "conflicting": []
+  },
+  "metadataChanges": {
+    "added": [],
+    "skipped": [],
+    "conflicting": []
+  },
+  "discoveryChanges": {
+    "added": 0,
+    "skipped": 0,
+    "conflicting": []
+  },
+  "pendingReview": [
+    "3dlex-perfect",
+    "3dlex-perspective",
+    "3dlex-piano",
+    "3dlex-pie",
+    "3dlex-pig",
+    "3dlex-pity",
+    "3dlex-place",
+    "3dlex-plan",
+    "3dlex-plant",
+    "3dlex-play",
+    "3dlex-plenty",
+    "3dlex-plus",
+    "3dlex-point",
+    "3dlex-poop",
+    "3dlex-popular",
+    "3dlex-postpone",
+    "3dlex-power",
+    "3dlex-precious",
+    "3dlex-president",
+    "3dlex-pretty",
+    "3dlex-price",
+    "3dlex-pride",
+    "3dlex-print",
+    "3dlex-process",
+    "3dlex-promise",
+    "3dlex-promote",
+    "3dlex-proof",
+    "3dlex-pull",
+    "3dlex-punish",
+    "3dlex-push",
+    "3dlex-put",
+    "3dlex-puzzled",
+    "3dlex-queen",
+    "3dlex-quiet",
+    "3dlex-race",
+    "3dlex-rake",
+    "3dlex-really",
+    "3dlex-refuse",
+    "3dlex-relationship",
+    "3dlex-request"
+  ],
+  "before": {
+    "concepts": 789,
+    "aliases": 1024,
+    "animations": 557,
+    "reviewedEnabledSigns": 0
+  },
+  "after": {
+    "concepts": 789,
+    "aliases": 1024,
+    "animations": 597,
+    "reviewedEnabledSigns": 0
+  }
+}
+

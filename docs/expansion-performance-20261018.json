@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-18",
+  "catalogPlainBytes": 6293408,
+  "catalogGzipWireBytes": 772613,
+  "reductionPercent": 87.72345603526738,
+  "decodedBytesIdentical": true,
+  "recordedMotionCount": 207,
+  "cameraObservation": {
+    "runtime": "worker",
+    "inferenceMs": 107.9,
+    "upToRequestsPerSecond": 6.2,
+    "condition": "One browser diagnostic sample on synthetic blank 640x480 capture, resized to 480x360. Not a benchmark or accuracy evaluation."
+  },
+  "libraryRenderedCards": {
+    "previous": 153,
+    "currentInitial": 40,
+    "currentAfterOneMore": 80
+  },
+  "notice": "Wire byte comparison is actual raw HTTP. No inference speedup, FPS gain, accuracy or universal hardware result is claimed."
+}

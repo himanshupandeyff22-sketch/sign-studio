@@ -1,0 +1,61 @@
+{
+  "schema": "quarantined-phrase-sources/1",
+  "source": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/",
+  "license": "CC-BY-NC-SA-4.0",
+  "licenseURL": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "use": "Non-commercial research/prototype only; share-alike applies to adapted data",
+  "runtimeImports": 0,
+  "candidates": [
+    {
+      "templateId": "asl.template.greeting-hello",
+      "conceptId": "asl.greeting.hello",
+      "text": "Hello",
+      "clipId": "clerc_v03_0011",
+      "signLanguage": "ASL",
+      "fps": 30.0,
+      "frames": 137,
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0011.npy",
+      "status": "pending-technical-and-human-review",
+      "sha256": "8f47be08acab436a943bc24b6b10f5cfaa6f1b78d4122c834ca031eacf64edcd",
+      "annotationSHA256": "7a5f45fa9fa129808a1cc62e9973c4a46ee70906fe2f326e94e907b720d028d1",
+      "path": "imports/phrase-candidates/epee-v03/clerc_v03_0011.npy",
+      "format": "MediaPipe 128-point NPY; not compatible with the current GLB motion loader",
+      "technicalStatus": "shape-and-finiteness-only; retargeting pending",
+      "humanReview": null
+    },
+    {
+      "templateId": "asl.template.express-thanks",
+      "conceptId": "asl.gratitude.thanks",
+      "text": "Thank you",
+      "clipId": "clerc_v03_0009",
+      "signLanguage": "ASL",
+      "fps": 30.0,
+      "frames": 118,
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0009.npy",
+      "status": "pending-technical-and-human-review",
+      "sha256": "6aca977f5a7a8e261cb1c33f565c41cbf541dd1ec9fe01d1fe5b3d43e4dff598",
+      "annotationSHA256": "617c652b095eca2ac60313d4100ba0a6864c825bc8ac8298969906331c5d4a18",
+      "path": "imports/phrase-candidates/epee-v03/clerc_v03_0009.npy",
+      "format": "MediaPipe 128-point NPY; not compatible with the current GLB motion loader",
+      "technicalStatus": "shape-and-finiteness-only; retargeting pending",
+      "humanReview": null
+    },
+    {
+      "templateId": "asl.template.greeting-wellbeing",
+      "conceptId": null,
+      "text": "How are you?",
+      "clipId": "clerc_v03_0027",
+      "signLanguage": "ASL",
+      "fps": 30.0,
+      "frames": 112,
+      "sourceURL": "https://huggingface.co/datasets/CLERC-DATA/epee/resolve/93bc8aa0a6526e86af80db5f59af8d133292c9b5/keypoints/clerc_v03_0027.npy",
+      "status": "pending-technical-and-human-review",
+      "sha256": "3dd65866761c5495c664336a51f73770d791bb777f5b2f196d1d31e078f072b2",
+      "annotationSHA256": "ec335ffc2f79ae2f4d562665faa6eff8cda372f07d42db3f80c752ac2b6fa449",
+      "path": "imports/phrase-candidates/epee-v03/clerc_v03_0027.npy",
+      "format": "MediaPipe 128-point NPY; not compatible with the current GLB motion loader",
+      "technicalStatus": "shape-and-finiteness-only; retargeting pending",
+      "humanReview": null
+    }
+  ]
+}

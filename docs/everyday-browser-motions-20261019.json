@@ -1,0 +1,155 @@
+{
+  "method": "Each new preview started from Explore ASL, paused and sought to its midpoint using visible controls. Screenshots inspected for face/both hands and gross deformation. This is technical visual observation, not ASL approval or exhaustive per-frame mesh/contact inspection.",
+  "items": [
+    {
+      "word": "introduce",
+      "frame": 1.2916666269302368,
+      "status": "Paused"
+    },
+    {
+      "word": "my",
+      "frame": 1.8541666269302368,
+      "status": "Paused"
+    },
+    {
+      "word": "your",
+      "frame": 1.2916666269302368,
+      "status": "Paused"
+    },
+    {
+      "word": "meet",
+      "frame": 1.5625,
+      "status": "Paused"
+    },
+    {
+      "word": "age",
+      "frame": 1.9166666269302368,
+      "status": "Paused"
+    },
+    {
+      "word": "can",
+      "frame": 1.3333333730697632,
+      "status": "Paused"
+    },
+    {
+      "word": "enough",
+      "frame": 1.5208333730697632,
+      "status": "Paused"
+    },
+    {
+      "word": "boss",
+      "frame": 1.9583333730697632,
+      "status": "Paused"
+    },
+    {
+      "word": "counselor",
+      "frame": 1.6458333730697632,
+      "status": "Paused"
+    },
+    {
+      "word": "chocolate",
+      "frame": 1.8958333730697632,
+      "status": "Paused"
+    },
+    {
+      "word": "pepper",
+      "frame": 1.9583333730697632,
+      "status": "Paused"
+    },
+    {
+      "word": "toast",
+      "frame": 1.4166666269302368,
+      "status": "Paused"
+    },
+    {
+      "word": "now",
+      "frame": 1.625,
+      "status": "Paused"
+    },
+    {
+      "word": "first",
+      "frame": 2.6666667461395264,
+      "status": "Paused"
+    },
+    {
+      "word": "next",
+      "frame": 1.8958333730697632,
+      "status": "Paused"
+    },
+    {
+      "word": "future",
+      "frame": 1.4166666269302368,
+      "status": "Paused"
+    },
+    {
+      "word": "here",
+      "frame": 1.625,
+      "status": "Paused"
+    },
+    {
+      "word": "office",
+      "frame": 1.5208333730697632,
+      "status": "Paused"
+    },
+    {
+      "word": "room",
+      "frame": 1.5416666269302368,
+      "status": "Paused"
+    },
+    {
+      "word": "inside",
+      "frame": 1.8958333730697632,
+      "status": "Paused"
+    },
+    {
+      "word": "near",
+      "frame": 1.5833333730697632,
+      "status": "Paused"
+    },
+    {
+      "word": "far",
+      "frame": 1.6666666269302368,
+      "status": "Paused"
+    },
+    {
+      "word": "down",
+      "frame": 1.0625,
+      "status": "Paused"
+    },
+    {
+      "word": "open",
+      "frame": 1.6041666269302368,
+      "status": "Paused"
+    },
+    {
+      "word": "give",
+      "frame": 1.5625,
+      "status": "Paused"
+    },
+    {
+      "word": "take",
+      "frame": 1.4375,
+      "status": "Paused"
+    },
+    {
+      "word": "use",
+      "frame": 1.8541666269302368,
+      "status": "Paused"
+    },
+    {
+      "word": "enter",
+      "frame": 2.125,
+      "status": "Paused"
+    },
+    {
+      "word": "leave",
+      "frame": 1.25,
+      "status": "Paused"
+    },
+    {
+      "word": "start",
+      "frame": 2.4166667461395264,
+      "status": "Paused"
+    }
+  ]
+}

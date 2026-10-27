@@ -1,0 +1,13 @@
+{
+  "checkedOn": "2026-10-12",
+  "note": "Final filename/provenance guard and UI corrections supplement the immutable review snapshot; avatar, retargeter, manifest and asset bytes are unchanged.",
+  "hashes": {
+    "web/vocabulary-manifest.json": "4192ea8be3488ead23ac0f1205e347bab14a8629e6663956dd36beebc48692cf",
+    "web/avatar.js": "65c40afba9ab326ec0c87974c62cec6e0fea3fd078870bd8d83b8a2092876dfa",
+    "web/asl-loader.js": "2218de14322fe6842040647bdc0aec7bbbb79917b0fcef394a36d8295cec12ef",
+    "web/sign-registry.mjs": "6ddaed4bf791d279661dcf2363fe99af8ee8d0a0bf843df92384c36255ddb1b7",
+    "web/app.js": "1f728f734400f23939537dfe8a57233368bd2222ac10aa74f02d3cdfff79fe5b",
+    "backend/interpret.mjs": "5deba232311a30c47495b71d00b59ed44943b3304d3286c4bb13b645fa8a1f6b",
+    "scripts/import-core.mjs": "0f7d552466a1e7a89b83b8c8bb7916e1dac95a31ba1ce8bcd348cc1073455d4a"
+  }
+}

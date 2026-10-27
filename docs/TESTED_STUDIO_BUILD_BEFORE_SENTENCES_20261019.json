@@ -1,0 +1,141 @@
+{
+  "schema": "tested-studio-build/1",
+  "savedAt": "2026-10-19T13:44:54.213674+05:30",
+  "team": "Beyond Words",
+  "avatar": "Aarav",
+  "signLanguage": "ASL",
+  "readyFor": "Local motion inspection and explicit unreviewed research word playback",
+  "linguisticallyValidated": false,
+  "tests": {
+    "functionalPassed": 98,
+    "actualRigAvatarPassed": 4,
+    "total": 102,
+    "static": "68 JS files, 218 unique UI IDs, 729 immutable motions: passed",
+    "browser": "Desktop/mobile, 14 new representative previews, default/consented text, 500 words, repeated submissions, controls, fullscreen geometry, keyboard focus, filters, pagination, model/motion Retry and Reset checked",
+    "launcher": "start-studio.cmd on port 3001: SQLite ready and HTTP health 200; temporary instance stopped",
+    "notVerified": [
+      "physical camera/microphone",
+      "fluent ASL approval",
+      "sustained browser FPS",
+      "human linguistic review of all 729 recordings"
+    ]
+  },
+  "counts": {
+    "expandedResearchTextConcepts": 725,
+    "expandedResearchTextMotions": 726,
+    "registeredFiles": 729,
+    "onDiskFiles": 729,
+    "uniqueRegisteredFiles": 729,
+    "technicallyPlayable": 729,
+    "aaravCompatible": 729,
+    "candidateConcepts": 789,
+    "uniqueMotionConcepts": 728,
+    "inspectionOnlyAssets": 725,
+    "catalogueEntries": 938,
+    "catalogueNotImported": 209,
+    "textMappedConcepts": 4,
+    "textLinkedPreviews": 4,
+    "completeAvatarSentences": 0,
+    "sourceVideoReferences": 8,
+    "browserCheckedSourceVideos": 1,
+    "localSentenceVideos": 0,
+    "approvedSigns": 0
+  },
+  "checkpoint": "C:\\Users\\himan\\OneDrive\\Desktop\\Sing Lang\\.checkpoints\\tested-continuous-expansion-20261019-134454",
+  "report": "docs/CONTINUOUS_EXPANSION_20261019.md",
+  "resume": "node scripts/expand-library.mjs --resume",
+  "files": [
+    {
+      "path": "web/index.html",
+      "sha256": "753f41d76a3957fdd22e49b79989151238414c84f545b67cd239f750f301dfe0"
+    },
+    {
+      "path": "web/app.js",
+      "sha256": "89ecf648948165cdc8829792af2f0401dffec4f46ec251abaee2fcc03c2bdf48"
+    },
+    {
+      "path": "web/avatar.js",
+      "sha256": "6f0679401e6a7157ee64700c29fcf368c34fadffdf931b59f185aebb80079f05"
+    },
+    {
+      "path": "web/asl-loader.js",
+      "sha256": "6dff46dd6b390762c2d05ea5f8dd69723a68b72553a4c866d9d606e04f8554dc"
+    },
+    {
+      "path": "web/vocabulary.mjs",
+      "sha256": "9b72509b8991c0bd248babd25b64b7c9ec4b797351670d907a5ef41555e0d72e"
+    },
+    {
+      "path": "web/sign-registry.mjs",
+      "sha256": "cf35fc76a0b6a445e9510ea90363f07293e10ac77da49f46aaeda7b97b995f3c"
+    },
+    {
+      "path": "web/library-model.mjs",
+      "sha256": "69d4d3dfbee59a37e63e0b4fcadb33f873a5ebf06a4d16704eea8b7f99fa5196"
+    },
+    {
+      "path": "web/final-studio.css",
+      "sha256": "c47097f4dc514add0d1293a59dffff2edbdd10f64cf4522b83d12b8f320f3836"
+    },
+    {
+      "path": "web/vocabulary-manifest.json",
+      "sha256": "cef40810277dd3fc728046368646f69905c7ab12dfb6fcea0ec057ae0c0f90c1"
+    },
+    {
+      "path": "backend/catalog.mjs",
+      "sha256": "a6bf596902b095fcdc4a566e4afd69fc7eb95b21c3a534c9782b38e1a8c3d6f1"
+    },
+    {
+      "path": "backend/readiness.mjs",
+      "sha256": "56ddf82b0743efc9755a64011f066bca2b2b23be7def83a9fa94e66b60518114"
+    },
+    {
+      "path": "backend/interpret.mjs",
+      "sha256": "3b66ba83d1971f0e6378f96316539285ebbe065a44c74d100ced27cc6fb7363c"
+    },
+    {
+      "path": "scripts/expand-library.mjs",
+      "sha256": "18ffe82ed05ab79b8f89eb2908632278787f186857dbe385902e842e61bde648"
+    },
+    {
+      "path": "scripts/import-core.mjs",
+      "sha256": "d85beeb5157d3889aa0f7e55df6457199c64ad429d2f11061459dc02c184a01f"
+    },
+    {
+      "path": "scripts/asl-archive.mjs",
+      "sha256": "2b55a98509d73c8eb5339de43a2cd4df1e0d388f7d7fd3fd15aaafe7dfd5ede7"
+    },
+    {
+      "path": "start-studio.cmd",
+      "sha256": "e6a26e02900d68b9e425ba49a6851742ad53669c779569cdfde74b0340854fa5"
+    },
+    {
+      "path": "docs/STUDIO_ASSET_AUDIT.json",
+      "sha256": "5b136b6eaf2bd4a65f2b22bd464c984e0ddfa8951d68dedd754a3c88f55716db"
+    },
+    {
+      "path": "docs/EXPANDED_RESEARCH_TEXT_AUDIT.json",
+      "sha256": "629cd007be6f84e475038a4cc57402f4ef8cfad9df94732e94ffaeed6bb1e8f2"
+    },
+    {
+      "path": "docs/CONTINUOUS_EXPANSION_RESULTS.json",
+      "sha256": "efecfdf06736e75c4ed17e8ebe6dc7651bab7eb115df4bedf5515bf30c4310a4"
+    },
+    {
+      "path": "docs/CONTINUOUS_EXPANSION_20261019.md",
+      "sha256": "596faf98e43c902b2877f7cb4a7d4ca4e7a94f90caecf980ebaf225291a3038f"
+    },
+    {
+      "path": "docs/continuous-functional-tests-final.log",
+      "sha256": "ff5846aa7f836e485c0d315a16e88934d20250a8e284599677fee2a4b0183700"
+    },
+    {
+      "path": "docs/continuous-avatar-tests.log",
+      "sha256": "d44392bd58759f0652a88cd9ca318e76c9d5f214ad7dfd5620ffbf004bb1737b"
+    },
+    {
+      "path": "docs/continuous-static-check.log",
+      "sha256": "25cc96a17c7ba88af899cb7c7820e3b85a3ff0152cb6b1efaf66154afecb654d"
+    }
+  ]
+}

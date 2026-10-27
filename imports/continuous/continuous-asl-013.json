@@ -1,0 +1,392 @@
+{
+  "schema": "asl-motion-batch/1",
+  "id": "continuous-asl-013",
+  "conceptProposals": [
+    {
+      "id": "asl.whatever.source-gloss-unverified",
+      "signLanguage": "ASL",
+      "sense": "source-gloss-unverified",
+      "label": "Whatever",
+      "definition": "Unverified source gloss “whatever”. Exact sense and ASL variant require review; this is a recording candidate, not an approved English mapping.",
+      "aliases": [
+        "whatever"
+      ],
+      "inflections": [],
+      "exampleContexts": [],
+      "category": "communication",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://osf.io/mqzyk/",
+      "semanticEvidence": "publisher-gloss-only"
+    },
+    {
+      "id": "asl.which.source-gloss-unverified",
+      "signLanguage": "ASL",
+      "sense": "source-gloss-unverified",
+      "label": "Which",
+      "definition": "Unverified source gloss “which”. Exact sense and ASL variant require review; this is a recording candidate, not an approved English mapping.",
+      "aliases": [
+        "which"
+      ],
+      "inflections": [],
+      "exampleContexts": [],
+      "category": "communication",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://osf.io/mqzyk/",
+      "semanticEvidence": "publisher-gloss-only"
+    },
+    {
+      "id": "asl.will.source-gloss-unverified",
+      "signLanguage": "ASL",
+      "sense": "source-gloss-unverified",
+      "label": "Will",
+      "definition": "Unverified source gloss “will”. Exact sense and ASL variant require review; this is a recording candidate, not an approved English mapping.",
+      "aliases": [
+        "will"
+      ],
+      "inflections": [],
+      "exampleContexts": [],
+      "category": "communication",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://osf.io/mqzyk/",
+      "semanticEvidence": "publisher-gloss-only"
+    },
+    {
+      "id": "asl.win.source-gloss-unverified",
+      "signLanguage": "ASL",
+      "sense": "source-gloss-unverified",
+      "label": "Win",
+      "definition": "Unverified source gloss “win”. Exact sense and ASL variant require review; this is a recording candidate, not an approved English mapping.",
+      "aliases": [
+        "win"
+      ],
+      "inflections": [],
+      "exampleContexts": [],
+      "category": "communication",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://osf.io/mqzyk/",
+      "semanticEvidence": "publisher-gloss-only"
+    },
+    {
+      "id": "asl.wind.source-gloss-unverified",
+      "signLanguage": "ASL",
+      "sense": "source-gloss-unverified",
+      "label": "Wind",
+      "definition": "Unverified source gloss “wind”. Exact sense and ASL variant require review; this is a recording candidate, not an approved English mapping.",
+      "aliases": [
+        "wind"
+      ],
+      "inflections": [],
+      "exampleContexts": [],
+      "category": "communication",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://osf.io/mqzyk/",
+      "semanticEvidence": "publisher-gloss-only"
+    },
+    {
+      "id": "asl.wine.source-gloss-unverified",
+      "signLanguage": "ASL",
+      "sense": "source-gloss-unverified",
+      "label": "Wine",
+      "definition": "Unverified source gloss “wine”. Exact sense and ASL variant require review; this is a recording candidate, not an approved English mapping.",
+      "aliases": [
+        "wine"
+      ],
+      "inflections": [],
+      "exampleContexts": [],
+      "category": "food",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://osf.io/mqzyk/",
+      "semanticEvidence": "publisher-gloss-only"
+    },
+    {
+      "id": "asl.with.source-gloss-unverified",
+      "signLanguage": "ASL",
+      "sense": "source-gloss-unverified",
+      "label": "With",
+      "definition": "Unverified source gloss “with”. Exact sense and ASL variant require review; this is a recording candidate, not an approved English mapping.",
+      "aliases": [
+        "with"
+      ],
+      "inflections": [],
+      "exampleContexts": [],
+      "category": "communication",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://osf.io/mqzyk/",
+      "semanticEvidence": "publisher-gloss-only"
+    },
+    {
+      "id": "asl.wonder.source-gloss-unverified",
+      "signLanguage": "ASL",
+      "sense": "source-gloss-unverified",
+      "label": "Wonder",
+      "definition": "Unverified source gloss “wonder”. Exact sense and ASL variant require review; this is a recording candidate, not an approved English mapping.",
+      "aliases": [
+        "wonder"
+      ],
+      "inflections": [],
+      "exampleContexts": [],
+      "category": "emotion",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://osf.io/mqzyk/",
+      "semanticEvidence": "publisher-gloss-only"
+    },
+    {
+      "id": "asl.wood.source-gloss-unverified",
+      "signLanguage": "ASL",
+      "sense": "source-gloss-unverified",
+      "label": "Wood",
+      "definition": "Unverified source gloss “wood”. Exact sense and ASL variant require review; this is a recording candidate, not an approved English mapping.",
+      "aliases": [
+        "wood"
+      ],
+      "inflections": [],
+      "exampleContexts": [],
+      "category": "communication",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://osf.io/mqzyk/",
+      "semanticEvidence": "publisher-gloss-only"
+    },
+    {
+      "id": "asl.worse.source-gloss-unverified",
+      "signLanguage": "ASL",
+      "sense": "source-gloss-unverified",
+      "label": "Worse",
+      "definition": "Unverified source gloss “worse”. Exact sense and ASL variant require review; this is a recording candidate, not an approved English mapping.",
+      "aliases": [
+        "worse"
+      ],
+      "inflections": [],
+      "exampleContexts": [],
+      "category": "emotion",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://osf.io/mqzyk/",
+      "semanticEvidence": "publisher-gloss-only"
+    },
+    {
+      "id": "asl.wow.source-gloss-unverified",
+      "signLanguage": "ASL",
+      "sense": "source-gloss-unverified",
+      "label": "Wow",
+      "definition": "Unverified source gloss “wow”. Exact sense and ASL variant require review; this is a recording candidate, not an approved English mapping.",
+      "aliases": [
+        "wow"
+      ],
+      "inflections": [],
+      "exampleContexts": [],
+      "category": "emotion",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://osf.io/mqzyk/",
+      "semanticEvidence": "publisher-gloss-only"
+    },
+    {
+      "id": "asl.zero.source-gloss-unverified",
+      "signLanguage": "ASL",
+      "sense": "source-gloss-unverified",
+      "label": "Zero",
+      "definition": "Unverified source gloss “zero”. Exact sense and ASL variant require review; this is a recording candidate, not an approved English mapping.",
+      "aliases": [
+        "zero"
+      ],
+      "inflections": [],
+      "exampleContexts": [],
+      "category": "communication",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "license": "CC-BY-4.0",
+      "meaningReference": "https://osf.io/mqzyk/",
+      "semanticEvidence": "publisher-gloss-only"
+    }
+  ],
+  "entries": [
+    {
+      "id": "3dlex-whatever",
+      "word": "whatever",
+      "conceptId": "asl.whatever.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/continuous-20261019/whatever.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "Original capture; meaning/variant unverified",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://osf.io/mqzyk/"
+    },
+    {
+      "id": "3dlex-which",
+      "word": "which",
+      "conceptId": "asl.which.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/continuous-20261019/which.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "Original capture; meaning/variant unverified",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://osf.io/mqzyk/"
+    },
+    {
+      "id": "3dlex-will",
+      "word": "will",
+      "conceptId": "asl.will.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/continuous-20261019/will.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "Original capture; meaning/variant unverified",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://osf.io/mqzyk/"
+    },
+    {
+      "id": "3dlex-win",
+      "word": "win",
+      "conceptId": "asl.win.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/continuous-20261019/win.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "Original capture; meaning/variant unverified",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://osf.io/mqzyk/"
+    },
+    {
+      "id": "3dlex-wind",
+      "word": "wind",
+      "conceptId": "asl.wind.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/continuous-20261019/wind.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "Original capture; meaning/variant unverified",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://osf.io/mqzyk/"
+    },
+    {
+      "id": "3dlex-wine",
+      "word": "wine",
+      "conceptId": "asl.wine.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/continuous-20261019/wine.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "Original capture; meaning/variant unverified",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://osf.io/mqzyk/"
+    },
+    {
+      "id": "3dlex-with",
+      "word": "with",
+      "conceptId": "asl.with.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/continuous-20261019/with.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "Original capture; meaning/variant unverified",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://osf.io/mqzyk/"
+    },
+    {
+      "id": "3dlex-wonder",
+      "word": "wonder",
+      "conceptId": "asl.wonder.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/continuous-20261019/wonder.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "Original capture; meaning/variant unverified",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://osf.io/mqzyk/"
+    },
+    {
+      "id": "3dlex-wood",
+      "word": "wood",
+      "conceptId": "asl.wood.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/continuous-20261019/wood.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "Original capture; meaning/variant unverified",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://osf.io/mqzyk/"
+    },
+    {
+      "id": "3dlex-worse",
+      "word": "worse",
+      "conceptId": "asl.worse.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/continuous-20261019/worse.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "Original capture; meaning/variant unverified",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://osf.io/mqzyk/"
+    },
+    {
+      "id": "3dlex-wow",
+      "word": "wow",
+      "conceptId": "asl.wow.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/continuous-20261019/wow.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "Original capture; meaning/variant unverified",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://osf.io/mqzyk/"
+    },
+    {
+      "id": "3dlex-zero",
+      "word": "zero",
+      "conceptId": "asl.zero.source-gloss-unverified",
+      "sense": "source-gloss-unverified",
+      "signLanguage": "ASL",
+      "sourcePath": "asset-downloads/continuous-20261019/zero.glb",
+      "variantId": "3dlex-v1-source",
+      "variantLabel": "Original capture; meaning/variant unverified",
+      "sourceProject": "https://osf.io/mqzyk/",
+      "archiveURL": "https://osf.io/download/tcnhs/",
+      "license": "CC-BY-4.0",
+      "sourceLanguageVerified": true,
+      "meaningReference": "https://osf.io/mqzyk/"
+    }
+  ]
+}

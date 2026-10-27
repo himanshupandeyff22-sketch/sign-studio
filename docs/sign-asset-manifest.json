@@ -1,0 +1,236 @@
+{
+  "schema": "sign-asset-review-manifest/1",
+  "checkedOn": "2026-10-12",
+  "generatedAtUTC": "2026-10-11T19:35:24.391Z",
+  "status": "unreviewed-research-candidates",
+  "signedLanguage": "ASL",
+  "defaultVocabularyMode": "validated",
+  "approvedClipCount": 0,
+  "authors": [
+    "Oline Ranum",
+    "Gomèr Otterspeer",
+    "Jari I. Andersen",
+    "Robert G. Belleman",
+    "Floris Roelofsen"
+  ],
+  "reviewBasis": {
+    "targetAvatar": "Aarav",
+    "targetModel": {
+      "path": "web/assets/aarav.glb",
+      "sha256": "ebe6b1596256f314d1356cfc2f42d28203b5bf1864d0bf139845cb9d13ee6500"
+    },
+    "retargetCode": [
+      {
+        "path": "web/avatar.js",
+        "sha256": "4393faf58bbae8a0be07d1670f7897b9ba10ad46de913baaeb5e7345ee134f5c"
+      },
+      {
+        "path": "web/asl-loader.js",
+        "sha256": "a2e5020c9c5a01fc3ae1f14144f8ccf4ff5a028ce712757b9970799535dfcc8e"
+      }
+    ],
+    "registry": {
+      "path": "web/sign-registry.mjs",
+      "sha256": "0566c1cedca1020933bd3f1e62ccac554a9e4efe2b9183718f79cbf3eefb4857"
+    },
+    "notice": "Review applies only to these exact asset, avatar and retarget-code hashes. Any change requires rechecking the affected rendered candidate. Technical parsing, file integrity and source labels do not establish human ASL approval or grammatical translation."
+  },
+  "clips": [
+    {
+      "id": "3dlex-help",
+      "signedLanguage": "ASL",
+      "sourceFilename": "help.glb",
+      "sourceArchiveFilename": "ANIM_GLB/help.glb",
+      "sourceURL": "https://osf.io/download/tcnhs/",
+      "sourceProjectURL": "https://osf.io/mqzyk/",
+      "sourceGLBSHA256": "61e7bb2177e3f2d3a50d610ce3da5fd68a29cffd4fff2e35fdd2058065ec7d20",
+      "runtimePath": "/web/assets/asl/help.motion.json",
+      "runtimeSHA256": "3cd7f0c7c62ca7c9a7d8135596ee6303e262c3708c7d309c2400913282c0022c",
+      "runtimeBytes": 901772,
+      "license": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "format": "3dlex-motion/1",
+      "sourceDurationSeconds": 3.25,
+      "candidateMeaning": "Candidate HELP mapping from the source filename; assistance/help variant is unverified; direction and participant agreement are not inferred.",
+      "inputMappings": [
+        "help"
+      ],
+      "meaningKey": "help",
+      "senseRequired": false,
+      "senseOptions": [
+        {
+          "id": "assistance",
+          "label": "Assistance / helping"
+        }
+      ],
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/h/help.htm",
+      "modifications": "Motion-only extraction: meshes, materials, images and textures removed; rig transforms, inverse-bind metadata and all original source keyframes retained. Runtime calibration uses the actual first animated anatomical pose, per-palm and finger-axis frames, proportional arm IK and source near-contact landmark-pair constraints on separately licensed Aarav. Detected terminal actor-axis reset keys and outlying joint-4 nodes are excluded from playback sampling; original raw tracks remain intact.",
+      "technicalReview": {
+        "status": "pending",
+        "checks": [
+          "rig retargeting",
+          "finger articulation",
+          "contact and signing location",
+          "camera framing",
+          "motion asset loading"
+        ]
+      },
+      "remainingTechnicalLimitations": [
+        "Landmark contact is a skeletal proxy; skin contact and handshape require visual and fluent-signer review.",
+        "Target hand sizes and torso proportions differ; chest/wrist locations can shift by several centimetres.",
+        "Facial/non-manual capture is not included."
+      ],
+      "validated": false,
+      "humanReview": null,
+      "defaultVocabularyEnabled": false,
+      "facialCaptureIncluded": false
+    },
+    {
+      "id": "3dlex-yes",
+      "signedLanguage": "ASL",
+      "sourceFilename": "yes.glb",
+      "sourceArchiveFilename": "ANIM_GLB/yes.glb",
+      "sourceURL": "https://osf.io/download/tcnhs/",
+      "sourceProjectURL": "https://osf.io/mqzyk/",
+      "sourceGLBSHA256": "0a4312a09c34bc9ee5ac03da035e5cb4d8b7fcf7760aa8a44f386402c240cefa",
+      "runtimePath": "/web/assets/asl/yes.motion.json",
+      "runtimeSHA256": "460ba0b2dea93023d0982af3f6ab184a6d0cb2781b1dace98195b0fda5f7d098",
+      "runtimeBytes": 847645,
+      "license": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "format": "3dlex-motion/1",
+      "sourceDurationSeconds": 3.0833332538604736,
+      "candidateMeaning": "Candidate YES mapping from the source filename; affirmative-response variant is unverified; conversational emphasis and nonmanuals are not inferred.",
+      "inputMappings": [
+        "yes"
+      ],
+      "meaningKey": "yes",
+      "senseRequired": false,
+      "senseOptions": [
+        {
+          "id": "affirmative-answer",
+          "label": "An affirmative answer"
+        }
+      ],
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/y/yes.htm",
+      "modifications": "Motion-only extraction: meshes, materials, images and textures removed; rig transforms, inverse-bind metadata and all original source keyframes retained. Runtime calibration uses the actual first animated anatomical pose, per-palm and finger-axis frames, proportional arm IK and source near-contact landmark-pair constraints on separately licensed Aarav. Detected terminal actor-axis reset keys and outlying joint-4 nodes are excluded from playback sampling; original raw tracks remain intact.",
+      "technicalReview": {
+        "status": "pending",
+        "checks": [
+          "rig retargeting",
+          "finger articulation",
+          "contact and signing location",
+          "camera framing",
+          "motion asset loading"
+        ]
+      },
+      "remainingTechnicalLimitations": [
+        "Landmark contact is a skeletal proxy; skin contact and handshape require visual and fluent-signer review.",
+        "Target hand sizes and torso proportions differ; chest/wrist locations can shift by several centimetres.",
+        "Facial/non-manual capture is not included."
+      ],
+      "validated": false,
+      "humanReview": null,
+      "defaultVocabularyEnabled": false,
+      "facialCaptureIncluded": false
+    },
+    {
+      "id": "3dlex-no",
+      "signedLanguage": "ASL",
+      "sourceFilename": "no.glb",
+      "sourceArchiveFilename": "ANIM_GLB/no.glb",
+      "sourceURL": "https://osf.io/download/tcnhs/",
+      "sourceProjectURL": "https://osf.io/mqzyk/",
+      "sourceGLBSHA256": "9e4f3ad918416302c25b6b19a9cb3156b21e24037c4b1700f278ede5c8427722",
+      "runtimePath": "/web/assets/asl/no.motion.json",
+      "runtimeSHA256": "3c13bf81b78c2dca40ce770d1789ad10db4f00e2b0848ab9d26d9b80451cc31d",
+      "runtimeBytes": 1470330,
+      "license": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "format": "3dlex-motion/1",
+      "sourceDurationSeconds": 5.333333492279053,
+      "candidateMeaning": "Candidate NO mapping from the source filename; negative-answer sense and variant are unverified; not automatically NONE, NOTHING, NOT, or a directional refusal.",
+      "inputMappings": [
+        "no"
+      ],
+      "meaningKey": "no",
+      "senseRequired": true,
+      "senseOptions": [
+        {
+          "id": "negative-answer",
+          "label": "A negative answer / refusal"
+        }
+      ],
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/n/no.htm",
+      "modifications": "Motion-only extraction: meshes, materials, images and textures removed; rig transforms, inverse-bind metadata and all original source keyframes retained. Runtime calibration uses the actual first animated anatomical pose, per-palm and finger-axis frames, proportional arm IK and source near-contact landmark-pair constraints on separately licensed Aarav. Detected terminal actor-axis reset keys and outlying joint-4 nodes are excluded from playback sampling; original raw tracks remain intact.",
+      "technicalReview": {
+        "status": "pending",
+        "checks": [
+          "rig retargeting",
+          "finger articulation",
+          "contact and signing location",
+          "camera framing",
+          "motion asset loading"
+        ]
+      },
+      "remainingTechnicalLimitations": [
+        "Landmark contact is a skeletal proxy; skin contact and handshape require visual and fluent-signer review.",
+        "Target hand sizes and torso proportions differ; chest/wrist locations can shift by several centimetres.",
+        "Facial/non-manual capture is not included."
+      ],
+      "validated": false,
+      "humanReview": null,
+      "defaultVocabularyEnabled": false,
+      "facialCaptureIncluded": false
+    },
+    {
+      "id": "3dlex-love",
+      "signedLanguage": "ASL",
+      "sourceFilename": "love.glb",
+      "sourceArchiveFilename": "ANIM_GLB/love.glb",
+      "sourceURL": "https://osf.io/download/tcnhs/",
+      "sourceProjectURL": "https://osf.io/mqzyk/",
+      "sourceGLBSHA256": "54b2f8e0fd5cf8751cbdfa1cea9d71d3acdece8d84ddb83d2bd5f6a148f43219",
+      "runtimePath": "/web/assets/asl/love.motion.json",
+      "runtimeSHA256": "72296645a0bf65267064651123e729cb6e935dbd18a5d8841b13edb9e83f0066",
+      "runtimeBytes": 1094988,
+      "license": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "format": "3dlex-motion/1",
+      "sourceDurationSeconds": 8.5,
+      "candidateMeaning": "Candidate LOVE mapping from the source filename; affection/love sense and variant are unverified; not the complete phrase I love you, ILY, LOVE-IT, or HUG.",
+      "inputMappings": [
+        "love"
+      ],
+      "meaningKey": "love",
+      "senseRequired": true,
+      "senseOptions": [
+        {
+          "id": "affection",
+          "label": "Affection / love"
+        }
+      ],
+      "meaningReference": "https://www.lifeprint.com/asl101/pages-signs/l/love.htm",
+      "modifications": "Motion-only extraction: meshes, materials, images and textures removed; rig transforms, inverse-bind metadata and all original source keyframes retained. Runtime calibration uses the actual first animated anatomical pose, per-palm and finger-axis frames, proportional arm IK and source near-contact landmark-pair constraints on separately licensed Aarav. Detected terminal actor-axis reset keys and outlying joint-4 nodes are excluded from playback sampling; original raw tracks remain intact.",
+      "technicalReview": {
+        "status": "pending",
+        "checks": [
+          "rig retargeting",
+          "finger articulation",
+          "contact and signing location",
+          "camera framing",
+          "motion asset loading"
+        ]
+      },
+      "remainingTechnicalLimitations": [
+        "Landmark contact is a skeletal proxy; skin contact and handshape require visual and fluent-signer review.",
+        "Target hand sizes and torso proportions differ; chest/wrist locations can shift by several centimetres.",
+        "Facial/non-manual capture is not included."
+      ],
+      "validated": false,
+      "humanReview": null,
+      "defaultVocabularyEnabled": false,
+      "facialCaptureIncluded": false
+    }
+  ]
+}

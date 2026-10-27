@@ -1,0 +1,20 @@
+{
+  "schema": "asl-phrase-review-proposal/1",
+  "id": "asl.template.greeting-hello",
+  "signLanguage": "ASL",
+  "englishPatterns": ["hello"],
+  "intendedSense": "neutral greeting to the present addressee",
+  "referenceURL": "https://www.lifeprint.com/asl101/pages-signs/h/hello.htm",
+  "existingConceptIds": ["asl.greeting.hello"],
+  "candidateInspectionAssets": [],
+  "enabledAnimationIds": [],
+  "translationEligible": false,
+  "status": "pending-retargeting-and-phrase-review",
+  "linguisticReview": {"status":"pending","reviewer":null,"date":null},
+  "remaining": [
+    "Inspect the quarantined CLERC source keypoints and select the exact greeting variant; a reference discussion is not approval of this capture.",
+    "Retarget while preserving handshape, orientation, location, movement and face/body expression, then compare the source and Aarav side by side.",
+    "Have a fluent ASL signer review the complete greeting and exact English mapping before enabling it."
+  ],
+  "notice": "Review proposal linked to the existing greeting concept; no new lexical concept or playable animation. No ASLU media imported."
+}

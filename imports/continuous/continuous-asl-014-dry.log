@@ -1,0 +1,82 @@
+{
+  "report": "imports\\continuous\\continuous-asl-014-dry.json",
+  "dryRun": true,
+  "counts": {
+    "added": 40,
+    "merged": 0,
+    "skipped": 0,
+    "conflicting": 0,
+    "rejected": 0,
+    "pending-review": 0
+  },
+  "conceptChanges": {
+    "added": [],
+    "skipped": [],
+    "conflicting": []
+  },
+  "metadataChanges": {
+    "added": [],
+    "skipped": [],
+    "conflicting": []
+  },
+  "discoveryChanges": {
+    "added": 0,
+    "skipped": 0,
+    "conflicting": []
+  },
+  "pendingReview": [
+    "3dlex-everyday",
+    "3dlex-evidence",
+    "3dlex-expect",
+    "3dlex-expensive",
+    "3dlex-experiment",
+    "3dlex-expert",
+    "3dlex-express",
+    "3dlex-eyeglasses",
+    "3dlex-face",
+    "3dlex-fail",
+    "3dlex-fake",
+    "3dlex-famous",
+    "3dlex-farm",
+    "3dlex-fat",
+    "3dlex-favorite",
+    "3dlex-few",
+    "3dlex-fight",
+    "3dlex-finally",
+    "3dlex-fire",
+    "3dlex-floor",
+    "3dlex-fly",
+    "3dlex-fool",
+    "3dlex-football",
+    "3dlex-for",
+    "3dlex-forbid",
+    "3dlex-form",
+    "3dlex-former",
+    "3dlex-four",
+    "3dlex-free",
+    "3dlex-freeway",
+    "3dlex-freeze",
+    "3dlex-french",
+    "3dlex-friendly",
+    "3dlex-front",
+    "3dlex-fun",
+    "3dlex-funny",
+    "3dlex-furniture",
+    "3dlex-gamble",
+    "3dlex-game",
+    "3dlex-gas"
+  ],
+  "before": {
+    "concepts": 789,
+    "aliases": 1024,
+    "animations": 397,
+    "reviewedEnabledSigns": 0
+  },
+  "after": {
+    "concepts": 789,
+    "aliases": 1024,
+    "animations": 437,
+    "reviewedEnabledSigns": 0
+  }
+}
+

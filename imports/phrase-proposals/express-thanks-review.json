@@ -1,0 +1,26 @@
+{
+  "schema": "asl-phrase-review-proposal/1",
+  "id": "asl.template.express-thanks",
+  "signLanguage": "ASL",
+  "englishPatterns": ["thank you", "thanks"],
+  "intendedSense": "expressing gratitude to the present addressee",
+  "referenceURL": "https://www.lifeprint.com/asl101/pages-signs/t/thank-you.htm",
+  "referenceOnlyOutline": [
+    "ASLU documents a flat dominant hand moving from near the lips toward the person being thanked.",
+    "Review addressee direction and appropriate expression as a complete gratitude utterance."
+  ],
+  "requiredMeaningDistinction": "THANK-YOU is not GOOD, a kiss, or a general replacement for every phrase containing thanks. Sarcasm, gratitude to absent people, and longer thanks-for clauses require separate contextual review.",
+  "candidateInspectionAssets": [],
+  "existingConceptIds": ["asl.gratitude.thanks"],
+  "enabledAnimationIds": [],
+  "translationEligible": false,
+  "status": "pending-source-and-phrase-review",
+  "linguisticReview": {"status": "pending", "reviewer": null, "date": null},
+  "remaining": [
+    "Obtain a permitted compatible THANK-YOU motion; the inspected 3D-LEX archive did not supply one and the procedural demo is not an approved asset.",
+    "Check handshape, lip signing location, palm orientation, outward movement and addressee direction against the selected variant.",
+    "Review facial/body expression and transitions on Aarav; distinguish a neutral acknowledgement from the intended gratitude affect.",
+    "Record a fluent ASL review of the exact complete utterance and English aliases before activation."
+  ],
+  "notice": "Authored pending review proposal only, linked to the existing canonical gratitude concept. No duplicate lexical concept, animation or runtime template was created. Reference media were not imported or licensed for animation reuse by this record."
+}

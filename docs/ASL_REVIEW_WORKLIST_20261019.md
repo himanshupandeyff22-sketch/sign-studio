@@ -1,0 +1,262 @@
+# ASL review worklist — 19 October 2026
+
+The bounded 30-motion batch has additional per-capture priorities in
+`EVERYDAY_BATCH_EVIDENCE_20261019.json`: source and target hashes, exact proposed
+sense, same-ASL reference URL, screenshot, measured finger/retarget properties
+and required human checks. COUNSELOR requires a person/agent-marker check;
+AGE and FIRST require ordinary-variant/scope identification; MY, YOUR and MEET
+must not be merged with neighbouring concepts. Identify OPEN's object-specific
+meaning; keep PEPPER/TOAST food senses and TAKE/LEAVE idioms separate. Inspect
+NEAR/INSIDE/USE/START and other contact signs against source surface geometry,
+not just landmark distances. The captured face has no grammatical nonmanuals.
+All new motions are inspection-only; no reviewer approval is recorded.
+
+No reviewer approval is recorded. All 237 assets below require review of their exact source and Aarav rendering. Automated rig/skin/framing checks do not validate ASL meaning. Snapshot: docs/vocabulary-review-20261019.json. It records immutable runtime/source hashes, renderer hashes, diagnostic limits and source licensing. Older snapshots remain historical evidence.
+
+| Asset | Proposed concept / sense | Reference only | Usable source duration | Human review |
+| --- | --- | --- | --- | --- |
+| 3dlex-help | asl.help.assistance / assistance | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/h/help.htm) | 3.208 s | Pending |
+| 3dlex-yes | asl.answer.affirmative / affirmative-answer | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/y/yes.htm) | 3.000 s | Pending |
+| 3dlex-no | asl.answer.negative / negative-answer | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/n/no.htm) | 5.292 s | Pending |
+| 3dlex-love | asl.love.affection / affection | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/l/love.htm) | 8.458 s | Pending |
+| 3dlex-family | asl.family.relatives / relatives | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/f/family.htm) | 3.500 s | Pending |
+| 3dlex-water | asl.water.liquid / liquid-water | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/w/water.htm) | 2.917 s | Pending |
+| 3dlex-remember | asl.remember.recall / recall | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/r/remember.htm) | 6.833 s | Pending |
+| 3dlex-please | asl.please.courtesy / courtesy-request | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/p/please.htm) | 4.167 s | Pending |
+| 3dlex-you | asl.person.second-person / addressee | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/y/you.htm) | 3.000 s | Pending |
+| 3dlex-drink | asl.drink.consume-liquid / consume-liquid | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/d/drink.htm) | 3.792 s | Pending |
+| 3dlex-want | asl.want.desire / desire | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/w/want.htm) | 5.708 s | Pending |
+| 3dlex-where | asl.where.location-question / location-question | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/w/where.htm) | 4.792 s | Pending |
+| 3dlex-who | asl.who.person-question / person-question | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/w/who.htm) | 5.375 s | Pending |
+| 3dlex-when | asl.when.time-question / time-question | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/w/when.htm) | 4.583 s | Pending |
+| 3dlex-why | asl.why.reason-question / reason-question | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/w/why.htm) | 2.750 s | Pending |
+| 3dlex-how | asl.how.manner-question / manner-question | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/h/how.htm) | 3.167 s | Pending |
+| 3dlex-bad | asl.bad.negative-quality / negative-quality | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/b/bad.htm) | 2.875 s | Pending |
+| 3dlex-happy | asl.happy.happiness / happiness | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/h/happy.htm) | 3.000 s | Pending |
+| 3dlex-sad | asl.sad.sadness / sadness | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/sad.htm) | 5.667 s | Pending |
+| 3dlex-work | asl.work.labor / labor | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/w/work.htm) | 3.000 s | Pending |
+| 3dlex-school | asl.school.education-place / education-place | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/school.htm) | 6.000 s | Pending |
+| 3dlex-home | asl.home.residence / residence | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/h/home.htm) | 3.833 s | Pending |
+| 3dlex-mother | asl.mother.female-parent / female-parent | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/m/mother.htm) | 6.083 s | Pending |
+| 3dlex-sister | asl.sister.female-sibling / female-sibling | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/sister.htm) | 3.500 s | Pending |
+| 3dlex-know | asl.know.knowledge / knowledge | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/k/know.htm) | 2.500 s | Pending |
+| 3dlex-understand | asl.understand.comprehension / comprehension | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/u/understand.htm) | 3.042 s | Pending |
+| 3dlex-go | asl.go.movement-away / movement-away | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/g/go.htm) | 3.083 s | Pending |
+| 3dlex-sorry | asl.sorry.apology / apology | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/sorry.htm) | 7.125 s | Pending |
+| 3dlex-bathroom | asl.bathroom.restroom / restroom | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/b/bathroom.htm) | 6.083 s | Pending |
+| 3dlex-toilet | asl.bathroom.restroom / restroom | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/b/bathroom.htm) | 5.583 s | Pending |
+| 3dlex-sleep | asl.sleep.sleep-state / sleep-state | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/sleep.htm) | 6.792 s | Pending |
+| 3dlex-tired | asl.tired.fatigue / fatigue | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/t/tired.htm) | 1.208 s | Pending |
+| 3dlex-doctor | asl.doctor.medical-practitioner / medical-practitioner | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/d/doctor.htm) | 2.833 s | Pending |
+| 3dlex-hospital | asl.hospital.medical-facility / medical-facility | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/h/hospital.htm) | 3.667 s | Pending |
+| 3dlex-hurt | asl.hurt.physical-pain / physical-pain | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/h/hurt.htm) | 5.750 s | Pending |
+| 3dlex-cold | asl.cold.low-temperature / low-temperature | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/c/cold.htm) | 2.667 s | Pending |
+| 3dlex-coffee | asl.coffee.coffee-beverage / coffee-beverage | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/c/coffee.htm) | 7.125 s | Pending |
+| 3dlex-tea | asl.tea.tea-beverage / tea-beverage | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/t/tea.htm) | 3.750 s | Pending |
+| 3dlex-apple | asl.apple.apple-fruit / apple-fruit | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/a/apple.htm) | 2.833 s | Pending |
+| 3dlex-fish | asl.fish.fish-animal / fish-animal | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/f/fish.htm) | 4.208 s | Pending |
+| 3dlex-teacher | asl.teacher.teaching-person / teaching-person | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/t/teacher.htm) | 4.125 s | Pending |
+| 3dlex-student | asl.student.learning-person / learning-person | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/student.htm) | 6.958 s | Pending |
+| 3dlex-read | asl.read.reading-text / reading-text | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/r/read.htm) | 2.875 s | Pending |
+| 3dlex-write | asl.write.writing-text / writing-text | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/w/write.htm) | 5.125 s | Pending |
+| 3dlex-book | asl.book.bound-pages / bound-pages | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/b/book.htm) | 2.417 s | Pending |
+| 3dlex-again | asl.again.repetition / repetition | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/a/again.htm) | 2.208 s | Pending |
+| 3dlex-today | asl.today.current-day / current-day | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/t/today.htm) | 2.792 s | Pending |
+| 3dlex-tomorrow | asl.tomorrow.next-day / next-day | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/t/tomorrow.htm) | 6.500 s | Pending |
+| 3dlex-yesterday | asl.yesterday.previous-day / previous-day | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/y/yesterday.htm) | 5.542 s | Pending |
+| 3dlex-morning | asl.morning.morning-time / morning-time | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/m/morning.htm) | 3.042 s | Pending |
+| 3dlex-night | asl.night.night-time / night-time | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/n/night.htm) | 2.875 s | Pending |
+| 3dlex-money | asl.money.currency / currency | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/m/money.htm) | 5.667 s | Pending |
+| 3dlex-ask | asl.ask.ask-question / ask-question | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/a/ask.htm) | 4.333 s | Pending |
+| 3dlex-feel | asl.feel.internal-feeling / internal-feeling | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/f/feel.htm) | 2.667 s | Pending |
+| 3dlex-children | asl.children.plural-children / plural-children | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/c/children.htm) | 3.042 s | Pending |
+| 3dlex-man | asl.man.adult-male-person / adult-male-person | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/m/man.htm) | 6.750 s | Pending |
+| 3dlex-woman | asl.woman.adult-female-person / adult-female-person | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/w/woman.htm) | 4.250 s | Pending |
+| 3dlex-boy | asl.boy.young-male-person / young-male-person | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/b/boy.htm) | 2.667 s | Pending |
+| 3dlex-girl | asl.girl.young-female-person / young-female-person | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/g/girl.htm) | 2.583 s | Pending |
+| 3dlex-sign | asl.sign.signed-language-action / signed-language-action | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/sign.htm) | 5.083 s | Pending |
+| 3dlex-slow | asl.slow.low-speed / low-speed | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/slow.htm) | 4.667 s | Pending |
+| 3dlex-fast | asl.fast.high-speed / high-speed | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/f/fast.htm) | 2.792 s | Pending |
+| 3dlex-day | asl.day.day-period / day-period | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/d/day.htm) | 4.750 s | Pending |
+| 3dlex-month | asl.month.month-period / month-period | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/m/month.htm) | 3.750 s | Pending |
+| 3dlex-pay | asl.pay.payment / payment | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/p/pay.htm) | 5.292 s | Pending |
+| 3dlex-car | asl.car.road-car / road-car | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/c/car.htm) | 2.792 s | Pending |
+| 3dlex-bus | asl.bus.road-bus / road-bus | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/b/bus.htm) | 3.542 s | Pending |
+| 3dlex-train | asl.train.rail-vehicle / rail-vehicle | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/t/train.htm) | 2.375 s | Pending |
+| 3dlex-walk | asl.walk.walk-action / walk-action | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/w/walk.htm) | 4.667 s | Pending |
+| 3dlex-sit | asl.sit.sitting-position / sitting-position | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/sit.htm) | 2.625 s | Pending |
+| 3dlex-wait | asl.wait.waiting / waiting | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/w/wait.htm) | 3.042 s | Pending |
+| 3dlex-finish | asl.finish.completed-state / completed-state | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/f/finish.htm) | 3.083 s | Pending |
+| 3dlex-answer | asl.answer.answer-response / answer-response | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/a/answer.htm) | 3.750 s | Pending |
+| 3dlex-tell | asl.tell.tell-information / tell-information | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/t/tell.htm) | 5.458 s | Pending |
+| 3dlex-see | asl.see.visual-perception / visual-perception | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/see.htm) | 5.833 s | Pending |
+| 3dlex-listen | asl.listen.auditory-attention / auditory-attention | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/l/listen.htm) | 2.708 s | Pending |
+| 3dlex-hungry | asl.hungry.hunger / hunger | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/h/hungry.htm) | 3.000 s | Pending |
+| 3dlex-thirsty | asl.thirsty.thirst / thirst | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/t/thirsty.htm) | 2.958 s | Pending |
+| 3dlex-nurse | asl.nurse.nursing-professional / nursing-professional | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/n/nurse.htm) | 3.292 s | Pending |
+| 3dlex-headache | asl.headache.head-pain / head-pain | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/h/headache.htm) | 3.125 s | Pending |
+| 3dlex-health | asl.health.wellbeing / wellbeing | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/h/health.htm) | 2.833 s | Pending |
+| 3dlex-blood | asl.blood.body-fluid / body-fluid | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/b/blood.htm) | 5.083 s | Pending |
+| 3dlex-body | asl.body.human-body / human-body | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/b/body.htm) | 2.625 s | Pending |
+| 3dlex-breathe | asl.breathe.respiration / respiration | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/b/breathe.htm) | 3.542 s | Pending |
+| 3dlex-cough | asl.cough.cough-action / cough-action | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/c/cough.htm) | 2.917 s | Pending |
+| 3dlex-therapy | asl.therapy.therapeutic-treatment / therapeutic-treatment | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/t/therapy.htm) | 3.458 s | Pending |
+| 3dlex-surgery | asl.surgery.surgical-procedure / surgical-procedure | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/surgery.htm) | 3.542 s | Pending |
+| 3dlex-vomit | asl.vomit.vomiting / vomiting | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/v/vomit.htm) | 6.583 s | Pending |
+| 3dlex-rest | asl.rest.rest-action / rest-action | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/r/rest.htm) | 4.792 s | Pending |
+| 3dlex-clean | asl.clean.free-from-dirt / free-from-dirt | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/c/clean.htm) | 2.625 s | Pending |
+| 3dlex-dirty | asl.dirty.unclean / unclean | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/d/dirty.htm) | 6.792 s | Pending |
+| 3dlex-soap | asl.soap.washing-substance / washing-substance | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/soap.htm) | 2.333 s | Pending |
+| 3dlex-shower | asl.shower.washing-shower / washing-shower | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/shower.htm) | 3.292 s | Pending |
+| 3dlex-bed | asl.bed.sleeping-furniture / sleeping-furniture | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/b/bed.htm) | 4.083 s | Pending |
+| 3dlex-bedroom | asl.bedroom.sleeping-room / sleeping-room | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/b/bedroom.htm) | 3.125 s | Pending |
+| 3dlex-kitchen | asl.kitchen.food-preparation-room / food-preparation-room | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/k/kitchen.htm) | 2.208 s | Pending |
+| 3dlex-chair | asl.chair.sitting-furniture / sitting-furniture | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/c/chair.htm) | 3.042 s | Pending |
+| 3dlex-door | asl.door.door-object / door-object | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/d/door.htm) | 2.917 s | Pending |
+| 3dlex-window | asl.window.building-window / building-window | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/w/window.htm) | 2.750 s | Pending |
+| 3dlex-clothes | asl.clothes.garments / garments | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/c/clothes.htm) | 6.125 s | Pending |
+| 3dlex-shirt | asl.shirt.upper-body-garment / upper-body-garment | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/shirt.htm) | 2.875 s | Pending |
+| 3dlex-shoes | asl.shoes.footwear / footwear | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/shoes.htm) | 4.917 s | Pending |
+| 3dlex-fruit | asl.fruit.fruit-food / fruit-food | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/f/fruit.htm) | 4.083 s | Pending |
+| 3dlex-potato | asl.potato.potato-food / potato-food | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/p/potato.htm) | 5.500 s | Pending |
+| 3dlex-tomato | asl.tomato.tomato-food / tomato-food | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/t/tomato.htm) | 4.875 s | Pending |
+| 3dlex-soup | asl.soup.soup-food / soup-food | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/soup.htm) | 5.083 s | Pending |
+| 3dlex-sandwich | asl.sandwich.sandwich-food / sandwich-food | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/sandwich.htm) | 3.833 s | Pending |
+| 3dlex-cook | asl.cook.prepare-food / prepare-food | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/c/cook.htm) | 3.125 s | Pending |
+| 3dlex-delicious | asl.delicious.pleasant-taste / pleasant-taste | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/d/delicious.htm) | 2.917 s | Pending |
+| 3dlex-full | asl.full.satiated / satiated | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/f/full.htm) | 3.583 s | Pending |
+| 3dlex-husband | asl.husband.male-spouse / male-spouse | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/h/husband.htm) | 3.458 s | Pending |
+| 3dlex-wife | asl.wife.female-spouse / female-spouse | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/w/wife.htm) | 2.625 s | Pending |
+| 3dlex-uncle | asl.uncle.parent-sibling-male / parent-sibling-male | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/u/uncle.htm) | 3.208 s | Pending |
+| 3dlex-cousin | asl.cousin.cousin-relative / cousin-relative | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/c/cousin.htm) | 3.208 s | Pending |
+| 3dlex-nephew | asl.nephew.nephew-relative / nephew-relative | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/n/nephew.htm) | 5.292 s | Pending |
+| 3dlex-niece | asl.niece.niece-relative / niece-relative | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/n/niece.htm) | 2.542 s | Pending |
+| 3dlex-grandmother | asl.grandmother.female-grandparent / female-grandparent | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/g/grandmother.htm) | 2.875 s | Pending |
+| 3dlex-grandfather | asl.grandfather.male-grandparent / male-grandparent | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/g/grandfather.htm) | 2.583 s | Pending |
+| 3dlex-parents | asl.parents.parent-relatives / parent-relatives | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/p/parents.htm) | 6.208 s | Pending |
+| 3dlex-adult | asl.adult.adult-person / adult-person | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/a/adult.htm) | 3.042 s | Pending |
+| 3dlex-translate | asl.translate.between-languages / between-languages | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/t/translate.htm) | 4.375 s | Pending |
+| 3dlex-show | asl.show.show-something / show-something | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/show.htm) | 6.458 s | Pending |
+| 3dlex-sentence | asl.sentence.language-sentence / language-sentence | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/sentence.htm) | 2.958 s | Pending |
+| 3dlex-example | asl.example.illustrative-example / illustrative-example | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/e/example.htm) | 7.167 s | Pending |
+| 3dlex-class | asl.class.teaching-group / teaching-group | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/c/class.htm) | 2.875 s | Pending |
+| 3dlex-homework | asl.homework.schoolwork-at-home / schoolwork-at-home | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/h/homework.htm) | 3.958 s | Pending |
+| 3dlex-library | asl.library.book-lending-place / book-lending-place | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/l/library.htm) | 9.125 s | Pending |
+| 3dlex-computer | asl.computer.computing-device / computing-device | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/c/computer.htm) | 3.208 s | Pending |
+| 3dlex-paper | asl.paper.paper-material / paper-material | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/p/paper.htm) | 5.458 s | Pending |
+| 3dlex-test | asl.test.assessment / assessment | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/t/test.htm) | 2.708 s | Pending |
+| 3dlex-afternoon | asl.afternoon.afternoon-time / afternoon-time | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/a/afternoon.htm) | 3.083 s | Pending |
+| 3dlex-hour | asl.hour.hour-duration / hour-duration | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/h/hour.htm) | 3.500 s | Pending |
+| 3dlex-minute | asl.minute.minute-duration / minute-duration | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/m/minute.htm) | 3.167 s | Pending |
+| 3dlex-wednesday | asl.wednesday.weekday-wednesday / weekday-wednesday | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/w/wednesday.htm) | 6.000 s | Pending |
+| 3dlex-thursday | asl.thursday.weekday-thursday / weekday-thursday | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/t/thursday.htm) | 3.167 s | Pending |
+| 3dlex-friday | asl.friday.weekday-friday / weekday-friday | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/f/friday.htm) | 3.167 s | Pending |
+| 3dlex-saturday | asl.saturday.weekday-saturday / weekday-saturday | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/saturday.htm) | 6.208 s | Pending |
+| 3dlex-late | asl.late.late-time / late-time | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/l/late.htm) | 2.875 s | Pending |
+| 3dlex-angry | asl.angry.anger-emotion / anger-emotion | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/a/angry.htm) | 4.542 s | Pending |
+| 3dlex-scared | asl.scared.fear-emotion / fear-emotion | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/scared.htm) | 2.917 s | Pending |
+| 3dlex-worry | asl.worry.worry-emotion / worry-emotion | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/w/worry.htm) | 2.958 s | Pending |
+| 3dlex-bored | asl.bored.boredom / boredom | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/b/bored.htm) | 6.208 s | Pending |
+| 3dlex-lonely | asl.lonely.loneliness / loneliness | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/l/lonely.htm) | 2.375 s | Pending |
+| 3dlex-comfortable | asl.comfortable.physical-comfort / physical-comfort | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/c/comfortable.htm) | 4.000 s | Pending |
+| 3dlex-relax | asl.relax.relax-action / relax-action | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/r/relax.htm) | 3.458 s | Pending |
+| 3dlex-stress | asl.stress.stress-feeling / stress-feeling | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/stress.htm) | 3.333 s | Pending |
+| 3dlex-smile | asl.smile.smiling-action / smiling-action | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/smile.htm) | 6.208 s | Pending |
+| 3dlex-cry | asl.cry.cry-action / cry-action | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/c/cry.htm) | 2.792 s | Pending |
+| 3dlex-easy | asl.easy.low-difficulty / low-difficulty | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/e/easy.htm) | 4.000 s | Pending |
+| 3dlex-hard | asl.hard.high-difficulty / high-difficulty | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/h/hard.htm) | 2.333 s | Pending |
+| 3dlex-different | asl.different.difference / difference | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/d/different.htm) | 3.083 s | Pending |
+| 3dlex-old | asl.old.age-quality / age-quality | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/o/old.htm) | 3.333 s | Pending |
+| 3dlex-young | asl.young.young-age / young-age | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/y/young.htm) | 2.917 s | Pending |
+| 3dlex-bicycle | asl.bicycle.pedal-vehicle / pedal-vehicle | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/b/bicycle.htm) | 5.500 s | Pending |
+| 3dlex-boat | asl.boat.watercraft / watercraft | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/b/boat.htm) | 3.833 s | Pending |
+| 3dlex-bridge | asl.bridge.physical-bridge / physical-bridge | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/b/bridge.htm) | 3.667 s | Pending |
+| 3dlex-city | asl.city.urban-place / urban-place | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/c/city.htm) | 4.167 s | Pending |
+| 3dlex-road | asl.road.roadway / roadway | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/r/road.htm) | 2.792 s | Pending |
+| 3dlex-vacation | asl.vacation.holiday-break / holiday-break | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/v/vacation.htm) | 6.375 s | Pending |
+| 3dlex-ticket | asl.ticket.admission-pass / admission-pass | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/t/ticket.htm) | 3.333 s | Pending |
+| 3dlex-bottle | asl.bottle.container / container | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/b/bottle.htm) | 3.417 s | Pending |
+| 3dlex-bowl | asl.bowl.food-container / food-container | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/b/bowl.htm) | 3.958 s | Pending |
+| 3dlex-cup | asl.cup.drinking-vessel / drinking-vessel | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/c/cup.htm) | 3.125 s | Pending |
+| 3dlex-grapes | asl.grapes.fruit / fruit | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/g/grapes.htm) | 3.083 s | Pending |
+| 3dlex-plate | asl.plate.dish / dish | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/p/plate.htm) | 3.292 s | Pending |
+| 3dlex-salad | asl.salad.prepared-food / prepared-food | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/salad.htm) | 4.125 s | Pending |
+| 3dlex-soda | asl.soda.soft-drink / soft-drink | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/soda.htm) | 3.083 s | Pending |
+| 3dlex-spoon | asl.spoon.eating-utensil / eating-utensil | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/spoon.htm) | 3.250 s | Pending |
+| 3dlex-waiter | asl.waiter.restaurant-worker / restaurant-worker | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/w/waiter.htm) | 3.083 s | Pending |
+| 3dlex-meeting | asl.meeting.gathering / gathering | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/m/meeting.htm) | 3.500 s | Pending |
+| 3dlex-college | asl.college.educational-institution / educational-institution | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/c/college.htm) | 3.417 s | Pending |
+| 3dlex-laptop | asl.laptop.portable-computer / portable-computer | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/l/laptop.htm) | 3.500 s | Pending |
+| 3dlex-newspaper | asl.newspaper.news-publication / news-publication | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/n/newspaper.htm) | 4.125 s | Pending |
+| 3dlex-picture | asl.picture.image / image | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/p/picture.htm) | 4.000 s | Pending |
+| 3dlex-science | asl.science.scientific-study / scientific-study | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/science.htm) | 6.292 s | Pending |
+| 3dlex-study | asl.study.study-action / study-action | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/study.htm) | 9.125 s | Pending |
+| 3dlex-university | asl.university.educational-institution / educational-institution | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/u/university.htm) | 2.875 s | Pending |
+| 3dlex-email | asl.email.electronic-message / electronic-message | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/e/email.htm) | 4.500 s | Pending |
+| 3dlex-internet | asl.internet.computer-network / computer-network | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/i/internet.htm) | 3.708 s | Pending |
+| 3dlex-send | asl.send.send-action / send-action | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/send.htm) | 2.667 s | Pending |
+| 3dlex-share | asl.share.sharing-action / sharing-action | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/share.htm) | 3.333 s | Pending |
+| 3dlex-telephone | asl.telephone.telephone-device / telephone-device | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/t/telephone.htm) | 6.083 s | Pending |
+| 3dlex-blanket | asl.blanket.bed-cover / bed-cover | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/b/blanket.htm) | 3.417 s | Pending |
+| 3dlex-hat | asl.hat.headwear / headwear | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/h/hat.htm) | 2.750 s | Pending |
+| 3dlex-house | asl.house.dwelling / dwelling | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/h/house.htm) | 2.875 s | Pending |
+| 3dlex-jacket | asl.jacket.outerwear / outerwear | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/j/jacket.htm) | 6.208 s | Pending |
+| 3dlex-key | asl.key.lock-key / lock-key | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/k/key.htm) | 2.917 s | Pending |
+| 3dlex-lamp | asl.lamp.lighting-device / lighting-device | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/l/lamp.htm) | 3.125 s | Pending |
+| 3dlex-napkin | asl.napkin.table-cloth / table-cloth | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/n/napkin.htm) | 3.167 s | Pending |
+| 3dlex-sofa | asl.sofa.seating-furniture / seating-furniture | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/sofa.htm) | 5.750 s | Pending |
+| 3dlex-stairs | asl.stairs.steps-structure / steps-structure | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/stairs.htm) | 6.000 s | Pending |
+| 3dlex-cat | asl.cat.domestic-animal / domestic-animal | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/c/cat.htm) | 3.875 s | Pending |
+| 3dlex-dog | asl.dog.domestic-animal / domestic-animal | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/d/dog.htm) | 5.625 s | Pending |
+| 3dlex-duck | asl.duck.waterbird / waterbird | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/d/duck.htm) | 5.250 s | Pending |
+| 3dlex-flower | asl.flower.plant-blossom / plant-blossom | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/f/flower.htm) | 5.833 s | Pending |
+| 3dlex-forest | asl.forest.woodland / woodland | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/f/forest.htm) | 7.250 s | Pending |
+| 3dlex-horse | asl.horse.animal / animal | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/h/horse.htm) | 3.958 s | Pending |
+| 3dlex-rabbit | asl.rabbit.animal / animal | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/r/rabbit.htm) | 2.708 s | Pending |
+| 3dlex-star | asl.star.celestial-body / celestial-body | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/star.htm) | 4.667 s | Pending |
+| 3dlex-tree | asl.tree.woody-plant / woody-plant | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/t/tree.htm) | 5.875 s | Pending |
+| 3dlex-weather | asl.weather.atmospheric-conditions / atmospheric-conditions | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/w/weather.htm) | 3.000 s | Pending |
+| 3dlex-green | asl.green.colour / colour | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/g/green.htm) | 3.250 s | Pending |
+| 3dlex-pink | asl.pink.colour / colour | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/p/pink.htm) | 2.917 s | Pending |
+| 3dlex-purple | asl.purple.colour / colour | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/p/purple.htm) | 3.458 s | Pending |
+| 3dlex-red | asl.red.colour / colour | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/r/red.htm) | 2.625 s | Pending |
+| 3dlex-yellow | asl.yellow.colour / colour | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/y/yellow.htm) | 2.500 s | Pending |
+| 3dlex-summer | asl.summer.season / season | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/summer.htm) | 5.375 s | Pending |
+| 3dlex-introduce | asl.introduce.introducing-person / introducing-person | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/i/introduce.htm) | 2.500 s | Pending |
+| 3dlex-my | asl.my.speaker-possessive / speaker-possessive | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/m/my.htm) | 3.667 s | Pending |
+| 3dlex-your | asl.your.addressee-possessive / addressee-possessive | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/y/your.htm) | 2.542 s | Pending |
+| 3dlex-meet | asl.meet.encounter-person / encounter-person | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/m/meet.htm) | 3.083 s | Pending |
+| 3dlex-age | asl.age.age-concept / age-concept | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/a/age.htm) | 3.750 s | Pending |
+| 3dlex-can | asl.can.ability / ability | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/c/can.htm) | 2.583 s | Pending |
+| 3dlex-enough | asl.enough.sufficient-quantity / sufficient-quantity | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/e/enough.htm) | 2.958 s | Pending |
+| 3dlex-boss | asl.boss.workplace-supervisor / workplace-supervisor | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/b/boss.htm) | 3.875 s | Pending |
+| 3dlex-counselor | asl.counselor.advising-person / advising-person | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/c/counsel.htm) | 3.250 s | Pending |
+| 3dlex-chocolate | asl.chocolate.cocoa-food / cocoa-food | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/c/chocolate.htm) | 3.708 s | Pending |
+| 3dlex-pepper | asl.pepper.pepper-seasoning / pepper-seasoning | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/p/pepper.htm) | 3.833 s | Pending |
+| 3dlex-toast | asl.toast.toasted-bread / toasted-bread | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/t/toast.htm) | 2.750 s | Pending |
+| 3dlex-now | asl.time.now / current-time | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/n/now.htm) | 3.208 s | Pending |
+| 3dlex-first | asl.first.first-in-order / first-in-order | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/f/first.htm) | 5.292 s | Pending |
+| 3dlex-next | asl.next.next-in-sequence / next-in-sequence | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/n/next.htm) | 3.750 s | Pending |
+| 3dlex-future | asl.future.future-time / future-time | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/f/future.htm) | 2.792 s | Pending |
+| 3dlex-here | asl.here.nearby-location / nearby-location | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/h/here.htm) | 3.208 s | Pending |
+| 3dlex-office | asl.office.workplace-room / workplace-room | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/o/office.htm) | 2.958 s | Pending |
+| 3dlex-room | asl.room.enclosed-room / enclosed-room | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/r/room.htm) | 3.042 s | Pending |
+| 3dlex-inside | asl.inside.interior-location / interior-location | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/i/inside.htm) | 3.750 s | Pending |
+| 3dlex-near | asl.near.near-distance / near-distance | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/n/near.htm) | 3.125 s | Pending |
+| 3dlex-far | asl.far.far-distance / far-distance | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/f/far.htm) | 3.250 s | Pending |
+| 3dlex-down | asl.down.downward-direction / downward-direction | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/d/down.htm) | 2.042 s | Pending |
+| 3dlex-open | asl.open.open-object / open-object | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/o/open.htm) | 3.167 s | Pending |
+| 3dlex-give | asl.give.transfer-to-person / transfer-to-person | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/g/give.htm) | 3.083 s | Pending |
+| 3dlex-take | asl.take.take-object / take-object | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/t/take.htm) | 2.792 s | Pending |
+| 3dlex-use | asl.use.use-object / use-object | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/u/use.htm) | 3.625 s | Pending |
+| 3dlex-enter | asl.enter.movement-into / movement-into | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/e/enter.htm) | 4.208 s | Pending |
+| 3dlex-leave | asl.leave.departure / departure | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/l/leave.htm) | 2.417 s | Pending |
+| 3dlex-start | asl.start.begin-action / begin-action | [ASLU reference](https://www.lifeprint.com/asl101/pages-signs/s/start.htm) | 4.792 s | Pending |
+
+For every row check handshape, palm orientation, location, movement, two-hand coordination, skin contact and required facial/body expressions. Compare source motion with the exact retargeted animation. Record reviewer identity/qualification, date, variant, findings and decision against these hashes. Review aliases and inflections independently; approval of a lexical clip does not approve a sentence template.
+
+Priority issues: FAMILY finger/thumb circles and contact; WATER mouth placement and W hand; REMEMBER forehead/contact and long lead-in; PLEASE chest placement and single-hand motion; YOU addressee direction. DRINK container/alcohol/manner variants must remain separate. WANT must not cover DON'T-WANT. WHERE/WHO/WHEN/WHY/HOW lack captured question nonmanuals. HAPPY/SAD/BAD lack captured affect; neutral blinking supplies no grammatical expression. HOME/MOTHER/KNOW/UNDERSTAND require exact facial signing location review. WORK/SCHOOL require contact review. SISTER variant and GO direction must be identified; SORRY is not automatically SORROW. Existing NO is a priority label/variant check.
+
+New everyday priorities: bathroom/toilet room versus fixture; SLEEP finger closure/face clearance; DOCTOR wrist contact and medical variant; HOSPITAL shoulder cross; HURT body location/nonmanuals; COLD temperature versus illness; COFFEE/TEA bilateral contact; TEACHER/STUDENT compound completion; READ/WRITE aspect; temporal compounds/repetitions; MONEY/PAY palm contact and participant direction; signed-language SIGN versus notice/signature; movement intensity in FAST/SLOW; transit versus verb TRAIN; FINISH completed-state versus continue-until-done. Primary evidence and pending cues are in docs/research/everyday-reference-audit-20261012.md and docs/EVERYDAY_EXPANSION.md.
+
+Missing coverage: NEED, GOOD, NAME, LEARN, COME, STOP, FRIEND, LIKE and ME supplied static/conflicting source payloads previously. HOT, MILK, BREAD, HEARING and YEAR were static in the new batch; VEGETABLE, BUY, LANGUAGE, ENGLISH, WEEK, BIG, SMALL, IMPORTANT and THINK carried conflicting placeholder payloads. HELLO was static and THANK_YOU absent. No clip was synthesized from those labels. No alphabet or full grammatical sentence template is approved.

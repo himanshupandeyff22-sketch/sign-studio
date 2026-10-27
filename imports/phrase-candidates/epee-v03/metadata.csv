@@ -1,0 +1,1201 @@
+clip_id,signer_id,phrase_id,parallel,sign_language,text_en,fps,n_frames,oval_detection,gloss_sequence
+clerc_v03_0001,ALPHA,1,yes,ASL,What’s up?,30.0,111,1.0,WHAT'S UP
+clerc_v03_0002,ALPHA,2,yes,ASL,Do you see?,30.0,158,1.0,D-O | YOU | SEE | QUESTION
+clerc_v03_0003,ALPHA,3,yes,ASL,Are you tired?,30.0,114,1.0,YOU | TIRED | QUESTION
+clerc_v03_0004,ALPHA,4,yes,ASL,Are you hungry?,30.0,124,1.0,YOU | HUNGRY | QUESTION
+clerc_v03_0005,ALPHA,5,yes,ASL,Where do you live?,30.0,142,1.0,WHERE | D-O | YOU | LIVE_2 | QUESTION
+clerc_v03_0006,ALPHA,6,yes,ASL,Do you need to help?,30.0,164,1.0,D-O | YOU | NEED | HELP | QUESTION
+clerc_v03_0007,ALPHA,7,yes,ASL,How old are you?,30.0,213,1.0,HOW | OLD | YOU | QUESTION | OLD | YOU | QUESTION
+clerc_v03_0008,ALPHA,8,yes,ASL,How do you feel?,30.0,139,1.0,HOW | YOU | FEEL | QUESTION
+clerc_v03_0009,ALPHA,9,yes,ASL,Thank you,30.0,118,1.0,THANK YOU
+clerc_v03_0010,ALPHA,10,yes,ASL,I do not understand,30.0,148,1.0,I | DON'T | UNDERSTAND
+clerc_v03_0011,ALPHA,11,yes,ASL,Hello,30.0,137,1.0,HELLO
+clerc_v03_0012,ALPHA,12,yes,ASL,Nice to meet you,30.0,173,1.0,NICE | MEET | YOU | NICE | MEET | YOU
+clerc_v03_0013,ALPHA,13,yes,ASL,Good morning,30.0,163,1.0,GOOD | MORNING | GOOD | MORNING
+clerc_v03_0014,ALPHA,14,yes,ASL,Good afternoon,30.0,161,1.0,GOOD | AFTERNOON | GOOD | AFTERNOON
+clerc_v03_0015,ALPHA,15,yes,ASL,Good evening,30.0,158,1.0,GOOD | EVENING | GOOD | EVENING
+clerc_v03_0016,ALPHA,16,yes,ASL,Goodbye,30.0,115,1.0,GOOD BYE | GOOD BYE
+clerc_v03_0017,ALPHA,17,yes,ASL,My name is ___,30.0,225,1.0,MY | NAME | MY | NAME
+clerc_v03_0018,ALPHA,18,yes,ASL,What is your name?,30.0,126,1.0,WHAT | YOUR | NAME | QUESTION
+clerc_v03_0019,ALPHA,19,yes,ASL,Are you hurt?,30.0,114,1.0,YOU | HURT | QUESTION
+clerc_v03_0020,ALPHA,20,yes,ASL,Where are you from?,30.0,172,1.0,WHERE | YOU | FROM | WHERE | YOU | FROM | QUESTION
+clerc_v03_0021,ALPHA,21,yes,ASL,Are you deaf?,30.0,149,1.0,YOU | DEAF | QUESTION | YOU | DEAF | QUESTION
+clerc_v03_0022,ALPHA,22,yes,ASL,Are you student?,30.0,122,1.0,YOU | STUDENT | QUESTION
+clerc_v03_0023,ALPHA,23,yes,ASL,Who is your teacher ?,30.0,144,1.0,WHO | YOUR | TEACHER | QUESTION
+clerc_v03_0024,ALPHA,24,yes,ASL,Do you have backpack?,30.0,131,1.0,YOU | HAVE | BACKPACK | QUESTION
+clerc_v03_0025,ALPHA,25,yes,ASL,Where is the bathroom,30.0,167,1.0,WHERE | BATHROOM | WHERE | BATHROOM
+clerc_v03_0026,ALPHA,26,yes,ASL,Are you crying?,30.0,112,1.0,YOU | CRY | QUESTION
+clerc_v03_0027,ALPHA,27,yes,ASL,How are you?,30.0,112,1.0,HOW_RIGHT_MOVE | YOU | HOW | YOU
+clerc_v03_0028,ALPHA,28,yes,ASL,Are you cold?,30.0,113,1.0,YOU | COLD | QUESTION
+clerc_v03_0029,ALPHA,29,yes,ASL,Are you finished?,30.0,137,1.0,YOU | FINISH | QUESTION | YOU | FINISH | QUESTION
+clerc_v03_0030,ALPHA,30,yes,ASL,Where is your bottle?,30.0,214,1.0,WHERE | YOUR | BOTTLE | BOTTLE | WHERE | YOUR | BOTTLE | QUESTION
+clerc_v03_0031,ALPHA,31,yes,ASL,Where is your banana?,30.0,152,1.0,WHERE | YOUR | BANANA | QUESTION
+clerc_v03_0032,ALPHA,32,yes,ASL,What time is it?,30.0,117,1.0,WHAT | TIME | QUESTION
+clerc_v03_0033,ALPHA,33,yes,ASL,What happened?,30.0,128,1.0,DO | HAPPEN | DO | HAPPEN | QUESTION
+clerc_v03_0034,ALPHA,34,yes,ASL,Are you happy?,30.0,90,1.0,YOU | HAPPY | QUESTION
+clerc_v03_0035,ALPHA,35,yes,ASL,Where are you go?,30.0,155,1.0,WHERE | GO | WHERE | GO | QUESTION
+clerc_v03_0036,ALPHA,36,yes,ASL,Why?,30.0,124,1.0,WHY | WHY | QUESTION
+clerc_v03_0037,ALPHA,37,yes,ASL,How?,30.0,97,1.0,HOW | QUESTION
+clerc_v03_0038,ALPHA,38,yes,ASL,When?,30.0,119,1.0,WHEN | WHEN
+clerc_v03_0039,ALPHA,39,yes,ASL,Are you alright?,30.0,108,1.0,YOU | ALRIGHT | QUESTION
+clerc_v03_0040,ALPHA,40,yes,ASL,See you later,30.0,90,1.0,SEE | YOU | LATER
+clerc_v03_0041,ALPHA,41,yes,ASL,Who?,30.0,84,1.0,WHO | QUESTION
+clerc_v03_0042,ALPHA,42,yes,ASL,Which?,30.0,80,1.0,WHICH | QUESTION
+clerc_v03_0043,ALPHA,43,yes,ASL,Where?,30.0,69,1.0,WHERE | QUESTION
+clerc_v03_0044,ALPHA,44,yes,ASL,What?,30.0,112,1.0,WHAT_2 | WHAT_2 | QUESTION
+clerc_v03_0045,ALPHA,45,yes,ASL,Any help?,30.0,116,1.0,ANY | HELP | QUESTION
+clerc_v03_0046,ALPHA,46,yes,ASL,No problem,30.0,96,1.0,NO | PROBLEM
+clerc_v03_0047,ALPHA,47,yes,ASL,Really?,30.0,124,1.0,REALLY? | REALLY? | QUESTION
+clerc_v03_0048,ALPHA,48,yes,ASL,Do you use ASL?,30.0,138,1.0,YOU | USE | A-S-L | QUESTION
+clerc_v03_0049,ALPHA,49,yes,ASL,Do you like banana pie?,30.0,172,1.0,YOU | LIKE | BANANA | PIE | QUESTION
+clerc_v03_0050,ALPHA,50,yes,ASL,Where is the cafeteria?,30.0,105,1.0,WHERE | CAFETERIA | QUESTION
+clerc_v03_0051,ALPHA,51,yes,ASL,Are you a child?,30.0,101,1.0,YOU | CHILDREN | QUESTION
+clerc_v03_0052,ALPHA,52,yes,ASL,Do you like coffee?,30.0,132,1.0,YOU | LIKE | COFFEE | QUESTION
+clerc_v03_0053,ALPHA,53,yes,ASL,Do you want a pacifier?,30.0,140,1.0,YOU | WANT | PACIFIER | QUESTION
+clerc_v03_0054,ALPHA,54,yes,ASL,Do you want a bottle?,30.0,118,1.0,YOU | WANT | A | BOTTLE | QUESTION
+clerc_v03_0055,ALPHA,55,yes,ASL,Do you want a cracker?,30.0,127,1.0,YOU | WANT | CRACKER | QUESTION
+clerc_v03_0056,ALPHA,56,yes,ASL,Do you want a drink?,30.0,115,1.0,YOU | WANT | DRINK | QUESTION
+clerc_v03_0057,ALPHA,57,yes,ASL,Do you want milk?,30.0,114,1.0,YOU | WANT | MILK | QUESTION
+clerc_v03_0058,ALPHA,58,yes,ASL,Do you want your mommy?,30.0,121,1.0,YOU | WANT | YOUR | MOTHER | QUESTION
+clerc_v03_0059,ALPHA,59,yes,ASL,Do you want more food?,30.0,137,1.0,YOU | WANT | MORE | EAT | QUESTION
+clerc_v03_0060,ALPHA,60,yes,ASL,Do you want more?,30.0,96,1.0,WANT | MORE | QUESTION
+clerc_v03_0061,ALPHA,61,yes,ASL,Do you mind?,30.0,77,1.0,MIND | WHAT
+clerc_v03_0062,ALPHA,62,yes,ASL,Are you feeling sick?,30.0,110,1.0,YOU | FEEL | SICK | QUESTION
+clerc_v03_0063,ALPHA,63,yes,ASL,Who is she/he?,30.0,158,1.0,WHO | IS | SHE | WHO | IS | HE | QUESTION
+clerc_v03_0064,ALPHA,64,yes,ASL,"Hey, what’s your name?",30.0,133,1.0,HEY | WHAT | YOUR | NAME | WHAT | QUESTION
+clerc_v03_0065,ALPHA,65,yes,ASL,How many minutes?,30.0,113,1.0,HOW | MANY | MINUTE | QUESTION
+clerc_v03_0066,ALPHA,66,yes,ASL,How many?,30.0,98,1.0,HOW | MANY | QUESTION
+clerc_v03_0067,ALPHA,67,yes,ASL,How much?,30.0,88,1.0,HOW | MUCH | QUESTION
+clerc_v03_0068,ALPHA,68,yes,ASL,Where are you hurt?,30.0,74,1.0,HURT | WHERE
+clerc_v03_0069,ALPHA,69,yes,ASL,Need a bathroom?,30.0,99,1.0,NEED | BATHROOM | QUESTION
+clerc_v03_0070,ALPHA,70,yes,ASL,Is she/he a student?,30.0,131,1.0,IS | INTRODUCE | STUDENT | QUESTION
+clerc_v03_0071,ALPHA,71,yes,ASL,Do you want to join?,30.0,107,1.0,YOU | WANT | JOIN | QUESTION
+clerc_v03_0072,ALPHA,72,yes,ASL,What for?,30.0,56,1.0,FOR
+clerc_v03_0073,ALPHA,73,yes,ASL,What kind?,30.0,84,1.0,WHAT | KIND | QUESTION
+clerc_v03_0074,ALPHA,74,yes,ASL,What’s wrong?,30.0,54,1.0,WRONG
+clerc_v03_0075,ALPHA,75,yes,ASL,What are you afraid of?,30.0,117,1.0,WHAT | YOU | AFRAID | O-F | QUESTION
+clerc_v03_0076,ALPHA,76,yes,ASL,Where were you born?,30.0,108,1.0,WHERE | YOU | BORN | QUESTION
+clerc_v03_0077,ALPHA,77,yes,ASL,What do you collect?,30.0,144,1.0,WHAT | YOU | COLLECT | QUESTION
+clerc_v03_0078,ALPHA,78,yes,ASL,How do you earn money?,30.0,151,1.0,HOW | YOU | EARN | MONEY | QUESTION
+clerc_v03_0079,ALPHA,79,yes,ASL,What do you enjoy?,30.0,119,1.0,WHAT | D-O | YOU | ENJOY | QUESTION
+clerc_v03_0080,ALPHA,80,yes,ASL,What exercise do you do?,30.0,129,1.0,WHAT | EXERCISE | YOU | DO_2 | QUESTION
+clerc_v03_0081,ALPHA,81,yes,ASL,Are you feeling angry?,30.0,110,1.0,YOU | FEEL | ANGRY | QUESTION
+clerc_v03_0082,ALPHA,82,yes,ASL,Why are you going to the dentist?,30.0,147,1.0,WHY | YOU | GO | DENTIST | QUESTION
+clerc_v03_0083,ALPHA,83,yes,ASL,Why are you going to the doctor?,30.0,115,1.0,WHY | YOU | GO | DOCTOR | QUESTION
+clerc_v03_0084,ALPHA,84,yes,ASL,When do you graduate?,30.0,108,1.0,WHEN | YOU | GRADUATE | QUESTION
+clerc_v03_0085,ALPHA,85,yes,ASL,Do you have a baby?,30.0,101,1.0,YOU | HAVE | BABY | QUESTION
+clerc_v03_0086,ALPHA,86,yes,ASL,Do you have a hammer?,30.0,117,1.0,YOU | HAVE | HAMMER | QUESTION
+clerc_v03_0087,ALPHA,87,yes,ASL,Do you have an ID?,30.0,94,1.0,YOU | HAVE | I.D | QUESTION
+clerc_v03_0088,ALPHA,88,yes,ASL,Do you have a sister?,30.0,112,1.0,YOU | HAVE | SISTER | QUESTION
+clerc_v03_0089,ALPHA,89,yes,ASL,How tall are you?,30.0,127,1.0,HOW TALL | ARE | YOU | QUESTION
+clerc_v03_0090,ALPHA,90,yes,ASL,Do you know ASL?,30.0,109,1.0,YOU | KNOW | A-S-L | QUESTION
+clerc_v03_0091,ALPHA,91,yes,ASL,Do you like to cook?,30.0,117,1.0,YOU | LIKE | COOK | COOK | QUESTION
+clerc_v03_0092,ALPHA,92,yes,ASL,Do you like to dance?,30.0,109,1.0,YOU | LIKE | DANCE | QUESTION
+clerc_v03_0093,ALPHA,93,yes,ASL,Do you like to fish?,30.0,159,1.0,YOU | LIKE | FISHING | QUESTION
+clerc_v03_0094,ALPHA,94,yes,ASL,Do you like to learn sign language?,30.0,173,1.0,YOU | LIKE | LEARN | SIGN_3 | LANGUAGE | QUESTION
+clerc_v03_0095,ALPHA,95,yes,ASL,Do you like math?,30.0,108,1.0,YOU | LIKE | MATH | QUESTION
+clerc_v03_0096,ALPHA,96,yes,ASL,Do you like meat?,30.0,106,1.0,YOU | LIKE | MEAT | QUESTION
+clerc_v03_0097,ALPHA,97,yes,ASL,11 days,30.0,101,1.0,11 | DAY
+clerc_v03_0098,ALPHA,98,yes,ASL,12 days,30.0,77,1.0,12 | DAY
+clerc_v03_0099,ALPHA,99,yes,ASL,13 months,30.0,78,1.0,13 | MONTH
+clerc_v03_0100,ALPHA,100,yes,ASL,14 hours,30.0,84,1.0,14 | HOUR
+clerc_v03_0101,ALPHA,101,yes,ASL,14 seconds,30.0,56,1.0,14 | SECONDS
+clerc_v03_0102,ALPHA,102,yes,ASL,15th century,30.0,108,1.0,15 | T-H | C-E-N-T-U-R-Y
+clerc_v03_0103,ALPHA,103,yes,ASL,16 inches,30.0,75,1.0,16 | INCH
+clerc_v03_0104,ALPHA,104,yes,ASL,187 pounds,30.0,109,1.0,187 | POUND
+clerc_v03_0105,ALPHA,105,yes,ASL,2 days ago,30.0,73,1.0,2 DAYS | BEFORE
+clerc_v03_0106,ALPHA,106,yes,ASL,2011 years,30.0,107,1.0,2011 | YEAR
+clerc_v03_0107,ALPHA,107,yes,ASL,21st century,30.0,85,1.0,21 | C-E-N-T-U-R-Y
+clerc_v03_0108,ALPHA,108,yes,ASL,27 pounds,30.0,78,1.0,27 | POUND
+clerc_v03_0109,ALPHA,109,yes,ASL,3 days ago,30.0,65,1.0,3 DAYS | BEFORE
+clerc_v03_0110,ALPHA,110,yes,ASL,3 dollars,30.0,33,1.0,3 DOLLARS
+clerc_v03_0111,ALPHA,111,yes,ASL,3 hours,30.0,57,1.0,3 HOURS
+clerc_v03_0112,ALPHA,112,yes,ASL,3 years ago,30.0,67,1.0,3 YEARS | BEFORE
+clerc_v03_0113,ALPHA,113,yes,ASL,300 miles,30.0,60,1.0,300 | M-I-L-E-S
+clerc_v03_0114,ALPHA,114,yes,ASL,3 a.m.,30.0,68,1.0,3A.M
+clerc_v03_0115,ALPHA,115,yes,ASL,3 months ago,30.0,52,1.0,3 MONTHS | BEFORE
+clerc_v03_0116,ALPHA,116,yes,ASL,3 weeks ago,30.0,59,1.0,3 WEEKS AGO
+clerc_v03_0117,ALPHA,117,yes,ASL,4 days,30.0,51,1.0,4 DAYS
+clerc_v03_0118,ALPHA,118,yes,ASL,Fourth of July,30.0,86,1.0,FOURTH | O-F | J-U-L-Y
+clerc_v03_0119,ALPHA,119,yes,ASL,5 dollars,30.0,43,1.0,5 DOLLARS
+clerc_v03_0120,ALPHA,120,yes,ASL,6 hours,30.0,69,1.0,6 HOURS
+clerc_v03_0121,ALPHA,121,yes,ASL,6 weeks,30.0,53,1.0,6 WEEKS
+clerc_v03_0122,ALPHA,122,yes,ASL,7 cents,30.0,63,1.0,7 | CENT
+clerc_v03_0123,ALPHA,123,yes,ASL,7 minutes,30.0,64,1.0,7 MINUTES
+clerc_v03_0124,ALPHA,124,yes,ASL,7 hours,30.0,64,0.9844,7 HOURS
+clerc_v03_0125,ALPHA,125,yes,ASL,8 months,30.0,46,1.0,8 MONTHS
+clerc_v03_0126,ALPHA,126,yes,ASL,9 weeks,30.0,49,1.0,9 WEEKS
+clerc_v03_0127,ALPHA,127,yes,ASL,12 cents,30.0,64,1.0,12 | CENT
+clerc_v03_0128,ALPHA,128,yes,ASL,18 cents,30.0,62,1.0,18 | CENT
+clerc_v03_0129,ALPHA,129,yes,ASL,20 cents,30.0,49,1.0,20 | CENT
+clerc_v03_0130,ALPHA,130,yes,ASL,25 cents,30.0,51,1.0,25 | CENT
+clerc_v03_0131,ALPHA,131,yes,ASL,2 years,30.0,59,1.0,2 YEARS
+clerc_v03_0132,ALPHA,132,yes,ASL,37 dollars,30.0,72,1.0,37 | DOLLAR
+clerc_v03_0133,ALPHA,133,yes,ASL,5 cents,30.0,90,1.0,5 | CENT | 5 | CENT
+clerc_v03_0134,ALPHA,134,yes,ASL,63 cents,30.0,64,1.0,63 | CENT
+clerc_v03_0135,ALPHA,135,yes,ASL,All night,30.0,95,1.0,ALL NIGHT
+clerc_v03_0136,ALPHA,136,yes,ASL,How many aunts do you have?,30.0,124,1.0,HOW | MANY | AUNT | YOU | HAVE | QUESTION
+clerc_v03_0137,ALPHA,137,yes,ASL,Why is the baby crying?,30.0,103,1.0,WHY | BABY | CRY | QUESTION
+clerc_v03_0138,ALPHA,138,yes,ASL,Is the bathroom available?,30.0,98,1.0,POINTER_RIGHT | BATHROOM | AVAILABLE | QUESTION
+clerc_v03_0139,ALPHA,139,yes,ASL,How many brothers do you have?,30.0,120,1.0,HOW | MANY | BROTHER | HAVE | QUESTION
+clerc_v03_0140,ALPHA,140,yes,ASL,How many brothers-in-law do you have?,30.0,150,1.0,HOW | MANY | BROTHER | IN | LAW | YOU | HAVE | QUESTION
+clerc_v03_0141,ALPHA,141,yes,ASL,Can you breathe?,30.0,96,1.0,CAN | YOU | BREATH | QUESTION
+clerc_v03_0142,ALPHA,142,yes,ASL,Can you keep a secret?,30.0,106,1.0,CAN | YOU | KEEP | SECRET | QUESTION
+clerc_v03_0143,ALPHA,143,yes,ASL,How many children do you have?,30.0,106,1.0,MANY | CHILDREN | YOU | HAVE | QUESTION
+clerc_v03_0144,ALPHA,144,yes,ASL,How many cousins do you have?,30.0,136,1.0,HOW | MANY | COUSIN | COUSIN | YOU | HAVE | QUESTION
+clerc_v03_0145,ALPHA,145,yes,ASL,Daddy loves you!,30.0,79,0.9873,FATHER | LOVE | YOU
+clerc_v03_0146,ALPHA,146,yes,ASL,Do you love Dad?,30.0,90,1.0,D-O | YOU | LOVE | FATHER | QUESTION
+clerc_v03_0147,ALPHA,147,yes,ASL,Every afternoon,30.0,76,1.0,EVERY AFTERNOON
+clerc_v03_0148,ALPHA,148,yes,ASL,10 months,30.0,50,1.0,10 | MONTH
+clerc_v03_0149,ALPHA,149,yes,ASL,The year 1985,30.0,113,1.0,THE | YEAR | 1985
+clerc_v03_0150,ALPHA,150,yes,ASL,2 weeks from now,30.0,78,1.0,2 WEEKS | FROM | NOW
+clerc_v03_0151,ALPHA,151,yes,ASL,What is your excuse?,30.0,141,1.0,WHAT | YOUR | EXCUSE | QUESTION
+clerc_v03_0152,ALPHA,152,yes,ASL,I’m hearing,30.0,121,1.0,I | HEARING
+clerc_v03_0153,ALPHA,153,yes,ASL,The 3rd week of the month,30.0,94,1.0,THIRD | WEEK | O-F | MONTH
+clerc_v03_0154,ALPHA,154,yes,ASL,7 years old,30.0,76,1.0,7 YEARS OLD | YEAR | OLD
+clerc_v03_0155,ALPHA,155,yes,ASL,"Again,  what’s your name?",30.0,91,1.0,AGAIN | WHAT | YOUR | NAME | QUESTION
+clerc_v03_0156,ALPHA,156,yes,ASL,How far is the airport?,30.0,100,1.0,HOW FAR | AIRPORT | QUESTION
+clerc_v03_0157,ALPHA,157,yes,ASL,All day,30.0,75,1.0,ALL DAY
+clerc_v03_0158,ALPHA,158,yes,ASL,Do you have any allergies?,30.0,118,1.0,D-O | YOU | HAVE | ANY | ALLERGIC_2 | QUESTION
+clerc_v03_0159,ALPHA,159,yes,ASL,All morning,30.0,69,1.0,ALL MORNING
+clerc_v03_0160,ALPHA,160,yes,ASL,Ask me,30.0,61,1.0,ASK ME
+clerc_v03_0161,ALPHA,161,yes,ASL,Are you an ASL teacher?,30.0,107,1.0,ARE | YOU | A-S-L | TEACHER | QUESTION
+clerc_v03_0162,ALPHA,162,yes,ASL,Do you like to play basketball?,30.0,133,1.0,D-O | YOU | LIKE | PLAY | BASKETBALL | QUESTION
+clerc_v03_0163,ALPHA,163,yes,ASL,Be yourself,30.0,61,1.0,B-E | YOURSELF
+clerc_v03_0164,ALPHA,164,yes,ASL,Black people,30.0,78,1.0,BLACK | PEOPLE
+clerc_v03_0165,ALPHA,165,yes,ASL,Where does Bob sit?,30.0,86,1.0,WHERE | B-O-B | SEAT | QUESTION
+clerc_v03_0166,ALPHA,166,yes,ASL,Why did the boss fire the worker?,30.0,103,1.0,WHY | BOSS | FIRE | WORK | QUESTION
+clerc_v03_0167,ALPHA,167,yes,ASL,Break up,30.0,72,1.0,BREAK UP
+clerc_v03_0168,ALPHA,168,yes,ASL,Break in,30.0,56,1.0,BREAK IN
+clerc_v03_0169,ALPHA,169,yes,ASL,Bring it here,30.0,65,1.0,BRING IT HERE | HERE
+clerc_v03_0170,ALPHA,170,yes,ASL,Brother-in-law,30.0,92,1.0,BROTHER | IN | LAW
+clerc_v03_0171,ALPHA,171,yes,ASL,Call me,30.0,61,1.0,CALL ME | I
+clerc_v03_0172,ALPHA,172,yes,ASL,Can you drive?,30.0,83,1.0,CAN | YOU | CAR | QUESTION
+clerc_v03_0173,ALPHA,173,yes,ASL,Catch a ball,30.0,66,1.0,CATCH A BALL | A | BALL
+clerc_v03_0174,ALPHA,174,yes,ASL,Character role,30.0,80,1.0,CHARACTER | ROLE
+clerc_v03_0175,ALPHA,175,yes,ASL,Check in,30.0,64,1.0,CHECK | IN
+clerc_v03_0176,ALPHA,176,yes,ASL,Do you have a scarf?,30.0,122,1.0,YOU | HAVE | SCARF | QUESTION
+clerc_v03_0177,ALPHA,177,yes,ASL,Do you like to play chess?,30.0,125,1.0,D-O | YOU | LIKE | PLAY | C-H-E-S-S | QUESTION
+clerc_v03_0178,ALPHA,178,yes,ASL,Do you live in the city?,30.0,137,1.0,D-O | YOU | LIVE_L | IN | THE | CITY | QUESTION
+clerc_v03_0179,ALPHA,179,yes,ASL,Clean up,30.0,56,1.0,CLEAN | U-P
+clerc_v03_0180,ALPHA,180,yes,ASL,"Come here,  please",30.0,72,1.0,COME HERE_2 | PLEASE
+clerc_v03_0181,ALPHA,181,yes,ASL,Come to daddy,30.0,79,1.0,COME ME | TO | FATHER
+clerc_v03_0182,ALPHA,182,yes,ASL,Contact me,30.0,66,1.0,CONTACT ME | I
+clerc_v03_0183,ALPHA,183,yes,ASL,Copy me,30.0,64,1.0,COPY ME | I
+clerc_v03_0184,ALPHA,184,yes,ASL,Deaf culture,30.0,70,1.0,DEAF | CULTURE
+clerc_v03_0185,ALPHA,185,yes,ASL,Deaf event,30.0,64,1.0,DEAF | EVENT
+clerc_v03_0186,ALPHA,186,yes,ASL,Deaf school,30.0,69,1.0,DEAF | SCHOOL
+clerc_v03_0187,ALPHA,187,yes,ASL,Do you like to study English?,30.0,109,1.0,YOU | LIKE | STUDY | ENGLISH | QUESTION
+clerc_v03_0188,ALPHA,188,yes,ASL,Every Friday,30.0,85,1.0,EVERY | EVERY FRIDAY
+clerc_v03_0189,ALPHA,189,yes,ASL,Every Monday,30.0,58,1.0,EVERY | MONDAY
+clerc_v03_0190,ALPHA,190,yes,ASL,Every month,30.0,69,1.0,EVERY MONTH
+clerc_v03_0191,ALPHA,191,yes,ASL,Every morning,30.0,85,1.0,EVERY | EVERY MORNING
+clerc_v03_0192,ALPHA,192,yes,ASL,Every Saturday,30.0,66,1.0,EVERY | EVERY SATURDAY
+clerc_v03_0193,ALPHA,193,yes,ASL,Every Sunday,30.0,68,1.0,EVERY | EVERY SUNDAY
+clerc_v03_0194,ALPHA,194,yes,ASL,Every Thursday,30.0,73,1.0,EVERY | EVERY THURSDAY
+clerc_v03_0195,ALPHA,195,yes,ASL,Every Tuesday,30.0,59,1.0,EVERY | EVERY TUESDAY
+clerc_v03_0196,ALPHA,196,yes,ASL,Every two years,30.0,73,1.0,EVERY 2 YEARS
+clerc_v03_0197,ALPHA,197,yes,ASL,Every Wednesday,30.0,57,1.0,EVERY | EVERY WEDNESDAY
+clerc_v03_0198,ALPHA,198,yes,ASL,Every week,30.0,69,1.0,EVERY | EVERY WEEK
+clerc_v03_0199,ALPHA,199,yes,ASL,100 percent,30.0,53,0.9811,100 | PERCENT
+clerc_v03_0200,ALPHA,200,yes,ASL,106 degrees,30.0,116,1.0,106 | DEGREES
+clerc_v03_0201,BRAVO,1,yes,ASL,What’s up?,30.0,139,1.0,WHAT'S UP | WHAT | QUESTION
+clerc_v03_0202,BRAVO,2,yes,ASL,Do you see?,30.0,130,1.0,D-O | YOU | SEE | QUESTION
+clerc_v03_0203,BRAVO,3,yes,ASL,Are you tired?,30.0,137,1.0,YOU | TIRED | QUESTION
+clerc_v03_0204,BRAVO,4,yes,ASL,Are you hungry?,30.0,166,1.0,YOU | HUNGRY | QUESTION
+clerc_v03_0205,BRAVO,5,yes,ASL,Where do you live?,30.0,155,1.0,WHERE | YOU | LIVE | QUESTION
+clerc_v03_0206,BRAVO,6,yes,ASL,Do you need to help?,30.0,153,1.0,YOU | NEED | HELP | QUESTION
+clerc_v03_0207,BRAVO,7,yes,ASL,How old are you?,30.0,104,1.0,YOU | OLD
+clerc_v03_0208,BRAVO,8,yes,ASL,How do you feel?,30.0,141,1.0,YOU | FEEL | HOW | QUESTION
+clerc_v03_0209,BRAVO,9,yes,ASL,Thank you,30.0,94,1.0,THANK YOU
+clerc_v03_0210,BRAVO,10,yes,ASL,I do not understand,30.0,126,1.0,I | UNDERSTAND | DON'T
+clerc_v03_0211,BRAVO,11,yes,ASL,Hello,30.0,88,1.0,HELLO
+clerc_v03_0212,BRAVO,12,yes,ASL,Nice to meet you,30.0,128,1.0,NICE | MEET | YOU
+clerc_v03_0213,BRAVO,13,yes,ASL,Good morning,30.0,117,1.0,GOOD | MORNING
+clerc_v03_0214,BRAVO,14,yes,ASL,Good afternoon,30.0,127,1.0,GOOD | AFTERNOON
+clerc_v03_0215,BRAVO,15,yes,ASL,Good evening,30.0,131,1.0,GOOD | EVENING
+clerc_v03_0216,BRAVO,16,yes,ASL,Goodbye,30.0,111,1.0,GOOD | BYE
+clerc_v03_0217,BRAVO,17,yes,ASL,My name is ___,30.0,103,1.0,MY | NAME
+clerc_v03_0218,BRAVO,18,yes,ASL,What is your name?,30.0,134,1.0,YOUR | NAME | WHAT | QUESTION
+clerc_v03_0219,BRAVO,19,yes,ASL,Are you hurt?,30.0,137,1.0,YOU | HURT | QUESTION
+clerc_v03_0220,BRAVO,20,yes,ASL,Where are you from?,30.0,124,1.0,YOU | FROM | WHERE
+clerc_v03_0221,BRAVO,21,yes,ASL,Are you deaf?,30.0,116,1.0,YOU | DEAF | QUESTION
+clerc_v03_0222,BRAVO,22,yes,ASL,Are you student?,30.0,129,1.0,YOU | STUDENT | QUESTION
+clerc_v03_0223,BRAVO,23,yes,ASL,Who is your teacher ?,30.0,153,1.0,YOUR | TEACHER | WHO
+clerc_v03_0224,BRAVO,24,yes,ASL,Do you have backpack?,30.0,160,1.0,BACKPACK | YOU | HAVE | QUESTION
+clerc_v03_0225,BRAVO,25,yes,ASL,Where is the bathroom,30.0,132,1.0,BATHROOM | WHERE | WHAT
+clerc_v03_0226,BRAVO,26,yes,ASL,Are you crying?,30.0,119,1.0,YOU | CRYING | QUESTION
+clerc_v03_0227,BRAVO,27,yes,ASL,How are you?,30.0,84,1.0,HOW_RIGHT_MOVE | YOU
+clerc_v03_0228,BRAVO,28,yes,ASL,Are you cold?,30.0,112,1.0,YOU | COLD | QUESTION
+clerc_v03_0229,BRAVO,29,yes,ASL,Are you finished?,30.0,99,1.0,YOU | FINISH | QUESTION
+clerc_v03_0230,BRAVO,30,yes,ASL,Where is your bottle?,30.0,141,1.0,YOUR | BOTTLE | WHERE
+clerc_v03_0231,BRAVO,31,yes,ASL,Where is your banana?,30.0,149,1.0,YOUR | BANANA | WHERE
+clerc_v03_0232,BRAVO,32,yes,ASL,What time is it?,30.0,105,1.0,TIME | WHAT
+clerc_v03_0233,BRAVO,33,yes,ASL,What happened?,30.0,96,1.0,WHAT | HAPPEN
+clerc_v03_0234,BRAVO,34,yes,ASL,Are you happy?,30.0,127,1.0,YOU | HAPPY | QUESTION
+clerc_v03_0235,BRAVO,35,yes,ASL,Where are you go?,30.0,101,1.0,YOU | GO_2 | WHERE | QUESTION
+clerc_v03_0236,BRAVO,36,yes,ASL,Why?,30.0,83,1.0,WHY
+clerc_v03_0237,BRAVO,37,yes,ASL,How?,30.0,86,1.0,HOW_RIGHT_MOVE
+clerc_v03_0238,BRAVO,38,yes,ASL,When?,30.0,78,1.0,WHEN
+clerc_v03_0239,BRAVO,39,yes,ASL,Are you alright?,30.0,92,1.0,YOU | ALRIGHT | QUESTION
+clerc_v03_0240,BRAVO,40,yes,ASL,See you later,30.0,94,1.0,SEE | YOU | LATER
+clerc_v03_0241,BRAVO,41,yes,ASL,Who?,30.0,99,1.0,WHO | QUESTION
+clerc_v03_0242,BRAVO,42,yes,ASL,Which?,30.0,119,1.0,WHICH | QUESTION
+clerc_v03_0243,BRAVO,43,yes,ASL,Where?,30.0,121,1.0,WHERE | WHERE | WHAT
+clerc_v03_0244,BRAVO,44,yes,ASL,What?,30.0,66,1.0,WHAT_3
+clerc_v03_0245,BRAVO,45,yes,ASL,Any help?,30.0,103,1.0,ANY | HELP | QUESTION
+clerc_v03_0246,BRAVO,46,yes,ASL,No problem,30.0,96,1.0,NOTHING | PROBLEM
+clerc_v03_0247,BRAVO,47,yes,ASL,Really?,30.0,107,1.0,REALLY?_2 | QUESTION
+clerc_v03_0248,BRAVO,48,yes,ASL,Do you use ASL?,30.0,125,1.0,D-O | YOU | USE | A-S-L | QUESTION
+clerc_v03_0249,BRAVO,49,yes,ASL,Do you like banana pie?,30.0,158,1.0,YOU | LIKE | BANANA | PIE
+clerc_v03_0250,BRAVO,50,yes,ASL,Where is the cafeteria?,30.0,129,1.0,CAFETERIA | WHERE | QUESTION
+clerc_v03_0251,BRAVO,51,yes,ASL,Are you a child?,30.0,128,1.0,YOU | CHILD | QUESTION
+clerc_v03_0252,BRAVO,52,yes,ASL,Do you like coffee?,30.0,126,1.0,YOU | LIKE | COFFEE | QUESTION
+clerc_v03_0253,BRAVO,53,yes,ASL,Do you want a pacifier?,30.0,129,1.0,YOU | WANT | PACIFIER | QUESTION
+clerc_v03_0254,BRAVO,54,yes,ASL,Do you want a bottle?,30.0,118,1.0,YOU | WANT | BOTTLE | QUESTION
+clerc_v03_0255,BRAVO,55,yes,ASL,Do you want a cracker?,30.0,160,1.0,YOU | WANT | CRACKER | QUESTION
+clerc_v03_0256,BRAVO,56,yes,ASL,Do you want a drink?,30.0,134,1.0,YOU | WANT | DRINK | QUESTION
+clerc_v03_0257,BRAVO,57,yes,ASL,Do you want milk?,30.0,125,1.0,YOU | WANT | MILK | QUESTION
+clerc_v03_0258,BRAVO,58,yes,ASL,Do you want your mommy?,30.0,129,1.0,YOU | WANT | YOUR | MOTHER | QUESTION
+clerc_v03_0259,BRAVO,59,yes,ASL,Do you want more food?,30.0,139,1.0,YOU | WANT | MORE | EAT | QUESTION
+clerc_v03_0260,BRAVO,60,yes,ASL,Do you want more?,30.0,109,1.0,YOU | WANT | MORE | QUESTION
+clerc_v03_0261,BRAVO,61,yes,ASL,Do you mind?,30.0,97,1.0,YOU | MIND | QUESTION
+clerc_v03_0262,BRAVO,62,yes,ASL,Are you feeling sick?,30.0,132,1.0,YOU | FEEL | SICK | QUESTION
+clerc_v03_0263,BRAVO,63,yes,ASL,Who is she/he?,30.0,167,1.0,WHO | POINTER_RIGHT | WOMAN | WHO | POINTER_RIGHT | MAN
+clerc_v03_0264,BRAVO,64,yes,ASL,"Hey, what’s your name?",30.0,90,1.0,HELLO | YOUR | NAME | WHAT
+clerc_v03_0265,BRAVO,65,yes,ASL,How many minutes?,30.0,123,1.0,HOW | HOW MANY | MINUTE
+clerc_v03_0266,BRAVO,66,yes,ASL,How many?,30.0,99,1.0,HOW | HOW MANY | QUESTION
+clerc_v03_0267,BRAVO,67,yes,ASL,How much?,30.0,105,1.0,HOW | LOT | QUESTION
+clerc_v03_0268,BRAVO,68,yes,ASL,Where are you hurt?,30.0,111,1.0,WHERE | YOU | HURT | QUESTION
+clerc_v03_0269,BRAVO,69,yes,ASL,Need a bathroom?,30.0,110,1.0,NEED | BATHROOM | QUESTION
+clerc_v03_0270,BRAVO,70,yes,ASL,Is she/he a student?,30.0,210,1.0,POINTER_RIGHT | WOMAN | STUDENT | POINTER_LEFT | MAN | STUDENT | QUESTION
+clerc_v03_0271,BRAVO,71,yes,ASL,Do you want to join?,30.0,128,1.0,YOU | WANT | JOIN | QUESTION
+clerc_v03_0272,BRAVO,72,yes,ASL,What for?,30.0,90,1.0,FOR | WHAT | QUESTION
+clerc_v03_0273,BRAVO,73,yes,ASL,What kind?,30.0,141,1.0,KIND | WHAT | QUESTION
+clerc_v03_0274,BRAVO,74,yes,ASL,What’s wrong?,30.0,100,1.0,WRONG | WHAT | QUESTION
+clerc_v03_0275,BRAVO,75,yes,ASL,What are you afraid of?,30.0,138,1.0,YOU | AFRAID | O-F | WHAT
+clerc_v03_0276,BRAVO,76,yes,ASL,Where were you born?,30.0,154,1.0,YOU | BORN | WHERE | PAST_R | QUESTION
+clerc_v03_0277,BRAVO,77,yes,ASL,What do you collect?,30.0,120,1.0,YOU | COLLECT | WHAT | QUESTION
+clerc_v03_0278,BRAVO,78,yes,ASL,How do you earn money?,30.0,125,1.0,YOU | EARN | MONEY | HOW_RIGHT_MOVE
+clerc_v03_0279,BRAVO,79,yes,ASL,What do you enjoy?,30.0,117,1.0,YOU | HAPPY | WHAT | QUESTION
+clerc_v03_0280,BRAVO,80,yes,ASL,What exercise do you do?,30.0,184,1.0,YOU | EXERCISE | DO | WHAT
+clerc_v03_0281,BRAVO,81,yes,ASL,Are you feeling angry?,30.0,130,1.0,YOU | FEEL | ANGRY | QUESTION
+clerc_v03_0282,BRAVO,82,yes,ASL,Why are you going to the dentist?,30.0,121,1.0,YOU | GO_LEFT | DENTIST | WHY
+clerc_v03_0283,BRAVO,83,yes,ASL,Why are you going to the doctor?,30.0,126,1.0,YOU | GO_LEFT | DOCTOR | WHY_2 | QUESTION
+clerc_v03_0284,BRAVO,84,yes,ASL,When do you graduate?,30.0,154,1.0,YOU | GRADUATE | WHEN | QUESTION
+clerc_v03_0285,BRAVO,85,yes,ASL,Do you have a baby?,30.0,110,1.0,YOU | HAVE | BABY | QUESTION
+clerc_v03_0286,BRAVO,86,yes,ASL,Do you have a hammer?,30.0,136,1.0,YOU | HAVE | HAMMER | QUESTION
+clerc_v03_0287,BRAVO,87,yes,ASL,Do you have an ID?,30.0,129,1.0,YOU | HAVE | I-D | CARD | QUESTION
+clerc_v03_0288,BRAVO,88,yes,ASL,Do you have a sister?,30.0,104,1.0,SISTER | YOU | HAVE | QUESTION
+clerc_v03_0289,BRAVO,89,yes,ASL,How tall are you?,30.0,110,1.0,YOU | TALL | HOW | WHAT
+clerc_v03_0290,BRAVO,90,yes,ASL,Do you know ASL?,30.0,108,1.0,YOU | KNOW | A-S-L | QUESTION
+clerc_v03_0291,BRAVO,91,yes,ASL,Do you like to cook?,30.0,131,1.0,YOU | LIKE | COOK | QUESTION
+clerc_v03_0292,BRAVO,92,yes,ASL,Do you like to dance?,30.0,135,1.0,YOU | LIKE | DANCE | QUESTION
+clerc_v03_0293,BRAVO,93,yes,ASL,Do you like to fish?,30.0,120,1.0,YOU | LIKE | FISH ANIMAL | QUESTION
+clerc_v03_0294,BRAVO,94,yes,ASL,Do you like to learn sign language?,30.0,147,1.0,YOU | LIKE | LEARN | SIGN_4 | QUESTION
+clerc_v03_0295,BRAVO,95,yes,ASL,Do you like math?,30.0,112,1.0,YOU | LIKE | MATH | QUESTION
+clerc_v03_0296,BRAVO,96,yes,ASL,Do you like meat?,30.0,148,1.0,YOU | LIKE | MEAT | QUESTION
+clerc_v03_0297,BRAVO,97,yes,ASL,11 days,30.0,196,1.0,11 | DAY
+clerc_v03_0298,BRAVO,98,yes,ASL,12 days,30.0,105,1.0,12 | DAY
+clerc_v03_0299,BRAVO,99,yes,ASL,13 months,30.0,122,1.0,13 | MONTH
+clerc_v03_0300,BRAVO,100,yes,ASL,14 hours,30.0,169,1.0,14 | HOUR
+clerc_v03_0301,BRAVO,101,yes,ASL,14 seconds,30.0,131,1.0,14 | S-E-C
+clerc_v03_0302,BRAVO,102,yes,ASL,15th century,30.0,122,1.0,15 | T-H | CENTURY
+clerc_v03_0303,BRAVO,103,yes,ASL,16 inches,30.0,180,1.0,16 | I-N-C-H | SIZE
+clerc_v03_0304,BRAVO,104,yes,ASL,187 pounds,30.0,156,1.0,187 | POUND
+clerc_v03_0305,BRAVO,105,yes,ASL,2 days ago,30.0,97,1.0,2 DAYS AGO
+clerc_v03_0306,BRAVO,106,yes,ASL,2011 years,30.0,134,1.0,2011 | YEAR
+clerc_v03_0307,BRAVO,107,yes,ASL,21st century,30.0,132,1.0,21 | CENTURY
+clerc_v03_0308,BRAVO,108,yes,ASL,27 pounds,30.0,125,1.0,27 | POUND
+clerc_v03_0309,BRAVO,109,yes,ASL,3 days ago,30.0,122,1.0,3 DAYS AGO
+clerc_v03_0310,BRAVO,110,yes,ASL,3 dollars,30.0,106,1.0,3 | DOLLAR
+clerc_v03_0311,BRAVO,111,yes,ASL,3 hours,30.0,111,1.0,3 HOURS
+clerc_v03_0312,BRAVO,112,yes,ASL,3 years ago,30.0,112,1.0,3 YEARS AGO
+clerc_v03_0313,BRAVO,113,yes,ASL,300 miles,30.0,205,1.0,300 | M-I-L-E-S
+clerc_v03_0314,BRAVO,114,yes,ASL,3 a.m.,30.0,124,1.0,3A.M | MORNING
+clerc_v03_0315,BRAVO,115,yes,ASL,3 months ago,30.0,108,1.0,3 MONTHS AGO
+clerc_v03_0316,BRAVO,116,yes,ASL,3 weeks ago,30.0,115,1.0,3 WEEKS AGO
+clerc_v03_0317,BRAVO,117,yes,ASL,4 days,30.0,112,1.0,4 DAYS
+clerc_v03_0318,BRAVO,118,yes,ASL,Fourth of July,30.0,123,1.0,FOURTH | J-U-L-Y
+clerc_v03_0319,BRAVO,119,yes,ASL,5 dollars,30.0,96,1.0,5 | DOLLAR
+clerc_v03_0320,BRAVO,120,yes,ASL,6 hours,30.0,105,0.9905,6 HOURS
+clerc_v03_0321,BRAVO,121,yes,ASL,6 weeks,30.0,101,1.0,6 WEEKS
+clerc_v03_0322,BRAVO,122,yes,ASL,7 cents,30.0,86,1.0,7 CENTS
+clerc_v03_0323,BRAVO,123,yes,ASL,7 minutes,30.0,113,1.0,7 MINUTES
+clerc_v03_0324,BRAVO,124,yes,ASL,7 hours,30.0,95,0.9789,7 HOURS
+clerc_v03_0325,BRAVO,125,yes,ASL,8 months,30.0,108,1.0,8 MONTHS
+clerc_v03_0326,BRAVO,126,yes,ASL,9 weeks,30.0,90,1.0,9 WEEKS
+clerc_v03_0327,BRAVO,127,yes,ASL,12 cents,30.0,72,1.0,12 | CENT
+clerc_v03_0328,BRAVO,128,yes,ASL,18 cents,30.0,56,1.0,18 CENTS
+clerc_v03_0329,BRAVO,129,yes,ASL,20 cents,30.0,90,1.0,20 CENTS
+clerc_v03_0330,BRAVO,130,yes,ASL,25 cents,30.0,58,1.0,25 CENTS
+clerc_v03_0331,BRAVO,131,yes,ASL,2 years,30.0,101,1.0,2 YEARS
+clerc_v03_0332,BRAVO,132,yes,ASL,37 dollars,30.0,91,1.0,37 | DOLLAR
+clerc_v03_0333,BRAVO,133,yes,ASL,5 cents,30.0,58,1.0,5 CENTS
+clerc_v03_0334,BRAVO,134,yes,ASL,63 cents,30.0,89,1.0,63 | CENT
+clerc_v03_0335,BRAVO,135,yes,ASL,All night,30.0,110,1.0,ALL NIGHT
+clerc_v03_0336,BRAVO,136,yes,ASL,How many aunts do you have?,30.0,152,1.0,HOW MANY | AUNT | YOU | HAVE | QUESTION
+clerc_v03_0337,BRAVO,137,yes,ASL,Why is the baby crying?,30.0,147,1.0,BABY | CRY_2 | WHY | QUESTION
+clerc_v03_0338,BRAVO,138,yes,ASL,Is the bathroom available?,30.0,126,1.0,BATHROOM | AVAILABLE | QUESTION
+clerc_v03_0339,BRAVO,139,yes,ASL,How many brothers do you have?,30.0,152,1.0,HOW MANY | BROTHER | YOU | HAVE | QUESTION
+clerc_v03_0340,BRAVO,140,yes,ASL,How many brothers-in-law do you have?,30.0,162,1.0,HOW MANY | BROTHER | IN | LAW | YOU | HAVE | QUESTION
+clerc_v03_0341,BRAVO,141,yes,ASL,Can you breathe?,30.0,174,1.0,BREATH | YOU | CAN | QUESTION
+clerc_v03_0342,BRAVO,142,yes,ASL,Can you keep a secret?,30.0,162,1.0,KEEP | SECRET | CAN | YOU | QUESTION
+clerc_v03_0343,BRAVO,143,yes,ASL,How many children do you have?,30.0,142,1.0,HOW MANY | CHILDREN | YOU | HAVE | QUESTION
+clerc_v03_0344,BRAVO,144,yes,ASL,How many cousins do you have?,30.0,165,1.0,HOW MANY | COUSIN | YOU | HAVE | QUESTION
+clerc_v03_0345,BRAVO,145,yes,ASL,Daddy loves you!,30.0,124,1.0,FATHER | LOVE | YOU
+clerc_v03_0346,BRAVO,146,yes,ASL,Do you love Dad?,30.0,152,1.0,YOU | LOVE | FATHER | QUESTION
+clerc_v03_0347,BRAVO,147,yes,ASL,Every afternoon,30.0,111,0.982,EVERY AFTERNOON
+clerc_v03_0348,BRAVO,148,yes,ASL,10 months,30.0,99,1.0,10 | MONTH
+clerc_v03_0349,BRAVO,149,yes,ASL,The year 1985,30.0,117,1.0,1985
+clerc_v03_0350,BRAVO,150,yes,ASL,2 weeks from now,30.0,99,1.0,2 WEEKS FROM NOW
+clerc_v03_0351,BRAVO,151,yes,ASL,What is your excuse?,30.0,168,1.0,YOUR | EXCUSE | WHAT | QUESTION
+clerc_v03_0352,BRAVO,152,yes,ASL,I’m hearing,30.0,119,1.0,I | HEARING
+clerc_v03_0353,BRAVO,153,yes,ASL,The 3rd week of the month,30.0,130,1.0,THE 3RD WEEK OF THE MONTH
+clerc_v03_0354,BRAVO,154,yes,ASL,7 years old,30.0,92,1.0,7 YEARS OLD
+clerc_v03_0355,BRAVO,155,yes,ASL,"Again,  what’s your name?",30.0,119,1.0,AGAIN | YOUR | NAME | QUESTION
+clerc_v03_0356,BRAVO,156,yes,ASL,How far is the airport?,30.0,154,1.0,AIRPORT | FAR | WHAT | QUESTION
+clerc_v03_0357,BRAVO,157,yes,ASL,All day,30.0,105,1.0,ALL DAY
+clerc_v03_0358,BRAVO,158,yes,ASL,Do you have any allergies?,30.0,163,1.0,ALLERGIC | YOU | HAVE | ANY | QUESTION
+clerc_v03_0359,BRAVO,159,yes,ASL,All morning,30.0,134,1.0,ALL MORNING
+clerc_v03_0360,BRAVO,160,yes,ASL,Ask me,30.0,88,1.0,ASK ME
+clerc_v03_0361,BRAVO,161,yes,ASL,Are you an ASL teacher?,30.0,117,1.0,YOU | A-S-L | TEACHER | QUESTION
+clerc_v03_0362,BRAVO,162,yes,ASL,Do you like to play basketball?,30.0,170,1.0,YOU | LIKE | PLAY | BASKETBALL
+clerc_v03_0363,BRAVO,163,yes,ASL,Be yourself,30.0,64,1.0,BE | YOURSELF
+clerc_v03_0364,BRAVO,164,yes,ASL,Black people,30.0,92,1.0,BLACK | PEOPLE
+clerc_v03_0365,BRAVO,165,yes,ASL,Where does Bob sit?,30.0,174,1.0,WHERE | B-O-B | SEAT | QUESTION
+clerc_v03_0366,BRAVO,166,yes,ASL,Why did the boss fire the worker?,30.0,192,1.0,BOSS | FIRE | WORKER | WHY | QUESTION
+clerc_v03_0367,BRAVO,167,yes,ASL,Break up,30.0,73,1.0,BREAK UP
+clerc_v03_0368,BRAVO,168,yes,ASL,Break in,30.0,95,1.0,BREAK IN
+clerc_v03_0369,BRAVO,169,yes,ASL,Bring it here,30.0,102,1.0,BRING | IT | HERE
+clerc_v03_0370,BRAVO,170,yes,ASL,Brother-in-law,30.0,94,1.0,BROTHER | IN | LAW
+clerc_v03_0371,BRAVO,171,yes,ASL,Call me,30.0,76,1.0,CALL ME | I
+clerc_v03_0372,BRAVO,172,yes,ASL,Can you drive?,30.0,113,1.0,CAR | CAN | YOU | QUESTION
+clerc_v03_0373,BRAVO,173,yes,ASL,Catch a ball,30.0,105,1.0,CATCH A BALL
+clerc_v03_0374,BRAVO,174,yes,ASL,Character role,30.0,101,1.0,CHARACTER ROLE
+clerc_v03_0375,BRAVO,175,yes,ASL,Check in,30.0,109,1.0,CHECK | I-N
+clerc_v03_0376,BRAVO,176,yes,ASL,Do you have a scarf?,30.0,105,1.0,SCARF | YOU | HAVE | QUESTION
+clerc_v03_0377,BRAVO,177,yes,ASL,Do you like to play chess?,30.0,144,1.0,YOU | LIKE | PLAY | CHESS
+clerc_v03_0378,BRAVO,178,yes,ASL,Do you live in the city?,30.0,135,1.0,YOU | LIVE | IN | CITY | QUESTION
+clerc_v03_0379,BRAVO,179,yes,ASL,Clean up,30.0,84,1.0,CLEAN | UP
+clerc_v03_0380,BRAVO,180,yes,ASL,"Come here,  please",30.0,100,1.0,COME HERE | HERE | PLEASE
+clerc_v03_0381,BRAVO,181,yes,ASL,Come to daddy,30.0,86,1.0,COME ME | FATHER
+clerc_v03_0382,BRAVO,182,yes,ASL,Contact me,30.0,93,1.0,CONTACT | I
+clerc_v03_0383,BRAVO,183,yes,ASL,Copy me,30.0,70,1.0,COPY ME | I
+clerc_v03_0384,BRAVO,184,yes,ASL,Deaf culture,30.0,95,1.0,DEAF | CULTURE
+clerc_v03_0385,BRAVO,185,yes,ASL,Deaf event,30.0,79,1.0,DEAF | EVENT
+clerc_v03_0386,BRAVO,186,yes,ASL,Deaf school,30.0,103,1.0,DEAF | SCHOOL
+clerc_v03_0387,BRAVO,187,yes,ASL,Do you like to study English?,30.0,142,1.0,YOU | LIKE | STUDY | ENGLISH | QUESTION
+clerc_v03_0388,BRAVO,188,yes,ASL,Every Friday,30.0,94,1.0,EVERY FRIDAY
+clerc_v03_0389,BRAVO,189,yes,ASL,Every Monday,30.0,72,1.0,EVERY MONDAY
+clerc_v03_0390,BRAVO,190,yes,ASL,Every month,30.0,93,1.0,EVERY MONTH
+clerc_v03_0391,BRAVO,191,yes,ASL,Every morning,30.0,100,1.0,EVERY MORNING
+clerc_v03_0392,BRAVO,192,yes,ASL,Every Saturday,30.0,54,1.0,EVERY SATURDAY
+clerc_v03_0393,BRAVO,193,yes,ASL,Every Sunday,30.0,66,1.0,EVERY SUNDAY
+clerc_v03_0394,BRAVO,194,yes,ASL,Every Thursday,30.0,57,1.0,EVERY THURSDAY
+clerc_v03_0395,BRAVO,195,yes,ASL,Every Tuesday,30.0,54,1.0,EVERY TUESDAY
+clerc_v03_0396,BRAVO,196,yes,ASL,Every two years,30.0,82,1.0,EVERY 2 YEARS
+clerc_v03_0397,BRAVO,197,yes,ASL,Every Wednesday,30.0,66,1.0,EVERY WEDNESDAY
+clerc_v03_0398,BRAVO,198,yes,ASL,Every week,30.0,101,0.9703,EVERY WEEK
+clerc_v03_0399,BRAVO,199,yes,ASL,100 percent,30.0,133,1.0,100 PERCENT
+clerc_v03_0400,BRAVO,200,yes,ASL,106 degrees,30.0,165,1.0,106 | DEGREES
+clerc_v03_0401,CHARLIE,1,yes,ASL,What’s up?,29.95,103,1.0,WHAT'S UP
+clerc_v03_0402,CHARLIE,2,yes,ASL,Do you see?,30.01,109,1.0,YOU | SEE
+clerc_v03_0403,CHARLIE,3,yes,ASL,Are you tired?,29.95,115,1.0,YOU | TIRED
+clerc_v03_0404,CHARLIE,4,yes,ASL,Are you hungry?,30.08,128,1.0,HUNGRY | YOU
+clerc_v03_0405,CHARLIE,5,yes,ASL,Where do you live?,30.07,152,1.0,YOU | LIVE_L | WHERE
+clerc_v03_0406,CHARLIE,6,yes,ASL,Do you need to help?,30.04,123,1.0,YOU | NEED | HELP
+clerc_v03_0407,CHARLIE,7,yes,ASL,How old are you?,30.1,103,1.0,OLD | YOU
+clerc_v03_0408,CHARLIE,8,yes,ASL,How do you feel?,29.95,126,1.0,HOW_LEFT_MOVE | YOU | FEEL
+clerc_v03_0409,CHARLIE,9,yes,ASL,Thank you,30.08,90,1.0,THANK YOU
+clerc_v03_0410,CHARLIE,10,yes,ASL,I do not understand,30.02,109,1.0,I | DON'T | UNDERSTAND
+clerc_v03_0411,CHARLIE,11,yes,ASL,Hello,30.03,107,1.0,HELLO
+clerc_v03_0412,CHARLIE,12,yes,ASL,Nice to meet you,30.1,130,1.0,NICE | MEET | YOU_2
+clerc_v03_0413,CHARLIE,13,yes,ASL,Good morning,30.1,119,1.0,GOOD | MORNING
+clerc_v03_0414,CHARLIE,14,yes,ASL,Good afternoon,30.1,130,1.0,GOOD | AFTERNOON
+clerc_v03_0415,CHARLIE,15,yes,ASL,Good evening,30.1,117,1.0,GOOD | EVENING
+clerc_v03_0416,CHARLIE,16,yes,ASL,Goodbye,30.1,100,1.0,GOODBYE
+clerc_v03_0417,CHARLIE,17,yes,ASL,My name is ___,30.1,99,1.0,MY | NAME
+clerc_v03_0418,CHARLIE,18,yes,ASL,What is your name?,30.1,125,1.0,WHAT | YOUR | NAME
+clerc_v03_0419,CHARLIE,19,yes,ASL,Are you hurt?,30.1,104,1.0,HURT | YOU
+clerc_v03_0420,CHARLIE,20,yes,ASL,Where are you from?,30.1,120,1.0,WHERE | YOU | FROM
+clerc_v03_0421,CHARLIE,21,yes,ASL,Are you deaf?,30.1,108,1.0,DEAF | YOU
+clerc_v03_0422,CHARLIE,22,yes,ASL,Are you student?,30.1,120,1.0,YOU | STUDENT
+clerc_v03_0423,CHARLIE,23,yes,ASL,Who is your teacher ?,30.1,128,1.0,WHO | YOUR | TEACHER
+clerc_v03_0424,CHARLIE,24,yes,ASL,Do you have backpack?,30.03,138,1.0,YOU | HAVE | BACKPACK
+clerc_v03_0425,CHARLIE,25,yes,ASL,Where is the bathroom,30.03,99,1.0,WHERE | BATHROOM
+clerc_v03_0426,CHARLIE,26,yes,ASL,Are you crying?,30.03,128,1.0,YOU | CRY
+clerc_v03_0427,CHARLIE,27,yes,ASL,How are you?,29.95,93,1.0,HOW_LEFT_MOVE | YOU
+clerc_v03_0428,CHARLIE,28,yes,ASL,Are you cold?,29.9,101,1.0,COLD | YOU
+clerc_v03_0429,CHARLIE,29,yes,ASL,Are you finished?,29.9,95,1.0,YOU | FINISH
+clerc_v03_0430,CHARLIE,30,yes,ASL,Where is your bottle?,29.9,109,1.0,WHERE | YOUR | BOTTLE
+clerc_v03_0431,CHARLIE,31,yes,ASL,Where is your banana?,29.9,131,1.0,WHERE | YOUR | BANANA
+clerc_v03_0432,CHARLIE,32,yes,ASL,What time is it?,30.0,97,1.0,WHAT | TIME
+clerc_v03_0433,CHARLIE,33,yes,ASL,What happened?,30.0,92,1.0,WHAT | HAPPEN
+clerc_v03_0434,CHARLIE,34,yes,ASL,Are you happy?,30.0,109,1.0,YOU | HAPPY
+clerc_v03_0435,CHARLIE,35,yes,ASL,Where are you go?,30.0,100,1.0,WHERE | YOU | GO
+clerc_v03_0436,CHARLIE,36,yes,ASL,Why?,30.0,127,1.0,WHY
+clerc_v03_0437,CHARLIE,37,yes,ASL,How?,30.0,89,1.0,HOW_LEFT_MOVE
+clerc_v03_0438,CHARLIE,38,yes,ASL,When?,30.0,79,1.0,WHEN
+clerc_v03_0439,CHARLIE,39,yes,ASL,Are you alright?,30.0,110,1.0,YOU | ALRIGHT
+clerc_v03_0440,CHARLIE,40,yes,ASL,See you later,30.0,89,1.0,SEE | YOU | LATER
+clerc_v03_0441,CHARLIE,41,yes,ASL,Who?,30.0,77,1.0,WHO
+clerc_v03_0442,CHARLIE,42,yes,ASL,Which?,30.0,88,1.0,WHICH
+clerc_v03_0443,CHARLIE,43,yes,ASL,Where?,30.0,92,1.0,WHERE
+clerc_v03_0444,CHARLIE,44,yes,ASL,What?,30.0,96,1.0,WHAT_2
+clerc_v03_0445,CHARLIE,45,yes,ASL,Any help?,30.0,112,1.0,ANY | HELP
+clerc_v03_0446,CHARLIE,46,yes,ASL,No problem,30.0,105,1.0,NO | PROBLEM
+clerc_v03_0447,CHARLIE,47,yes,ASL,Really?,30.0,95,1.0,REALLY?
+clerc_v03_0448,CHARLIE,48,yes,ASL,Do you use ASL?,30.0,148,1.0,YOU | USE | A-S-L
+clerc_v03_0449,CHARLIE,49,yes,ASL,Do you like banana pie?,30.0,177,1.0,YOU | LIKE | BANANA | PIE
+clerc_v03_0450,CHARLIE,50,yes,ASL,Where is the cafeteria?,30.0,115,1.0,WHERE | CAFETERIA
+clerc_v03_0451,CHARLIE,51,yes,ASL,Are you a child?,30.0,141,1.0,YOU | CHILD | QUESTION
+clerc_v03_0452,CHARLIE,52,yes,ASL,Do you like coffee?,30.0,139,1.0,YOU | LIKE | COFFEE
+clerc_v03_0453,CHARLIE,53,yes,ASL,Do you want a pacifier?,30.0,138,1.0,YOU | WANT | PACIFIER
+clerc_v03_0454,CHARLIE,54,yes,ASL,Do you want a bottle?,30.0,128,1.0,YOU | WANT | BOTTLE
+clerc_v03_0455,CHARLIE,55,yes,ASL,Do you want a cracker?,30.0,146,1.0,YOU | WANT | CRACKER
+clerc_v03_0456,CHARLIE,56,yes,ASL,Do you want a drink?,30.0,121,1.0,YOU | WANT | DRINK
+clerc_v03_0457,CHARLIE,57,yes,ASL,Do you want milk?,30.0,126,1.0,YOU | WANT | MILK
+clerc_v03_0458,CHARLIE,58,yes,ASL,Do you want your mommy?,30.0,153,1.0,YOU | WANT | YOUR | MOTHER
+clerc_v03_0459,CHARLIE,59,yes,ASL,Do you want more food?,30.0,152,1.0,YOU | WANT | MORE | EAT
+clerc_v03_0460,CHARLIE,60,yes,ASL,Do you want more?,30.0,120,1.0,YOU | WANT | MORE
+clerc_v03_0461,CHARLIE,61,yes,ASL,Do you mind?,30.0,79,1.0,MIND YOU
+clerc_v03_0462,CHARLIE,62,yes,ASL,Are you feeling sick?,30.0,128,1.0,YOU | FEEL | SICK
+clerc_v03_0463,CHARLIE,63,yes,ASL,Who is she/he?,30.0,106,1.0,WHO | POINTER_RIGHT
+clerc_v03_0464,CHARLIE,64,yes,ASL,"Hey, what’s your name?",30.0,131,1.0,HELLO | WHAT | YOUR | NAME
+clerc_v03_0465,CHARLIE,65,yes,ASL,How many minutes?,30.0,117,1.0,HOW MANY | MINUTE
+clerc_v03_0466,CHARLIE,66,yes,ASL,How many?,30.0,87,1.0,HOW MANY
+clerc_v03_0467,CHARLIE,67,yes,ASL,How much?,30.0,108,1.0,HOW MUCH
+clerc_v03_0468,CHARLIE,68,yes,ASL,Where are you hurt?,30.0,142,1.0,WHERE | YOU | HURT
+clerc_v03_0469,CHARLIE,69,yes,ASL,Need a bathroom?,30.0,98,1.0,NEED | BATHROOM
+clerc_v03_0470,CHARLIE,70,yes,ASL,Is she/he a student?,30.0,109,1.0,POINTER_RIGHT | STUDENT_2
+clerc_v03_0471,CHARLIE,71,yes,ASL,Do you want to join?,30.0,116,1.0,YOU | WANT | JOIN
+clerc_v03_0472,CHARLIE,72,yes,ASL,What for?,30.0,120,1.0,FOR
+clerc_v03_0473,CHARLIE,73,yes,ASL,What kind?,30.0,105,1.0,KIND | WHAT
+clerc_v03_0474,CHARLIE,74,yes,ASL,What’s wrong?,30.0,92,1.0,WRONG
+clerc_v03_0475,CHARLIE,75,yes,ASL,What are you afraid of?,30.0,126,1.0,WHAT | YOU | AFRAID
+clerc_v03_0476,CHARLIE,76,yes,ASL,Where were you born?,30.0,131,1.0,YOU | BORN | WHERE
+clerc_v03_0477,CHARLIE,77,yes,ASL,What do you collect?,30.0,150,1.0,YOU | COLLECT | WHAT
+clerc_v03_0478,CHARLIE,78,yes,ASL,How do you earn money?,30.0,189,1.0,YOU | EARN | MONEY | HOW
+clerc_v03_0479,CHARLIE,79,yes,ASL,What do you enjoy?,30.0,155,1.0,YOU | ENJOY | WHAT_2
+clerc_v03_0480,CHARLIE,80,yes,ASL,What exercise do you do?,30.0,156,1.0,WHAT | EXERCISE | YOU | DO_2 | D-O
+clerc_v03_0481,CHARLIE,81,yes,ASL,Are you feeling angry?,30.0,128,1.0,YOU | FEEL | ANGRY
+clerc_v03_0482,CHARLIE,82,yes,ASL,Why are you going to the dentist?,30.0,144,1.0,WHY | YOU | GO_LEFT | DENTIST
+clerc_v03_0483,CHARLIE,83,yes,ASL,Why are you going to the doctor?,30.0,145,1.0,WHY | YOU | GO_LEFT | DOCTOR
+clerc_v03_0484,CHARLIE,84,yes,ASL,When do you graduate?,30.0,118,1.0,WHEN | YOU | GRADUATE
+clerc_v03_0485,CHARLIE,85,yes,ASL,Do you have a baby?,30.0,129,1.0,YOU | HAVE | BABY | QUESTION
+clerc_v03_0486,CHARLIE,86,yes,ASL,Do you have a hammer?,30.0,119,1.0,YOU | HAVE | HAMMER
+clerc_v03_0487,CHARLIE,87,yes,ASL,Do you have an ID?,30.0,106,1.0,YOU | HAVE | I-D
+clerc_v03_0488,CHARLIE,88,yes,ASL,Do you have a sister?,30.0,120,1.0,YOU | HAVE | SISTER | QUESTION
+clerc_v03_0489,CHARLIE,89,yes,ASL,How tall are you?,30.0,128,1.0,YOU | HOW_LEFT_MOVE | TALL
+clerc_v03_0490,CHARLIE,90,yes,ASL,Do you know ASL?,30.0,146,1.0,YOU | KNOW | A-S-L | QUESTION
+clerc_v03_0491,CHARLIE,91,yes,ASL,Do you like to cook?,30.0,119,1.0,YOU | LIKE | COOK
+clerc_v03_0492,CHARLIE,92,yes,ASL,Do you like to dance?,30.0,133,1.0,YOU | LIKE | DANCE
+clerc_v03_0493,CHARLIE,93,yes,ASL,Do you like to fish?,30.0,119,1.0,YOU | LIKE | FISH
+clerc_v03_0494,CHARLIE,94,yes,ASL,Do you like to learn sign language?,30.0,186,1.0,YOU | LIKE | LEARN | SIGN_2 | QUESTION
+clerc_v03_0495,CHARLIE,95,yes,ASL,Do you like math?,30.0,128,1.0,YOU | LIKE | MATH
+clerc_v03_0496,CHARLIE,96,yes,ASL,Do you like meat?,30.0,114,1.0,YOU | LIKE | MEAT
+clerc_v03_0497,CHARLIE,97,yes,ASL,11 days,30.0,111,1.0,11 | DAY
+clerc_v03_0498,CHARLIE,98,yes,ASL,12 days,30.0,111,0.991,12 | DAY
+clerc_v03_0499,CHARLIE,99,yes,ASL,13 months,30.0,109,1.0,13 | MONTHS
+clerc_v03_0500,CHARLIE,100,yes,ASL,14 hours,30.0,124,1.0,14 | HOUR
+clerc_v03_0501,CHARLIE,101,yes,ASL,14 seconds,30.0,121,1.0,14 | S-E-C
+clerc_v03_0502,CHARLIE,102,yes,ASL,15th century,30.0,132,1.0,15 | T-H | CENTURY
+clerc_v03_0503,CHARLIE,103,yes,ASL,16 inches,30.0,135,1.0,16 | I-N-C-H
+clerc_v03_0504,CHARLIE,104,yes,ASL,187 pounds,30.0,148,1.0,187 | POUND
+clerc_v03_0505,CHARLIE,105,yes,ASL,2 days ago,30.0,94,1.0,2 | DAY | BEFORE
+clerc_v03_0506,CHARLIE,106,yes,ASL,2011 years,30.0,130,1.0,2011 | YEAR
+clerc_v03_0507,CHARLIE,107,yes,ASL,21st century,30.0,117,1.0,21 | CENTURY
+clerc_v03_0508,CHARLIE,108,yes,ASL,27 pounds,30.0,120,1.0,27 | POUND
+clerc_v03_0509,CHARLIE,109,yes,ASL,3 days ago,30.0,85,1.0,3 DAYS AGO
+clerc_v03_0510,CHARLIE,110,yes,ASL,3 dollars,30.0,104,1.0,3 DOLLARS
+clerc_v03_0511,CHARLIE,111,yes,ASL,3 hours,30.0,111,1.0,3 HOURS
+clerc_v03_0512,CHARLIE,112,yes,ASL,3 years ago,30.0,87,1.0,3 YEARS AGO
+clerc_v03_0513,CHARLIE,113,yes,ASL,300 miles,30.0,145,1.0,300 | M-I-L-E-S
+clerc_v03_0514,CHARLIE,114,yes,ASL,3 a.m.,30.0,109,1.0,3A.M
+clerc_v03_0515,CHARLIE,115,yes,ASL,3 months ago,30.0,98,1.0,3 MONTHS AGO
+clerc_v03_0516,CHARLIE,116,yes,ASL,3 weeks ago,30.0,95,1.0,3 WEEKS AGO
+clerc_v03_0517,CHARLIE,117,yes,ASL,4 days,30.0,103,0.9903,4 DAYS
+clerc_v03_0518,CHARLIE,118,yes,ASL,Fourth of July,30.0,170,1.0,FOURTH | J-U-L-Y
+clerc_v03_0519,CHARLIE,119,yes,ASL,5 dollars,30.0,103,1.0,5 DOLLARS
+clerc_v03_0520,CHARLIE,120,yes,ASL,6 hours,30.0,96,1.0,6 HOURS
+clerc_v03_0521,CHARLIE,121,yes,ASL,6 weeks,30.0,103,1.0,6 WEEKS
+clerc_v03_0522,CHARLIE,122,yes,ASL,7 cents,30.0,96,1.0,7 CENTS
+clerc_v03_0523,CHARLIE,123,yes,ASL,7 minutes,30.0,92,1.0,7 MINUTES
+clerc_v03_0524,CHARLIE,124,yes,ASL,7 hours,30.0,101,1.0,7 HOURS
+clerc_v03_0525,CHARLIE,125,yes,ASL,8 months,30.0,97,1.0,8 MONTHS
+clerc_v03_0526,CHARLIE,126,yes,ASL,9 weeks,30.0,96,1.0,9 WEEKS
+clerc_v03_0527,CHARLIE,127,yes,ASL,12 cents,30.0,90,1.0,12 | CENT
+clerc_v03_0528,CHARLIE,128,yes,ASL,18 cents,30.0,82,1.0,18 CENTS
+clerc_v03_0529,CHARLIE,129,yes,ASL,20 cents,30.0,81,1.0,20 CENTS
+clerc_v03_0530,CHARLIE,130,yes,ASL,25 cents,30.0,95,1.0,25 CENTS
+clerc_v03_0531,CHARLIE,131,yes,ASL,2 years,30.0,97,1.0,2 YEARS
+clerc_v03_0532,CHARLIE,132,yes,ASL,37 dollars,30.0,116,1.0,37 | DOLLAR
+clerc_v03_0533,CHARLIE,133,yes,ASL,5 cents,30.0,85,1.0,5 CENTS
+clerc_v03_0534,CHARLIE,134,yes,ASL,63 cents,30.0,104,1.0,63 CENTS
+clerc_v03_0535,CHARLIE,135,yes,ASL,All night,30.0,110,1.0,ALL NIGHT
+clerc_v03_0536,CHARLIE,136,yes,ASL,How many aunts do you have?,30.0,184,1.0,HOW MANY | AUNT | YOU | HAVE | QUESTION
+clerc_v03_0537,CHARLIE,137,yes,ASL,Why is the baby crying?,30.0,191,1.0,WHY | BABY | CRY | QUESTION
+clerc_v03_0538,CHARLIE,138,yes,ASL,Is the bathroom available?,30.0,175,1.0,BATHROOM | AVAILABLE | QUESTION
+clerc_v03_0539,CHARLIE,139,yes,ASL,How many brothers do you have?,30.0,177,1.0,HOW MANY | BROTHER | YOU | HAVE | QUESTION
+clerc_v03_0540,CHARLIE,140,yes,ASL,How many brothers-in-law do you have?,30.0,246,1.0,HOW MANY | BROTHER | LAW | YOU | HAVE | QUESTION
+clerc_v03_0541,CHARLIE,141,yes,ASL,Can you breathe?,30.0,165,1.0,CAN | YOU | BREATH | QUESTION
+clerc_v03_0542,CHARLIE,142,yes,ASL,Can you keep a secret?,30.0,163,1.0,CAN | YOU | KEEP | SECRET | QUESTION
+clerc_v03_0543,CHARLIE,143,yes,ASL,How many children do you have?,30.0,180,1.0,HOW MANY | CHILDREN | YOU | HAVE | QUESTION
+clerc_v03_0544,CHARLIE,144,yes,ASL,How many cousins do you have?,30.0,179,1.0,HOW MANY | COUSIN | YOU | HAVE | QUESTION
+clerc_v03_0545,CHARLIE,145,yes,ASL,Daddy loves you!,30.0,126,1.0,FATHER | LOVE | YOU
+clerc_v03_0546,CHARLIE,146,yes,ASL,Do you love Dad?,30.0,145,1.0,YOU | LOVE | FATHER | QUESTION
+clerc_v03_0547,CHARLIE,147,yes,ASL,Every afternoon,30.0,106,1.0,EVERY AFTERNOON
+clerc_v03_0548,CHARLIE,148,yes,ASL,10 months,30.0,93,1.0,10 | MONTH
+clerc_v03_0549,CHARLIE,149,yes,ASL,The year 1985,30.0,132,1.0,YEAR | 1985
+clerc_v03_0550,CHARLIE,150,yes,ASL,2 weeks from now,30.0,90,1.0,2 WEEKS FROM NOW
+clerc_v03_0551,CHARLIE,151,yes,ASL,What is your excuse?,29.97,127,1.0,WHAT | YOUR | EXCUSE
+clerc_v03_0552,CHARLIE,152,yes,ASL,I’m hearing,30.1,110,1.0,I | HEARING
+clerc_v03_0553,CHARLIE,153,yes,ASL,The 3rd week of the month,30.0,90,1.0,THE 3RD WEEK OF THE MONTH
+clerc_v03_0554,CHARLIE,154,yes,ASL,7 years old,30.0,84,1.0,7 YEARS OLD
+clerc_v03_0555,CHARLIE,155,yes,ASL,"Again,  what’s your name?",30.0,155,1.0,AGAIN | WHAT | YOUR | NAME | QUESTION
+clerc_v03_0556,CHARLIE,156,yes,ASL,How far is the airport?,30.0,150,1.0,HOW | FAR | AIRPORT | QUESTION
+clerc_v03_0557,CHARLIE,157,yes,ASL,All day,30.0,111,1.0,ALL DAY
+clerc_v03_0558,CHARLIE,158,yes,ASL,Do you have any allergies?,30.0,208,1.0,YOU | HAVE | ANY | ALLERGIC | QUESTION
+clerc_v03_0559,CHARLIE,159,yes,ASL,All morning,30.0,95,1.0,ALL MORNING
+clerc_v03_0560,CHARLIE,160,yes,ASL,Ask me,30.0,94,1.0,ASK ME
+clerc_v03_0561,CHARLIE,161,yes,ASL,Are you an ASL teacher?,30.0,181,1.0,YOU | A-S-L | TEACHER | QUESTION
+clerc_v03_0562,CHARLIE,162,yes,ASL,Do you like to play basketball?,30.0,173,1.0,YOU | LIKE | PLAY | BASKETBALL
+clerc_v03_0563,CHARLIE,163,yes,ASL,Be yourself,30.0,101,1.0,B-E | YOURSELF
+clerc_v03_0564,CHARLIE,164,yes,ASL,Black people,30.0,125,1.0,BLACK | PEOPLE
+clerc_v03_0565,CHARLIE,165,yes,ASL,Where does Bob sit?,30.0,169,1.0,WHERE | B-O-B | SEAT | QUESTION
+clerc_v03_0566,CHARLIE,166,yes,ASL,Why did the boss fire the worker?,30.0,239,1.0,WHY | BOSS | FIRE | FINISH | WORKER | QUESTION
+clerc_v03_0567,CHARLIE,167,yes,ASL,Break up,30.0,101,1.0,BREAK UP
+clerc_v03_0568,CHARLIE,168,yes,ASL,Break in,30.0,105,1.0,BREAK IN
+clerc_v03_0569,CHARLIE,169,yes,ASL,Bring it here,30.0,95,1.0,BRING IT HERE
+clerc_v03_0570,CHARLIE,170,yes,ASL,Brother-in-law,30.0,120,1.0,BROTHER | LAW
+clerc_v03_0571,CHARLIE,171,yes,ASL,Call me,30.0,110,1.0,CALL ME
+clerc_v03_0572,CHARLIE,172,yes,ASL,Can you drive?,30.0,147,1.0,CAN | YOU | CAR | QUESTION
+clerc_v03_0573,CHARLIE,173,yes,ASL,Catch a ball,30.0,82,1.0,CATCH A BALL
+clerc_v03_0574,CHARLIE,174,yes,ASL,Character role,30.0,105,1.0,CHARACTER ROLE
+clerc_v03_0575,CHARLIE,175,yes,ASL,Check in,30.0,109,1.0,CHECK | I-N
+clerc_v03_0576,CHARLIE,176,yes,ASL,Do you have a scarf?,30.0,146,1.0,YOU | HAVE | SCARF
+clerc_v03_0577,CHARLIE,177,yes,ASL,Do you like to play chess?,30.0,214,1.0,C-H-E-S-S | YOU | LIKE | PLAY | QUESTION
+clerc_v03_0578,CHARLIE,178,yes,ASL,Do you live in the city?,30.0,144,1.0,CITY | YOU | LIVE_L | QUESTION
+clerc_v03_0579,CHARLIE,179,yes,ASL,Clean up,30.0,100,1.0,CLEAN UP
+clerc_v03_0580,CHARLIE,180,yes,ASL,"Come here,  please",30.0,130,1.0,COME HERE | PLEASE
+clerc_v03_0581,CHARLIE,181,yes,ASL,Come to daddy,30.0,111,1.0,COME ME | FATHER
+clerc_v03_0582,CHARLIE,182,yes,ASL,Contact me,30.0,94,1.0,CONTACT ME
+clerc_v03_0583,CHARLIE,183,yes,ASL,Copy me,30.0,84,1.0,COPY ME
+clerc_v03_0584,CHARLIE,184,yes,ASL,Deaf culture,30.0,130,1.0,DEAF | CULTURE
+clerc_v03_0585,CHARLIE,185,yes,ASL,Deaf event,30.0,98,1.0,DEAF | EVENT
+clerc_v03_0586,CHARLIE,186,yes,ASL,Deaf school,30.0,99,1.0,DEAF | SCHOOL
+clerc_v03_0587,CHARLIE,187,yes,ASL,Do you like to study English?,30.0,165,1.0,YOU | LIKE | STUDY | ENGLISH | QUESTION
+clerc_v03_0588,CHARLIE,188,yes,ASL,Every Friday,30.0,91,1.0,EVERY FRIDAY
+clerc_v03_0589,CHARLIE,189,yes,ASL,Every Monday,30.0,83,1.0,EVERY MONDAY
+clerc_v03_0590,CHARLIE,190,yes,ASL,Every month,30.0,106,1.0,EVERY MONTH
+clerc_v03_0591,CHARLIE,191,yes,ASL,Every morning,30.0,87,1.0,EVERY MORNING
+clerc_v03_0592,CHARLIE,192,yes,ASL,Every Saturday,30.0,85,1.0,EVERY SATURDAY
+clerc_v03_0593,CHARLIE,193,yes,ASL,Every Sunday,30.0,91,1.0,EVERY SUNDAY
+clerc_v03_0594,CHARLIE,194,yes,ASL,Every Thursday,30.0,101,1.0,EVERY THURSDAY
+clerc_v03_0595,CHARLIE,195,yes,ASL,Every Tuesday,30.0,91,1.0,EVERY TUESDAY
+clerc_v03_0596,CHARLIE,196,yes,ASL,Every two years,30.0,87,1.0,EVERY 2 YEARS
+clerc_v03_0597,CHARLIE,197,yes,ASL,Every Wednesday,30.0,78,1.0,EVERY WEDNESDAY
+clerc_v03_0598,CHARLIE,198,yes,ASL,Every week,30.0,102,1.0,EVERY WEEK
+clerc_v03_0599,CHARLIE,199,yes,ASL,100 percent,30.0,100,1.0,100 | PERCENT
+clerc_v03_0600,CHARLIE,200,yes,ASL,106 degrees,30.0,224,1.0,106 | DEGREES
+clerc_v03_0601,DELTA,1,yes,ASL,What’s up?,30.0,220,1.0,WHAT'S UP | WHAT'S UP
+clerc_v03_0602,DELTA,2,yes,ASL,Do you see?,30.0,140,1.0,YOU | SEE | QUESTION | YOU | SEE | QUESTION
+clerc_v03_0603,DELTA,3,yes,ASL,Are you tired?,30.0,151,1.0,ARE | TIRED | ARE | TIRED
+clerc_v03_0604,DELTA,4,yes,ASL,Are you hungry?,30.0,139,1.0,YOU | HUNGRY | YOU | HUNGRY
+clerc_v03_0605,DELTA,5,yes,ASL,Where do you live?,30.0,151,1.0,WHERE | YOU | LIVE_L | QUESTION | WHERE | D-O | YOU | LIVE_L
+clerc_v03_0606,DELTA,6,yes,ASL,Do you need to help?,30.0,186,1.0,NEED | HELP | YOU | NEED | HELP
+clerc_v03_0607,DELTA,7,yes,ASL,How old are you?,30.0,119,1.0,OLD | QUESTION | OLD | YOU
+clerc_v03_0608,DELTA,8,yes,ASL,How do you feel?,30.0,107,1.0,HOW | FEEL | HOW | FEEL
+clerc_v03_0609,DELTA,9,yes,ASL,Thank you,30.0,169,1.0,THANK YOU | THANK YOU
+clerc_v03_0610,DELTA,10,yes,ASL,I do not understand,30.0,180,1.0,I | DON'T | UNDERSTAND | I | DON'T | UNDERSTAND
+clerc_v03_0611,DELTA,11,yes,ASL,Hello,30.0,136,1.0,HELLO | HELLO
+clerc_v03_0612,DELTA,12,yes,ASL,Nice to meet you,30.0,162,1.0,NICE | MEET | YOU | NICE | MEET | YOU
+clerc_v03_0613,DELTA,13,yes,ASL,Good morning,30.0,166,0.9759,GOOD MORNING | GOOD MORNING
+clerc_v03_0614,DELTA,14,yes,ASL,Good afternoon,30.0,135,1.0,GOOD AFTERNOON | GOOD AFTERNOON
+clerc_v03_0615,DELTA,15,yes,ASL,Good evening,30.0,115,1.0,GOOD EVENING | GOOD EVENING
+clerc_v03_0616,DELTA,16,yes,ASL,Goodbye,30.0,126,1.0,GOODBYE | GOODBYE
+clerc_v03_0617,DELTA,17,yes,ASL,My name is ___,30.0,146,1.0,MY | NAME | IS | MY | NAME | IS
+clerc_v03_0618,DELTA,18,yes,ASL,What is your name?,30.0,186,1.0,YOUR | NAME | WHAT | YOUR | NAME | WHAT
+clerc_v03_0619,DELTA,19,yes,ASL,Are you hurt?,30.0,130,1.0,YOU | HURT | YOU | HURT
+clerc_v03_0620,DELTA,20,yes,ASL,Where are you from?,30.0,107,1.0,WHERE | FROM | WHERE | FROM
+clerc_v03_0621,DELTA,21,yes,ASL,Are you deaf?,30.0,140,1.0,YOU | DEAF | YOU | DEAF
+clerc_v03_0622,DELTA,22,yes,ASL,Are you student?,30.0,152,1.0,ARE | YOU | STUDENT | ARE | YOU | STUDENT
+clerc_v03_0623,DELTA,23,yes,ASL,Who is your teacher ?,30.0,189,1.0,WHO | YOUR | TEACHER | WHO | YOUR | TEACHER
+clerc_v03_0624,DELTA,24,yes,ASL,Do you have backpack?,30.0,150,1.0,YOU | HAVE | BACKPACK | YOU | HAVE | BACKPACK
+clerc_v03_0625,DELTA,25,yes,ASL,Where is the bathroom,30.0,181,1.0,BATHROOM | WHERE | BATHROOM | WHERE
+clerc_v03_0626,DELTA,26,yes,ASL,Are you crying?,30.0,162,1.0,ARE | CRY | ARE | CRY
+clerc_v03_0627,DELTA,27,yes,ASL,How are you?,30.0,174,1.0,HOW | ARE | YOU | HOW | ARE | YOU
+clerc_v03_0628,DELTA,28,yes,ASL,Are you cold?,30.0,138,1.0,YOU | COLD | YOU | COLD
+clerc_v03_0629,DELTA,29,yes,ASL,Are you finished?,30.0,113,1.0,YOU | FINISH | YOU | FINISH
+clerc_v03_0630,DELTA,30,yes,ASL,Where is your bottle?,30.0,150,1.0,BOTTLE_DRINK | WHERE | BOTTLE_DRINK | WHERE
+clerc_v03_0631,DELTA,31,yes,ASL,Where is your banana?,30.0,210,1.0,BANANA | WHERE | BANANA | WHERE
+clerc_v03_0632,DELTA,32,yes,ASL,What time is it?,30.0,120,1.0,D-O | TIME | D-O | TIME
+clerc_v03_0633,DELTA,33,yes,ASL,What happened?,30.0,119,1.0,DO | HAPPEN
+clerc_v03_0634,DELTA,34,yes,ASL,Are you happy?,30.0,110,1.0,ARE | YOU | HAPPY
+clerc_v03_0635,DELTA,35,yes,ASL,Where are you go?,30.0,100,1.0,WHERE | YOU | DO
+clerc_v03_0636,DELTA,36,yes,ASL,Why?,30.0,140,1.0,WHY
+clerc_v03_0637,DELTA,37,yes,ASL,How?,30.0,82,1.0,HOW
+clerc_v03_0638,DELTA,38,yes,ASL,When?,30.0,110,1.0,WHEN
+clerc_v03_0639,DELTA,39,yes,ASL,Are you alright?,30.0,114,1.0,YOU | ALRIGHT
+clerc_v03_0640,DELTA,40,yes,ASL,See you later,30.0,89,1.0,SEE | YOU | LATER_2
+clerc_v03_0641,DELTA,41,yes,ASL,Who?,30.0,95,1.0,WHO
+clerc_v03_0642,DELTA,42,yes,ASL,Which?,30.0,82,1.0,WHICH
+clerc_v03_0643,DELTA,43,yes,ASL,Where?,30.0,108,1.0,WHERE
+clerc_v03_0644,DELTA,44,yes,ASL,What?,30.0,90,1.0,WHAT_2
+clerc_v03_0645,DELTA,45,yes,ASL,Any help?,30.0,124,1.0,ANY | HELP
+clerc_v03_0646,DELTA,46,yes,ASL,No problem,30.0,134,1.0,NO | PROBLEM
+clerc_v03_0647,DELTA,47,yes,ASL,Really?,30.0,119,1.0,REALLY? | REALLY?
+clerc_v03_0648,DELTA,48,yes,ASL,Do you use ASL?,30.0,125,1.0,YOU | SIGN LANGUAGE
+clerc_v03_0649,DELTA,49,yes,ASL,Do you like banana pie?,30.0,182,1.0,YOU | LIKE | BANANA | PIE | QUESTION
+clerc_v03_0650,DELTA,50,yes,ASL,Where is the cafeteria?,30.0,111,1.0,CAFETERIA | WHERE
+clerc_v03_0651,DELTA,51,yes,ASL,Are you a child?,30.0,104,1.0,ARE | YOU | CHILD_NOSE
+clerc_v03_0652,DELTA,52,yes,ASL,Do you like coffee?,30.0,121,1.0,YOU | LIKE | COFFEE
+clerc_v03_0653,DELTA,53,yes,ASL,Do you want a pacifier?,30.0,114,1.0,YOU | WANT | PACIFIER
+clerc_v03_0654,DELTA,54,yes,ASL,Do you want a bottle?,30.0,128,1.0,YOU | WANT | BOTTLE_DRINK
+clerc_v03_0655,DELTA,55,yes,ASL,Do you want a cracker?,30.0,154,1.0,YOU | WANT | CRACKER
+clerc_v03_0656,DELTA,56,yes,ASL,Do you want a drink?,30.0,136,1.0,YOU | WANT | DRINK
+clerc_v03_0657,DELTA,57,yes,ASL,Do you want milk?,30.0,122,1.0,YOU | WANT | MILK
+clerc_v03_0658,DELTA,58,yes,ASL,Do you want your mommy?,30.0,114,1.0,YOU | WANT | MOTHER
+clerc_v03_0659,DELTA,59,yes,ASL,Do you want more food?,30.0,142,1.0,YOU | WANT | MORE | EAT
+clerc_v03_0660,DELTA,60,yes,ASL,Do you want more?,30.0,118,1.0,YOU | WANT | MORE
+clerc_v03_0661,DELTA,61,yes,ASL,Do you mind?,30.0,73,1.0,MIND
+clerc_v03_0662,DELTA,62,yes,ASL,Are you feeling sick?,30.0,107,1.0,YOU | FEEL | SICK
+clerc_v03_0663,DELTA,63,yes,ASL,Who is she/he?,30.0,89,1.0,YOU | POINTER_RIGHT
+clerc_v03_0664,DELTA,64,yes,ASL,"Hey, what’s your name?",30.0,149,1.0,HEY | WHAT_2 | YOUR | NAME
+clerc_v03_0665,DELTA,65,yes,ASL,How many minutes?,30.0,81,1.0,HOW MANY | MINUTE
+clerc_v03_0666,DELTA,66,yes,ASL,How many?,30.0,72,1.0,HOW MANY
+clerc_v03_0667,DELTA,67,yes,ASL,How much?,30.0,108,1.0,HOW | MUCH
+clerc_v03_0668,DELTA,68,yes,ASL,Where are you hurt?,30.0,106,1.0,YOU | HURT | WHERE
+clerc_v03_0669,DELTA,69,yes,ASL,Need a bathroom?,30.0,89,1.0,NEED | BATHROOM
+clerc_v03_0670,DELTA,70,yes,ASL,Is she/he a student?,30.0,94,1.0,POINTER_RIGHT | STUDENT
+clerc_v03_0671,DELTA,71,yes,ASL,Do you want to join?,30.0,131,1.0,YOU | WANT | JOIN
+clerc_v03_0672,DELTA,72,yes,ASL,What for?,30.0,68,1.0,FOR
+clerc_v03_0673,DELTA,73,yes,ASL,What kind?,30.0,79,1.0,DO | KIND
+clerc_v03_0674,DELTA,74,yes,ASL,What’s wrong?,30.0,80,1.0,WRONG
+clerc_v03_0675,DELTA,75,yes,ASL,What are you afraid of?,30.0,119,1.0,YOU | WHAT | AFRAID | WHAT
+clerc_v03_0676,DELTA,76,yes,ASL,Where were you born?,30.0,110,1.0,BORN_POING | WHERE | YOU
+clerc_v03_0677,DELTA,77,yes,ASL,What do you collect?,30.0,108,1.0,DO | YOU | COLLECT | WHAT | DO
+clerc_v03_0678,DELTA,78,yes,ASL,How do you earn money?,30.0,127,1.0,EARN | MONEY | HOW | WHAT
+clerc_v03_0679,DELTA,79,yes,ASL,What do you enjoy?,30.0,121,1.0,WHAT | YOU | ENJOY | WHAT
+clerc_v03_0680,DELTA,80,yes,ASL,What exercise do you do?,30.0,144,1.0,WHAT_2 | EXERCISE | YOU | WHAT
+clerc_v03_0681,DELTA,81,yes,ASL,Are you feeling angry?,30.0,93,1.0,YOU | FEEL | ANGRY
+clerc_v03_0682,DELTA,82,yes,ASL,Why are you going to the dentist?,30.0,126,1.0,WHY | GO | DENTIST
+clerc_v03_0683,DELTA,83,yes,ASL,Why are you going to the doctor?,30.0,122,1.0,WHY | GO | DOCTOR
+clerc_v03_0684,DELTA,84,yes,ASL,When do you graduate?,30.0,123,1.0,GRADUATE | WHEN
+clerc_v03_0685,DELTA,85,yes,ASL,Do you have a baby?,30.0,110,1.0,YOU | HAVE | BABY
+clerc_v03_0686,DELTA,86,yes,ASL,Do you have a hammer?,30.0,111,1.0,YOU | HAVE | HAMMER
+clerc_v03_0687,DELTA,87,yes,ASL,Do you have an ID?,30.0,85,1.0,HAVE | I-D
+clerc_v03_0688,DELTA,88,yes,ASL,Do you have a sister?,30.0,100,1.0,YOU | HAVE | SISTER
+clerc_v03_0689,DELTA,89,yes,ASL,How tall are you?,30.0,84,1.0,HOW TALL | YOU | WHAT
+clerc_v03_0690,DELTA,90,yes,ASL,Do you know ASL?,30.0,107,1.0,YOU | KNOW | SIGN LANGUAGE
+clerc_v03_0691,DELTA,91,yes,ASL,Do you like to cook?,30.0,92,1.0,YOU | LIKE | COOK | COOK
+clerc_v03_0692,DELTA,92,yes,ASL,Do you like to dance?,30.0,93,1.0,YOU | LIKE | DANCE
+clerc_v03_0693,DELTA,93,yes,ASL,Do you like to fish?,30.0,80,1.0,YOU | LIKE | FISHING
+clerc_v03_0694,DELTA,94,yes,ASL,Do you like to learn sign language?,30.0,150,1.0,YOU | LIKE | LEARN | SIGN LANGUAGE
+clerc_v03_0695,DELTA,95,yes,ASL,Do you like math?,30.0,117,1.0,YOU | LIKE | MATH
+clerc_v03_0696,DELTA,96,yes,ASL,Do you like meat?,30.0,115,1.0,YOU | LIKE | MEAT
+clerc_v03_0697,DELTA,97,yes,ASL,11 days,30.0,124,1.0,11 | DAY
+clerc_v03_0698,DELTA,98,yes,ASL,12 days,30.0,118,1.0,12 | DAY
+clerc_v03_0699,DELTA,99,yes,ASL,13 months,30.0,106,1.0,13 | MONTH
+clerc_v03_0700,DELTA,100,yes,ASL,14 hours,30.0,126,1.0,14 | HOUR
+clerc_v03_0701,DELTA,101,yes,ASL,14 seconds,30.0,98,1.0,14 | SECONDS
+clerc_v03_0702,DELTA,102,yes,ASL,15th century,30.0,88,1.0,15 | CENTURY_2
+clerc_v03_0703,DELTA,103,yes,ASL,16 inches,30.0,101,1.0,16 | INCH
+clerc_v03_0704,DELTA,104,yes,ASL,187 pounds,30.0,116,1.0,187 | POUND
+clerc_v03_0705,DELTA,105,yes,ASL,2 days ago,30.0,73,1.0,2 DAYS AGO
+clerc_v03_0706,DELTA,106,yes,ASL,2011 years,30.0,122,1.0,2011 | YEAR
+clerc_v03_0707,DELTA,107,yes,ASL,21st century,30.0,81,1.0,21 | CENTURY_2
+clerc_v03_0708,DELTA,108,yes,ASL,27 pounds,30.0,91,1.0,27 | POUND
+clerc_v03_0709,DELTA,109,yes,ASL,3 days ago,30.0,74,1.0,3 DAYS | PAST_THUMB
+clerc_v03_0710,DELTA,110,yes,ASL,3 dollars,30.0,79,1.0,3 | DOLLAR
+clerc_v03_0711,DELTA,111,yes,ASL,3 hours,30.0,78,1.0,3 HOURS
+clerc_v03_0712,DELTA,112,yes,ASL,3 years ago,30.0,93,1.0,3 | YEAR | PAST_THUMB
+clerc_v03_0713,DELTA,113,yes,ASL,300 miles,30.0,91,1.0,300 | MILES
+clerc_v03_0714,DELTA,114,yes,ASL,3 a.m.,30.0,77,1.0,3 | MORNING
+clerc_v03_0715,DELTA,115,yes,ASL,3 months ago,30.0,93,1.0,3 MONTHS | PAST_THUMB
+clerc_v03_0716,DELTA,116,yes,ASL,3 weeks ago,30.0,94,1.0,3 WEEKS AGO
+clerc_v03_0717,DELTA,117,yes,ASL,4 days,30.0,77,1.0,4 DAYS
+clerc_v03_0718,DELTA,118,yes,ASL,Fourth of July,30.0,103,1.0,FOURTH | J-U-L-Y
+clerc_v03_0719,DELTA,119,yes,ASL,5 dollars,30.0,73,1.0,5 | DOLLAR
+clerc_v03_0720,DELTA,120,yes,ASL,6 hours,30.0,86,1.0,6 HOURS
+clerc_v03_0721,DELTA,121,yes,ASL,6 weeks,30.0,102,1.0,6 WEEKS
+clerc_v03_0722,DELTA,122,yes,ASL,7 cents,30.0,68,1.0,7 | CENT
+clerc_v03_0723,DELTA,123,yes,ASL,7 minutes,30.0,79,1.0,7 MINUTES
+clerc_v03_0724,DELTA,124,yes,ASL,7 hours,30.0,88,1.0,7 HOURS
+clerc_v03_0725,DELTA,125,yes,ASL,8 months,30.0,76,1.0,8 MONTHS
+clerc_v03_0726,DELTA,126,yes,ASL,9 weeks,30.0,84,1.0,9 WEEKS
+clerc_v03_0727,DELTA,127,yes,ASL,12 cents,30.0,69,1.0,12 | CENT
+clerc_v03_0728,DELTA,128,yes,ASL,18 cents,30.0,97,1.0,18 | CENT
+clerc_v03_0729,DELTA,129,yes,ASL,20 cents,30.0,76,1.0,20 | CENT
+clerc_v03_0730,DELTA,130,yes,ASL,25 cents,30.0,81,1.0,25 | CENT
+clerc_v03_0731,DELTA,131,yes,ASL,2 years,30.0,88,1.0,2 | YEAR
+clerc_v03_0732,DELTA,132,yes,ASL,37 dollars,30.0,117,1.0,37 | DOLLAR
+clerc_v03_0733,DELTA,133,yes,ASL,5 cents,30.0,72,1.0,5 | CENT
+clerc_v03_0734,DELTA,134,yes,ASL,63 cents,30.0,79,1.0,63 | CENT
+clerc_v03_0735,DELTA,135,yes,ASL,All night,30.0,87,0.9885,ALL NIGHT
+clerc_v03_0736,DELTA,136,yes,ASL,How many aunts do you have?,30.0,112,1.0,HOW MANY | AUNT | YOU | HAVE
+clerc_v03_0737,DELTA,137,yes,ASL,Why is the baby crying?,30.0,133,1.0,BABY | CRY | WHY
+clerc_v03_0738,DELTA,138,yes,ASL,Is the bathroom available?,30.0,106,1.0,BATHROOM | FREE
+clerc_v03_0739,DELTA,139,yes,ASL,How many brothers do you have?,30.0,112,1.0,HOW MANY | BROTHER | YOU | HAVE
+clerc_v03_0740,DELTA,140,yes,ASL,How many brothers-in-law do you have?,30.0,166,1.0,HOW MANY | BROTHER | IN | LAW | YOU | HAVE
+clerc_v03_0741,DELTA,141,yes,ASL,Can you breathe?,30.0,102,1.0,CAN | YOU | BREATH
+clerc_v03_0742,DELTA,142,yes,ASL,Can you keep a secret?,30.0,85,1.0,CAN | YOU | SECRET
+clerc_v03_0743,DELTA,143,yes,ASL,How many children do you have?,30.0,112,1.0,HOW MANY | CHILD_NOSE | YOU | HAVE
+clerc_v03_0744,DELTA,144,yes,ASL,How many cousins do you have?,30.0,122,1.0,HOW MANY | COUSIN | YOU | HAVE
+clerc_v03_0745,DELTA,145,yes,ASL,Daddy loves you!,30.0,107,1.0,FATHER | LOVE | YOU
+clerc_v03_0746,DELTA,146,yes,ASL,Do you love Dad?,30.0,106,1.0,YOU | LOVE | FATHER
+clerc_v03_0747,DELTA,147,yes,ASL,Every afternoon,30.0,93,1.0,EVERY | AFTERNOON
+clerc_v03_0748,DELTA,148,yes,ASL,10 months,30.0,80,1.0,10 | MONTH
+clerc_v03_0749,DELTA,149,yes,ASL,The year 1985,30.0,135,1.0,THIS | YEAR | 1985
+clerc_v03_0750,DELTA,150,yes,ASL,2 weeks from now,30.0,87,1.0,2 WEEKS | THIS
+clerc_v03_0751,DELTA,151,yes,ASL,What is your excuse?,30.0,111,1.0,WHAT | YOUR | EXCUSE | WHAT
+clerc_v03_0752,DELTA,152,yes,ASL,I’m hearing,30.0,162,1.0,I | HEARING | I | HEARING
+clerc_v03_0753,DELTA,153,yes,ASL,The 3rd week of the month,30.0,104,1.0,THIRD | WEEK | THIS | MONTH
+clerc_v03_0754,DELTA,154,yes,ASL,7 years old,30.0,84,1.0,OLD | 7 YEARS OLD
+clerc_v03_0755,DELTA,155,yes,ASL,"Again,  what’s your name?",30.0,101,1.0,YOUR | NAME | AGAIN
+clerc_v03_0756,DELTA,156,yes,ASL,How far is the airport?,30.0,91,1.0,FAR | AIRPORT
+clerc_v03_0757,DELTA,157,yes,ASL,All day,30.0,84,1.0,ALL DAY
+clerc_v03_0758,DELTA,158,yes,ASL,Do you have any allergies?,30.0,89,1.0,YOU | HAVE | ALLERGIC
+clerc_v03_0759,DELTA,159,yes,ASL,All morning,30.0,100,0.95,ALL | MORNING
+clerc_v03_0760,DELTA,160,yes,ASL,Ask me,30.0,97,1.0,ASK ME
+clerc_v03_0761,DELTA,161,yes,ASL,Are you an ASL teacher?,30.0,113,1.0,YOU | SIGN LANGUAGE | TEACHER
+clerc_v03_0762,DELTA,162,yes,ASL,Do you like to play basketball?,30.0,130,1.0,YOU | LIKE | PLAY | BASKETBALL
+clerc_v03_0763,DELTA,163,yes,ASL,Be yourself,30.0,94,1.0,B-E | YOURSELF
+clerc_v03_0764,DELTA,164,yes,ASL,Black people,30.0,97,1.0,BLACK | PEOPLE
+clerc_v03_0765,DELTA,165,yes,ASL,Where does Bob sit?,30.0,148,1.0,WHERE | B-O-B | SEAT
+clerc_v03_0766,DELTA,166,yes,ASL,Why did the boss fire the worker?,30.0,134,1.0,WHY | BOSS | FIRE | POINTER_RIGHT
+clerc_v03_0767,DELTA,167,yes,ASL,Break up,30.0,104,1.0,BREAK UP_2 | BREAK UP_2
+clerc_v03_0768,DELTA,168,yes,ASL,Break in,30.0,77,1.0,BREAK | IN
+clerc_v03_0769,DELTA,169,yes,ASL,Bring it here,30.0,76,1.0,BRING IT HERE | HERE
+clerc_v03_0770,DELTA,170,yes,ASL,Brother-in-law,30.0,111,1.0,BROTHER_BOY | IN | LAW
+clerc_v03_0771,DELTA,171,yes,ASL,Call me,30.0,77,1.0,CALL ME | I
+clerc_v03_0772,DELTA,172,yes,ASL,Can you drive?,30.0,101,1.0,CAN | YOU | CAR
+clerc_v03_0773,DELTA,173,yes,ASL,Catch a ball,30.0,108,1.0,CATCH | BALL
+clerc_v03_0774,DELTA,174,yes,ASL,Character role,30.0,112,1.0,CHARACTER | ROLE
+clerc_v03_0775,DELTA,175,yes,ASL,Check in,30.0,85,1.0,CHECK | IN
+clerc_v03_0776,DELTA,176,yes,ASL,Do you have a scarf?,30.0,139,1.0,D-O | YOU | HAVE | SCARF
+clerc_v03_0777,DELTA,177,yes,ASL,Do you like to play chess?,30.0,141,1.0,D-O | YOU | LIKE | PLAY | CHESS
+clerc_v03_0778,DELTA,178,yes,ASL,Do you live in the city?,30.0,139,1.0,D-O | YOU | LIVE_L | IN | CITY
+clerc_v03_0779,DELTA,179,yes,ASL,Clean up,30.0,86,1.0,CLEAN | U-P
+clerc_v03_0780,DELTA,180,yes,ASL,"Come here,  please",30.0,102,1.0,COME HERE_FINGER | PLEASE
+clerc_v03_0781,DELTA,181,yes,ASL,Come to daddy,30.0,116,1.0,COME ME | TO | FATHER
+clerc_v03_0782,DELTA,182,yes,ASL,Contact me,30.0,102,1.0,CONTACT | I
+clerc_v03_0783,DELTA,183,yes,ASL,Copy me,30.0,96,1.0,COPY | I
+clerc_v03_0784,DELTA,184,yes,ASL,Deaf culture,30.0,139,1.0,DEAF | CULTURE
+clerc_v03_0785,DELTA,185,yes,ASL,Deaf event,30.0,119,1.0,DEAF | EVENT
+clerc_v03_0786,DELTA,186,yes,ASL,Deaf school,30.0,107,1.0,DEAF | SCHOOL
+clerc_v03_0787,DELTA,187,yes,ASL,Do you like to study English?,30.0,145,1.0,YOU | LIKE | STUDY | ENGLISH
+clerc_v03_0788,DELTA,188,yes,ASL,Every Friday,30.0,106,1.0,EVERY | FRIDAY
+clerc_v03_0789,DELTA,189,yes,ASL,Every Monday,30.0,113,1.0,EVERY | MONDAY
+clerc_v03_0790,DELTA,190,yes,ASL,Every month,30.0,94,1.0,EVERY | MONTH
+clerc_v03_0791,DELTA,191,yes,ASL,Every morning,30.0,97,1.0,EVERY | MORNING
+clerc_v03_0792,DELTA,192,yes,ASL,Every Saturday,30.0,120,1.0,EVERY | SATURDAY
+clerc_v03_0793,DELTA,193,yes,ASL,Every Sunday,30.0,89,1.0,EVERY | SUNDAY_HANDS
+clerc_v03_0794,DELTA,194,yes,ASL,Every Thursday,30.0,83,1.0,EVERY | THURSDAY_2
+clerc_v03_0795,DELTA,195,yes,ASL,Every Tuesday,30.0,82,1.0,EVERY | TUESDAY
+clerc_v03_0796,DELTA,196,yes,ASL,Every two years,30.0,86,1.0,EVERY_2 | 2 YEARS
+clerc_v03_0797,DELTA,197,yes,ASL,Every Wednesday,30.0,108,1.0,EVERY | WEDNESDAY
+clerc_v03_0798,DELTA,198,yes,ASL,Every week,30.0,82,1.0,WEEK
+clerc_v03_0799,DELTA,199,yes,ASL,100 percent,30.0,76,1.0,100 PERCENT
+clerc_v03_0800,DELTA,200,yes,ASL,106 degrees,30.0,100,1.0,106 | DEGREES
+clerc_v03_0801,ECHO,2,yes,ASL,Do you see?,30.0,59,1.0,YOU | SEE
+clerc_v03_0802,ECHO,3,yes,ASL,Are you tired?,30.0,67,1.0,YOU | TIRED | QUESTION
+clerc_v03_0803,ECHO,4,yes,ASL,Are you hungry?,30.0,77,1.0,YOU | HUNGRY | QUESTION
+clerc_v03_0804,ECHO,5,yes,ASL,Where do you live?,30.0,86,1.0,WHERE | YOU | LIVE_L
+clerc_v03_0805,ECHO,6,yes,ASL,Do you need to help?,30.0,73,1.0,YOU | NEED | HELP | QUESTION
+clerc_v03_0806,ECHO,7,yes,ASL,How old are you?,30.0,56,1.0,OLD | YOU
+clerc_v03_0807,ECHO,8,yes,ASL,How do you feel?,30.0,80,1.0,HOW | YOU | FEEL
+clerc_v03_0808,ECHO,9,yes,ASL,Thank you,30.0,68,1.0,THANK YOU
+clerc_v03_0809,ECHO,10,yes,ASL,I do not understand,30.0,60,1.0,I | DON'T | UNDERSTAND
+clerc_v03_0810,ECHO,11,yes,ASL,Hello,30.0,53,1.0,HELLO
+clerc_v03_0811,ECHO,12,yes,ASL,Nice to meet you,30.0,67,1.0,NICE | MEET | YOU
+clerc_v03_0812,ECHO,13,yes,ASL,Good morning,30.0,62,1.0,GOOD MORNING
+clerc_v03_0813,ECHO,14,yes,ASL,Good afternoon,30.0,63,1.0,GOOD AFTERNOON
+clerc_v03_0814,ECHO,15,yes,ASL,Good evening,30.0,59,1.0,GOOD EVENING
+clerc_v03_0815,ECHO,16,yes,ASL,Goodbye,30.0,58,1.0,GOOD BYE
+clerc_v03_0816,ECHO,17,yes,ASL,My name is ___,30.0,112,1.0,MY | NAME | M-E-I-G-A-N
+clerc_v03_0817,ECHO,18,yes,ASL,What is your name?,30.0,72,1.0,YOUR | NAME | WHAT
+clerc_v03_0818,ECHO,19,yes,ASL,Are you hurt?,30.0,68,1.0,YOU | HURT | QUESTION
+clerc_v03_0819,ECHO,20,yes,ASL,Where are you from?,30.0,75,1.0,YOU | FROM | WHERE
+clerc_v03_0820,ECHO,21,yes,ASL,Are you deaf?,30.0,62,1.0,YOU | DEAF | QUESTION
+clerc_v03_0821,ECHO,22,yes,ASL,Are you student?,30.0,69,1.0,YOU | STUDENT | QUESTION
+clerc_v03_0822,ECHO,23,yes,ASL,Who is your teacher ?,30.0,67,1.0,YOUR | TEACHER | WHO
+clerc_v03_0823,ECHO,24,yes,ASL,Do you have backpack?,30.0,74,1.0,YOU | HAVE | BACKPACK
+clerc_v03_0824,ECHO,25,yes,ASL,Where is the bathroom,30.0,73,1.0,BATHROOM | WHERE
+clerc_v03_0825,ECHO,26,yes,ASL,Are you crying?,30.0,67,1.0,YOU | CRY | QUESTION
+clerc_v03_0826,ECHO,27,yes,ASL,How are you?,30.0,69,1.0,HOW | YOU | QUESTION
+clerc_v03_0827,ECHO,28,yes,ASL,Are you cold?,30.0,65,1.0,YOU | COLD | QUESTION
+clerc_v03_0828,ECHO,29,yes,ASL,Are you finished?,30.0,55,1.0,YOU | FINISH | QUESTION
+clerc_v03_0829,ECHO,30,yes,ASL,Where is your bottle?,30.0,69,1.0,YOUR | BOTTLE | WHERE
+clerc_v03_0830,ECHO,31,yes,ASL,Where is your banana?,30.0,91,1.0,YOUR | BANANA | WHERE
+clerc_v03_0831,ECHO,32,yes,ASL,What time is it?,30.0,65,1.0,TIME | WHAT
+clerc_v03_0832,ECHO,33,yes,ASL,What happened?,30.0,60,1.0,WHAT | HAPPEN
+clerc_v03_0833,ECHO,34,yes,ASL,Are you happy?,30.0,71,1.0,YOU | HAPPY | QUESTION
+clerc_v03_0834,ECHO,35,yes,ASL,Where are you go?,30.0,79,1.0,YOU | OUTSIDE | WHERE | WHAT
+clerc_v03_0835,ECHO,36,yes,ASL,Why?,30.0,64,1.0,WHY
+clerc_v03_0836,ECHO,37,yes,ASL,How?,30.0,50,1.0,HOW
+clerc_v03_0837,ECHO,38,yes,ASL,When?,30.0,57,1.0,WHEN
+clerc_v03_0838,ECHO,39,yes,ASL,Are you alright?,30.0,59,1.0,YOU | ALRIGHT | QUESTION
+clerc_v03_0839,ECHO,40,yes,ASL,See you later,30.0,55,1.0,SEE | LATER
+clerc_v03_0840,ECHO,41,yes,ASL,Who?,30.0,51,1.0,WHO
+clerc_v03_0841,ECHO,42,yes,ASL,Which?,30.0,73,1.0,WHICH
+clerc_v03_0842,ECHO,43,yes,ASL,Where?,30.0,67,1.0,WHERE
+clerc_v03_0843,ECHO,44,yes,ASL,What?,30.0,66,1.0,WHAT
+clerc_v03_0844,ECHO,45,yes,ASL,Any help?,30.0,62,1.0,ANY | HELP
+clerc_v03_0845,ECHO,46,yes,ASL,No problem,30.0,61,1.0,NO | PROBLEM
+clerc_v03_0846,ECHO,47,yes,ASL,Really?,30.0,53,1.0,REALLY?
+clerc_v03_0847,ECHO,48,yes,ASL,Do you use ASL?,30.0,84,1.0,YOU | USE | A-S-L | QUESTION
+clerc_v03_0848,ECHO,49,yes,ASL,Do you like banana pie?,30.0,97,1.0,YOU | LIKE | BANANA | PIE | QUESTION
+clerc_v03_0849,ECHO,50,yes,ASL,Where is the cafeteria?,30.0,61,1.0,CAFETERIA | WHERE
+clerc_v03_0850,ECHO,51,yes,ASL,Are you a child?,30.0,66,1.0,YOU | CHILD | QUESTION
+clerc_v03_0851,ECHO,52,yes,ASL,Do you like coffee?,30.0,74,1.0,COFFEE | YOU | LIKE | QUESTION
+clerc_v03_0852,ECHO,53,yes,ASL,Do you want a pacifier?,30.0,60,1.0,YOU | WANT | PACIFIER_2
+clerc_v03_0853,ECHO,54,yes,ASL,Do you want a bottle?,30.0,82,1.0,YOU | WANT | BOTTLE | QUESTION
+clerc_v03_0854,ECHO,55,yes,ASL,Do you want a cracker?,30.0,82,1.0,YOU | WANT | CRACKER | QUESTION
+clerc_v03_0855,ECHO,56,yes,ASL,Do you want a drink?,30.0,93,1.0,YOU | WANT | DRINK | QUESTION
+clerc_v03_0856,ECHO,57,yes,ASL,Do you want milk?,30.0,86,1.0,YOU | WANT | MILK | QUESTION
+clerc_v03_0857,ECHO,58,yes,ASL,Do you want your mommy?,30.0,81,1.0,YOU | WANT | MOTHER | QUESTION
+clerc_v03_0858,ECHO,59,yes,ASL,Do you want more food?,30.0,90,1.0,YOU | WANT | MORE | EAT | QUESTION
+clerc_v03_0859,ECHO,60,yes,ASL,Do you want more?,30.0,79,1.0,YOU | WANT | MORE | QUESTION
+clerc_v03_0860,ECHO,61,yes,ASL,Do you mind?,30.0,53,1.0,YOU | MIND | QUESTION
+clerc_v03_0861,ECHO,62,yes,ASL,Are you feeling sick?,30.0,76,1.0,YOU | FEEL | SICK | QUESTION
+clerc_v03_0862,ECHO,63,yes,ASL,Who is she/he?,30.0,54,1.0,WHO | POINTER_LEFT
+clerc_v03_0863,ECHO,64,yes,ASL,"Hey, what’s your name?",30.0,83,1.0,HEY | YOUR | NAME | WHAT
+clerc_v03_0864,ECHO,65,yes,ASL,How many minutes?,30.0,82,1.0,MINUTE | HOW | MANY | QUESTION
+clerc_v03_0865,ECHO,66,yes,ASL,How many?,30.0,54,1.0,HOW | MANY | QUESTION
+clerc_v03_0866,ECHO,67,yes,ASL,How much?,30.0,59,1.0,HOW | MUCH | QUESTION
+clerc_v03_0867,ECHO,68,yes,ASL,Where are you hurt?,30.0,67,1.0,YOU | HURT | WHERE
+clerc_v03_0868,ECHO,69,yes,ASL,Need a bathroom?,30.0,65,1.0,NEED | BATHROOM | QUESTION
+clerc_v03_0869,ECHO,70,yes,ASL,Is she/he a student?,30.0,71,1.0,POINTER_LEFT | STUDENT | QUESTION
+clerc_v03_0870,ECHO,71,yes,ASL,Do you want to join?,30.0,68,1.0,YOU | WANT | JOIN | QUESTION
+clerc_v03_0871,ECHO,72,yes,ASL,What for?,30.0,58,1.0,WHAT | FOR | WHAT
+clerc_v03_0872,ECHO,73,yes,ASL,What kind?,30.0,142,1.0,WHAT | KIND | O-R | WHAT | KIND_2 | QUESTION
+clerc_v03_0873,ECHO,74,yes,ASL,What’s wrong?,30.0,58,1.0,WHAT | WRONG | QUESTION
+clerc_v03_0874,ECHO,75,yes,ASL,What are you afraid of?,30.0,61,1.0,YOU | AFRAID | WHAT
+clerc_v03_0875,ECHO,76,yes,ASL,Where were you born?,30.0,84,1.0,YOU | BORN | WHERE | QUESTION
+clerc_v03_0876,ECHO,77,yes,ASL,What do you collect?,30.0,85,1.0,YOU | COLLECT | WHAT | QUESTION
+clerc_v03_0877,ECHO,78,yes,ASL,How do you earn money?,30.0,88,1.0,YOU | EARN | MONEY | HOW | QUESTION
+clerc_v03_0878,ECHO,79,yes,ASL,What do you enjoy?,30.0,69,1.0,YOU | ENJOY | WHAT
+clerc_v03_0879,ECHO,80,yes,ASL,What exercise do you do?,30.0,93,1.0,WHAT | EXERCISE | YOU | DO_2 | QUESTION
+clerc_v03_0880,ECHO,81,yes,ASL,Are you feeling angry?,30.0,60,1.0,YOU | FEEL | ANGRY | QUESTION
+clerc_v03_0881,ECHO,82,yes,ASL,Why are you going to the dentist?,30.0,74,1.0,YOU | OUTSIDE | DENTIST | WHY
+clerc_v03_0882,ECHO,83,yes,ASL,Why are you going to the doctor?,30.0,75,1.0,YOU | OUTSIDE | DOCTOR | WHY
+clerc_v03_0883,ECHO,84,yes,ASL,When do you graduate?,30.0,79,1.0,YOU | GRADUATE | WHEN | QUESTION
+clerc_v03_0884,ECHO,85,yes,ASL,Do you have a baby?,30.0,66,1.0,YOU | HAVE | BABY | QUESTION
+clerc_v03_0885,ECHO,86,yes,ASL,Do you have a hammer?,30.0,81,1.0,YOU | HAVE | HAMMER | QUESTION
+clerc_v03_0886,ECHO,87,yes,ASL,Do you have an ID?,30.0,77,1.0,YOU | HAVE | I-D | QUESTION
+clerc_v03_0887,ECHO,88,yes,ASL,Do you have a sister?,30.0,62,1.0,YOU | HAVE | SISTER | QUESTION
+clerc_v03_0888,ECHO,89,yes,ASL,How tall are you?,30.0,80,1.0,YOU | TALL | HOW | QUESTION
+clerc_v03_0889,ECHO,90,yes,ASL,Do you know ASL?,30.0,66,1.0,YOU | KNOW | A-S-L | QUESTION
+clerc_v03_0890,ECHO,91,yes,ASL,Do you like to cook?,30.0,66,1.0,YOU | LIKE | COOK | QUESTION
+clerc_v03_0891,ECHO,92,yes,ASL,Do you like to dance?,30.0,72,1.0,YOU | LIKE | DANCE | QUESTION
+clerc_v03_0892,ECHO,93,yes,ASL,Do you like to fish?,30.0,83,1.0,YOU | LIKE | FISHING | QUESTION
+clerc_v03_0893,ECHO,94,yes,ASL,Do you like to learn sign language?,30.0,85,1.0,YOU | LIKE | LEARN | SIGN LANGUAGE_2 | QUESTION
+clerc_v03_0894,ECHO,95,yes,ASL,Do you like math?,30.0,88,1.0,YOU | LIKE | MATH | QUESTION
+clerc_v03_0895,ECHO,96,yes,ASL,Do you like meat?,30.0,75,1.0,YOU | LIKE | MEAT | QUESTION
+clerc_v03_0896,ECHO,97,yes,ASL,11 days,30.0,56,1.0,11 | DAY
+clerc_v03_0897,ECHO,98,yes,ASL,12 days,30.0,65,1.0,12 | DAY
+clerc_v03_0898,ECHO,99,yes,ASL,13 months,30.0,60,1.0,13 | MONTH
+clerc_v03_0899,ECHO,100,yes,ASL,14 hours,30.0,66,1.0,14 | HOUR
+clerc_v03_0900,ECHO,101,yes,ASL,14 seconds,30.0,57,1.0,14 | S-E-C
+clerc_v03_0901,ECHO,102,yes,ASL,15th century,30.0,67,1.0,15 | CENTURY
+clerc_v03_0902,ECHO,103,yes,ASL,16 inches,30.0,91,1.0,16 | I-N-C-H-E-S
+clerc_v03_0903,ECHO,104,yes,ASL,187 pounds,30.0,85,1.0,187 | POUND
+clerc_v03_0904,ECHO,105,yes,ASL,2 days ago,30.0,53,1.0,2 DAYS | BEFORE
+clerc_v03_0905,ECHO,106,yes,ASL,2011 years,30.0,70,1.0,2011 | YEAR
+clerc_v03_0906,ECHO,107,yes,ASL,21st century,30.0,63,1.0,21 | CENTURY
+clerc_v03_0907,ECHO,108,yes,ASL,27 pounds,30.0,64,1.0,27 | POUND
+clerc_v03_0908,ECHO,109,yes,ASL,3 days ago,30.0,77,1.0,3 DAYS | BEFORE
+clerc_v03_0909,ECHO,110,yes,ASL,3 dollars,30.0,109,1.0,3 DOLLARS | O-R | 3 | DOLLAR
+clerc_v03_0910,ECHO,111,yes,ASL,3 hours,30.0,57,1.0,3 HOURS
+clerc_v03_0911,ECHO,112,yes,ASL,3 years ago,30.0,139,1.0,3 | YEAR | BEFORE | O-R | 3 YEARS | BEFORE
+clerc_v03_0912,ECHO,113,yes,ASL,300 miles,30.0,78,1.0,300 | M-I-L-E-S
+clerc_v03_0913,ECHO,114,yes,ASL,3 a.m.,30.0,67,1.0,3_MORNING | A-M
+clerc_v03_0914,ECHO,115,yes,ASL,3 months ago,30.0,57,1.0,3 MONTHS | BEFORE
+clerc_v03_0915,ECHO,116,yes,ASL,3 weeks ago,30.0,55,1.0,3 WEEKS AGO
+clerc_v03_0916,ECHO,117,yes,ASL,4 days,30.0,66,1.0,4 | DAY
+clerc_v03_0917,ECHO,118,yes,ASL,Fourth of July,30.0,67,1.0,FOURTH | J-U-L-Y
+clerc_v03_0918,ECHO,119,yes,ASL,5 dollars,30.0,106,1.0,5 DOLLARS | O-R | 5 | DOLLAR
+clerc_v03_0919,ECHO,120,yes,ASL,6 hours,30.0,60,1.0,6 HOURS
+clerc_v03_0920,ECHO,121,yes,ASL,6 weeks,30.0,54,1.0,6 WEEKS
+clerc_v03_0921,ECHO,122,yes,ASL,7 cents,30.0,60,1.0,7 | CENT
+clerc_v03_0922,ECHO,123,yes,ASL,7 minutes,30.0,47,1.0,7 MINUTES
+clerc_v03_0923,ECHO,124,yes,ASL,7 hours,30.0,68,1.0,7 HOURS
+clerc_v03_0924,ECHO,125,yes,ASL,8 months,30.0,60,1.0,8 MONTHS
+clerc_v03_0925,ECHO,126,yes,ASL,9 weeks,30.0,71,1.0,9 WEEKS
+clerc_v03_0926,ECHO,127,yes,ASL,12 cents,30.0,73,1.0,12 | CENT
+clerc_v03_0927,ECHO,128,yes,ASL,18 cents,30.0,65,1.0,18 | CENT
+clerc_v03_0928,ECHO,129,yes,ASL,20 cents,30.0,78,1.0,20 | CENT
+clerc_v03_0929,ECHO,130,yes,ASL,25 cents,30.0,62,1.0,25 | CENT
+clerc_v03_0930,ECHO,131,yes,ASL,2 years,30.0,116,1.0,2 | YEAR | O-R | 2 | YEAR
+clerc_v03_0931,ECHO,132,yes,ASL,37 dollars,30.0,82,1.0,37 | DOLLAR
+clerc_v03_0932,ECHO,133,yes,ASL,5 cents,30.0,123,1.0,5 | CENT | O-R | 5 CENTS
+clerc_v03_0933,ECHO,134,yes,ASL,63 cents,30.0,77,1.0,63 | CENT
+clerc_v03_0934,ECHO,135,yes,ASL,All night,30.0,67,1.0,ALL | NIGHT
+clerc_v03_0935,ECHO,136,yes,ASL,How many aunts do you have?,30.0,95,1.0,YOU | HAVE | AUNT | HOW | MANY
+clerc_v03_0936,ECHO,137,yes,ASL,Why is the baby crying?,30.0,99,1.0,BABY | CRY | WHY
+clerc_v03_0937,ECHO,138,yes,ASL,Is the bathroom available?,30.0,70,1.0,BATHROOM | AVAILABLE | QUESTION
+clerc_v03_0938,ECHO,139,yes,ASL,How many brothers do you have?,30.0,118,1.0,YOU | HAVE | BROTHER | HOW | MANY | QUESTION
+clerc_v03_0939,ECHO,140,yes,ASL,How many brothers-in-law do you have?,30.0,146,1.0,YOU | HAVE | BROTHER | IN | LAW | HOW | MANY | QUESTION
+clerc_v03_0940,ECHO,141,yes,ASL,Can you breathe?,30.0,75,1.0,YOU | BREATH | CAN | QUESTION
+clerc_v03_0941,ECHO,142,yes,ASL,Can you keep a secret?,30.0,92,1.0,YOU | KEEP | SECRET | CAN | QUESTION
+clerc_v03_0942,ECHO,143,yes,ASL,How many children do you have?,30.0,110,1.0,YOU | HAVE | CHILDREN | HOW | MANY | QUESTION
+clerc_v03_0943,ECHO,144,yes,ASL,How many cousins do you have?,30.0,113,1.0,YOU | HAVE | COUSIN | HOW | MANY | QUESTION
+clerc_v03_0944,ECHO,145,yes,ASL,Daddy loves you!,30.0,153,1.0,FATHER | LOVE | YOU | O-R | FATHER | LOVE YOU
+clerc_v03_0945,ECHO,146,yes,ASL,Do you love Dad?,30.0,184,1.0,YOU | LOVE YOU | FATHER | O-R | YOU | LOVE | FATHER
+clerc_v03_0946,ECHO,147,yes,ASL,Every afternoon,30.0,55,1.0,EVERY | AFTERNOON
+clerc_v03_0947,ECHO,148,yes,ASL,10 months,30.0,53,1.0,10 | MONTH
+clerc_v03_0948,ECHO,149,yes,ASL,The year 1985,30.0,93,1.0,YEAR | 1985
+clerc_v03_0949,ECHO,150,yes,ASL,2 weeks from now,30.0,68,1.0,2 WEEKS | NEXT
+clerc_v03_0950,ECHO,151,yes,ASL,What is your excuse?,30.0,85,1.0,WHAT | YOUR | EXCUSE
+clerc_v03_0951,ECHO,152,yes,ASL,I’m hearing,30.0,73,1.0,I | HEARING
+clerc_v03_0952,ECHO,153,yes,ASL,The 3rd week of the month,30.0,177,1.0,MONTH | THIRD | WEEK | O-R | THE 3RD WEEK OF THE MONTH
+clerc_v03_0953,ECHO,154,yes,ASL,7 years old,30.0,59,1.0,OLD | 7 YEARS OLD
+clerc_v03_0954,ECHO,155,yes,ASL,"Again,  what’s your name?",30.0,82,1.0,AGAIN | YOUR | NAME | WHAT
+clerc_v03_0955,ECHO,156,yes,ASL,How far is the airport?,30.0,82,1.0,AIRPORT | FAR | HOW
+clerc_v03_0956,ECHO,157,yes,ASL,All day,30.0,57,1.0,ALL DAY
+clerc_v03_0957,ECHO,158,yes,ASL,Do you have any allergies?,30.0,75,1.0,YOU | HAVE | ALLERGIC | QUESTION
+clerc_v03_0958,ECHO,159,yes,ASL,All morning,30.0,53,1.0,ALL | ALL MORNING
+clerc_v03_0959,ECHO,160,yes,ASL,Ask me,30.0,47,1.0,ASK ME
+clerc_v03_0960,ECHO,161,yes,ASL,Are you an ASL teacher?,30.0,83,1.0,YOU | A-S-L | TEACHER | QUESTION
+clerc_v03_0961,ECHO,162,yes,ASL,Do you like to play basketball?,30.0,59,1.0,YOU | LIKE | PLAY | BASKETBALL
+clerc_v03_0962,ECHO,163,yes,ASL,Be yourself,30.0,52,1.0,B-E | YOURSELF
+clerc_v03_0963,ECHO,164,yes,ASL,Black people,30.0,60,1.0,BLACK | PEOPLE
+clerc_v03_0964,ECHO,165,yes,ASL,Where does Bob sit?,30.0,72,1.0,B-O-B | SEAT | WHERE
+clerc_v03_0965,ECHO,166,yes,ASL,Why did the boss fire the worker?,30.0,110,1.0,BOSS_2 | FIRE | WORKER | WHY
+clerc_v03_0966,ECHO,167,yes,ASL,Break up,30.0,57,1.0,BREAK UP_2
+clerc_v03_0967,ECHO,168,yes,ASL,Break in,30.0,56,1.0,BREAK | IN
+clerc_v03_0968,ECHO,169,yes,ASL,Bring it here,30.0,57,1.0,BRING ME | HERE
+clerc_v03_0969,ECHO,170,yes,ASL,Brother-in-law,30.0,92,1.0,BROTHER | IN | LAW
+clerc_v03_0970,ECHO,171,yes,ASL,Call me,30.0,47,1.0,CALL ME
+clerc_v03_0971,ECHO,172,yes,ASL,Can you drive?,30.0,80,1.0,YOU | CAR | CAN | QUESTION
+clerc_v03_0972,ECHO,173,yes,ASL,Catch a ball,30.0,68,1.0,CATCH A BALL
+clerc_v03_0973,ECHO,174,yes,ASL,Character role,30.0,69,1.0,CHARACTER | ROLE
+clerc_v03_0974,ECHO,175,yes,ASL,Check in,30.0,64,1.0,CHECK | IN
+clerc_v03_0975,ECHO,176,yes,ASL,Do you have a scarf?,30.0,74,1.0,YOU | HAVE | SCARF | QUESTION
+clerc_v03_0976,ECHO,177,yes,ASL,Do you like to play chess?,30.0,87,1.0,YOU | LIKE | PLAY | CHESS
+clerc_v03_0977,ECHO,178,yes,ASL,Do you live in the city?,30.0,89,1.0,YOU | LIVE_L | IN | CITY | QUESTION
+clerc_v03_0978,ECHO,179,yes,ASL,Clean up,30.0,66,1.0,CLEAN | U-P
+clerc_v03_0979,ECHO,180,yes,ASL,"Come here,  please",30.0,74,1.0,COME | HERE | PLEASE
+clerc_v03_0980,ECHO,181,yes,ASL,Come to daddy,30.0,60,1.0,COME ME | FATHER
+clerc_v03_0981,ECHO,182,yes,ASL,Contact me,30.0,56,1.0,CONTACT ME
+clerc_v03_0982,ECHO,183,yes,ASL,Copy me,30.0,53,1.0,COPY | I
+clerc_v03_0983,ECHO,184,yes,ASL,Deaf culture,30.0,73,1.0,DEAF | CULTURE
+clerc_v03_0984,ECHO,185,yes,ASL,Deaf event,30.0,70,1.0,DEAF | EVENT
+clerc_v03_0985,ECHO,186,yes,ASL,Deaf school,30.0,138,1.0,DEAF | SCHOOL | O-R | DEAF SCHOOL
+clerc_v03_0986,ECHO,187,yes,ASL,Do you like to study English?,30.0,95,1.0,YOU | LIKE | STUDY | ENGLISH | QUESTION
+clerc_v03_0987,ECHO,188,yes,ASL,Every Friday,30.0,66,1.0,EVERY | EVERY FRIDAY
+clerc_v03_0988,ECHO,189,yes,ASL,Every Monday,30.0,66,1.0,EVERY | EVERY MONDAY
+clerc_v03_0989,ECHO,190,yes,ASL,Every month,30.0,59,1.0,EVERY | MONTH
+clerc_v03_0990,ECHO,191,yes,ASL,Every morning,30.0,54,1.0,EVERY | MORNING
+clerc_v03_0991,ECHO,192,yes,ASL,Every Saturday,30.0,57,1.0,EVERY | EVERY SATURDAY
+clerc_v03_0992,ECHO,193,yes,ASL,Every Sunday,30.0,65,1.0,EVERY | EVERY SUNDAY
+clerc_v03_0993,ECHO,194,yes,ASL,Every Thursday,30.0,55,1.0,EVERY | EVERY THURSDAY
+clerc_v03_0994,ECHO,195,yes,ASL,Every Tuesday,30.0,59,1.0,EVERY | EVERY TUESDAY
+clerc_v03_0995,ECHO,196,yes,ASL,Every two years,30.0,117,1.0,EVERY | EVERY 2 YEAR | O-R | EVERY 2 YEARS
+clerc_v03_0996,ECHO,197,yes,ASL,Every Wednesday,30.0,59,1.0,EVERY | EVERY WEDNESDAY
+clerc_v03_0997,ECHO,198,yes,ASL,Every week,30.0,68,1.0,EVERY | WEEK
+clerc_v03_0998,ECHO,199,yes,ASL,100 percent,30.0,57,1.0,100 PERCENT
+clerc_v03_0999,ECHO,200,yes,ASL,106 degrees,30.0,86,1.0,106 | TEMPERATURE
+clerc_v03_1000,ECHO,201,yes,ASL,2 points,30.0,52,1.0,2 POINTS
+clerc_v03_1001,FOXTROT,1001,no,ASL,You need a password to access your account.,30.0,212,1.0,YOU | NEED | PASSWORD | TO | ACCESS | YOUR | ACCOUNT
+clerc_v03_1002,FOXTROT,1002,no,ASL,She worked hard to achieve her goal.,30.0,198,1.0,S-H-E | POINTER_LEFT | WORK | HARD | TO | ACHIEVE | HER | GOAL
+clerc_v03_1003,FOXTROT,1003,no,ASL,The travel agency booked our vacation.,30.0,139,1.0,TRAVEL | AGENCY | APPLY | OUR | HOLIDAY
+clerc_v03_1004,FOXTROT,1004,no,ASL,"After careful analysis, we got the results.",30.0,153,1.0,CAREFUL | ANALYZE | RESULT | COME
+clerc_v03_1005,FOXTROT,1005,no,ASL,I submitted my job application yesterday.,30.0,138,0.9928,YESTERDAY | I | SUBMIT | MY | WORK | VOLUNTEER
+clerc_v03_1006,FOXTROT,1006,no,ASL,Downtown is in the center of the city.,30.0,167,1.0,DOWNTOWN | REAL | MIDDLE | CITY
+clerc_v03_1007,FOXTROT,1007,no,ASL,What is your conclusion about this?,30.0,127,1.0,WHAT | YOUR | CONCLUSION | ABOUT | THIS | WHAT
+clerc_v03_1008,FOXTROT,1008,no,ASL,The storm caused a lot of damage.,30.0,152,1.0,STORM | BAD | CAUSE | LOT | DAMAGE
+clerc_v03_1009,FOXTROT,1009,no,ASL,Are you having any difficulty with this?,30.0,105,1.0,YOU | HAVE | ANY | DIFFICULT | QUESTION
+clerc_v03_1010,FOXTROT,1010,no,ASL,Can you show me the way to the bathroom?,30.0,66,1.0,WHERE | BATHROOM
+clerc_v03_1011,FOXTROT,1011,no,ASL,"The economy got bad, and life became hard.",30.0,119,1.0,TIME | THOUGH | WHY | ECONOMIC
+clerc_v03_1012,FOXTROT,1012,no,ASL,The economy affects everyone's job opportunities.,30.0,165,1.0,ECONOMIC | IMPACT | EVERYONE | WORK | OPPORTUNITY
+clerc_v03_1013,FOXTROT,1013,no,ASL,Good education gives you many opportunities.,30.0,144,1.0,GOOD | EDUCATION | OPEN | MANY | OPEN DOOR
+clerc_v03_1014,FOXTROT,1014,no,ASL,Your effort on this project is impressive.,30.0,161,1.0,IMPRESS | WITH | YOUR | EFFORT | IN | THIS | PROJECT
+clerc_v03_1015,FOXTROT,1015,no,ASL,I have no energy left after work.,30.0,124,1.0,AFTER | WORK | NOTHING | ENERGY | NO ENERGY
+clerc_v03_1016,FOXTROT,1016,no,ASL,Does something like that really exist?,30.0,98,1.0,ALWAYS | THAT | BEFORE | QUESTION
+clerc_v03_1017,FOXTROT,1017,no,ASL,I expect you to finish by Friday.,30.0,99,1.0,I | HOPE | YOU | FINISH | B-Y | FRIDAY
+clerc_v03_1018,FOXTROT,1018,no,ASL,This gym is really well equipped.,30.0,132,1.0,THIS | G-Y-M | HAVE | MANY | FACILITY
+clerc_v03_1019,FOXTROT,1019,no,ASL,Please file these documents in order.,30.0,88,1.0,PLEASE | FILE | IN | ORDER_FILE
+clerc_v03_1020,FOXTROT,1020,no,ASL,My foot hurts from walking so much.,30.0,153,1.0,MY | WALK | LOT | HURT | F-E-E-T
+clerc_v03_1021,FOXTROT,1021,no,ASL,Do you know any foreign languages?,30.0,110,1.0,KNOW | ANY | FOREIGN | LANGUAGE
+clerc_v03_1022,FOXTROT,1022,no,ASL,My income comes from working two jobs.,30.0,128,1.0,MY | INCOME | FROM | 2 | WORK
+clerc_v03_1023,FOXTROT,1023,no,ASL,Don't let others influence your decision.,30.0,119,1.0,DON'T | LET | OTHER | INFLUENCE | YOUR | DECIDE
+clerc_v03_1024,FOXTROT,1024,no,ASL,"For example, I like coffee but not tea.",30.0,142,1.0,FOR | INSTANCE | I | LIKE | COFFEE | DON'T | TEA
+clerc_v03_1025,FOXTROT,1025,no,ASL,She travels to many countries for business.,30.0,178,1.0,SHE | S-H-E | TRAVEL | MANY | COUNTRY | FOR | BUSINESS
+clerc_v03_1026,FOXTROT,1026,no,ASL,Is it legal to park here?,30.0,97,1.0,PARK | PARKING | HERE | QUESTION
+clerc_v03_1027,FOXTROT,1027,no,ASL,Don't lie to me about what happened.,30.0,134,1.0,DON'T | LIE | TO | I | ARGUMENT | HAPPEN
+clerc_v03_1028,FOXTROT,1028,no,ASL,A good manager keeps the team happy.,30.0,127,1.0,GOOD | MANAGER | KEEP | TEAM | HAPPY
+clerc_v03_1029,FOXTROT,1029,no,ASL,Let's go to the farmer's market Saturday.,30.0,147,1.0,COME HERE | GO | FARM | STORE | POINTER_LEFT | SATURDAY
+clerc_v03_1030,FOXTROT,1030,no,ASL,"I want a medium coffee, not large.",30.0,111,1.0,I | WANT | MEDIUM | COFFEE | DON'T | L
+clerc_v03_1031,FOXTROT,1031,no,ASL,Their house has all modern technology.,30.0,146,1.0,THEIR | HOUSE | HAVE | ALL | TECHNOLOGY
+clerc_v03_1032,FOXTROT,1032,no,ASL,I love spending time out in nature.,30.0,128,1.0,I | LOVE_FIST | TRAVEL_TIME | IN | NATURE
+clerc_v03_1033,FOXTROT,1033,no,ASL,She built a strong network of friends.,30.0,148,1.0,SHE | S-H-E | BUILD | STRONG | NETWORK | O-F | FRIEND
+clerc_v03_1034,FOXTROT,1034,no,ASL,"I don't like coffee, and I don't like tea.",30.0,141,1.0,I | DON'T | LIKE | COFFEE | SAME | DON'T | LIKE | TEA
+clerc_v03_1035,FOXTROT,1035,no,ASL,Do you prefer dancing or sports?,30.0,124,1.0,YOU | FAVORITE | DANCE | O-R | SPORT
+clerc_v03_1036,FOXTROT,1036,no,ASL,Do you enjoy shopping or cooking more?,30.0,159,1.0,WHICH | YOU | ENJOY | BUY_SHOPPING | O-R | COOK | MORE
+clerc_v03_1037,FOXTROT,1037,no,ASL,Big party or small gathering?,30.0,112,1.0,BIG | PARTY | O-R | SMALL | GATHERING
+clerc_v03_1038,FOXTROT,1038,no,ASL,Do you prefer working alone or with others?,30.0,127,1.0,YOU | FAVORITE | WORK | ALONE | O-R | WITH | OTHER
+clerc_v03_1039,FOXTROT,1039,no,ASL,Sweet snacks or salty snacks?,30.0,130,1.0,SWEET | SNACK | O-R | SALT | SNACK
+clerc_v03_1040,FOXTROT,1040,no,ASL,What's your favorite food?,30.0,94,1.0,WHAT | YOUR | FAVORITE | EAT
+clerc_v03_1041,FOXTROT,1041,no,ASL,Coffee or tea?,30.0,95,1.0,COFFEE | OR | TEA
+clerc_v03_1042,FOXTROT,1042,no,ASL,What sport interests you?,30.0,103,1.0,WHAT | SPORT | MOTIVATE | YOU
+clerc_v03_1043,FOXTROT,1043,no,ASL,What music do you like?,30.0,108,1.0,WHAT | MUSIC | YOU | LIKE
+clerc_v03_1044,FOXTROT,1044,no,ASL,Car or plane travel?,30.0,112,1.0,FAVORITE | CAR | OR | PLANE
+clerc_v03_1045,FOXTROT,1045,no,ASL,Where would you vacation?,30.0,97,1.0,WHERE | YOU | HOLIDAY
+clerc_v03_1046,FOXTROT,1046,no,ASL,Morning or evening person?,30.0,128,1.0,YOU | MORNING | OR | EVENING | PERSON_P
+clerc_v03_1047,FOXTROT,1047,no,ASL,What book did you enjoy?,30.0,128,1.0,WHAT | BOOK | YOU | ENJOY
+clerc_v03_1048,FOXTROT,1048,no,ASL,Which animal looks most beautiful?,30.0,132,1.0,WHICH | ANIMAL | REAL | MOST | BEAUTIFUL
+clerc_v03_1049,FOXTROT,1049,no,ASL,Cook at home or eat out?,30.0,146,1.0,COOK | HOME | O-R | EAT | OUTSIDE
+clerc_v03_1050,FOXTROT,1050,no,ASL,What hobby makes you happiest?,30.0,135,1.0,WHAT | MAKE | YOU | HAPPIEST
+clerc_v03_1051,FOXTROT,1051,no,ASL,How do you relax best?,30.0,112,1.0,HOW | YOU | RELAX | REST
+clerc_v03_1052,FOXTROT,1052,no,ASL,Do you prefer crowds or quiet time alone?,30.0,128,1.0,CROWD | O-R | QUIET | TIME | ALONE
+clerc_v03_1053,FOXTROT,1053,no,ASL,What's your favorite color?,30.0,90,1.0,WHAT | YOUR | FAVORITE | COLOR
+clerc_v03_1054,FOXTROT,1054,no,ASL,Mountains or beaches?,30.0,101,1.0,MOUNTAIN | WHICH | BEACH
+clerc_v03_1055,FOXTROT,1055,no,ASL,What weather do you like?,30.0,104,1.0,WHAT | WEATHER_W | YOU | LIKE
+clerc_v03_1056,FOXTROT,1056,no,ASL,"Which is your favorite: breakfast, lunch, or dinner?",30.0,164,1.0,BREAKFAST | LUNCH_L | DINNER_2 | FAVORITE | WHICH
+clerc_v03_1057,FOXTROT,1057,no,ASL,Movies or books?,30.0,96,1.0,MOVIE | WHICH | BOOK
+clerc_v03_1058,FOXTROT,1058,no,ASL,How do you like spending time?,30.0,101,1.0,HOW | YOU | LIKE | SPEND | YOUR | TIME
+clerc_v03_1059,FOXTROT,1059,no,ASL,"Art, music, or dance?",30.0,130,1.0,ART | MUSIC | WHICH | DANCE
+clerc_v03_1060,FOXTROT,1060,no,ASL,Sweet or salty food?,30.0,119,1.0,SWEET | O-R | SALT | EAT
+clerc_v03_1061,FOXTROT,1061,no,ASL,What clothes make you confident?,30.0,119,1.0,WHAT | CLOTHE | MAKE | YOU | TRUST
+clerc_v03_1062,FOXTROT,1062,no,ASL,Did the boss make an official announcement?,30.0,139,1.0,D-I-D | BOSS | MAKE | OFFICIAL | ANNOUNCE | QUESTION
+clerc_v03_1063,FOXTROT,1063,no,ASL,I see a pattern in her behavior.,30.0,125,1.0,I | SEE | PATTERN | IN | HER | BEHAVIOR
+clerc_v03_1064,FOXTROT,1064,no,ASL,His performance in the game was amazing.,30.0,128,1.0,HIS | PERFORMANCE | IN | GAME | GREAT
+clerc_v03_1065,FOXTROT,1065,no,ASL,You have real potential to be successful.,30.0,155,1.0,YOU | HAVE | REAL | POTENTIAL | TO | SUCCES
+clerc_v03_1066,FOXTROT,1066,no,ASL,She dresses professionally for work.,30.0,143,1.0,SHE | S-H-E | DRESS | PROFESSIONAL | FOR | WORK
+clerc_v03_1067,FOXTROT,1067,no,ASL,The company made a big profit last year.,30.0,143,1.0,THE | COMPANY | POINTER_LEFT | MAKE | BIG | PROFIT | BEFORE | YEAR
+clerc_v03_1068,FOXTROT,1068,no,ASL,What program are you watching right now?,30.0,95,1.0,WHAT | PROGRAM | YOU | SEE | NOW
+clerc_v03_1069,FOXTROT,1069,no,ASL,You need to protect your phone with a case.,30.0,141,1.0,YOU | NEED | PROTECT | YOUR | PHONE | WITH | C-A-S-E | CASE
+clerc_v03_1070,FOXTROT,1070,no,ASL,This is public property. Everyone can use it.,30.0,158,1.0,THIS | PUBLIC | PROPERTY | EVERYONE | CAN | USE | THIS
+clerc_v03_1071,FOXTROT,1071,no,ASL,Did you purchase anything at the store?,30.0,105,1.0,YOU | BUY | ANYTHING | STORE | QUESTION
+clerc_v03_1072,FOXTROT,1072,no,ASL,She says her mother is her best friend.,30.0,146,1.0,SHE | S-H-E | REFER | HER | MOTHER | BEST | FRIEND | HE_TWO
+clerc_v03_1073,FOXTROT,1073,no,ASL,This region gets a lot of snow in winter.,30.0,143,1.0,THIS | AREA | GET | LOT | SNOW | IN | WINTER_W
+clerc_v03_1074,FOXTROT,1074,no,ASL,Can you send me that report by tomorrow?,30.0,137,1.0,CAN | YOU | SEND | I | THAT | REPORT | B-Y | TOMORROW
+clerc_v03_1075,FOXTROT,1075,no,ASL,I'm still waiting for his response.,30.0,109,1.0,I | STILL | WAIT | FOR | HIS | RESPONSE
+clerc_v03_1076,FOXTROT,1076,no,ASL,He took responsibility for the mistake.,30.0,116,1.0,HE | H-E | TAKE | RESPONSIBLE | FOR | WRONG
+clerc_v03_1077,FOXTROT,1077,no,ASL,It might rain this weekend.,30.0,89,1.0,CAN | RAIN | THIS | WEEKEND_POINTER
+clerc_v03_1078,FOXTROT,1078,no,ASL,She studied science in college.,30.0,129,1.0,IN | COLLEGE | SHE | S-H-E | STUDY | CHEMICAL
+clerc_v03_1079,FOXTROT,1079,no,ASL,What was your score on the test?,30.0,64,1.0,HOW MANY | YOU | GET | ON | TEST
+clerc_v03_1080,FOXTROT,1080,no,ASL,We took a vacation by the sea.,30.0,96,1.0,WE | TAKE | HOLIDAY | B-Y | SEA
+clerc_v03_1081,FOXTROT,1081,no,ASL,You need a password for security.,30.0,85,1.0,YOU | NEED | PASSWORD | FOR | PROTECT
+clerc_v03_1082,FOXTROT,1082,no,ASL,I need to shop for groceries today.,30.0,72,1.0,I | NEED | SHOP | EAT | NOW
+clerc_v03_1083,FOXTROT,1083,no,ASL,That's a lot of money.,30.0,68,1.0,WOW | THAT | LOT | MONEY
+clerc_v03_1084,FOXTROT,1084,no,ASL,She has a beautiful smile.,30.0,86,0.9884,SHE | S-H-E | HAVE | BEAUTIFUL | SMILE
+clerc_v03_1085,FOXTROT,1085,no,ASL,Do you like social events?,30.0,85,1.0,YOU | LIKE | SOCIAL | EVENT_2 | QUESTION
+clerc_v03_1086,FOXTROT,1086,no,ASL,People help society every day.,30.0,80,1.0,PEOPLE | HELP | SOCIETY | EVERYDAY
+clerc_v03_1087,FOXTROT,1087,no,ASL,Somebody left the door open.,30.0,69,1.0,SOMEONE | LEAVE | OPEN DOOR
+clerc_v03_1088,FOXTROT,1088,no,ASL,That's my favorite song.,30.0,70,1.0,THAT | MY | FAVORITE | MUSIC
+clerc_v03_1089,FOXTROT,1089,no,ASL,He gave a speech at the wedding.,30.0,108,1.0,HE | H-E | GIVE | CONFERENCE | A-T | WEDDING
+clerc_v03_1090,FOXTROT,1090,no,ASL,The staff was very helpful.,30.0,90,1.0,STAFF | POINTER_LEFT | HELP
+clerc_v03_1091,FOXTROT,1091,no,ASL,That's the normal size.,30.0,76,1.0,THAT | STANDARD | SIZE
+clerc_v03_1092,FOXTROT,1092,no,ASL,Where do you live on this street?,30.0,112,1.0,THIS | STREET | POINTER_RIGHT | WHERE | LIVE_L
+clerc_v03_1093,FOXTROT,1093,no,ASL,The workers decided to strike.,30.0,98,1.0,THEY | WORKER | DECIDE | STRIKE
+clerc_v03_1094,FOXTROT,1094,no,ASL,He succeeded because he worked hard.,30.0,110,1.0,POINTER_LEFT | SUCCES | WHY | WORK | HARD
+clerc_v03_1095,FOXTROT,1095,no,ASL,He suffered a bad injury.,30.0,104,1.0,HE | H-E | GET | BAD | HURT
+clerc_v03_1096,FOXTROT,1096,no,ASL,What's your goal for this month?,30.0,109,1.0,THIS | MONTH | WHAT | YOUR | GOAL
+clerc_v03_1097,FOXTROT,1097,no,ASL,Can you complete this task today?,30.0,101,1.0,CAN | YOU | FINISH | THIS | COMPLETE | NOW | QUESTION
+clerc_v03_1098,FOXTROT,1098,no,ASL,What's on television tonight?,30.0,77,1.0,WHAT | ON | T-V | EVENING
+clerc_v03_1099,FOXTROT,1099,no,ASL,You need to watch your spending.,30.0,89,1.0,YOU | NEED | SEE | YOUR | SPEND
+clerc_v03_1100,FOXTROT,1100,no,ASL,The treatment helped him feel better.,30.0,89,1.0,TREATMENT | HELP HIM | FEEL | BEST
+clerc_v03_1101,FOXTROT,1101,no,ASL,Your instructions are unclear to me.,30.0,91,1.0,YOUR | INSTRUCTION | DON'T | CLEAR | TO | I
+clerc_v03_1102,FOXTROT,1102,no,ASL,That tool is very useful.,30.0,103,1.0,THAT | TOOL | VERY | USE | WOW
+clerc_v03_1103,FOXTROT,1103,no,ASL,They have a variety of flavors.,30.0,96,1.0,THEY | HAVE | VARIETY | FAVORITE
+clerc_v03_1104,FOXTROT,1104,no,ASL,Many different people came to the party.,30.0,109,1.0,MANY | VARIETY | PEOPLE | ATTEND | PARTY
+clerc_v03_1105,FOXTROT,1105,no,ASL,She lives in a small village.,30.0,104,1.0,SHE | S-H-E | LIVE | IN | SMALL | CITY
+clerc_v03_1106,FOXTROT,1106,no,ASL,Did you vote in the election?,30.0,64,1.0,D-I-D | YOU | VOTE | QUESTION
+clerc_v03_1107,FOXTROT,1107,no,ASL,We can do whatever you want.,30.0,74,1.0,WE | CAN | DO | ANYWAY | WANT
+clerc_v03_1108,FOXTROT,1108,no,ASL,I don't know if I should go or stay.,30.0,96,1.0,I | DON'T KNOW | I | STAY | OUTSIDE
+clerc_v03_1109,FOXTROT,1109,no,ASL,Don't abandon your friends like that.,30.0,102,1.0,DON'T | ABANDON | YOUR | FRIEND | THAT
+clerc_v03_1110,FOXTROT,1110,no,ASL,Have you ever traveled to another country?,30.0,102,1.0,YOU | TRAVEL | COUNTRY | BEFORE | QUESTION
+clerc_v03_1111,FOXTROT,1111,no,ASL,Everyone noticed you were absent.,30.0,77,1.0,EVERYONE | NOTICE | YOU | ABSENCE
+clerc_v03_1112,FOXTROT,1112,no,ASL,That's absolutely right.,30.0,55,1.0,CAN | RIGHT
+clerc_v03_1113,FOXTROT,1113,no,ASL,Nobody should abuse anyone.,30.0,97,1.0,NOTHING | 1 | NEED | ABUSE | ANYONE
+clerc_v03_1114,FOXTROT,1114,no,ASL,He's doing well in his school classes.,30.0,127,1.0,HE | H-E | DO | GOOD | IN | HIS | SCHOOL | CLASS
+clerc_v03_1115,FOXTROT,1115,no,ASL,We found rooms for the guests to stay.,30.0,157,1.0,WE | FIND | ROOM | FOR | VISITOR | TO | STAY
+clerc_v03_1116,FOXTROT,1116,no,ASL,Graduating was a big achievement for her.,30.0,132,1.0,GRADUATE | WOW | BIG | ACHIEVE | FOR | HER
+clerc_v03_1117,FOXTROT,1117,no,ASL,You need to admit the mistake.,30.0,111,1.0,YOU | NEED | ACKNOWLEDGE | T-H-E | WRONG
+clerc_v03_1118,FOXTROT,1118,no,ASL,Do you need any additional help with that?,30.0,138,1.0,YOU | NEED | ANY | ADD | HELP | WITH | THAT
+clerc_v03_1119,FOXTROT,1119,no,ASL,The school leaders made a new rule.,30.0,120,1.0,SCHOOL | LEAD | THEY | MAKE | NEW | RULE
+clerc_v03_1120,FOXTROT,1120,no,ASL,They want to adopt a dog from the shelter.,30.0,181,1.0,THEY | WANT | ADOPT | DOG | FROM | S-H-E-L-T-E-R
+clerc_v03_1121,FOXTROT,1121,no,ASL,She decided to advertise her business online.,30.0,140,1.0,SHE | S-H-E | DECIDE | ADVERTISE | HER | BUSINESS | ON | LINE
+clerc_v03_1122,FOXTROT,1122,no,ASL,I saw that advertisement during the game.,30.0,104,1.0,I | SEE | THAT | ADVERTISE | DURING | GAME
+clerc_v03_1123,FOXTROT,1123,no,ASL,The airplane landed safely this morning.,30.0,114,1.0,PLANE | LAND_AIRPLANE | SAFE | THIS | MORNING
+clerc_v03_1124,FOXTROT,1124,no,ASL,What can I have instead of ice cream?,30.0,120,1.0,WHAT | CAN | I | HAVE | ALTERNATIVE | ICE CREAM | WHAT
+clerc_v03_1125,FOXTROT,1125,no,ASL,People discovered those ancient ruins long ago.,30.0,125,1.0,BEFORE | PEOPLE | FIND | THEY | OLD | THING
+clerc_v03_1126,FOXTROT,1126,no,ASL,We have an annual picnic every summer.,30.0,121,1.0,EVERY | SUMMER | WE | HAVE | EVERY YEAR | PICNIC
+clerc_v03_1127,FOXTROT,1127,no,ASL,Did anybody see my keys?,30.0,79,1.0,ANYONE | SEE | MY | KEY | QUESTION
+clerc_v03_1128,FOXTROT,1128,no,ASL,They say it will rain tomorrow.,30.0,92,1.0,THEY | SAY | FUTURE | RAIN | TOMORROW
+clerc_v03_1129,FOXTROT,1129,no,ASL,That restaurant really attracts me.,30.0,108,1.0,THAT | RESTAURANT | REAL | APPEAL | I
+clerc_v03_1130,FOXTROT,1130,no,ASL,They chose him as the new manager.,30.0,113,1.0,THEY | SELECT | POINTER_RIGHT | AS | NEW | MANAGER
+clerc_v03_1131,FOXTROT,1131,no,ASL,Is this outfit right for work?,30.0,99,1.0,OUTFIT | RIGHT | FOR | WORK
+clerc_v03_1132,FOXTROT,1132,no,ASL,Did your parents approve of your plan?,30.0,113,1.0,YOUR | PARENT | APPROVAL | YOUR | PLAN | QUESTION
+clerc_v03_1133,FOXTROT,1133,no,ASL,That artist painted a beautiful portrait.,30.0,130,1.0,THAT | ARTIST | PAINT | BEAUTIFUL | PORTRAIT
+clerc_v03_1134,FOXTROT,1134,no,ASL,The doctor will examine your injury.,30.0,109,1.0,DOCTOR | FUTURE | RESEARCH | YOUR | HURT
+clerc_v03_1135,FOXTROT,1135,no,ASL,The test showed her scores improved.,30.0,101,1.0,TEST | SHOW | HER | SCORE | IMPROVE
+clerc_v03_1136,FOXTROT,1136,no,ASL,His experience really helps the team.,30.0,109,1.0,HIS | EXPERIENCE | REAL | HELP | TEAM
+clerc_v03_1137,FOXTROT,1137,no,ASL,The assistant helped me find the right size.,30.0,118,1.0,ASSISTANT | HELP ME | FIND | RIGHT | SIZE
+clerc_v03_1138,FOXTROT,1138,no,ASL,"Last month, she joined the neighborhood group.",30.0,120,1.0,BEFORE | MONTH | SHE | JOIN | NEIGHBOURHOOD | AREA | GROUP
+clerc_v03_1139,FOXTROT,1139,no,ASL,The restaurant has a really nice atmosphere.,30.0,104,1.0,POINTER_LEFT | RESTAURANT | HAVE | NICE | ATMOSPHERE
+clerc_v03_1140,FOXTROT,1140,no,ASL,Please attach the file to your email.,30.0,92,1.0,PLEASE | ATTACH | FILE | TO | YOUR | EMAIL
+clerc_v03_1141,FOXTROT,1141,no,ASL,That's an attractive dress you're wearing.,30.0,79,1.0,THAT | DRESS | POINTER_LEFT | ATTRACT
+clerc_v03_1142,FOXTROT,1142,no,ASL,She won an award for her writing.,30.0,103,1.0,SHE | WIN | CUP_PRIZE | FOR | HER | WRITE
+clerc_v03_1143,FOXTROT,1143,no,ASL,Tell me about your background and experience.,30.0,112,1.0,TELL ME | ABOUT | YOUR | BACKGROUND | AND | EXPERIENCE
+clerc_v03_1144,FOXTROT,1144,no,ASL,Can you grab that bag from the car?,30.0,97,1.0,PLEASE | GRAB | BAG | FROM | CAR
+clerc_v03_1145,FOXTROT,1145,no,ASL,"The point is, we need to leave soon.",30.0,100,1.0,ANYWAY | POINT | WE | NEED | LEAVE | SHORT
+clerc_v03_1146,FOXTROT,1146,no,ASL,Staying organized is a constant struggle for me.,30.0,98,1.0,I | STAY | DIFFICULT | STAY | PLAN
+clerc_v03_1147,FOXTROT,1147,no,ASL,"Anyway, nobody else wanted to go.",30.0,95,1.0,NOTHING | ANY | WANT | OUTSIDE | ANYWAY
+clerc_v03_1148,FOXTROT,1148,no,ASL,I bet you forgot about the meeting.,30.0,100,0.99,I | BET | YOU | FORGET | ABOUT | MEETING
+clerc_v03_1149,FOXTROT,1149,no,ASL,Use rope to tie those boxes together.,30.0,116,1.0,USE | ROPE | TO | TO TIE | THOSE | BOX | TOGETHER
+clerc_v03_1150,FOXTROT,1150,no,ASL,When was your birth date again?,30.0,72,1.0,YOUR | BIRTHDAY | AGAIN
+clerc_v03_1151,FOXTROT,1151,no,ASL,That movie failed badly in theaters.,30.0,136,1.0,THAT | MOVIE | FAIL | IN | THEATER
+clerc_v03_1152,FOXTROT,1152,no,ASL,The border between the two countries is closed.,30.0,102,1.0,2 | COUNTRY | THEY | LINE | CLOSE
+clerc_v03_1153,FOXTROT,1153,no,ASL,Does that bank have an office near here?,30.0,108,1.0,CURIOUS | THAT | B-A-N-K | HAVE | OFFICE | NEAR | AREA
+clerc_v03_1154,FOXTROT,1154,no,ASL,Would you like chicken breast or thighs?,30.0,120,1.0,YOU | LIKE | CHICKEN | BREAST | O-R | THIGH
+clerc_v03_1155,FOXTROT,1155,no,ASL,They have a broad selection of colors.,30.0,128,1.0,THEY | HAVE | BOARD SELECTION | COLOR | SELECT
+clerc_v03_1156,FOXTROT,1156,no,ASL,The stadium can hold fifty thousand people.,30.0,158,1.0,"POINTER_LEFT | STADIUM_2 | COMPETITION | CAN | HOLD | 50,000 | PEOPLE"
+clerc_v03_1157,FOXTROT,1157,no,ASL,Put a chain on that gate.,30.0,79,1.0,GATE | PUT | CHAIN
+clerc_v03_1158,FOXTROT,1158,no,ASL,The chairman spoke at the meeting yesterday.,30.0,113,1.0,CHAIRMAN | SPEAK | A-T | MEETING | YESTERDAY
+clerc_v03_1159,FOXTROT,1159,no,ASL,Read chapter three for your homework.,30.0,104,1.0,READ | CHAPTER | 3 | FOR | YOUR | HOMEWORK
+clerc_v03_1160,FOXTROT,1160,no,ASL,Honesty is an important quality to have.,30.0,129,1.0,HONEST | IMPORTANT | QUALITY | TO | HAVE
+clerc_v03_1161,FOXTROT,1161,no,ASL,Look at this chart showing the sales numbers.,30.0,118,1.0,LOOK | CHART | SHOW | SELL | NUMBER
+clerc_v03_1162,FOXTROT,1162,no,ASL,Let's sit in a circle.,30.0,72,1.0,LET | SEAT_CIRCLE
+clerc_v03_1163,FOXTROT,1163,no,ASL,"Because of the situation, I can't work today.",30.0,103,1.0,SITUATION | I | CAN'T | WORK | NOW
+clerc_v03_1164,FOXTROT,1164,no,ASL,Please be polite when you talk to people.,30.0,129,1.0,PLEASE | B-E | POLITE | WHEN_2 | YOU | TALK | TO | PEOPLE
+clerc_v03_1165,FOXTROT,1165,no,ASL,That's a classic movie I love.,30.0,89,1.0,THAT | OLD | MOVIE | I | LOVE
+clerc_v03_1166,FOXTROT,1166,no,ASL,The climate here is really hot.,30.0,71,1.0,HERE | AREA | HOT
+clerc_v03_1167,FOXTROT,1167,no,ASL,My coach wants me to run faster.,30.0,108,1.0,MY | COACH | WANT | I | RUN | FAST
+clerc_v03_1168,FOXTROT,1168,no,ASL,We're going to the coast this summer.,30.0,135,1.0,WE | GO | TO | C-O-A-S-T | COAST | THIS | SUMMER
+clerc_v03_1169,FOXTROT,1169,no,ASL,Do you know the wifi code?,30.0,98,1.0,YOU | KNOW | W-I-F-I | SECRET | QUESTION
+clerc_v03_1170,FOXTROT,1170,no,ASL,My colleague is helping me with the project.,30.0,111,1.0,MY | COLLEAGUE | HELP ME | WITH | PROJECT
+clerc_v03_1171,FOXTROT,1171,no,ASL,She has a big collection of shoes.,30.0,106,1.0,SHE | HAVE | BIG | EARN | O-F | SHOE
+clerc_v03_1172,FOXTROT,1172,no,ASL,Look at the numbers in this column.,30.0,90,1.0,LOOK | NUMBER | THIS | COLUMN
+clerc_v03_1173,FOXTROT,1173,no,ASL,Follow my command right now.,30.0,68,1.0,LISTEN | I | NOW
+clerc_v03_1174,FOXTROT,1174,no,ASL,That commercial is on TV all the time.,30.0,117,1.0,THAT | ADVERTISE | AGAIN | T-V
+clerc_v03_1175,FOXTROT,1175,no,ASL,The store pays her a commission on sales.,30.0,144,1.0,STORE | PAY_2 | HER | COMMISSION | ON | SELL
+clerc_v03_1176,FOXTROT,1176,no,ASL,I promise to finish this by Friday.,30.0,97,1.0,I | PROMISE | FINISH | THIS | B-Y | FRIDAY
+clerc_v03_1177,FOXTROT,1177,no,ASL,Working here is a big commitment.,30.0,100,1.0,WORK | HERE | BIG | COMMIT
+clerc_v03_1178,FOXTROT,1178,no,ASL,This one is better than that one.,30.0,80,1.0,THAT | THIS | BEST | THAN | THIS
+clerc_v03_1179,FOXTROT,1179,no,ASL,We compete against the other team tomorrow.,30.0,90,1.0,WE | COMPETITION | AGAINST_2 | TOMORROW
+clerc_v03_1180,FOXTROT,1180,no,ASL,He's very competitive about sports.,30.0,104,1.0,HE | REAL | COMPETITION | ABOUT | SPORT
+clerc_v03_1181,FOXTROT,1181,no,ASL,I have a complaint about the service.,30.0,103,1.0,I | HAVE | COMPLAIN | ABOUT | SERVICE
+clerc_v03_1182,FOXTROT,1182,no,ASL,This problem is too complex for me.,30.0,83,1.0,THIS | PROBLEM | COMPLEX | FOR | I
+clerc_v03_1183,FOXTROT,1183,no,ASL,Don't complicate things so much.,30.0,75,1.0,DON'T | COMPLEX | THING
+clerc_v03_1184,FOXTROT,1184,no,ASL,That part in my phone is broken.,30.0,115,1.0,THAT | PART | THIS | IN | MY | PHONE | BREAK
+clerc_v03_1185,FOXTROT,1185,no,ASL,I need to concentrate on my homework.,30.0,101,1.0,I | NEED | CONCENTRATE | ON | MY | HOMEWORK
+clerc_v03_1186,FOXTROT,1186,no,ASL,It's hard to concentrate when it's noisy.,30.0,117,1.0,HARD | TO | CONCENTRATE | WHEN_2 | NOISY
+clerc_v03_1187,FOXTROT,1187,no,ASL,Do you want to go to the concert?,30.0,122,1.0,YOU | WANT | GO | CONCERT | QUESTION
+clerc_v03_1188,FOXTROT,1188,no,ASL,I've decided we should stop now.,30.0,113,1.0,I | DECIDE | WE_TWO | NEED | STOP | NOW
+clerc_v03_1189,FOXTROT,1189,no,ASL,Behave respectfully.,30.0,72,1.0,BEHAVIOR | RIGHT
+clerc_v03_1190,FOXTROT,1190,no,ASL,I have confidence you can do it.,30.0,86,1.0,I | TRUST | YOU | CAN | DO | I-T
+clerc_v03_1191,FOXTROT,1191,no,ASL,Can you confirm you got my email?,30.0,96,1.0,MY | PROMISE | TRUST | MY | EMAIL
+clerc_v03_1192,FOXTROT,1192,no,ASL,Don't confuse me with all these questions.,30.0,122,1.0,DON'T | CONFUSE | I | WITH | ALL | QUESTIONS
+clerc_v03_1193,FOXTROT,1193,no,ASL,We have a good connection between us.,30.0,82,1.0,WE_TWO | HAVE | GOOD | CONNECT
+clerc_v03_1194,FOXTROT,1194,no,ASL,That's really a lot of money.,30.0,77,1.0,THAT | LOT | MONEY
+clerc_v03_1195,FOXTROT,1195,no,ASL,We should think about other people's feelings.,30.0,103,1.0,WE_TWO | NEED | THINK | ABOUT | OTHER | PEOPLE | FEEL
+clerc_v03_1196,FOXTROT,1196,no,ASL,The meal has rice and vegetables.,30.0,129,1.0,EAT | DISH | HAVE | R-I-C-E | AND | VEGETABLE
+clerc_v03_1197,FOXTROT,1197,no,ASL,That noise is constant all day long.,30.0,122,1.0,THIS | NOISY | STAY | ALL DAY
+clerc_v03_1198,FOXTROT,1198,no,ASL,Let's build a fort with blankets.,30.0,127,1.0,LET | MAKE | F-O-R-T | BLANKET | WITH
+clerc_v03_1199,FOXTROT,1199,no,ASL,The construction on that street is loud.,30.0,123,1.0,THIS | STREET | CONSTRUCTION | REAL | LOUD
+clerc_v03_1200,FOXTROT,1200,no,ASL,Buyers want cheaper prices.,30.0,99,1.0,BUYER | WANT | CHEAPER | PRICE

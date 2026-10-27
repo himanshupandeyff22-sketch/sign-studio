@@ -1,0 +1,82 @@
+{
+  "report": "imports\\continuous\\continuous-asl-010-dry.json",
+  "dryRun": true,
+  "counts": {
+    "added": 0,
+    "merged": 0,
+    "skipped": 0,
+    "conflicting": 0,
+    "rejected": 40,
+    "pending-review": 0
+  },
+  "conceptChanges": {
+    "added": [
+      "asl.research.source-gloss-unverified",
+      "asl.responsibility.source-gloss-unverified",
+      "asl.result.source-gloss-unverified",
+      "asl.rich.source-gloss-unverified",
+      "asl.rob.source-gloss-unverified",
+      "asl.rock.source-gloss-unverified",
+      "asl.rude.source-gloss-unverified",
+      "asl.ruin.source-gloss-unverified",
+      "asl.run.source-gloss-unverified",
+      "asl.save.source-gloss-unverified",
+      "asl.schedule.source-gloss-unverified",
+      "asl.scientist.source-gloss-unverified",
+      "asl.scold.source-gloss-unverified",
+      "asl.scream.source-gloss-unverified",
+      "asl.screwdriver.source-gloss-unverified",
+      "asl.secret.source-gloss-unverified",
+      "asl.secretary.source-gloss-unverified",
+      "asl.sell.source-gloss-unverified",
+      "asl.sensitive.source-gloss-unverified",
+      "asl.sequence.source-gloss-unverified",
+      "asl.serious.source-gloss-unverified",
+      "asl.sew.source-gloss-unverified",
+      "asl.shame.source-gloss-unverified",
+      "asl.shape.source-gloss-unverified",
+      "asl.shave.source-gloss-unverified",
+      "asl.sheep.source-gloss-unverified",
+      "asl.shelf.source-gloss-unverified",
+      "asl.shovel.source-gloss-unverified",
+      "asl.shrimp.source-gloss-unverified",
+      "asl.silly.source-gloss-unverified",
+      "asl.since.source-gloss-unverified",
+      "asl.sing.source-gloss-unverified",
+      "asl.situation.source-gloss-unverified",
+      "asl.ski.source-gloss-unverified",
+      "asl.skill.source-gloss-unverified",
+      "asl.skin.source-gloss-unverified",
+      "asl.smart.source-gloss-unverified",
+      "asl.smell.source-gloss-unverified",
+      "asl.smooth.source-gloss-unverified",
+      "asl.snake.source-gloss-unverified"
+    ],
+    "skipped": [],
+    "conflicting": []
+  },
+  "metadataChanges": {
+    "added": [],
+    "skipped": [],
+    "conflicting": []
+  },
+  "discoveryChanges": {
+    "added": 0,
+    "skipped": 0,
+    "conflicting": []
+  },
+  "pendingReview": [],
+  "before": {
+    "concepts": 657,
+    "aliases": 892,
+    "animations": 397,
+    "reviewedEnabledSigns": 0
+  },
+  "after": {
+    "concepts": 697,
+    "aliases": 932,
+    "animations": 397,
+    "reviewedEnabledSigns": 0
+  }
+}
+

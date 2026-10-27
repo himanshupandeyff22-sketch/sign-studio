@@ -1,0 +1,30 @@
+✔ API supports sessions, preferences, translations, history, export and input protection (940.083ms)
+✔ API queues 500-word multi-sentence input, persists all text, and permits repeated submissions (480.5348ms)
+✔ API excludes unreviewed motions by default and requires explicit research meanings (111.5794ms)
+✔ an unrecognized session cookie can be replaced and an existing session resumes (63.3236ms)
+✔ API restores complete vocabulary coverage and preferences after a backend restart (141.0162ms)
+✔ camera captures stable poses once and requires neutral release/cooldown before repeat (7.3219ms)
+✔ unknown, weak, conflicting and cropped hands never become a confirmed word (1.3501ms)
+✔ seven pose classes remain five opt-in illustrations plus two explicit controls, not seven ASL words (21.2154ms)
+✔ camera worker bounds frame size, rejects concurrent frames and releases pending work on stop (10.3692ms)
+✔ camera history preserves original confirmation and score without claiming a new capture (3.1243ms)
+✔ new expansion adds only distinct inspection recordings and preserves every earlier record and file (8003.2689ms)
+✔ repeat batch adds no assets, concepts, aliases, provenance or eligibility (236.0491ms)
+✔ clear contextual transpositions preserve original spans and can be undone (55.1558ms)
+✔ unknown valid words, names, digits and negation are never aggressively corrected (33.9453ms)
+✔ equivalent English candidate aliases share one concept but require ASL mapping review (13.6115ms)
+✔ declared names cannot bypass interpretation through the raw vocabulary matcher (26.8749ms)
+✔ financial and river bank senses remain distinct; uncertain context asks per occurrence (16.3066ms)
+✔ light/right senses and multiword meanings resolve before single-word matches (16.1901ms)
+✔ negated clauses are held rather than rendered as positive HELP (24.3275ms)
+✔ unreviewed complete expressions never become a vaguely similar lexical sign (11.4341ms)
+✔ 500 words retain exact original and interpreted punctuation, positions and concept decisions (145.6782ms)
+✔ new motions are inspection-only and cannot be enabled by spelling/meaning matches or client flags (36.2154ms)
+ℹ tests 22
+ℹ suites 0
+ℹ pass 22
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 8869.1271

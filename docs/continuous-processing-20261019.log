@@ -1,0 +1,10 @@
+continuous-asl-005: 0 added, 0 repeat-skipped; 397 total motions.
+continuous-asl-006: 0 added, 0 repeat-skipped; 397 total motions.
+continuous-asl-007: 0 added, 0 repeat-skipped; 397 total motions.
+continuous-asl-008: 0 added, 0 repeat-skipped; 397 total motions.
+continuous-asl-009: 0 added, 0 repeat-skipped; 397 total motions.
+continuous-asl-010: 0 added, 0 repeat-skipped; 397 total motions.
+continuous-asl-011: 0 added, 0 repeat-skipped; 397 total motions.
+continuous-asl-012: 0 added, 0 repeat-skipped; 397 total motions.
+continuous-asl-013: 0 added, 0 repeat-skipped; 397 total motions.
+{"counts":{"added":120,"static-no-motion":203,"registered-recovered":40,"rejected":332,"technical-rejected":6},"pending":0,"registeredMotions":397,"resume":"node scripts/expand-library.mjs --resume"}

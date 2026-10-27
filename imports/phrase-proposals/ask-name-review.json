@@ -1,0 +1,26 @@
+{
+  "schema": "asl-phrase-review-proposal/1",
+  "id": "asl.template.ask-name",
+  "signLanguage": "ASL",
+  "englishPatterns": ["what is your name", "what's your name"],
+  "intendedSense": "asking the present addressee their personal name",
+  "referenceURL": "https://www.lifeprint.com/asl101/pages-signs/n/name.htm",
+  "referenceOnlyOutline": [
+    "ASLU documents NAME with question nonmanuals, including variants with addressee indexing.",
+    "Select one signer-reviewed realization; this list does not prescribe an animation sequence."
+  ],
+  "requiredMeaningDistinction": "A name question is distinct from stating a name or asking whether someone has a particular name. NAME noun/verb and question variants must not be silently collapsed.",
+  "candidateInspectionAssets": ["3dlex-you"],
+  "existingConceptIds": ["asl.name.personal-label", "asl.person.second-person"],
+  "enabledAnimationIds": [],
+  "translationEligible": false,
+  "status": "pending-source-and-phrase-review",
+  "linguisticReview": {"status": "pending", "reviewer": null, "date": null},
+  "remaining": [
+    "Obtain a permitted compatible NAME motion; the previous NAME payload had no usable animation.",
+    "Review the complete question's furrowed eyebrows, head inclination, gaze and addressee direction together.",
+    "Verify NAME handshape, two-hand contact, movement count and placement on Aarav against the selected variant.",
+    "Review the exact source and retargeted complete phrase, transitions and English intent before activation."
+  ],
+  "notice": "Authored pending review proposal only; not a runtime template or import batch. Existing candidate assets are unverified inspection references. Reference media were not copied and reference access provides no animation reuse license."
+}

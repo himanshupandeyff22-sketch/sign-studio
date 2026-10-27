@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-20",
+  "method": "Browser UI automation and screenshots; local Node server; not a human ASL review",
+  "desktopCSSViewport": {"width":1366,"height":768,"horizontalOverflow":false,"playbackControlsBottom":629.43,"timelineBottom":723.71},
+  "mobileCSSViewport": {"width":390,"height":844,"horizontalOverflow":false},
+  "passed": ["research consent disabled holds output","explicit checkbox enables eligible research preview","You want water: review, queue, completion","Please drink water: review, queue, completion","Your teacher works today: WORK normalization, review, queue, completion","pause and resume","replay","stop retains queue","speed 1.5x and return to 1x","timeline seeking while paused","repeated form submissions","missing negation meaning holds whole message","LOVE sense selection","intentional motion HTTP 503 shows recovery","Retry selected motions recovers original capture and completes","fullscreen entry and exit","Reset Camera","Reset Preview preserves typed input and allows rebuilding","FAMILY and ALL two-hand preview framing","keyboard activation and visible focus","four capability labels with individual explanations"],
+  "unexpectedMainPageConsoleErrors": [],
+  "expectedFault": "Isolated in-memory QA server intentionally returned one HTTP 503 for 3dlex-love; no production assets were modified",
+  "screenshots": ["stabilized-desktop-20261020.png","stabilized-mobile-20261020.png"],
+  "unverified": ["physical microphone and camera","fluent ASL correctness","every animation frame of all suggested sentence plans","sustained real-device frame rates"]
+}

@@ -1,0 +1,33 @@
+{
+  "schema": "asl-phrase-review-proposal/1",
+  "id": "asl.template.request-water",
+  "signLanguage": "ASL",
+  "englishPatterns": ["water please", "i want water", "i need water"],
+  "intendedSense": "requesting liquid water for the speaker",
+  "referenceURL": "https://www.lifeprint.com/asl101/pages-signs/w/water.htm",
+  "additionalReferenceURLs": [
+    "https://www.lifeprint.com/asl101/pages-signs/w/want.htm",
+    "https://www.lifeprint.com/asl101/pages-signs/n/need.htm",
+    "https://www.lifeprint.com/asl101/pages-signs/p/please.htm"
+  ],
+  "referenceOnlyOutline": [
+    "Review the WATER component against its ASLU W-hand and mouth-location reference.",
+    "Distinguish desire, requirement and courtesy in the intended request.",
+    "These references establish component distinctions only. No exact complete request sequence was verified."
+  ],
+  "requiredMeaningDistinction": "WANT, NEED, a courteous request and a question about water are not interchangeable. DON'T-WANT changes motion/orientation and cannot use affirmative WANT. English 'please' does not establish a compulsory sign order or facial expression.",
+  "candidateInspectionAssets": ["3dlex-water", "3dlex-want", "3dlex-please"],
+  "existingConceptIds": ["asl.water.liquid", "asl.want.desire", "asl.need.requirement", "asl.please.courtesy"],
+  "enabledAnimationIds": [],
+  "translationEligible": false,
+  "status": "pending-source-and-phrase-review",
+  "linguisticReview": {"status": "pending", "reviewer": null, "date": null},
+  "remaining": [
+    "Have a fluent ASL reviewer choose and document a complete request realization and the permitted English intent variants; references did not establish that these patterns share one grammatical realization.",
+    "Obtain any missing assets required by that realization, including NEED if used; its prior source payload was static.",
+    "Inspect candidate WATER mouth placement and handshape, WANT orientation and movement, and PLEASE single-hand chest placement after retargeting.",
+    "Review nonmanual request expression, participant reference, sign order, transitions and timing on Aarav.",
+    "Keep negative requests out of this affirmative proposal; activation requires separate exact phrase and asset approval."
+  ],
+  "notice": "Authored pending review proposal only. Candidate IDs are a component inspection checklist, not an ordered playback queue. All components remain unverified; no new motions, grammatical template or reference media were imported."
+}

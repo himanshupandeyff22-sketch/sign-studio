@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-19",
+  "registeredFiles": 207,
+  "onDiskFiles": 207,
+  "uniqueRegisteredFiles": 207,
+  "technicallyPlayable": 207,
+  "aaravCompatible": 207,
+  "candidateConcepts": 268,
+  "textMappedConcepts": 4,
+  "textLinkedPreviews": 4,
+  "completeAvatarSentences": 0,
+  "sourceVideoReferences": 8,
+  "browserCheckedSourceVideos": 1,
+  "localSentenceVideos": 0,
+  "approvedSigns": 0,
+  "uniqueConcepts": 268,
+  "conceptsWithImportedMotion": 206,
+  "inspectionOnlyAssets": 203,
+  "catalogueEntries": 938,
+  "catalogueNotImported": 731,
+  "conceptsWithMultipleAssets": [
+    {
+      "id": "asl.bathroom.restroom",
+      "assets": [
+        "3dlex-bathroom",
+        "3dlex-toilet"
+      ]
+    }
+  ],
+  "meaning": "Counts describe candidates/technical compatibility, not linguistic correctness."
+}

@@ -1,0 +1,24 @@
+{
+  "language": "ASL",
+  "license": "CC-BY-4.0",
+  "archive": "https://osf.io/download/tcnhs/",
+  "datasetComponent": "https://osf.io/mqzyk/",
+  "revision": "tcnhs version 1, 2024-06-05",
+  "verifiedOn": "2026-10-19",
+  "sourceGeometryExcluded": true,
+  "primaryPublication": "https://aclanthology.org/2024.signlang-1.33/",
+  "evidence": [
+    {
+      "path": "imports/source-evidence/20261019/sapa-readme.txt",
+      "sha256": "cf48c0113c55f80f9305d33fb641871c601c09d01162d3dda30a61f50a907d6c"
+    },
+    {
+      "path": "imports/source-evidence/20261019/osf-asl-project.json",
+      "sha256": "e2917576c4d16e608d557e4887d9fa959d8c731bab374bb19c0c327fe3f80247"
+    },
+    {
+      "path": "imports/source-evidence/20261019/osf-asl-license.json",
+      "sha256": "32fb3d7b32be0843803f96424fe7739f69574481211a2d323e16f8da8536c635"
+    }
+  ]
+}

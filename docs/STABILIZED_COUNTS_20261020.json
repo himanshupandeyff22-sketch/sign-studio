@@ -1,0 +1,34 @@
+{
+  "checkedAt": "2026-10-20T09:22:59.219Z",
+  "counts": {
+    "expandedResearchTextConcepts": 725,
+    "expandedResearchTextMotions": 726,
+    "textUnavailableCaptures": 3,
+    "registeredFiles": 729,
+    "onDiskFiles": 729,
+    "uniqueRegisteredFiles": 729,
+    "technicallyPlayable": 729,
+    "aaravCompatible": 729,
+    "candidateConcepts": 789,
+    "uniqueMotionConcepts": 728,
+    "inspectionOnlyAssets": 725,
+    "catalogueEntries": 938,
+    "catalogueNotImported": 209,
+    "textMappedConcepts": 4,
+    "textLinkedPreviews": 4,
+    "completeAvatarSentences": 0,
+    "sourceVideoReferences": 8,
+    "browserCheckedSourceVideos": 1,
+    "localSentenceVideos": 0,
+    "approvedSigns": 0
+  },
+  "definitions": {
+    "uniqueMotionConcepts": "Distinct concept and sense IDs with a current hash-checked, Aarav-compatible capture. Multiple captures can represent one concept.",
+    "aaravCompatible": "Distinct motion captures with current file hashes and retained-rig technical evidence. Playback checks do not establish ASL correctness.",
+    "expandedResearchTextMotions": "Compatible captures eligible for explicit research text opt-in. Ambiguous meanings can still require a sense choice; unreviewed aliases are not automatically enabled.",
+    "expandedResearchTextConcepts": "Distinct concept and sense IDs reachable through research text mappings, including meanings requiring a choice.",
+    "approvedSigns": "Signs with recorded linguistic approval. Technical playback never grants this status.",
+    "textUnavailableCaptures": "Compatible captures excluded from expanded text mapping; available for inspection only."
+  },
+  "issues": []
+}

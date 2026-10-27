@@ -1,0 +1,82 @@
+{
+  "report": "imports\\continuous\\continuous-asl-019-dry.json",
+  "dryRun": true,
+  "counts": {
+    "added": 40,
+    "merged": 0,
+    "skipped": 0,
+    "conflicting": 0,
+    "rejected": 0,
+    "pending-review": 0
+  },
+  "conceptChanges": {
+    "added": [],
+    "skipped": [],
+    "conflicting": []
+  },
+  "metadataChanges": {
+    "added": [],
+    "skipped": [],
+    "conflicting": []
+  },
+  "discoveryChanges": {
+    "added": 0,
+    "skipped": 0,
+    "conflicting": []
+  },
+  "pendingReview": [
+    "3dlex-research",
+    "3dlex-responsibility",
+    "3dlex-result",
+    "3dlex-rich",
+    "3dlex-rob",
+    "3dlex-rock",
+    "3dlex-rude",
+    "3dlex-ruin",
+    "3dlex-run",
+    "3dlex-save",
+    "3dlex-schedule",
+    "3dlex-scientist",
+    "3dlex-scold",
+    "3dlex-scream",
+    "3dlex-screwdriver",
+    "3dlex-secret",
+    "3dlex-secretary",
+    "3dlex-sell",
+    "3dlex-sensitive",
+    "3dlex-sequence",
+    "3dlex-serious",
+    "3dlex-sew",
+    "3dlex-shame",
+    "3dlex-shape",
+    "3dlex-shave",
+    "3dlex-sheep",
+    "3dlex-shelf",
+    "3dlex-shovel",
+    "3dlex-shrimp",
+    "3dlex-silly",
+    "3dlex-since",
+    "3dlex-sing",
+    "3dlex-situation",
+    "3dlex-ski",
+    "3dlex-skill",
+    "3dlex-skin",
+    "3dlex-smart",
+    "3dlex-smell",
+    "3dlex-smooth",
+    "3dlex-snake"
+  ],
+  "before": {
+    "concepts": 789,
+    "aliases": 1024,
+    "animations": 597,
+    "reviewedEnabledSigns": 0
+  },
+  "after": {
+    "concepts": 789,
+    "aliases": 1024,
+    "animations": 637,
+    "reviewedEnabledSigns": 0
+  }
+}
+
