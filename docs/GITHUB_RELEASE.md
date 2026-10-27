@@ -45,8 +45,9 @@ See the technical design, test cases, validation record and third-party notices 
 - Clean `npm ci`: two dependencies installed; npm reported zero known vulnerabilities at that time. This is not a guarantee against future advisories.
 - `npm run check`: passed, including 72 JavaScript files, 238 unique UI IDs, required local assets and all 729 pinned runtime motion hashes.
 - `npm run test:quick`: 100 cases; 98 passed, zero failed, two optional source-payload cases skipped. See `RELEASE_QUICK_TEST_RESULTS_20261027.log`.
-- Fresh browser session on local port 3002: loaded Aarav, enabled explicit research consent, prepared YOU → WANT → WATER from “You want water.” and started actual queued playback.
+- Fresh browser session on local port 3002: loaded Aarav, enabled explicit research consent, prepared YOU → WANT → WATER from “You want water.” started actual queued playback and observed completion at Water, 3/3 and 100%.
 - README, third-party notices and validation-record local Markdown links: no missing targets.
+- Additional current motion checks: both ASL file/retarget tests passed across the 729 registered motions (95.7 seconds); three focused avatar rig, cancellation/retry and bounded-transfer tests passed. See `RELEASE_MOTION_TEST_RESULTS_20261027.log`. These are technical checks only.
 - The previous frozen-build desktop/mobile and all-library framing evidence remains applicable because no avatar, animation, layout or retargeting implementation changed in this packaging pass. The long graphics suite, real camera/microphone tests, fluent-signer review and remote GitHub CI were not rerun in this packaging pass.
 
-The publication step requires an authenticated GitHub session and an existing destination repository. This local package does not itself establish that the remote repository exists.
+The public destination repository is https://github.com/himanshupandeyff22-sketch/sign-studio. Upload requires Git authentication; a local checkpoint and package do not establish that a remote push or CI run succeeded.
