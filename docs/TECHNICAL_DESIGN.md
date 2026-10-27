@@ -67,7 +67,7 @@ sequenceDiagram
     API->>DB: Save session-scoped result
     API-->>UI: Plan and review status
     alt Essential meaning missing
-        UI-->>Visitor: Explain limitation; hold entire message
+        UI-->>Visitor: Explain limitation and hold entire message
     else Eligible research sequence
         UI->>Player: Prepare only requested recordings
         Player-->>UI: Ready or recoverable asset error
