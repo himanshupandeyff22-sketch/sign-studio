@@ -62,7 +62,7 @@ npm ci
 npm start
 ```
 
-Open **http://127.0.0.1:3000/**. Keep the server terminal running; use Ctrl+C to stop it.
+Open **https://sign-studio.onrender.com**. Keep the server terminal running; use Ctrl+C to stop it.
 
 On Windows, after installing dependencies, you can double-click **start-studio.cmd** instead. The launcher checks Node/dependencies and detects an already-running Studio. With pnpm, use `pnpm install` and `pnpm start`.
 
