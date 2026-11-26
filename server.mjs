@@ -30,10 +30,14 @@ export async function createApplication({databasePath=path.join(root,'data','sig
   const server=http.createServer(async(req,res)=>{
     res.setHeader('X-Content-Type-Options','nosniff');res.setHeader('Referrer-Policy','same-origin');res.setHeader('X-Frame-Options','DENY');
     try{
-      const host=req.headers.host||'';if(!/^(localhost|127\.0\.0\.1|\[::1\])(:\d+)?$/.test(host))throw fail('This local server accepts localhost requests only.',403);
+      // Local development remains available, while Render and other public
+      // deployments can receive requests through their assigned hostname.
+      const host=req.headers.host||'';
+      if(!host)throw fail('Missing Host header.',400);
       const url=new URL(req.url,`http://${host}`),route=url.pathname;
       if(route.startsWith('/api/')){
-        if(req.headers.origin&&req.headers.origin!==`http://${host}`)throw fail('Cross-origin API requests are not allowed.',403);
+        const origin=req.headers.origin;
+        if(origin&&origin!==`http://${host}`&&origin!==`https://${host}`)throw fail('Cross-origin API requests are not allowed.',403);
         const key=req.socket.remoteAddress||'local',now=Date.now();
         if(limits.size>1000)for(const[k,v]of limits)if(now-v.start>60000)limits.delete(k);
         let limit=limits.get(key);if(!limit||now-limit.start>60000){limit={start:now,count:0};limits.set(key,limit);}
@@ -85,7 +89,7 @@ export async function createApplication({databasePath=path.join(root,'data','sig
   return {server,store,async close(){await new Promise(resolve=>{server.close(resolve);server.closeIdleConnections();});store.close();}};
 }
 if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.url)){
-  const app=await createApplication();const port=Number(process.env.SIGN_PORT||3000);
+  const app=await createApplication();const port=Number(process.env.PORT||process.env.SIGN_PORT||3000);
   app.server.once('error',async error=>{
     app.store.close();
     if(error.code==='EADDRINUSE'){
@@ -98,6 +102,6 @@ if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.ur
     }else console.error('Could not start Sign Studio:',error.message);
     process.exitCode=1;
   });
-  app.server.listen(port,'127.0.0.1',()=>console.log(`Sign Studio: http://127.0.0.1:${port} · SQLite backend ready`));
+  app.server.listen(port,'0.0.0.0',()=>console.log(`Sign Studio: listening on port ${port} · SQLite backend ready`));
   for(const signal of ['SIGINT','SIGTERM'])process.on(signal,async()=>{await app.close();process.exit(0);});
 }
