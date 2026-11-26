@@ -2,6 +2,8 @@ Sign Studio — Beyond Words
 
 **Digital inclusion through visible communication.** Sign Studio lets users enter English, review available meanings and play existing American Sign Language (ASL) motion captures using Aarav, an articulated 3D avatar.
 
+**Live Demo-** https://sign-studio.onrender.com/
+
 > ASL motion research prototype. Available word clips form approximate vocabulary sequences, not validated grammatical ASL sentence translations. Linguistically approved signs currently remain at zero.
 
 ## Developers
